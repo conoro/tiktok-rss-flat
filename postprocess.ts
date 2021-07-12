@@ -5,7 +5,11 @@ const pip_install = Deno.run({
 
 await pip_install.status();
 
+const playwright_install = Deno.run({
+  cmd: ['python', '-m', 'playwright', 'install'],
+});
 
+await playwright_install.status();
 
 // Forwards the execution to the python script
 const py_run = Deno.run({
