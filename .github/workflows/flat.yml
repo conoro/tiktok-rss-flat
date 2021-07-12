@@ -17,9 +17,7 @@ jobs:
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.x
-      - name: Fetch data
+      - name: Fetch RSS
         uses: githubocto/flat@v2
         with:
-          http_url: https://www.marathon.tokyo/en/news/
-          downloaded_filename: tokyo-marathon.html
           postprocess: postprocess.ts
