@@ -1,0 +1,25 @@
+name: Flat
+on:
+  push:
+    paths:
+      - .github/workflows/flat.yml
+      - postprocess.ts
+  workflow_dispatch: null
+  schedule:
+    - cron: 10 * * * *
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://www.marathon.tokyo/en/news/
+          downloaded_filename: tokyo-marathon.html
+          postprocess: postprocess.ts
