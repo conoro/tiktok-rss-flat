@@ -20,6 +20,6 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v2
         with:
-          http_url: 
-          downloaded_filename: 
+          http_url: https://validator.w3.org/feed/docs/rss2.html
+          downloaded_filename: rss2_spec.html
           postprocess: postprocess.ts
