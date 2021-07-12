@@ -1,5 +1,4 @@
 from TikTokApi import TikTokApi
-import json
 import csv
 from feedgen.feed import FeedGenerator
 
