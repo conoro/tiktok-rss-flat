@@ -18,7 +18,7 @@
     * TikTok User = iamtabithabrown
     * XML File = rss/iamtabithabrown.xml
     * Feedly Subscription URL = https://conoro.github.io/tiktok-rss-flat/rss/iamtabithabrown.xml
-
+    * (Or in my case where I've set a custom domain for the GitHub Pages project called tiktokrss.conoroneill.com, the URL is https://tiktokrss.conoroneill.com/rss/iamtabithabrown.xml)
 
 Logo created using several [Font Awesome](https://fontawesome.com/license/free) icons via CC BY 4.0 License
 

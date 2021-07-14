@@ -2,7 +2,11 @@ from TikTokApi import TikTokApi
 import csv
 from feedgen.feed import FeedGenerator
 
-ghPagesURL = "https://conoro.github.io/tiktok-rss-flat/"
+# Normal GitHub Pages URL
+# ghPagesURL = "https://conoro.github.io/tiktok-rss-flat/"
+
+# Custom Domain
+ghPagesURL = "https://tiktokrss.conoroneill.com/"
 
 api = TikTokApi.get_instance()
 
