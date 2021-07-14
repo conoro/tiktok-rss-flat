@@ -16,6 +16,8 @@
     * Feedly Subscription URL = https://cdn.jsdelivr.net/gh/conoro/tiktok-rss-flat/rss/iamtabithabrown.xml
 
 
+Logo created using several [Font Awesome](https://fontawesome.com/license/free) icons via CC BY 4.0 License
+
 Copyright Conor O'Neill, 2021 (conor@conoroneill.com)
 
 License Apache 2.0
