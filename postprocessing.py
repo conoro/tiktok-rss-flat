@@ -22,7 +22,7 @@ with open('subscriptions.csv') as f:
         fg.author( {'name':'Conor ONeill','email':'conor@conoroneill.com'} )
         fg.link( href='http://tiktok.com', rel='alternate' )
         fg.logo('https://cdn.jsdelivr.net/gh/conoro/tiktok-rss-flat/tiktok-rss.png')
-        fg.subtitle('OK Boomer, all the latest TikToks from' + user)
+        fg.subtitle('OK Boomer, all the latest TikToks from ' + user)
         fg.link( href='https://cdn.jsdelivr.net/gh/conoro/tiktok-rss-flat/rss/' + user + '.xml', rel='self' )
         fg.language('en')
 
