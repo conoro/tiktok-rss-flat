@@ -2,6 +2,7 @@ from TikTokApi import TikTokApi
 import csv
 from feedgen.feed import FeedGenerator
 
+ghPagesURL = "https://conoro.github.io/tiktok-rss-flat/"
 
 api = TikTokApi.get_instance()
 
@@ -21,9 +22,9 @@ with open('subscriptions.csv') as f:
         fg.title(user + ' TikTok')
         fg.author( {'name':'Conor ONeill','email':'conor@conoroneill.com'} )
         fg.link( href='http://tiktok.com', rel='alternate' )
-        fg.logo('https://cdn.jsdelivr.net/gh/conoro/tiktok-rss-flat/tiktok-rss.png')
+        fg.logo(ghPagesURL + '/tiktok-rss.png')
         fg.subtitle('OK Boomer, all the latest TikToks from ' + user)
-        fg.link( href='https://cdn.jsdelivr.net/gh/conoro/tiktok-rss-flat/rss/' + user + '.xml', rel='self' )
+        fg.link( href=ghPagesURL + 'rss/' + user + '.xml', rel='self' )
         fg.language('en')
 
         for tiktok in tiktoks:
