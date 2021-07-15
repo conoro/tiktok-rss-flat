@@ -1,3 +1,4 @@
+![TikTok RSS Logo](https://tiktokrss.conoroneill.com/favicon-32x32.png)
 # TikTok RSS Using GitHub OCTO Flat Data
 * Generate usable RSS feeds from TikTok using [GitHub OCTO Flat Data](https://octo.github.com/projects/flat-data), GitHub Actions and GitHub Pages.
 

@@ -1,6 +1,7 @@
 from TikTokApi import TikTokApi
 import csv
 from feedgen.feed import FeedGenerator
+from datetime import datetime, timezone
 
 # Normal GitHub Pages URL
 # ghPagesURL = "https://conoro.github.io/tiktok-rss-flat/"
@@ -35,6 +36,7 @@ with open('subscriptions.csv') as f:
             fe = fg.add_entry()
             link = "https://www.tiktok.com/@" + user + "/video/" + tiktok['id']
             fe.id(link)
+            fe.published(datetime.fromtimestamp(tiktok['createTime'], timezone.utc))
             fe.title(tiktok['desc'])
             fe.link(href=link)
             fe.description("<img src='" + tiktok['video']['originCover'] + "' />")
