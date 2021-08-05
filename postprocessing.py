@@ -20,7 +20,7 @@ with open('subscriptions.csv') as f:
 
         print (user)
 
-        tiktoks = api.byUsername(user, count=count)
+        tiktoks = api.by_username(user, count=count)
         
         fg = FeedGenerator()
         fg.id('https://www.tiktok.com/@' + user)
