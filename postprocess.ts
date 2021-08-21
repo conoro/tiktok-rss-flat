@@ -1,8 +1,8 @@
-const apt_update = Deno.run({
-  cmd: ['sudo', 'apt-get', 'update'],
-});
+//const apt_update = Deno.run({
+//  cmd: ['sudo', 'apt-get', 'update'],
+//});
 
-await apt_update.status();
+//await apt_update.status();
 
 const apt_install = Deno.run({
   cmd: ['sudo', 'apt-get', 'install', "libegl1", "libopus0", "libwoff1", "libharfbuzz-icu0", "gstreamer1.0-plugins-base", "libgstreamer-gl1.0-0", "gstreamer1.0-plugins-bad", "libopenjp2-7", "libwebpdemux2", "libenchant1c2a", "libhyphen0", "libgles2", "gstreamer1.0-libav", "libevdev-dev"],
