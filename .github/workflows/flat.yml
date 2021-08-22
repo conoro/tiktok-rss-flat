@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
+      - name: update apt
+        run: sudo apt-get update
       - name: Setup deno
         uses: denoland/setup-deno@main
         with:
