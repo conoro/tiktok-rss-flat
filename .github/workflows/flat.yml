@@ -1,26 +1,25 @@
 name: Flat
 on:
   push:
-    paths:
-      - .github/workflows/flat.yml
-      - postprocess.ts
-  workflow_dispatch: null
+    branches:
+      - main
+  workflow_dispatch:
   schedule:
-    - cron: 10 * * * *
+    - cron: '10 * * * *'
 jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.10.x
       - name: Check out repo
         uses: actions/checkout@v2
       - name: update apt
         run: sudo apt-get update
-      - name: Setup deno
-        uses: denoland/setup-deno@main
-        with:
-          deno-version: v1.x
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         with:
           http_url: https://validator.w3.org/feed/docs/rss2.html
           downloaded_filename: rss2_spec.html
