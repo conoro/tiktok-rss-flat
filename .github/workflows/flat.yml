@@ -21,6 +21,6 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://validator.w3.org/feed/docs/rss2.html
-          downloaded_filename: rss2_spec.html
+          http_url: https://conoroneill.com/index.xml
+          downloaded_filename: conor_rss.xml
           postprocess: postprocess.ts
