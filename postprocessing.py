@@ -39,6 +39,6 @@ with open('subscriptions.csv') as f:
             fe.published(datetime.fromtimestamp(tiktok['createTime'], timezone.utc))
             fe.title(tiktok['desc'])
             fe.link(href=link)
-            fe.description("<img src='" + tiktok['video']['originCover'] + "' />")
+            fe.description("<img src='" + tiktok['video']['cover'] + "' />")
 
         fg.rss_file('rss/' + user + '.xml') # Write the RSS feed to a file
