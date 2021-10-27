@@ -41,4 +41,4 @@ with open('subscriptions.csv') as f:
             fe.link(href=link)
             fe.description("<img src='" + tiktok['video']['cover'] + "' />")
 
-        fg.rss_file('rss/' + user + '.xml') # Write the RSS feed to a file
+        fg.rss_file('rss/' + user + '.xml', pretty=True) # Write the RSS feed to a file
