@@ -36,7 +36,9 @@ with open('subscriptions.csv') as f:
             fe = fg.add_entry()
             link = "https://www.tiktok.com/@" + user + "/video/" + tiktok['id']
             fe.id(link)
-            fe.published(datetime.fromtimestamp(tiktok['createTime'], timezone.utc))
+            ts = datetime.fromtimestamp(tiktok['createTime'], timezone.utc)
+            fe.published(ts)
+            fe.updated(ts)
             fe.title(tiktok['desc'])
             fe.link(href=link)
             fe.description("<img src='" + tiktok['video']['cover'] + "' />")
