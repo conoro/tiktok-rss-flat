@@ -32,6 +32,9 @@ with open('subscriptions.csv') as f:
         fg.link( href=ghPagesURL + 'rss/' + user + '.xml', rel='self' )
         fg.language('en')
 
+        # Set the last modification time for the feed to be the most recent post, else now.
+        updated=None
+
         for tiktok in tiktoks:
             fe = fg.add_entry()
             link = "https://www.tiktok.com/@" + user + "/video/" + tiktok['id']
@@ -39,8 +42,11 @@ with open('subscriptions.csv') as f:
             ts = datetime.fromtimestamp(tiktok['createTime'], timezone.utc)
             fe.published(ts)
             fe.updated(ts)
+            updated = max(ts, updated) if updated else ts
             fe.title(tiktok['desc'])
             fe.link(href=link)
             fe.description("<img src='" + tiktok['video']['cover'] + "' />")
+
+        fg.updated(updated)
 
         fg.rss_file('rss/' + user + '.xml', pretty=True) # Write the RSS feed to a file
