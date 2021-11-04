@@ -49,4 +49,4 @@ with open('subscriptions.csv') as f:
 
         fg.updated(updated)
 
-        fg.rss_file('rss/' + user + '.xml', pretty=True) # Write the RSS feed to a file
+        fg.atom_file('rss/' + user + '.xml', pretty=True) # Write the RSS feed to a file
