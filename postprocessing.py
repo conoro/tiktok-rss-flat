@@ -22,7 +22,7 @@ with open('subscriptions.csv') as f:
             print(f'Running for user \'{csvuser}\'')
 
             fg = FeedGenerator()
-            fg.id('https://www.tiktok.com/@' + csvuser)
+            fg.id('https://tiktok.com/@' + csvuser)
             fg.title(csvuser + ' TikTok')
             fg.author( {'name':'Conor ONeill','email':'conor@conoroneill.com'} )
             fg.link( href='http://tiktok.com', rel='alternate' )
@@ -40,7 +40,7 @@ with open('subscriptions.csv') as f:
                 tiktokuser = api.user(csvuser, video_limit=maxItems)
                 for video in tiktokuser.videos:
                     # print(video.create_time, video.desc)
-                    print("URL = " + "https://www.tiktok.com/@" + csvuser + "/video/" + str(video.id))
+                    print("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
                     fe = fg.add_entry()
                     link = "https://tiktok.com/@" + csvuser + "/video/" + str(video.id)
                     fe.id(link)
