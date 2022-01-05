@@ -1,1 +1,95 @@
-
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@gneumanmx</id>
+  <title>gneumanmx TikTok</title>
+  <updated>2021-12-28T17:59:46+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://gneuman.github.io/tiktok-rss-flat/rss/gneumanmx.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://gneuman.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from gneumanmx</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@gneumanmx/video/7038419493768432901</id>
+    <title>Lo mejor que puedes hacer con tu equipo son estrategias con #GrowthHacking o #estrategias creativas que te permitan crecer en mayor escala sin gastar</title>
+    <updated>2021-12-06T23:20:00+00:00</updated>
+    <content>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/68a0daacc56f4465a122d627ceef88f8?x-expires=1641376800&amp;x-signature=DvRCN7Kas1uNotRzUOGeCEGPqvc%3D' /&gt;</content>
+    <link href="https://www.tiktok.com/@gneumanmx/video/7038419493768432901" rel="alternate"/>
+    <published>2021-12-06T23:20:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@gneumanmx/video/7038420216233217285</id>
+    <title>Lo mejor que puedes hacer con tu equipo son estrategias con #GrowthHacking o #estrategias creativas que te permitan crecer en mayor escala sin gastar</title>
+    <updated>2021-12-07T15:29:59+00:00</updated>
+    <content>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5724441018524a588e99d11f129cbcac_1638891000?x-expires=1641376800&amp;x-signature=xbk85wJcbNaFsGjGalnyIOLIoe4%3D' /&gt;</content>
+    <link href="https://www.tiktok.com/@gneumanmx/video/7038420216233217285" rel="alternate"/>
+    <published>2021-12-07T15:29:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@gneumanmx/video/7038420428792106246</id>
+    <title>Lo mejor que puedes hacer con tu equipo son estrategias con #GrowthHacking o #estrategias creativas que te permitan crecer en mayor escala sin gastar</title>
+    <updated>2021-12-07T20:25:00+00:00</updated>
+    <content>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/452e1396305e4f23905ad95a43003645?x-expires=1641376800&amp;x-signature=dhqls7CVGJ2Ok%2BBDQKlTmZk82%2Fk%3D' /&gt;</content>
+    <link href="https://www.tiktok.com/@gneumanmx/video/7038420428792106246" rel="alternate"/>
+    <published>2021-12-07T20:25:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@gneumanmx/video/7038420631477652742</id>
+    <title>Lo mejor que puedes hacer con tu equipo son estrategias con #GrowthHacking o #estrategias creativas que te permitan crecer en mayor escala sin gastar</title>
+    <updated>2021-12-07T23:25:00+00:00</updated>
+    <content>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c07d32da57c347c09b15f6eb2fc9b779?x-expires=1641376800&amp;x-signature=dL69xOdiuW1ZSu8aDhVskMqEuj4%3D' /&gt;</content>
+    <link href="https://www.tiktok.com/@gneumanmx/video/7038420631477652742" rel="alternate"/>
+    <published>2021-12-07T23:25:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@gneumanmx/video/7038420810406579461</id>
+    <title>Lo mejor que puedes hacer con tu equipo son estrategias con #GrowthHacking o #estrategias creativas que te permitan crecer en mayor escala sin gastar</title>
+    <updated>2021-12-08T02:25:00+00:00</updated>
+    <content>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/dce3e418aa264b67ba76f39a855e7661_1638930301?x-expires=1641376800&amp;x-signature=hIiYEYO9gZDEQfjRSoyogTUraEg%3D' /&gt;</content>
+    <link href="https://www.tiktok.com/@gneumanmx/video/7038420810406579461" rel="alternate"/>
+    <published>2021-12-08T02:25:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@gneumanmx/video/7039636747155819782</id>
+    <title>Lo mejor que puedes hacer con tu equipo son estrategias con #GrowthHacking o #estrategias creativas que te permitan crecer en mayor escala sin gastar</title>
+    <updated>2021-12-09T16:29:59+00:00</updated>
+    <content>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4bff6748dd584578b46ee6b8ef59db2d_1639067401?x-expires=1641376800&amp;x-signature=qAV6o%2F5JXT%2BfGz%2FR1JOnlL%2BXBp4%3D' /&gt;</content>
+    <link href="https://www.tiktok.com/@gneumanmx/video/7039636747155819782" rel="alternate"/>
+    <published>2021-12-09T16:29:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@gneumanmx/video/7039638143804427526</id>
+    <title>Lo mejor que puedes hacer con tu equipo son estrategias con #GrowthHacking o #estrategias creativas que te permitan crecer en mayor escala sin gastar</title>
+    <updated>2021-12-09T20:10:00+00:00</updated>
+    <content>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fcc510aa96db451ba36d11f39df3b373?x-expires=1641376800&amp;x-signature=onEh%2FEK%2FvducjBHmTDvzpy9P4N8%3D' /&gt;</content>
+    <link href="https://www.tiktok.com/@gneumanmx/video/7039638143804427526" rel="alternate"/>
+    <published>2021-12-09T20:10:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@gneumanmx/video/7039638339904933126</id>
+    <title>Lo mejor que puedes hacer con tu equipo son estrategias con #GrowthHacking o #estrategias creativas que te permitan crecer en mayor escala sin gastar</title>
+    <updated>2021-12-09T23:10:00+00:00</updated>
+    <content>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/806ad4811171462d876329be9769f576_1639091402?x-expires=1641376800&amp;x-signature=BlvJp6URwnN3IShgEYBm4HPaxU0%3D' /&gt;</content>
+    <link href="https://www.tiktok.com/@gneumanmx/video/7039638339904933126" rel="alternate"/>
+    <published>2021-12-09T23:10:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@gneumanmx/video/7045419559221792005</id>
+    <title>Le pregunte a @mdantus ¿Que hiciste para hacer crecer Startup México? Esta fue su respuesta. #GrowthTactics #Podcast #PodcastMexico #sharktankmexico</title>
+    <updated>2021-12-24T23:46:11+00:00</updated>
+    <content>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0881e2975dbc4c7bb87990e005de066c?x-expires=1641376800&amp;x-signature=4r9TBxBtaufQ6v4SfjEM09DHtL0%3D' /&gt;</content>
+    <link href="https://www.tiktok.com/@gneumanmx/video/7045419559221792005" rel="alternate"/>
+    <published>2021-12-24T23:46:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@gneumanmx/video/7046814626155105542</id>
+    <title>Nuevo episodio de Growth Táctics con Daishi Murano. #podcat #coach</title>
+    <updated>2021-12-28T17:59:46+00:00</updated>
+    <content>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/730684eda334472b9c4da0fef59d8c1d?x-expires=1641376800&amp;x-signature=3yW9iMGtZ8nl7E7x8rv%2BSYmyfWU%3D' /&gt;</content>
+    <link href="https://www.tiktok.com/@gneumanmx/video/7046814626155105542" rel="alternate"/>
+    <published>2021-12-28T17:59:46+00:00</published>
+  </entry>
+</feed>
