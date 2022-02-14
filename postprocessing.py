@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 # Custom Domain
 ghPagesURL = "https://tiktokrss.conoroneill.com/"
 
-api = TikTokApi.get_instance()
+api = TikTokApi()
 
 count = 10
 
@@ -18,10 +18,8 @@ with open('subscriptions.csv') as f:
     for row in cf:
         user = row['username']
 
-        print (user)
+        print(f'Running for user \'{user}\'')
 
-        tiktoks = api.by_username(user, count=count)
-        
         fg = FeedGenerator()
         fg.id('https://www.tiktok.com/@' + user)
         fg.title(user + ' TikTok')
@@ -35,17 +33,17 @@ with open('subscriptions.csv') as f:
         # Set the last modification time for the feed to be the most recent post, else now.
         updated=None
 
-        for tiktok in tiktoks:
+        for tiktok in api.user(username=user).videos(count=count):
             fe = fg.add_entry()
-            link = "https://www.tiktok.com/@" + user + "/video/" + tiktok['id']
+            link = "https://tiktok.com/@" + user + "/video/" + tiktok.id
             fe.id(link)
-            ts = datetime.fromtimestamp(tiktok['createTime'], timezone.utc)
+            ts = datetime.fromtimestamp(tiktok.as_dict['createTime'], timezone.utc)
             fe.published(ts)
             fe.updated(ts)
             updated = max(ts, updated) if updated else ts
-            fe.title(tiktok['desc'])
+            fe.title(tiktok.as_dict['desc'])
             fe.link(href=link)
-            fe.description("<img src='" + tiktok['video']['cover'] + "' />")
+            fe.description("<img src='" + tiktok.as_dict['video']['cover'] + "' />")
 
         fg.updated(updated)
 
