@@ -1,5 +1,9 @@
 ![TikTok RSS Logo](https://tiktokrss.conoroneill.com/favicon-32x32.png)
 # TikTok RSS Using GitHub OCTO Flat Data
+
+
+**NOTE June 2022: Please do not use this tool. The underlying library continues to be blocked regularly by TikTok.**
+
 * Generate usable RSS feeds from TikTok using [GitHub OCTO Flat Data](https://octo.github.com/projects/flat-data), GitHub Actions and GitHub Pages.
 
 * This uses the unoffical [TikTokApi Python library](https://github.com/davidteather/TikTok-Api) to extract information about user videos from TikTok as JSON and generate RSS feeds for each user you are interested in.
