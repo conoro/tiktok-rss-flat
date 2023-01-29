@@ -9,8 +9,6 @@ from datetime import datetime, timezone
 # Custom Domain
 ghPagesURL = "https://tiktokrss.conoroneill.com/"
 
-api = TikTokApi()
-
 count = 10
 
 with open('subscriptions.csv') as f:
