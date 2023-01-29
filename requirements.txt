@@ -1,4 +1,3 @@
 tiktokapipy
-playwright
 feedgen
 
