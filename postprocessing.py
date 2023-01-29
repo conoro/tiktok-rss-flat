@@ -39,9 +39,9 @@ with open('subscriptions.csv') as f:
                 print(
                     "URL = " + "https://www.tiktok.com/@" + str(user) + "/video/" + str(video.id))
                 fe = fg.add_entry()
-                link = "https://tiktok.com/@" + str(user) + "/video/" + video.id
+                link = "https://tiktok.com/@" + str(user) + "/video/" + str(video.id)
                 fe.id(link)
-                ts = datetime.fromtimestamp(video.create_time, timezone.utc)
+                ts = video.create_time
                 fe.published(ts)
                 fe.updated(ts)
                 updated = max(ts, updated) if updated else ts
