@@ -33,11 +33,11 @@ with open('subscriptions.csv') as f:
 
 
         with TikTokAPI() as api:
-            user = api.user("babishculinaryuniverse")
+            user = api.user(user)
             for video in user.videos:
                 print(video.create_time, video.desc)
                 print(
-                    "URL = " + "https://www.tiktok.com/@babishculinaryuniverse/video/" + str(video.id))
+                    "URL = " + "https://www.tiktok.com/@" + user + "/video/" + str(video.id))
             fe = fg.add_entry()
             link = "https://tiktok.com/@" + user + "/video/" + video.id
             fe.id(link)
