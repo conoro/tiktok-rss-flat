@@ -1,4 +1,4 @@
-from TikTokApi import TikTokApi
+from tiktokapipy.api import TikTokAPI
 import csv
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
@@ -33,17 +33,24 @@ with open('subscriptions.csv') as f:
         # Set the last modification time for the feed to be the most recent post, else now.
         updated=None
 
-        for tiktok in api.user(username=user).videos(count=count):
+
+        with TikTokAPI() as api:
+            user = api.user("babishculinaryuniverse")
+            for video in user.videos:
+                print(video.create_time, video.desc)
+                print(
+                    "URL = " + "https://www.tiktok.com/@babishculinaryuniverse/video/" + str(video.id))
             fe = fg.add_entry()
-            link = "https://tiktok.com/@" + user + "/video/" + tiktok.id
+            link = "https://tiktok.com/@" + user + "/video/" + video.id
             fe.id(link)
-            ts = datetime.fromtimestamp(tiktok.as_dict['createTime'], timezone.utc)
+            ts = datetime.fromtimestamp(video.create_time, timezone.utc)
             fe.published(ts)
             fe.updated(ts)
             updated = max(ts, updated) if updated else ts
-            fe.title(tiktok.as_dict['desc'])
+            fe.title(video.desc)
             fe.link(href=link)
-            fe.description("<img src='" + tiktok.as_dict['video']['cover'] + "' />")
+            # fe.description("<img src='" + tiktok.as_dict['video']['cover'] + "' />")
+            fe.description(video.desc)
 
         fg.updated(updated)
 
