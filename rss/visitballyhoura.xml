@@ -1,88 +1,95 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <title>visitballyhoura TikTok</title>
-    <link>https://tiktokrss.conoroneill.com/rss/visitballyhoura.xml</link>
-    <description>OK Boomer, all the latest TikToks from visitballyhoura</description>
-    <atom:link href="https://tiktokrss.conoroneill.com/rss/visitballyhoura.xml" rel="self"/>
-    <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-feedgen</generator>
-    <image>
-      <url>https://tiktokrss.conoroneill.com/tiktok-rss.png</url>
-      <title>visitballyhoura TikTok</title>
-      <link>https://tiktokrss.conoroneill.com/rss/visitballyhoura.xml</link>
-    </image>
-    <language>en</language>
-    <lastBuildDate>Tue, 18 May 2021 10:54:43 +0000</lastBuildDate>
-    <item>
-      <title>Discover the foodie destinations of Ballyhoura! 📍🥗 #discoverireland #Ballyhoura #staycations #foodie #visitballyhoura</title>
-      <link>https://www.tiktok.com/@visitballyhoura/video/6942567893846478086</link>
-      <description>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e530220b5bf6454bbecd14d23218c52f?x-expires=1636045200&amp;x-signature=Fqzriglk%2FeB2lkH1SK42IigIEso%3D' /&gt;</description>
-      <guid isPermaLink="false">https://www.tiktok.com/@visitballyhoura/video/6942567893846478086</guid>
-      <pubDate>Mon, 22 Mar 2021 19:49:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Relax and unwind at Ballyhoura this year 😌🌿 #ballyhoura #discoverireland #staycations #visitballyhoura #fyp</title>
-      <link>https://www.tiktok.com/@visitballyhoura/video/6948066175569972485</link>
-      <description>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bb88b1b202de47f1b0bb742bc194bae4?x-expires=1636045200&amp;x-signature=PD6QTLLHcCsCkaQMobu4eXNt7Jw%3D' /&gt;</description>
-      <guid isPermaLink="false">https://www.tiktok.com/@visitballyhoura/video/6948066175569972485</guid>
-      <pubDate>Tue, 06 Apr 2021 15:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discover fun for all the family at Ballyhoura ☀️ #Ballyhoura #discoverireland #staycations #visitballyhoura</title>
-      <link>https://www.tiktok.com/@visitballyhoura/video/6948078269560311045</link>
-      <description>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/34517ba805c24ec0b4ad3a936e776c65_1617725543?x-expires=1636045200&amp;x-signature=zrMUngfX6HwcZApBqfMzuDbD%2Bxs%3D' /&gt;</description>
-      <guid isPermaLink="false">https://www.tiktok.com/@visitballyhoura/video/6948078269560311045</guid>
-      <pubDate>Tue, 06 Apr 2021 16:12:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nourish your creative spirit, at Ballyhoura 🌞🌳 🎨 #Ballyhoura #discoverireland #staycations #visitballyhoura #fyp #ireland</title>
-      <link>https://www.tiktok.com/@visitballyhoura/video/6953223937115393286</link>
-      <description>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/26da5c705b164037926ef7369ea2a027_1618923613?x-expires=1636045200&amp;x-signature=MHJaiDVDPcrNubZB%2FRGZ7gGjbLg%3D' /&gt;</description>
-      <guid isPermaLink="false">https://www.tiktok.com/@visitballyhoura/video/6953223937115393286</guid>
-      <pubDate>Tue, 20 Apr 2021 13:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get ready for a summer filled with adventures at Ballyhoura this year ☀️🚲🧗🏽‍♀️ #visitballyhoura #discoverireland #staycations #fyp</title>
-      <link>https://www.tiktok.com/@visitballyhoura/video/6955931731241291014</link>
-      <description>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/6b1beb5132c54d98a1322c13d20edcfd?x-expires=1636045200&amp;x-signature=d7kXBYa%2Ffbg71sS7%2FWddEGfVvro%3D' /&gt;</description>
-      <guid isPermaLink="false">https://www.tiktok.com/@visitballyhoura/video/6955931731241291014</guid>
-      <pubDate>Tue, 27 Apr 2021 20:07:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discover the garden experiences Ballyhoura has to offer🪴 #visitballyhoura #discoverireland #fyp</title>
-      <link>https://www.tiktok.com/@visitballyhoura/video/6956333377570065669</link>
-      <description>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0d7e718c8a024487ae47854167aff167_1619647583?x-expires=1636045200&amp;x-signature=EwKS9DOXtS%2Fawyq4lFqR5Vx7%2Fgw%3D' /&gt;</description>
-      <guid isPermaLink="false">https://www.tiktok.com/@visitballyhoura/video/6956333377570065669</guid>
-      <pubDate>Wed, 28 Apr 2021 22:06:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discover the activities that Ballyhoura has to offer! 🏌🏽🚴🏼‍♂️ #discoverireland #visitballyhoura #fyp #ireland</title>
-      <link>https://www.tiktok.com/@visitballyhoura/video/6956683743037852934</link>
-      <description>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/5bb2629ffa7046abbe616eb0f05c80dd?x-expires=1636045200&amp;x-signature=tHAKiNfEqQ8xlX38HEJqnv5pNgg%3D' /&gt;</description>
-      <guid isPermaLink="false">https://www.tiktok.com/@visitballyhoura/video/6956683743037852934</guid>
-      <pubDate>Thu, 29 Apr 2021 20:45:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Looking for the perfect staycation this summer? Then look no further than Ballyhoura!🌞 #discoverireland #visitballyhoura #fyp #staycations</title>
-      <link>https://www.tiktok.com/@visitballyhoura/video/6960765350405295366</link>
-      <description>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/16647196e34b49eca68c87d61e247491?x-expires=1636045200&amp;x-signature=EQ8xfQZ%2BkTmBNF%2F6F%2FTdKE8IAa4%3D' /&gt;</description>
-      <guid isPermaLink="false">https://www.tiktok.com/@visitballyhoura/video/6960765350405295366</guid>
-      <pubDate>Mon, 10 May 2021 20:44:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Explore new things at Ballyhoura this year🌞🚵🏽 #VisitBallyhoura #Discoverireland #FYP #staycations</title>
-      <link>https://www.tiktok.com/@visitballyhoura/video/6963577867137600773</link>
-      <description>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/bd43998e38994a9eb38c84d6348b1f03_1621334328?x-expires=1636045200&amp;x-signature=V6oT%2F9QGozWZ3%2FwR33jM4chsjf8%3D' /&gt;</description>
-      <guid isPermaLink="false">https://www.tiktok.com/@visitballyhoura/video/6963577867137600773</guid>
-      <pubDate>Tue, 18 May 2021 10:38:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Take a journey back in time and explore the history of Ballyhoura 🏛🕰 #VisitBallyhoura #Discoverireland #FYP #staycations</title>
-      <link>https://www.tiktok.com/@visitballyhoura/video/6963581979354746118</link>
-      <description>&lt;img src='https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4eb35d7fdb194efab7f550474f94af57_1621335284?x-expires=1636045200&amp;x-signature=AZiNklFOxfSVl41UqyCPJgFf40c%3D' /&gt;</description>
-      <guid isPermaLink="false">https://www.tiktok.com/@visitballyhoura/video/6963581979354746118</guid>
-      <pubDate>Tue, 18 May 2021 10:54:43 +0000</pubDate>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@visitballyhoura</id>
+  <title>visitballyhoura TikTok</title>
+  <updated>2023-01-27T10:49:41+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://tiktokrss.conoroneill.com/rss/visitballyhoura.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from visitballyhoura</subtitle>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7147584124721581318</id>
+    <title>Happy Monday everyone ✨ Wishing everyone an amazing week 😃 This is your Monday reminder to try and always get out from some fresh air and scenic views, it’s good for the soul ❤️</title>
+    <updated>2022-09-26T07:17:05+00:00</updated>
+    <content>Happy Monday everyone ✨ Wishing everyone an amazing week 😃 This is your Monday reminder to try and always get out from some fresh air and scenic views, it’s good for the soul ❤️</content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7147584124721581318" rel="alternate"/>
+    <published>2022-09-26T07:17:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7151058713309138182</id>
+    <title>Hop up on your bike to discover magnificent views of the Ballyhoura and Galtee Mountains from the road, as well as ancient sites preserved in an unspoilt landscape. For more information on road cycling routes in Ballyhoura you can download our App #VisitB</title>
+    <updated>2022-10-05T16:00:09+00:00</updated>
+    <content>Hop up on your bike to discover magnificent views of the Ballyhoura and Galtee Mountains from the road, as well as ancient sites preserved in an unspoilt landscape. For more information on road cycling routes in Ballyhoura you can download our App #VisitBallyhoura #KeepDiscovering #IrelandsHiddenHeartlands #OurRuralIreland </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7151058713309138182" rel="alternate"/>
+    <published>2022-10-05T16:00:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7153213217278414085</id>
+    <title>And just like that it’s all over! Thank you so much to everyone that attended our Ballyhoura Walking Festival 2022, we hope you enjoyed the events as much as we did. It’s so amazing to see everyone come together to celebrate Ireland and everything it has </title>
+    <updated>2022-10-11T11:20:49+00:00</updated>
+    <content>And just like that it’s all over! Thank you so much to everyone that attended our Ballyhoura Walking Festival 2022, we hope you enjoyed the events as much as we did. It’s so amazing to see everyone come together to celebrate Ireland and everything it has to offer, we really do live in such a beautiful area and so luckly to be able to explore it. Here are some shots taken from the events over the weekend 📸 Make sure to tag us in any of your pictures as we are running a competition to be in with a chance of winning GreatOutdoors Vouchers 🌟 Wishing everyone an amazing week and looking forward to showing you what we have planned for Halloween 🎃  #VisitBallyhoura #DiscoverIreland #Keepdiscovering #Ireland2040 #IrelandsHiddenHeartlands #Ballyhoura #OurRuralIreland #Walkingfestival2022 #Ballyhourawalkingfestival #Ballyhoura #Limerickedgeembrace #Limerickfestivals </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7153213217278414085" rel="alternate"/>
+    <published>2022-10-11T11:20:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7153545524589661446</id>
+    <title>Situated at the crossroads of Munster, on the borders of counties Tipperary, Limerick and Cork, Ballyhoura Country is an area of undulating green pastures, woodlands, hills and mountains. The ancient and unspoilt landscape, an abundance of significant her</title>
+    <updated>2022-10-12T08:50:17+00:00</updated>
+    <content>Situated at the crossroads of Munster, on the borders of counties Tipperary, Limerick and Cork, Ballyhoura Country is an area of undulating green pastures, woodlands, hills and mountains. The ancient and unspoilt landscape, an abundance of significant heritage sites, thrilling outdoor activities and friendly people make it the perfect place to discover rural Ireland. A world where the little pleasures of sharing everyday things with the locals in Ballyhoura – talking with them, walking with them and sharing a joke – is possibly the greatest attraction of them all! Whether you wish to take part in an action packed activity based holiday or relaxing, de-stressing, unwinding break – Ballyhoura Country provides the perfect setting to suit everyone’s taste and is quintessentially simply different! #VisitBallyhoura #DiscoverIreland #Keepdiscovering #Ireland2040 #IrelandsHiddenHeartlands #Ballyhoura #OurRuralIreland #Ballyhoura </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7153545524589661446" rel="alternate"/>
+    <published>2022-10-12T08:50:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7158088695252307206</id>
+    <title>What to do for spooky season 👻 the possibilities are endless! From pumpkin patches, wreath making &amp; even mind reading 🔮 There is something for everyone this October in Ballyhoura! For a full list of events please head over to our website 👻</title>
+    <updated>2022-10-24T14:40:04+00:00</updated>
+    <content>What to do for spooky season 👻 the possibilities are endless! From pumpkin patches, wreath making &amp; even mind reading 🔮 There is something for everyone this October in Ballyhoura! For a full list of events please head over to our website 👻</content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7158088695252307206" rel="alternate"/>
+    <published>2022-10-24T14:40:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7161745799712394501</id>
+    <title>Crispy leaves &amp; fresh air- the definition of autumnal walks in Ballyhoura 🍁 Take some time out to enjoy the spectacular views from the Attychran Loop into the Galtee Mountains. The low difficulty level of this walk and the car parking, toilets and small s</title>
+    <updated>2022-11-03T11:11:33+00:00</updated>
+    <content>Crispy leaves &amp; fresh air- the definition of autumnal walks in Ballyhoura 🍁 Take some time out to enjoy the spectacular views from the Attychran Loop into the Galtee Mountains. The low difficulty level of this walk and the car parking, toilets and small shop at the trailhead make it an excellent choice for families.  #VisitBallyhoura #DiscoverIreland  #AutumnTrails #Keepdiscovering #Ireland2040 #IrelandsHiddenHeartlands #Ballyhoura #OurRuralIreland #Ballyhouratrails </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7161745799712394501" rel="alternate"/>
+    <published>2022-11-03T11:11:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7164304735040769286</id>
+    <title>🥾Bernard Loop is a fantastic route. The initial climb on the trail uphill is steep but it’s a good warm-up. The route is a nice mixture of covered and open forest paths, gravel roads and grassy hills. The scenery is great, plenty of wildlife to see, look </title>
+    <updated>2022-11-10T08:41:31+00:00</updated>
+    <content>🥾Bernard Loop is a fantastic route. The initial climb on the trail uphill is steep but it’s a good warm-up. The route is a nice mixture of covered and open forest paths, gravel roads and grassy hills. The scenery is great, plenty of wildlife to see, look out for the deer near the stream   #VisitBallyhoura #DiscoverIreland #Keepdiscovering #Ireland2040 #IrelandsHiddenHeartlands #Ballyhoura #OurRuralIreland </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7164304735040769286" rel="alternate"/>
+    <published>2022-11-10T08:41:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7172848461744803078</id>
+    <title>"𝑨𝒏𝒅 𝒂𝒕 𝒕𝒉𝒆 𝒆𝒏𝒅 𝒐𝒇 𝒕𝒉𝒆 𝒅𝒂𝒚, 𝒚𝒐𝒖𝒓 𝒇𝒆𝒆𝒕 𝒔𝒉𝒐𝒖𝒍𝒅 𝒃𝒆 𝒅𝒊𝒓𝒕𝒚, 𝒚𝒐𝒖𝒓 𝒉𝒂𝒊𝒓 𝒎𝒆𝒔𝒔𝒚, 𝒂𝒏𝒅 𝒚𝒐𝒖𝒓 𝒆𝒚𝒆𝒔 𝒔𝒑𝒂𝒓𝒌𝒍𝒊𝒏𝒈." Come and explore your next adventure at the Ballyhoura Mountain Bike Trails 🚴 nestled in the beautiful Ballyhoura mountains ⛰. Immerse yourself deep in the l</title>
+    <updated>2022-12-03T09:15:34+00:00</updated>
+    <content>"𝑨𝒏𝒅 𝒂𝒕 𝒕𝒉𝒆 𝒆𝒏𝒅 𝒐𝒇 𝒕𝒉𝒆 𝒅𝒂𝒚, 𝒚𝒐𝒖𝒓 𝒇𝒆𝒆𝒕 𝒔𝒉𝒐𝒖𝒍𝒅 𝒃𝒆 𝒅𝒊𝒓𝒕𝒚, 𝒚𝒐𝒖𝒓 𝒉𝒂𝒊𝒓 𝒎𝒆𝒔𝒔𝒚, 𝒂𝒏𝒅 𝒚𝒐𝒖𝒓 𝒆𝒚𝒆𝒔 𝒔𝒑𝒂𝒓𝒌𝒍𝒊𝒏𝒈." Come and explore your next adventure at the Ballyhoura Mountain Bike Trails 🚴 nestled in the beautiful Ballyhoura mountains ⛰. Immerse yourself deep in the lush forest alive with native wildlife. 98km of flowy trails including forest road climbs, tight twisty singletrack with a rollercoaster of ups and downs and a boardwalk is guaranteed to leave you smiling. The trails range from the moderate 6km Greenwood loop to the demanding Castlepook loop, over 50km in length! Take on the trails at a speed suited to your current skillset. Park your car, rent a bike from @ballyhouratrailriders and off you go!  After your adrenaline-fueled adventure, you can sate your appetite at the nearby @spruce_and_willow Café in Ardpatrick. #VisitBallyhoura #DiscoverIreland #IrelandsHiddenHeartlands #AdventureIsland #keepdiscovering #adventuretourism #loveireland #mtb #mtblife #mtbtrails </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7172848461744803078" rel="alternate"/>
+    <published>2022-12-03T09:15:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7190402255022001413</id>
+    <title>Take advantage of our freedom to walk, whatever the weather 🌧️ ❄️ 🥾. Throwback to Toms Tours trip to Ballyhoura with @rebel_road_trips. #getoutdoors #getwalking #ballyhoura #irelandshiddenheartlands #outdoorlife #whateverweather #tomstours #visitballyhour</title>
+    <updated>2023-01-19T16:33:08+00:00</updated>
+    <content>Take advantage of our freedom to walk, whatever the weather 🌧️ ❄️ 🥾. Throwback to Toms Tours trip to Ballyhoura with @rebel_road_trips. #getoutdoors #getwalking #ballyhoura #irelandshiddenheartlands #outdoorlife #whateverweather #tomstours #visitballyhoura #keepdiscovering #outdooradvnetures 📸 🎥 credit @Toms Tours </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7190402255022001413" rel="alternate"/>
+    <published>2023-01-19T16:33:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7193282411751329029</id>
+    <title>Get them start early, it’s all fun 🤩 great outdoors is the biggest playground 🙌  #kidsbiking🚴‍♀️🛴 #trailsforbeginners #ballyhouratrails #visitballyhoura #ballyhouramountains #getoutdoors #mtblife #mtbkids #ballyhoura #irelandshiddenheartlands #outdoorlife</title>
+    <updated>2023-01-27T10:49:41+00:00</updated>
+    <content>Get them start early, it’s all fun 🤩 great outdoors is the biggest playground 🙌  #kidsbiking🚴‍♀️🛴 #trailsforbeginners #ballyhouratrails #visitballyhoura #ballyhouramountains #getoutdoors #mtblife #mtbkids #ballyhoura #irelandshiddenheartlands #outdoorlife #whateverweather #keepdiscovering #DiscoverIreland  📸🎥 @agaodonnell </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7193282411751329029" rel="alternate"/>
+    <published>2023-01-27T10:49:41+00:00</published>
+  </entry>
+</feed>
