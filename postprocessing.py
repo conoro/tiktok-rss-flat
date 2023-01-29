@@ -37,9 +37,9 @@ with open('subscriptions.csv') as f:
             for video in user.videos:
                 print(video.create_time, video.desc)
                 print(
-                    "URL = " + "https://www.tiktok.com/@" + user + "/video/" + str(video.id))
+                    "URL = " + "https://www.tiktok.com/@" + str(user) + "/video/" + str(video.id))
                 fe = fg.add_entry()
-                link = "https://tiktok.com/@" + user + "/video/" + video.id
+                link = "https://tiktok.com/@" + str(user) + "/video/" + video.id
                 fe.id(link)
                 ts = datetime.fromtimestamp(video.create_time, timezone.utc)
                 fe.published(ts)
