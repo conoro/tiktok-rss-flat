@@ -35,7 +35,8 @@ with open('subscriptions.csv') as f:
             updated=None
 
 
-            with TikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
+            with TikTokAPI() as api:
+#            with TikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
                 tiktokuser = api.user(csvuser)
                 i = 0
                 for video in tiktokuser.videos:
