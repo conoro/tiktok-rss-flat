@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@texasbeeworks</id>
   <title>texasbeeworks TikTok</title>
-  <updated>2022-11-18T18:28:40+00:00</updated>
+  <updated>2023-02-01T16:09:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from texasbeeworks</subtitle>
-  <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/7092410133082328366</id>
-    <title>This queen was doing something very special! #bees #nature #queenbee</title>
-    <updated>2022-04-30T14:53:37+00:00</updated>
-    <content>This queen was doing something very special! #bees #nature #queenbee</content>
-    <link href="https://tiktok.com/@texasbeeworks/video/7092410133082328366" rel="alternate"/>
-    <published>2022-04-30T14:53:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@texasbeeworks/video/7097939723343170858</id>
     <title>Releasing the queen! #beekeeping #queen #bee #nature #savethebees</title>
@@ -91,5 +83,13 @@
     <content>And it was another great day of saving the bees! #beekeeper #savingthebees</content>
     <link href="https://tiktok.com/@texasbeeworks/video/7167424699939458347" rel="alternate"/>
     <published>2022-11-18T18:28:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/7195220227829927210</id>
+    <title>This is how honeybees survive the winter #bees #beekeeper #insects #nature</title>
+    <updated>2023-02-01T16:09:31+00:00</updated>
+    <content>This is how honeybees survive the winter #bees #beekeeper #insects #nature</content>
+    <link href="https://tiktok.com/@texasbeeworks/video/7195220227829927210" rel="alternate"/>
+    <published>2023-02-01T16:09:31+00:00</published>
   </entry>
 </feed>
