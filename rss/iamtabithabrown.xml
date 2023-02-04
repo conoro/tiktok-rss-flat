@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-01-28T15:02:09+00:00</updated>
+  <updated>2023-02-04T05:00:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7186044141283970350</id>
-    <title>See y’all tomorrow 1/8 at @target for some fun and delicious food sampling all across the country!! Eat good while you shop your favorite things!! Also Los Angeles if you see the food truck rolling thru your neighborhood come get some snacks and love!! Se</title>
-    <updated>2023-01-07T22:41:25+00:00</updated>
-    <content>See y’all tomorrow 1/8 at @target for some fun and delicious food sampling all across the country!! Eat good while you shop your favorite things!! Also Los Angeles if you see the food truck rolling thru your neighborhood come get some snacks and love!! See y’all tomorrow!!! I’m so excited 🎉🎉🙌🏾🙌🏾🙌🏾 #tabithabrown #targettabcollab #vegan #plantbased #foodie  </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7186044141283970350" rel="alternate"/>
-    <published>2023-01-07T22:41:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7187453931394633006</id>
     <title>Wednesday morning TSA:  I know it’s tough when we love and respect people so much that we want to spare their feelings, but honey sometimes doing so, we hurt ourselves.. It’s not fair to you… Your feelings matter too honey!  I love you ❤️ #s#spreadlovet#t</title>
@@ -91,5 +83,13 @@
     <content>Family you asked and @samsclub  and @mccormickspices  delivered!!! Sunshine is officially at Sam’s Club in the big bottle!!! Thank you all so much!!! I’m so grateful for y’all’s love and the continued support when I have so much happening, y’all still keep showing up for Tab❤️🥹🙏🏾 Thank you!!!!!! We did it!!! 🙌🏾OOHHH GOD I THANK YOU🙌🏾 #mccormickspicepartner #tabithabrown #thankful #seasoning #saltfree #vegan</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7193718481890725163" rel="alternate"/>
     <published>2023-01-28T15:02:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7196161047131098411</id>
+    <title>This week on Fridays with Tab and Chance we talk about conversations that families should have before death… If I go first it’s going down 👻 😂. JK but maybe forreal😂  Full episode is up now on @youtube ❤️ #t#tabithabrownc#chancebrownf#fridayswithtabandcha</title>
+    <updated>2023-02-04T05:00:19+00:00</updated>
+    <content>This week on Fridays with Tab and Chance we talk about conversations that families should have before death… If I go first it’s going down 👻 😂. JK but maybe forreal😂  Full episode is up now on @youtube ❤️ #t#tabithabrownc#chancebrownf#fridayswithtabandchancel#lifeafterdeathm#marriagef#familyc#conversationsl#lifed#deathoodies from @_fivefoldsclothing</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7196161047131098411" rel="alternate"/>
+    <published>2023-02-04T05:00:19+00:00</published>
   </entry>
 </feed>
