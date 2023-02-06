@@ -11,7 +11,7 @@ from datetime import datetime, timezone
 # Custom Domain
 ghPagesURL = "https://tiktokrss.conoroneill.com/"
 
-count = 10
+maxItems = 5
 
 with open('subscriptions.csv') as f:
     cf = csv.DictReader(f, fieldnames=['username'])
@@ -40,7 +40,7 @@ with open('subscriptions.csv') as f:
                 tiktokuser = api.user(csvuser)
                 i = 0
                 for video in tiktokuser.videos:
-                    if i >= 10:
+                    if i >= maxItems:
                         break
                     i = i + 1
                     # print(video.create_time, video.desc)
