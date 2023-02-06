@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-02-04T05:00:19+00:00</updated>
+  <updated>2023-02-06T00:06:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7187453931394633006</id>
-    <title>Wednesday morning TSA:  I know it’s tough when we love and respect people so much that we want to spare their feelings, but honey sometimes doing so, we hurt ourselves.. It’s not fair to you… Your feelings matter too honey!  I love you ❤️ #s#spreadlovet#t</title>
-    <updated>2023-01-11T17:52:33+00:00</updated>
-    <content>Wednesday morning TSA:  I know it’s tough when we love and respect people so much that we want to spare their feelings, but honey sometimes doing so, we hurt ourselves.. It’s not fair to you… Your feelings matter too honey!  I love you ❤️ #s#spreadlovet#tabithabrownselflove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7187453931394633006" rel="alternate"/>
-    <published>2023-01-11T17:52:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7188168483908341038</id>
     <title>I’m so sorry y’all, I ain’t mean to create no extra @target addictions❤️. But if it makes any difference, I’m right there with y’all😂😂😂😂. Honey if you ain’t tried it, don’t do it 😂. Just walk away from the purple bag😂😂😂. #dairyfree #garlicparmesan #popcor</title>
@@ -91,5 +83,13 @@
     <content>This week on Fridays with Tab and Chance we talk about conversations that families should have before death… If I go first it’s going down 👻 😂. JK but maybe forreal😂  Full episode is up now on @youtube ❤️ #t#tabithabrownc#chancebrownf#fridayswithtabandchancel#lifeafterdeathm#marriagef#familyc#conversationsl#lifed#deathoodies from @_fivefoldsclothing</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7196161047131098411" rel="alternate"/>
     <published>2023-02-04T05:00:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7196827508400999726</id>
+    <title>Sometimes people won’t see your worth until you’re gone❤️. Stay encouraged! Love you! #selflove #spreadlove #tabithabrown</title>
+    <updated>2023-02-06T00:06:32+00:00</updated>
+    <content>Sometimes people won’t see your worth until you’re gone❤️. Stay encouraged! Love you! #selflove #spreadlove #tabithabrown</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7196827508400999726" rel="alternate"/>
+    <published>2023-02-06T00:06:32+00:00</published>
   </entry>
 </feed>
