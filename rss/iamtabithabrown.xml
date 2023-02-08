@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-02-06T00:06:32+00:00</updated>
+  <updated>2023-02-08T05:09:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7190067592810351915</id>
-    <title>After 1 Pilates class and I woke up a changed woman 😂😂😂 #tabithabrown #fitness #pilates #spreadlove #laughter </title>
-    <updated>2023-01-18T18:54:38+00:00</updated>
-    <content>After 1 Pilates class and I woke up a changed woman 😂😂😂 #tabithabrown #fitness #pilates #spreadlove #laughter </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7190067592810351915" rel="alternate"/>
-    <published>2023-01-18T18:54:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7192452150994242859</id>
     <title>How much longer you gonna accept one sided love?  You deserve so much more!  You are worthy of pure unconditional love! I love you! ❤️ #unconditionallove #worthy #spreadlove #selflove #tabithabrown </title>
@@ -51,5 +43,13 @@
     <content>Sometimes people won’t see your worth until you’re gone❤️. Stay encouraged! Love you! #selflove #spreadlove #tabithabrown</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7196827508400999726" rel="alternate"/>
     <published>2023-02-06T00:06:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7197647822974504234</id>
+    <title>I be trying to explain to my girlfriends how you feel the first time you put one of those mint honey pot pads on but they don’t believe me😂😂😂. This how you be the first time 😂😂😂 after that you either hooked or you out ✌🏾…. I’m hooked😂😂😂 #t#tabithabrownh#h</title>
+    <updated>2023-02-08T05:09:49+00:00</updated>
+    <content>I be trying to explain to my girlfriends how you feel the first time you put one of those mint honey pot pads on but they don’t believe me😂😂😂. This how you be the first time 😂😂😂 after that you either hooked or you out ✌🏾…. I’m hooked😂😂😂 #t#tabithabrownh#honeypotm#mintp#padsw#womenh#healthf#femininem#monthlyr#reallifeh#humorcomedy</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7197647822974504234" rel="alternate"/>
+    <published>2023-02-08T05:09:49+00:00</published>
   </entry>
 </feed>
