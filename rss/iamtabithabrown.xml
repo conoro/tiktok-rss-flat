@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-02-08T05:09:49+00:00</updated>
+  <updated>2023-02-09T03:22:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7192452150994242859</id>
-    <title>How much longer you gonna accept one sided love?  You deserve so much more!  You are worthy of pure unconditional love! I love you! ❤️ #unconditionallove #worthy #spreadlove #selflove #tabithabrown </title>
-    <updated>2023-01-25T05:08:04+00:00</updated>
-    <content>How much longer you gonna accept one sided love?  You deserve so much more!  You are worthy of pure unconditional love! I love you! ❤️ #unconditionallove #worthy #spreadlove #selflove #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7192452150994242859" rel="alternate"/>
-    <published>2023-01-25T05:08:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7193718481890725163</id>
     <title>Family you asked and @samsclub  and @mccormickspices  delivered!!! Sunshine is officially at Sam’s Club in the big bottle!!! Thank you all so much!!! I’m so grateful for y’all’s love and the continued support when I have so much happening, y’all still kee</title>
@@ -51,5 +43,13 @@
     <content>I be trying to explain to my girlfriends how you feel the first time you put one of those mint honey pot pads on but they don’t believe me😂😂😂. This how you be the first time 😂😂😂 after that you either hooked or you out ✌🏾…. I’m hooked😂😂😂 #t#tabithabrownh#honeypotm#mintp#padsw#womenh#healthf#femininem#monthlyr#reallifeh#humorcomedy</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7197647822974504234" rel="alternate"/>
     <published>2023-02-08T05:09:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7197991222789623082</id>
+    <title>Hey family this Friday is the last day to vote for my @naacpimageawards nominations!! I’m so grateful to just be nominated but taking home the win would be very good as well😂. If you can please vote everyday until Friday!! Thank you so much for y’all’s co</title>
+    <updated>2023-02-09T03:22:18+00:00</updated>
+    <content>Hey family this Friday is the last day to vote for my @naacpimageawards nominations!! I’m so grateful to just be nominated but taking home the win would be very good as well😂. If you can please vote everyday until Friday!! Thank you so much for y’all’s continued love and support of #TabTime 🙏🏾 #tabithabrown #VOTE #naacpimageawards</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7197991222789623082" rel="alternate"/>
+    <published>2023-02-09T03:22:18+00:00</published>
   </entry>
 </feed>
