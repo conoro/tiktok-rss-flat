@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-02-16T03:22:44+00:00</updated>
+  <updated>2023-02-18T01:20:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7196827508400999726</id>
-    <title>Sometimes people won’t see your worth until you’re gone❤️. Stay encouraged! Love you! #selflove #spreadlove #tabithabrown</title>
-    <updated>2023-02-06T00:06:32+00:00</updated>
-    <content>Sometimes people won’t see your worth until you’re gone❤️. Stay encouraged! Love you! #selflove #spreadlove #tabithabrown</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7196827508400999726" rel="alternate"/>
-    <published>2023-02-06T00:06:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7197647822974504234</id>
     <title>I be trying to explain to my girlfriends how you feel the first time you put one of those mint honey pot pads on but they don’t believe me😂😂😂. This how you be the first time 😂😂😂 after that you either hooked or you out ✌🏾…. I’m hooked😂😂😂 #t#tabithabrownh#h</title>
@@ -51,5 +43,13 @@
     <content>Dear parents, Stop being so hard on yourself, you’re doing a great job ❤️ #tabithabrown #parenting #spreadlove </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7200588905966472491" rel="alternate"/>
     <published>2023-02-16T03:22:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7201299719254019374</id>
+    <title>Who else loves the 90’s??  I get so excited 😂😂😂 #fridayswithtabandchance #tabithabrown #chancebrown #90s #dmx #inlivingcolor </title>
+    <updated>2023-02-18T01:20:57+00:00</updated>
+    <content>Who else loves the 90’s??  I get so excited 😂😂😂 #fridayswithtabandchance #tabithabrown #chancebrown #90s #dmx #inlivingcolor </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7201299719254019374" rel="alternate"/>
+    <published>2023-02-18T01:20:57+00:00</published>
   </entry>
 </feed>
