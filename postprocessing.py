@@ -37,12 +37,8 @@ with open('subscriptions.csv') as f:
 
             with TikTokAPI() as api:
 #            with TikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
-                tiktokuser = api.user(csvuser)
-                i = 0
+                tiktokuser = api.user(csvuser, video_limit=maxItems)
                 for video in tiktokuser.videos:
-                    if i >= maxItems:
-                        break
-                    i = i + 1
                     # print(video.create_time, video.desc)
                     print("URL = " + "https://www.tiktok.com/@" + csvuser + "/video/" + str(video.id))
                     fe = fg.add_entry()
