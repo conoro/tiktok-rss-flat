@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2023-02-19T01:00:51+00:00</updated>
+  <updated>2023-02-21T02:37:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7174932142320028974</id>
-    <title>December shows in NJ &amp; MA! Plus more for 2023 in my bio 😁 #retail #bgcdramaeffect #NJ #MA </title>
-    <updated>2022-12-09T00:01:19+00:00</updated>
-    <content>December shows in NJ &amp; MA! Plus more for 2023 in my bio 😁 #retail #bgcdramaeffect #NJ #MA </content>
-    <link href="https://tiktok.com/@scottseiss/video/7174932142320028974" rel="alternate"/>
-    <published>2022-12-09T00:01:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7187920048529460523</id>
     <title>Going to the Midwest and MA for the first batch of 2023 shows 😁 Link in bio for 🎟 #midwest #massachusetts #work #retail #comedy </title>
@@ -51,5 +43,13 @@
     <content>We had the best drool technicians in the biz #movie #behindthescenes #comedу #cocainebear </content>
     <link href="https://tiktok.com/@scottseiss/video/7201665623133261099" rel="alternate"/>
     <published>2023-02-19T01:00:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7202432596876315950</id>
+    <title>Patiently awaiting the Cocaine Bear/Fast and Furious crossover #movie #behindthescenes #comedу #cocainebear #makingof </title>
+    <updated>2023-02-21T02:37:08+00:00</updated>
+    <content>Patiently awaiting the Cocaine Bear/Fast and Furious crossover #movie #behindthescenes #comedу #cocainebear #makingof </content>
+    <link href="https://tiktok.com/@scottseiss/video/7202432596876315950" rel="alternate"/>
+    <published>2023-02-21T02:37:08+00:00</published>
   </entry>
 </feed>
