@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-02-20T21:55:31+00:00</updated>
+  <updated>2023-02-24T07:01:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7200231981072977198</id>
-    <title>Celebrated Valentine’s Day with my hubby by launching our podcast!! We hope y’all enjoy!! Click the link in our it bio to watch and listen❤️. Love y’all!! #tabithabrown #fridayswithtabandchance #podcast </title>
-    <updated>2023-02-15T04:17:35+00:00</updated>
-    <content>Celebrated Valentine’s Day with my hubby by launching our podcast!! We hope y’all enjoy!! Click the link in our it bio to watch and listen❤️. Love y’all!! #tabithabrown #fridayswithtabandchance #podcast </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7200231981072977198" rel="alternate"/>
-    <published>2023-02-15T04:17:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7200588905966472491</id>
     <title>Dear parents, Stop being so hard on yourself, you’re doing a great job ❤️ #tabithabrown #parenting #spreadlove </title>
@@ -51,5 +43,13 @@
     <content>Listen them actions ain’t matching the dream baby…. It’s time for some alignment!! Do the things that are going to move you closer to the dream… Ok?  Just telling you because I love you….❤️  #stayfocused #tabithabrown #spreadlove </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7202360019076058411" rel="alternate"/>
     <published>2023-02-20T21:55:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7203614084984556842</id>
+    <title>It’s ok that it didn’t work out! ❤️ Something better is coming!! Hang in there❤️ love you #tabithabrown #spreadlove </title>
+    <updated>2023-02-24T07:01:58+00:00</updated>
+    <content>It’s ok that it didn’t work out! ❤️ Something better is coming!! Hang in there❤️ love you #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7203614084984556842" rel="alternate"/>
+    <published>2023-02-24T07:01:58+00:00</published>
   </entry>
 </feed>
