@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2023-02-21T02:37:08+00:00</updated>
+  <updated>2023-02-23T23:57:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7187920048529460523</id>
-    <title>Going to the Midwest and MA for the first batch of 2023 shows 😁 Link in bio for 🎟 #midwest #massachusetts #work #retail #comedy </title>
-    <updated>2023-01-13T00:01:00+00:00</updated>
-    <content>Going to the Midwest and MA for the first batch of 2023 shows 😁 Link in bio for 🎟 #midwest #massachusetts #work #retail #comedy </content>
-    <link href="https://tiktok.com/@scottseiss/video/7187920048529460523" rel="alternate"/>
-    <published>2023-01-13T00:01:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7188680501165641003</id>
     <title>#fyp #bgcdramaeffect #work #rageapply #quietquitting </title>
@@ -51,5 +43,13 @@
     <content>Patiently awaiting the Cocaine Bear/Fast and Furious crossover #movie #behindthescenes #comedу #cocainebear #makingof </content>
     <link href="https://tiktok.com/@scottseiss/video/7202432596876315950" rel="alternate"/>
     <published>2023-02-21T02:37:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7203504823625420078</id>
+    <title>#movie #comedу #bgcdramaeffect #cocainebear #fyp </title>
+    <updated>2023-02-23T23:57:51+00:00</updated>
+    <content>#movie #comedу #bgcdramaeffect #cocainebear #fyp </content>
+    <link href="https://tiktok.com/@scottseiss/video/7203504823625420078" rel="alternate"/>
+    <published>2023-02-23T23:57:51+00:00</published>
   </entry>
 </feed>
