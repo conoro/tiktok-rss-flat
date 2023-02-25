@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-02-25T17:13:28+00:00</updated>
+  <updated>2023-02-25T21:16:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7201299719254019374</id>
-    <title>Who else loves the 90’s??  I get so excited 😂😂😂 #fridayswithtabandchance #tabithabrown #chancebrown #90s #dmx #inlivingcolor </title>
-    <updated>2023-02-18T01:20:57+00:00</updated>
-    <content>Who else loves the 90’s??  I get so excited 😂😂😂 #fridayswithtabandchance #tabithabrown #chancebrown #90s #dmx #inlivingcolor </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7201299719254019374" rel="alternate"/>
-    <published>2023-02-18T01:20:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7201701463909764395</id>
     <title>Family time should be full of sunshine right? Well let’s get into this Sunshine Spinach artichoke dip that your family will surely enjoy! Also just a reminder that the big bottle of my @mccormickspices  Sunshine seasoning is now available @samsclub  ❤️ No</title>
@@ -51,5 +43,13 @@
     <content>Helping small businesses has always been a big passion for me.  This is one thing that can hurt you and your business really quick!  Believe me I’ve seen it happen and businesses have even done it to me, and then they wonder why people stop ordering or supporting them.  Integrity is a huge part of business and without it, you wont prosper!  Please don’t do this yall!! Believe in the journey, the money will come, but don’t do this😩 #supportsmallbusiness #smallbusiness #knowledge #spreadlove #verygoodmondays #tabithabrown  God is❤️ hoodie available on my website! IamTabithaBrown.com link also in my bio❤️</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7204142741083786538" rel="alternate"/>
     <published>2023-02-25T17:13:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7204205408909675822</id>
+    <title>To whom ever this is for God placed this heavy on my heart for you❤️. You’re trying to pay a debt, that you don’t owe and it’s killing you honey. #spreadlove #tabithabrown #selflove #compassion </title>
+    <updated>2023-02-25T21:16:35+00:00</updated>
+    <content>To whom ever this is for God placed this heavy on my heart for you❤️. You’re trying to pay a debt, that you don’t owe and it’s killing you honey. #spreadlove #tabithabrown #selflove #compassion </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7204205408909675822" rel="alternate"/>
+    <published>2023-02-25T21:16:35+00:00</published>
   </entry>
 </feed>
