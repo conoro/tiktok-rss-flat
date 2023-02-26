@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2023-02-23T23:57:51+00:00</updated>
+  <updated>2023-02-26T01:00:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7188680501165641003</id>
-    <title>#fyp #bgcdramaeffect #work #rageapply #quietquitting </title>
-    <updated>2023-01-15T01:11:58+00:00</updated>
-    <content>#fyp #bgcdramaeffect #work #rageapply #quietquitting </content>
-    <link href="https://tiktok.com/@scottseiss/video/7188680501165641003" rel="alternate"/>
-    <published>2023-01-15T01:11:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7193872751134870827</id>
     <title>Chicago late show added! Link in bio for 🎟 #work  #comedу #chicago #illinois  </title>
@@ -51,5 +43,13 @@
     <content>#movie #comedу #bgcdramaeffect #cocainebear #fyp </content>
     <link href="https://tiktok.com/@scottseiss/video/7203504823625420078" rel="alternate"/>
     <published>2023-02-23T23:57:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7204263120179727662</id>
+    <title>In theatres now! #movie  #comedу #cocainebear  #fyp </title>
+    <updated>2023-02-26T01:00:32+00:00</updated>
+    <content>In theatres now! #movie  #comedу #cocainebear  #fyp </content>
+    <link href="https://tiktok.com/@scottseiss/video/7204263120179727662" rel="alternate"/>
+    <published>2023-02-26T01:00:32+00:00</published>
   </entry>
 </feed>
