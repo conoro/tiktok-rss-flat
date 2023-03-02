@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@texasbeeworks</id>
   <title>texasbeeworks TikTok</title>
-  <updated>2023-02-01T16:09:31+00:00</updated>
+  <updated>2023-03-02T14:11:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from texasbeeworks</subtitle>
-  <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/7133978379086482734</id>
-    <title>Thank you, bees! #honeybees #beekeeping #savingthebees</title>
-    <updated>2022-08-20T15:19:42+00:00</updated>
-    <content>Thank you, bees! #honeybees #beekeeping #savingthebees</content>
-    <link href="https://tiktok.com/@texasbeeworks/video/7133978379086482734" rel="alternate"/>
-    <published>2022-08-20T15:19:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@texasbeeworks/video/7149158908479802670</id>
     <title>The most amazing swarm of bees I’ve ever seen! #bees #texas #beekeeper #nature #animals #savingthebees</title>
@@ -51,5 +43,13 @@
     <content>This is how honeybees survive the winter #bees #beekeeper #insects #nature</content>
     <link href="https://tiktok.com/@texasbeeworks/video/7195220227829927210" rel="alternate"/>
     <published>2023-02-01T16:09:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/7205951253686275374</id>
+    <title>Bees on board! #beekeeping #truck #savingthebees </title>
+    <updated>2023-03-02T14:11:18+00:00</updated>
+    <content>Bees on board! #beekeeping #truck #savingthebees </content>
+    <link href="https://tiktok.com/@texasbeeworks/video/7205951253686275374" rel="alternate"/>
+    <published>2023-03-02T14:11:18+00:00</published>
   </entry>
 </feed>
