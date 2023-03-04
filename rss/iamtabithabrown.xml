@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-03-01T14:24:25+00:00</updated>
+  <updated>2023-03-04T03:11:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7202360019076058411</id>
-    <title>Listen them actions ain’t matching the dream baby…. It’s time for some alignment!! Do the things that are going to move you closer to the dream… Ok?  Just telling you because I love you….❤️  #stayfocused #tabithabrown #spreadlove </title>
-    <updated>2023-02-20T21:55:31+00:00</updated>
-    <content>Listen them actions ain’t matching the dream baby…. It’s time for some alignment!! Do the things that are going to move you closer to the dream… Ok?  Just telling you because I love you….❤️  #stayfocused #tabithabrown #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7202360019076058411" rel="alternate"/>
-    <published>2023-02-20T21:55:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7203614084984556842</id>
     <title>It’s ok that it didn’t work out! ❤️ Something better is coming!! Hang in there❤️ love you #tabithabrown #spreadlove </title>
@@ -51,5 +43,13 @@
     <content>That buffalo cauliflower had my daddy cutting up 😂😂😂. #daddysgirl #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7205583537641098542" rel="alternate"/>
     <published>2023-03-01T14:24:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7206523488209898798</id>
+    <title>This week on Fridays with Tab and Chance we are talking all about how the insecurities that both men and women can sometimes have❤️. Join us for the conversation!! Head on over to YouTube for the full episode ❤️ Click the link in my bio to watch❤️ #friday</title>
+    <updated>2023-03-04T03:11:51+00:00</updated>
+    <content>This week on Fridays with Tab and Chance we are talking all about how the insecurities that both men and women can sometimes have❤️. Join us for the conversation!! Head on over to YouTube for the full episode ❤️ Click the link in my bio to watch❤️ #fridayswithtabandchance #insecurities #women #men #bodypositivity </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7206523488209898798" rel="alternate"/>
+    <published>2023-03-04T03:11:51+00:00</published>
   </entry>
 </feed>
