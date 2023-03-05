@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-03-04T03:11:51+00:00</updated>
+  <updated>2023-03-05T20:07:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7203614084984556842</id>
-    <title>It’s ok that it didn’t work out! ❤️ Something better is coming!! Hang in there❤️ love you #tabithabrown #spreadlove </title>
-    <updated>2023-02-24T07:01:58+00:00</updated>
-    <content>It’s ok that it didn’t work out! ❤️ Something better is coming!! Hang in there❤️ love you #tabithabrown #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7203614084984556842" rel="alternate"/>
-    <published>2023-02-24T07:01:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7204142741083786538</id>
     <title>Helping small businesses has always been a big passion for me.  This is one thing that can hurt you and your business really quick!  Believe me I’ve seen it happen and businesses have even done it to me, and then they wonder why people stop ordering or su</title>
@@ -51,5 +43,13 @@
     <content>This week on Fridays with Tab and Chance we are talking all about how the insecurities that both men and women can sometimes have❤️. Join us for the conversation!! Head on over to YouTube for the full episode ❤️ Click the link in my bio to watch❤️ #fridayswithtabandchance #insecurities #women #men #bodypositivity </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7206523488209898798" rel="alternate"/>
     <published>2023-03-04T03:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7207156264319733034</id>
+    <title>Vegan tuna salad uaing carrot pulp and jackfruit for the lunch win! #tabithabrown #vegan #foodie #fyp </title>
+    <updated>2023-03-05T20:07:32+00:00</updated>
+    <content>Vegan tuna salad uaing carrot pulp and jackfruit for the lunch win! #tabithabrown #vegan #foodie #fyp </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7207156264319733034" rel="alternate"/>
+    <published>2023-03-05T20:07:32+00:00</published>
   </entry>
 </feed>
