@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-03-05T20:07:32+00:00</updated>
+  <updated>2023-03-07T21:32:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7204142741083786538</id>
-    <title>Helping small businesses has always been a big passion for me.  This is one thing that can hurt you and your business really quick!  Believe me I’ve seen it happen and businesses have even done it to me, and then they wonder why people stop ordering or su</title>
-    <updated>2023-02-25T17:13:28+00:00</updated>
-    <content>Helping small businesses has always been a big passion for me.  This is one thing that can hurt you and your business really quick!  Believe me I’ve seen it happen and businesses have even done it to me, and then they wonder why people stop ordering or supporting them.  Integrity is a huge part of business and without it, you wont prosper!  Please don’t do this yall!! Believe in the journey, the money will come, but don’t do this😩 #supportsmallbusiness #smallbusiness #knowledge #spreadlove #verygoodmondays #tabithabrown  God is❤️ hoodie available on my website! IamTabithaBrown.com link also in my bio❤️</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7204142741083786538" rel="alternate"/>
-    <published>2023-02-25T17:13:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7204205408909675822</id>
     <title>To whom ever this is for God placed this heavy on my heart for you❤️. You’re trying to pay a debt, that you don’t owe and it’s killing you honey. #spreadlove #tabithabrown #selflove #compassion </title>
@@ -51,5 +43,13 @@
     <content>Vegan tuna salad uaing carrot pulp and jackfruit for the lunch win! #tabithabrown #vegan #foodie #fyp </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7207156264319733034" rel="alternate"/>
     <published>2023-03-05T20:07:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7207920450834369834</id>
+    <title>Afternoon TSA(Tab Service Announcement): If you don’t have knowledge of something, take time to find out❤️ and if you don’t want to research or learn about the unknown 🤐. Let’s all work on being more understanding❤️. Love y’all!  #tabithabrown #spreadlove</title>
+    <updated>2023-03-07T21:32:51+00:00</updated>
+    <content>Afternoon TSA(Tab Service Announcement): If you don’t have knowledge of something, take time to find out❤️ and if you don’t want to research or learn about the unknown 🤐. Let’s all work on being more understanding❤️. Love y’all!  #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7207920450834369834" rel="alternate"/>
+    <published>2023-03-07T21:32:51+00:00</published>
   </entry>
 </feed>
