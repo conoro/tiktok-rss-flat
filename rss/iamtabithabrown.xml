@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-03-09T00:37:14+00:00</updated>
+  <updated>2023-03-11T16:22:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7205583537641098542</id>
-    <title>That buffalo cauliflower had my daddy cutting up 😂😂😂. #daddysgirl #tabithabrown </title>
-    <updated>2023-03-01T14:24:25+00:00</updated>
-    <content>That buffalo cauliflower had my daddy cutting up 😂😂😂. #daddysgirl #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7205583537641098542" rel="alternate"/>
-    <published>2023-03-01T14:24:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7206523488209898798</id>
     <title>This week on Fridays with Tab and Chance we are talking all about how the insecurities that both men and women can sometimes have❤️. Join us for the conversation!! Head on over to YouTube for the full episode ❤️ Click the link in my bio to watch❤️ #friday</title>
@@ -51,5 +43,13 @@
     <content>Happy International Womens day from me and a double shot of espresso 😂😂. Rock steady ladies😂❤️ #tabithabrown #internationalwomensday #laughter #joy #dance #spreadlove </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7208339071364582699" rel="alternate"/>
     <published>2023-03-09T00:37:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7209324890963414314</id>
+    <title>I wasnt always free! I took “fake it til you make it” to the extreme!! I got to a point that I lost myself, but God I thank you for bringing me back🥹🙌🏾. Sending encouragement to anyone that needs to be reminded that YOU as YOU are, is enough!! ❤️ Love yal</title>
+    <updated>2023-03-11T16:22:51+00:00</updated>
+    <content>I wasnt always free! I took “fake it til you make it” to the extreme!! I got to a point that I lost myself, but God I thank you for bringing me back🥹🙌🏾. Sending encouragement to anyone that needs to be reminded that YOU as YOU are, is enough!! ❤️ Love yall! #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7209324890963414314" rel="alternate"/>
+    <published>2023-03-11T16:22:51+00:00</published>
   </entry>
 </feed>
