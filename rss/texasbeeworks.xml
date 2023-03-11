@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@texasbeeworks</id>
   <title>texasbeeworks TikTok</title>
-  <updated>2023-03-02T14:11:18+00:00</updated>
+  <updated>2023-03-11T13:14:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from texasbeeworks</subtitle>
-  <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/7149158908479802670</id>
-    <title>The most amazing swarm of bees I’ve ever seen! #bees #texas #beekeeper #nature #animals #savingthebees</title>
-    <updated>2022-09-30T13:08:20+00:00</updated>
-    <content>The most amazing swarm of bees I’ve ever seen! #bees #texas #beekeeper #nature #animals #savingthebees</content>
-    <link href="https://tiktok.com/@texasbeeworks/video/7149158908479802670" rel="alternate"/>
-    <published>2022-09-30T13:08:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@texasbeeworks/video/7162178876095991083</id>
     <title>Bees for a better Texas! @Beto O’Rourke #texas #vote #beto  </title>
@@ -51,5 +43,13 @@
     <content>Bees on board! #beekeeping #truck #savingthebees </content>
     <link href="https://tiktok.com/@texasbeeworks/video/7205951253686275374" rel="alternate"/>
     <published>2023-03-02T14:11:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/7209276261162634538</id>
+    <title>Big beehive in a box! #bees #beekeeper #insects #beeremoval #savingthebees </title>
+    <updated>2023-03-11T13:14:35+00:00</updated>
+    <content>Big beehive in a box! #bees #beekeeper #insects #beeremoval #savingthebees </content>
+    <link href="https://tiktok.com/@texasbeeworks/video/7209276261162634538" rel="alternate"/>
+    <published>2023-03-11T13:14:35+00:00</published>
   </entry>
 </feed>
