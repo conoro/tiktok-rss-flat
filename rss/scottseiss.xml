@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2023-03-05T01:01:02+00:00</updated>
+  <updated>2023-03-19T00:00:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7201665623133261099</id>
-    <title>We had the best drool technicians in the biz #movie #behindthescenes #comedу #cocainebear </title>
-    <updated>2023-02-19T01:00:51+00:00</updated>
-    <content>We had the best drool technicians in the biz #movie #behindthescenes #comedу #cocainebear </content>
-    <link href="https://tiktok.com/@scottseiss/video/7201665623133261099" rel="alternate"/>
-    <published>2023-02-19T01:00:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7202432596876315950</id>
     <title>Patiently awaiting the Cocaine Bear/Fast and Furious crossover #movie #behindthescenes #comedу #cocainebear #makingof </title>
@@ -51,5 +43,13 @@
     <content>Link in bio for tickets! #comedу #work #missouri #rochesterny #michigan #bgcdramaeffect #fyp </content>
     <link href="https://tiktok.com/@scottseiss/video/7206860853541522734" rel="alternate"/>
     <published>2023-03-05T01:01:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7212040519864552747</id>
+    <title>“You should tip your landlord” New tour dates in TX, CA, NC, MO, MA, NY &amp; more! Link in bio for full schedule #rent #landlord  #comedу #fyp #bgcdramaeffect </title>
+    <updated>2023-03-19T00:00:47+00:00</updated>
+    <content>“You should tip your landlord” New tour dates in TX, CA, NC, MO, MA, NY &amp; more! Link in bio for full schedule #rent #landlord  #comedу #fyp #bgcdramaeffect </content>
+    <link href="https://tiktok.com/@scottseiss/video/7212040519864552747" rel="alternate"/>
+    <published>2023-03-19T00:00:47+00:00</published>
   </entry>
 </feed>
