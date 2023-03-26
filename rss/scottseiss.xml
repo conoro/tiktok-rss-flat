@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2023-03-19T00:00:47+00:00</updated>
+  <updated>2023-03-26T00:00:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7202432596876315950</id>
-    <title>Patiently awaiting the Cocaine Bear/Fast and Furious crossover #movie #behindthescenes #comedу #cocainebear #makingof </title>
-    <updated>2023-02-21T02:37:08+00:00</updated>
-    <content>Patiently awaiting the Cocaine Bear/Fast and Furious crossover #movie #behindthescenes #comedу #cocainebear #makingof </content>
-    <link href="https://tiktok.com/@scottseiss/video/7202432596876315950" rel="alternate"/>
-    <published>2023-02-21T02:37:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7203504823625420078</id>
     <title>#movie #comedу #bgcdramaeffect #cocainebear #fyp </title>
@@ -51,5 +43,13 @@
     <content>“You should tip your landlord” New tour dates in TX, CA, NC, MO, MA, NY &amp; more! Link in bio for full schedule #rent #landlord  #comedу #fyp #bgcdramaeffect </content>
     <link href="https://tiktok.com/@scottseiss/video/7212040519864552747" rel="alternate"/>
     <published>2023-03-19T00:00:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7214638168333618475</id>
+    <title>Texas! California! Added late shows for MO! And more! Link in bio for full schedule  and tickets #fyp #comedу #work #standup #tour </title>
+    <updated>2023-03-26T00:00:59+00:00</updated>
+    <content>Texas! California! Added late shows for MO! And more! Link in bio for full schedule  and tickets #fyp #comedу #work #standup #tour </content>
+    <link href="https://tiktok.com/@scottseiss/video/7214638168333618475" rel="alternate"/>
+    <published>2023-03-26T00:00:59+00:00</published>
   </entry>
 </feed>
