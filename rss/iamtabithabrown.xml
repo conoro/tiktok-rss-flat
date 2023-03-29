@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-03-19T19:12:07+00:00</updated>
+  <updated>2023-03-29T03:27:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7209324890963414314</id>
-    <title>I wasnt always free! I took “fake it til you make it” to the extreme!! I got to a point that I lost myself, but God I thank you for bringing me back🥹🙌🏾. Sending encouragement to anyone that needs to be reminded that YOU as YOU are, is enough!! ❤️ Love yal</title>
-    <updated>2023-03-11T16:22:51+00:00</updated>
-    <content>I wasnt always free! I took “fake it til you make it” to the extreme!! I got to a point that I lost myself, but God I thank you for bringing me back🥹🙌🏾. Sending encouragement to anyone that needs to be reminded that YOU as YOU are, is enough!! ❤️ Love yall! #tabithabrown #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7209324890963414314" rel="alternate"/>
-    <published>2023-03-11T16:22:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7209898229696154922</id>
     <title>Don’t allow that one negative thing to make you forget about all the positive things that are happening! I love you ❤️ #tabithabrown #spreadlove #positivity </title>
@@ -51,5 +43,13 @@
     <content>Time to take responsibility so we can get back to feeling better❤️ You’re not a bad person! I love you! #tabithabrown #spreadlove #honesty #accountability </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7212337205317078314" rel="alternate"/>
     <published>2023-03-19T19:12:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7215804749310872874</id>
+    <title>It wasnt my fault and it wasn’t your fault!  You didn’t deserve that… I love you❤️ #tabithabrown #spreadlove  #victim #survivor </title>
+    <updated>2023-03-29T03:27:58+00:00</updated>
+    <content>It wasnt my fault and it wasn’t your fault!  You didn’t deserve that… I love you❤️ #tabithabrown #spreadlove  #victim #survivor </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7215804749310872874" rel="alternate"/>
+    <published>2023-03-29T03:27:58+00:00</published>
   </entry>
 </feed>
