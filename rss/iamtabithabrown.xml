@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-04-08T13:07:32+00:00</updated>
+  <updated>2023-04-11T16:26:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7210989837191646510</id>
-    <title>Your word is powerful ❤️ #spreadlove #tabithabrown </title>
-    <updated>2023-03-16T04:03:40+00:00</updated>
-    <content>Your word is powerful ❤️ #spreadlove #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7210989837191646510" rel="alternate"/>
-    <published>2023-03-16T04:03:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7212337205317078314</id>
     <title>Time to take responsibility so we can get back to feeling better❤️ You’re not a bad person! I love you! #tabithabrown #spreadlove #honesty #accountability </title>
@@ -51,5 +43,13 @@
     <content>Love yourself and live your life❤️. Spring breaking with my family in Nevis and super grateful🏝️.   #hips #thighs #and #fries #tabithabrown #springbreak #nevis </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7219664793404296490" rel="alternate"/>
     <published>2023-04-08T13:07:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7220829392052686126</id>
+    <title>Morning TSA:  You upset because you made a decision to get involved in something that wasn’t your business 😫 With love, stay out other folk’s business ❤️. #spreadlove #tabithabrown</title>
+    <updated>2023-04-11T16:26:11+00:00</updated>
+    <content>Morning TSA:  You upset because you made a decision to get involved in something that wasn’t your business 😫 With love, stay out other folk’s business ❤️. #spreadlove #tabithabrown</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7220829392052686126" rel="alternate"/>
+    <published>2023-04-11T16:26:11+00:00</published>
   </entry>
 </feed>
