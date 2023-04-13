@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-04-11T16:26:11+00:00</updated>
+  <updated>2023-04-13T21:54:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7212337205317078314</id>
-    <title>Time to take responsibility so we can get back to feeling better❤️ You’re not a bad person! I love you! #tabithabrown #spreadlove #honesty #accountability </title>
-    <updated>2023-03-19T19:12:07+00:00</updated>
-    <content>Time to take responsibility so we can get back to feeling better❤️ You’re not a bad person! I love you! #tabithabrown #spreadlove #honesty #accountability </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7212337205317078314" rel="alternate"/>
-    <published>2023-03-19T19:12:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7215804749310872874</id>
     <title>It wasnt my fault and it wasn’t your fault!  You didn’t deserve that… I love you❤️ #tabithabrown #spreadlove  #victim #survivor </title>
@@ -51,5 +43,13 @@
     <content>Morning TSA:  You upset because you made a decision to get involved in something that wasn’t your business 😫 With love, stay out other folk’s business ❤️. #spreadlove #tabithabrown</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7220829392052686126" rel="alternate"/>
     <published>2023-04-11T16:26:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7221656269860457774</id>
+    <title>It was a lie!!! Yes you can!! #tabithabrown #spreadlove </title>
+    <updated>2023-04-13T21:54:42+00:00</updated>
+    <content>It was a lie!!! Yes you can!! #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7221656269860457774" rel="alternate"/>
+    <published>2023-04-13T21:54:42+00:00</published>
   </entry>
 </feed>
