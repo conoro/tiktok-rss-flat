@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-04-13T21:54:42+00:00</updated>
+  <updated>2023-04-18T17:35:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7215804749310872874</id>
-    <title>It wasnt my fault and it wasn’t your fault!  You didn’t deserve that… I love you❤️ #tabithabrown #spreadlove  #victim #survivor </title>
-    <updated>2023-03-29T03:27:58+00:00</updated>
-    <content>It wasnt my fault and it wasn’t your fault!  You didn’t deserve that… I love you❤️ #tabithabrown #spreadlove  #victim #survivor </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7215804749310872874" rel="alternate"/>
-    <published>2023-03-29T03:27:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7217906492479900971</id>
     <title>Vacationing with my Daddy😂😂😂. He said use his sound on yalls vacation 😂😂😂 #daddysgirl #tabithabrown #countryfolk #nevis </title>
@@ -51,5 +43,13 @@
     <content>It was a lie!!! Yes you can!! #tabithabrown #spreadlove </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7221656269860457774" rel="alternate"/>
     <published>2023-04-13T21:54:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7223444782335659310</id>
+    <title>Family!!! Look at what the Lord has done!!!! My Sunshine’s @mccormickspices  family is growing!!! Introducing the new McCormick® family members: Very Good Garlic All Purpose Seasoning Like Sweet Like Smokey All Purpose Seasoning  Burger Business Seasoning</title>
+    <updated>2023-04-18T17:35:31+00:00</updated>
+    <content>Family!!! Look at what the Lord has done!!!! My Sunshine’s @mccormickspices  family is growing!!! Introducing the new McCormick® family members: Very Good Garlic All Purpose Seasoning Like Sweet Like Smokey All Purpose Seasoning  Burger Business Seasoning Mix Taco Business Seasoning Mix Sauté Business Seasoning Mix And honey trust me they all about to be y’all’s business this spring and summer because they are coming to stores near you!! Y’all Tab got more seasonings!!!! 😭♥️ OOHHH GOD I THANK YOU🙌🏾 #mccormickpartner #tabithabrown #newseasonings #vegan #plantbased #saltfree </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7223444782335659310" rel="alternate"/>
+    <published>2023-04-18T17:35:31+00:00</published>
   </entry>
 </feed>
