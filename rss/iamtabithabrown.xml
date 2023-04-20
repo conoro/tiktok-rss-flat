@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-04-18T17:35:31+00:00</updated>
+  <updated>2023-04-20T00:46:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7217906492479900971</id>
-    <title>Vacationing with my Daddy😂😂😂. He said use his sound on yalls vacation 😂😂😂 #daddysgirl #tabithabrown #countryfolk #nevis </title>
-    <updated>2023-04-03T19:23:48+00:00</updated>
-    <content>Vacationing with my Daddy😂😂😂. He said use his sound on yalls vacation 😂😂😂 #daddysgirl #tabithabrown #countryfolk #nevis </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7217906492479900971" rel="alternate"/>
-    <published>2023-04-03T19:23:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7219664793404296490</id>
     <title>Love yourself and live your life❤️. Spring breaking with my family in Nevis and super grateful🏝️.   #hips #thighs #and #fries #tabithabrown #springbreak #nevis </title>
@@ -51,5 +43,13 @@
     <content>Family!!! Look at what the Lord has done!!!! My Sunshine’s @mccormickspices  family is growing!!! Introducing the new McCormick® family members: Very Good Garlic All Purpose Seasoning Like Sweet Like Smokey All Purpose Seasoning  Burger Business Seasoning Mix Taco Business Seasoning Mix Sauté Business Seasoning Mix And honey trust me they all about to be y’all’s business this spring and summer because they are coming to stores near you!! Y’all Tab got more seasonings!!!! 😭♥️ OOHHH GOD I THANK YOU🙌🏾 #mccormickpartner #tabithabrown #newseasonings #vegan #plantbased #saltfree </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7223444782335659310" rel="alternate"/>
     <published>2023-04-18T17:35:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7223926938434374958</id>
+    <title>I walked down the aisle to this song while our friend Terry(rip) sang his heart out for us!  It had been 5 years of dating before we got married so we knew this @iamjamiefoxx song was perfect for us!! Here we are after 25 years together and 20 years marri</title>
+    <updated>2023-04-20T00:46:10+00:00</updated>
+    <content>I walked down the aisle to this song while our friend Terry(rip) sang his heart out for us!  It had been 5 years of dating before we got married so we knew this @iamjamiefoxx song was perfect for us!! Here we are after 25 years together and 20 years married, still standing and getting stronger in love every day! We’ve been thru it all, and God has kept us and for that I say 🙌🏾OOHHH GOD I THANK YOU🙌🏾 It’s our Anniversary 🎉🎉🎉🎉 #tabithabrown #chancebrown #happyanniversary #tabandchance</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7223926938434374958" rel="alternate"/>
+    <published>2023-04-20T00:46:10+00:00</published>
   </entry>
 </feed>
