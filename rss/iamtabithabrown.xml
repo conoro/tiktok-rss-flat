@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-04-29T03:20:35+00:00</updated>
+  <updated>2023-04-29T16:46:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7220829392052686126</id>
-    <title>Morning TSA:  You upset because you made a decision to get involved in something that wasn’t your business 😫 With love, stay out other folk’s business ❤️. #spreadlove #tabithabrown</title>
-    <updated>2023-04-11T16:26:11+00:00</updated>
-    <content>Morning TSA:  You upset because you made a decision to get involved in something that wasn’t your business 😫 With love, stay out other folk’s business ❤️. #spreadlove #tabithabrown</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7220829392052686126" rel="alternate"/>
-    <published>2023-04-11T16:26:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7221656269860457774</id>
     <title>It was a lie!!! Yes you can!! #tabithabrown #spreadlove </title>
@@ -51,5 +43,13 @@
     <content>Back from Dubai with a little sciatic pain so making my pain blaster smoothie! Let’s make it together! #painrelief #smoothie #tabithabrown #recipeoftheday </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7227306505396079914" rel="alternate"/>
     <published>2023-04-29T03:20:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7227514303316856107</id>
+    <title>Important conversations in relationships can consist of many things! This is one we wanted to share! Watch the full episode on my Youtube channel. Fridays with Tab and Chance❤️ #tabithabrown #relationship #marriage #partners </title>
+    <updated>2023-04-29T16:46:58+00:00</updated>
+    <content>Important conversations in relationships can consist of many things! This is one we wanted to share! Watch the full episode on my Youtube channel. Fridays with Tab and Chance❤️ #tabithabrown #relationship #marriage #partners </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7227514303316856107" rel="alternate"/>
+    <published>2023-04-29T16:46:58+00:00</published>
   </entry>
 </feed>
