@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-04-29T16:46:58+00:00</updated>
+  <updated>2023-05-11T16:26:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7221656269860457774</id>
-    <title>It was a lie!!! Yes you can!! #tabithabrown #spreadlove </title>
-    <updated>2023-04-13T21:54:42+00:00</updated>
-    <content>It was a lie!!! Yes you can!! #tabithabrown #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7221656269860457774" rel="alternate"/>
-    <published>2023-04-13T21:54:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7223444782335659310</id>
     <title>Family!!! Look at what the Lord has done!!!! My Sunshine’s @mccormickspices  family is growing!!! Introducing the new McCormick® family members: Very Good Garlic All Purpose Seasoning Like Sweet Like Smokey All Purpose Seasoning  Burger Business Seasoning</title>
@@ -51,5 +43,13 @@
     <content>Important conversations in relationships can consist of many things! This is one we wanted to share! Watch the full episode on my Youtube channel. Fridays with Tab and Chance❤️ #tabithabrown #relationship #marriage #partners </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7227514303316856107" rel="alternate"/>
     <published>2023-04-29T16:46:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7231961961376845098</id>
+    <title>So excited to bring this fun outdoor collection to all of you this Sunday!!! See yall @target ❤️. 🙌🏾OOHHH GOD I THANK YOU🙌🏾 #targettabcollab #tabithabrown </title>
+    <updated>2023-05-11T16:26:22+00:00</updated>
+    <content>So excited to bring this fun outdoor collection to all of you this Sunday!!! See yall @target ❤️. 🙌🏾OOHHH GOD I THANK YOU🙌🏾 #targettabcollab #tabithabrown </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7231961961376845098" rel="alternate"/>
+    <published>2023-05-11T16:26:22+00:00</published>
   </entry>
 </feed>
