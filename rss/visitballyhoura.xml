@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@visitballyhoura</id>
   <title>visitballyhoura TikTok</title>
-  <updated>2023-01-27T10:49:41+00:00</updated>
+  <updated>2023-05-16T20:11:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from visitballyhoura</subtitle>
-  <entry>
-    <id>https://tiktok.com/@visitballyhoura/video/7161745799712394501</id>
-    <title>Crispy leaves &amp; fresh air- the definition of autumnal walks in Ballyhoura 🍁 Take some time out to enjoy the spectacular views from the Attychran Loop into the Galtee Mountains. The low difficulty level of this walk and the car parking, toilets and small s</title>
-    <updated>2022-11-03T11:11:33+00:00</updated>
-    <content>Crispy leaves &amp; fresh air- the definition of autumnal walks in Ballyhoura 🍁 Take some time out to enjoy the spectacular views from the Attychran Loop into the Galtee Mountains. The low difficulty level of this walk and the car parking, toilets and small shop at the trailhead make it an excellent choice for families.  #VisitBallyhoura #DiscoverIreland  #AutumnTrails #Keepdiscovering #Ireland2040 #IrelandsHiddenHeartlands #Ballyhoura #OurRuralIreland #Ballyhouratrails </content>
-    <link href="https://tiktok.com/@visitballyhoura/video/7161745799712394501" rel="alternate"/>
-    <published>2022-11-03T11:11:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7164304735040769286</id>
     <title>🥾Bernard Loop is a fantastic route. The initial climb on the trail uphill is steep but it’s a good warm-up. The route is a nice mixture of covered and open forest paths, gravel roads and grassy hills. The scenery is great, plenty of wildlife to see, look </title>
@@ -51,5 +43,13 @@
     <content>Get them start early, it’s all fun 🤩 great outdoors is the biggest playground 🙌  #kidsbiking🚴‍♀️🛴 #trailsforbeginners #ballyhouratrails #visitballyhoura #ballyhouramountains #getoutdoors #mtblife #mtbkids #ballyhoura #irelandshiddenheartlands #outdoorlife #whateverweather #keepdiscovering #DiscoverIreland  📸🎥 @agaodonnell </content>
     <link href="https://tiktok.com/@visitballyhoura/video/7193282411751329029" rel="alternate"/>
     <published>2023-01-27T10:49:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7233875469970509083</id>
+    <title>Another wonderful day at the official reopening of Doneraile Court last week. The 5th most visited free attraction, Doneraile Court and Gardens is located in the North Cork area of Ballyhoura Country and it’s one of the Ireland’s most popular hidden gems </title>
+    <updated>2023-05-16T20:11:31+00:00</updated>
+    <content>Another wonderful day at the official reopening of Doneraile Court last week. The 5th most visited free attraction, Doneraile Court and Gardens is located in the North Cork area of Ballyhoura Country and it’s one of the Ireland’s most popular hidden gems 💎. The €2m refurbishment of the Doneraile Court by @opwireland opened up the second floor to the public. It is now open 5 days a week until mid June and guided tours are available from 10am to 4pm Wednesday to Sunday and Bank holidays. It will be open 7 days a week from mid June 🙌✨ #heritageireland #OPW #visitdoneraile #visitballyhoura #castletownhouse #irelandshiddenheartlands #ballyhoura #munstervales #purecork #guidesofireland #visitcork @Munster Vales @Pure Cork @Ireland’s Hidden Heartlands @</content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7233875469970509083" rel="alternate"/>
+    <published>2023-05-16T20:11:31+00:00</published>
   </entry>
 </feed>
