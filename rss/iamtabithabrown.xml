@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-05-23T17:44:32+00:00</updated>
+  <updated>2023-05-29T21:58:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7227306505396079914</id>
-    <title>Back from Dubai with a little sciatic pain so making my pain blaster smoothie! Let’s make it together! #painrelief #smoothie #tabithabrown #recipeoftheday </title>
-    <updated>2023-04-29T03:20:35+00:00</updated>
-    <content>Back from Dubai with a little sciatic pain so making my pain blaster smoothie! Let’s make it together! #painrelief #smoothie #tabithabrown #recipeoftheday </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7227306505396079914" rel="alternate"/>
-    <published>2023-04-29T03:20:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7227514303316856107</id>
     <title>Important conversations in relationships can consist of many things! This is one we wanted to share! Watch the full episode on my Youtube channel. Fridays with Tab and Chance❤️ #tabithabrown #relationship #marriage #partners </title>
@@ -51,5 +43,13 @@
     <content>Hey family grab the babies and check out our new TAB TIME page @Official Tab Time  🎉. Please share with your family and friends! #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7236435186110467371" rel="alternate"/>
     <published>2023-05-23T17:44:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7238727117373001003</id>
+    <title>Family I know that @Nic Few  has been bringing y’all daily laughter , but today is his day for us to shower him with love!! Please help me wish my talented and hilarious brother @nicfew the happiest birthday ever!!! Brother I’m so proud of  your freedom w</title>
+    <updated>2023-05-29T21:58:33+00:00</updated>
+    <content>Family I know that @Nic Few  has been bringing y’all daily laughter , but today is his day for us to shower him with love!! Please help me wish my talented and hilarious brother @nicfew the happiest birthday ever!!! Brother I’m so proud of  your freedom walk and I’m so happy to see you living your dreams!!! I pray that this is your best year yet and that joy and happiness fill your heart and your year!!! I love you brother!! Happy Birthday 🎉🎉🎉 #happybirthday #nicfew #tabithabrown</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7238727117373001003" rel="alternate"/>
+    <published>2023-05-29T21:58:33+00:00</published>
   </entry>
 </feed>
