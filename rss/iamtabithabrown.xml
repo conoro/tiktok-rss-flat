@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-05-31T03:57:01+00:00</updated>
+  <updated>2023-05-31T18:02:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7231961961376845098</id>
-    <title>So excited to bring this fun outdoor collection to all of you this Sunday!!! See yall @target ❤️. 🙌🏾OOHHH GOD I THANK YOU🙌🏾 #targettabcollab #tabithabrown </title>
-    <updated>2023-05-11T16:26:22+00:00</updated>
-    <content>So excited to bring this fun outdoor collection to all of you this Sunday!!! See yall @target ❤️. 🙌🏾OOHHH GOD I THANK YOU🙌🏾 #targettabcollab #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7231961961376845098" rel="alternate"/>
-    <published>2023-05-11T16:26:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7232105777408855338</id>
     <title>The pickled garlic okra is back!!!!! This Sunday at Target!!! See y’all there 🎯. #tabithabrown #targettabcollab #vegan #snacks #okra #food </title>
@@ -51,5 +43,13 @@
     <content>Honey tonight I made a lil carne asada tacos for Taco Tuesday annnndddd baby when I say VERY GOOD!!!! Uummm @Meati  y’all done did something special with this mushroom root honey!!! Hope everyone has a beautiful night! Love y’all!! #tabithabrown #vegan #plantbased #carneasada #tacotuesday #mushroom #root #verygood</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7239190575659126062" rel="alternate"/>
     <published>2023-05-31T03:57:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7239408388373794094</id>
+    <title>Count on you today!! I believe in you!! ❤️ #spreadlove #tabithabrown </title>
+    <updated>2023-05-31T18:02:04+00:00</updated>
+    <content>Count on you today!! I believe in you!! ❤️ #spreadlove #tabithabrown </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7239408388373794094" rel="alternate"/>
+    <published>2023-05-31T18:02:04+00:00</published>
   </entry>
 </feed>
