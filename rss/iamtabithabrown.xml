@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-05-31T18:02:04+00:00</updated>
+  <updated>2023-06-02T04:36:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7232105777408855338</id>
-    <title>The pickled garlic okra is back!!!!! This Sunday at Target!!! See y’all there 🎯. #tabithabrown #targettabcollab #vegan #snacks #okra #food </title>
-    <updated>2023-05-12T01:44:16+00:00</updated>
-    <content>The pickled garlic okra is back!!!!! This Sunday at Target!!! See y’all there 🎯. #tabithabrown #targettabcollab #vegan #snacks #okra #food </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7232105777408855338" rel="alternate"/>
-    <published>2023-05-12T01:44:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7236435186110467371</id>
     <title>Hey family grab the babies and check out our new TAB TIME page @Official Tab Time  🎉. Please share with your family and friends! #tabithabrown </title>
@@ -51,5 +43,13 @@
     <content>Count on you today!! I believe in you!! ❤️ #spreadlove #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7239408388373794094" rel="alternate"/>
     <published>2023-05-31T18:02:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7239942993095183662</id>
+    <title>Its going to be ok… i love you❤️ #tabithabrown #spreadlove </title>
+    <updated>2023-06-02T04:36:36+00:00</updated>
+    <content>Its going to be ok… i love you❤️ #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7239942993095183662" rel="alternate"/>
+    <published>2023-06-02T04:36:36+00:00</published>
   </entry>
 </feed>
