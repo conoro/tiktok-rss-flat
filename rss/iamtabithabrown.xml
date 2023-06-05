@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-06-02T04:36:36+00:00</updated>
+  <updated>2023-06-05T04:14:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7236435186110467371</id>
-    <title>Hey family grab the babies and check out our new TAB TIME page @Official Tab Time  🎉. Please share with your family and friends! #tabithabrown </title>
-    <updated>2023-05-23T17:44:32+00:00</updated>
-    <content>Hey family grab the babies and check out our new TAB TIME page @Official Tab Time  🎉. Please share with your family and friends! #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7236435186110467371" rel="alternate"/>
-    <published>2023-05-23T17:44:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7238727117373001003</id>
     <title>Family I know that @Nic Few  has been bringing y’all daily laughter , but today is his day for us to shower him with love!! Please help me wish my talented and hilarious brother @nicfew the happiest birthday ever!!! Brother I’m so proud of  your freedom w</title>
@@ -51,5 +43,13 @@
     <content>Its going to be ok… i love you❤️ #tabithabrown #spreadlove </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7239942993095183662" rel="alternate"/>
     <published>2023-06-02T04:36:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7241050524047396142</id>
+    <title>Happy Sunday family!! Let’s make a little Sunday Dinner and then see what the Lord puts in the atmosphere ❤️. Today we making Spaghetti, corn, kale salad and a new favorite dressing! Let’s get into it! #tabithabrown #vegan #foodie #spaghetti #kale #airfry</title>
+    <updated>2023-06-05T04:14:27+00:00</updated>
+    <content>Happy Sunday family!! Let’s make a little Sunday Dinner and then see what the Lord puts in the atmosphere ❤️. Today we making Spaghetti, corn, kale salad and a new favorite dressing! Let’s get into it! #tabithabrown #vegan #foodie #spaghetti #kale #airfryer</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7241050524047396142" rel="alternate"/>
+    <published>2023-06-05T04:14:27+00:00</published>
   </entry>
 </feed>
