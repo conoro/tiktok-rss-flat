@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-06-05T04:14:27+00:00</updated>
+  <updated>2023-06-06T03:03:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7238727117373001003</id>
-    <title>Family I know that @Nic Few  has been bringing y’all daily laughter , but today is his day for us to shower him with love!! Please help me wish my talented and hilarious brother @nicfew the happiest birthday ever!!! Brother I’m so proud of  your freedom w</title>
-    <updated>2023-05-29T21:58:33+00:00</updated>
-    <content>Family I know that @Nic Few  has been bringing y’all daily laughter , but today is his day for us to shower him with love!! Please help me wish my talented and hilarious brother @nicfew the happiest birthday ever!!! Brother I’m so proud of  your freedom walk and I’m so happy to see you living your dreams!!! I pray that this is your best year yet and that joy and happiness fill your heart and your year!!! I love you brother!! Happy Birthday 🎉🎉🎉 #happybirthday #nicfew #tabithabrown</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7238727117373001003" rel="alternate"/>
-    <published>2023-05-29T21:58:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7239190575659126062</id>
     <title>Honey tonight I made a lil carne asada tacos for Taco Tuesday annnndddd baby when I say VERY GOOD!!!! Uummm @Meati  y’all done did something special with this mushroom root honey!!! Hope everyone has a beautiful night! Love y’all!! #tabithabrown #vegan #p</title>
@@ -51,5 +43,13 @@
     <content>Happy Sunday family!! Let’s make a little Sunday Dinner and then see what the Lord puts in the atmosphere ❤️. Today we making Spaghetti, corn, kale salad and a new favorite dressing! Let’s get into it! #tabithabrown #vegan #foodie #spaghetti #kale #airfryer</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7241050524047396142" rel="alternate"/>
     <published>2023-06-05T04:14:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7241403418097585451</id>
+    <title>If you’re in NYC come soend lunch with me tomorrow! Im giving away my new @McCormick Spices , fresh produce, recipes, hugs and love!  Hope you can make it! #mckpartner #tabithabrown </title>
+    <updated>2023-06-06T03:03:54+00:00</updated>
+    <content>If you’re in NYC come soend lunch with me tomorrow! Im giving away my new @McCormick Spices , fresh produce, recipes, hugs and love!  Hope you can make it! #mckpartner #tabithabrown </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7241403418097585451" rel="alternate"/>
+    <published>2023-06-06T03:03:54+00:00</published>
   </entry>
 </feed>
