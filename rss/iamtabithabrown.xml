@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-06-09T01:50:08+00:00</updated>
+  <updated>2023-06-20T04:20:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7239190575659126062</id>
-    <title>Honey tonight I made a lil carne asada tacos for Taco Tuesday annnndddd baby when I say VERY GOOD!!!! Uummm @Meati  y’all done did something special with this mushroom root honey!!! Hope everyone has a beautiful night! Love y’all!! #tabithabrown #vegan #p</title>
-    <updated>2023-05-31T03:57:01+00:00</updated>
-    <content>Honey tonight I made a lil carne asada tacos for Taco Tuesday annnndddd baby when I say VERY GOOD!!!! Uummm @Meati  y’all done did something special with this mushroom root honey!!! Hope everyone has a beautiful night! Love y’all!! #tabithabrown #vegan #plantbased #carneasada #tacotuesday #mushroom #root #verygood</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7239190575659126062" rel="alternate"/>
-    <published>2023-05-31T03:57:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7239408388373794094</id>
     <title>Count on you today!! I believe in you!! ❤️ #spreadlove #tabithabrown </title>
@@ -51,5 +43,13 @@
     <content>Did y’all catch this past Fridays with Tab and Chance Episode on YouTube? Honey it got real, real quick!! One thang we ain’t doing is playing them “new friend games”😂. We all friends 😂❤️. Let us know if y’all watched? #tabithabrown #chancebrown #fridayswithtabandchance #marriage #couples #relationships</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7242497686266498347" rel="alternate"/>
     <published>2023-06-09T01:50:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7246618422233271598</id>
+    <title>A little afternoon tomato sandwich for this good Juneteenth 😋 Baby this is how we do it in North Carolina!! Who else love a good old tomato sandwich? #tabithabrown #vegan #foodie #plantbased #quick #delicious #recipe #tomatosandwich </title>
+    <updated>2023-06-20T04:20:53+00:00</updated>
+    <content>A little afternoon tomato sandwich for this good Juneteenth 😋 Baby this is how we do it in North Carolina!! Who else love a good old tomato sandwich? #tabithabrown #vegan #foodie #plantbased #quick #delicious #recipe #tomatosandwich </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7246618422233271598" rel="alternate"/>
+    <published>2023-06-20T04:20:53+00:00</published>
   </entry>
 </feed>
