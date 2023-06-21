@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-06-20T04:20:53+00:00</updated>
+  <updated>2023-06-21T04:04:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7239408388373794094</id>
-    <title>Count on you today!! I believe in you!! ❤️ #spreadlove #tabithabrown </title>
-    <updated>2023-05-31T18:02:04+00:00</updated>
-    <content>Count on you today!! I believe in you!! ❤️ #spreadlove #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7239408388373794094" rel="alternate"/>
-    <published>2023-05-31T18:02:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7239942993095183662</id>
     <title>Its going to be ok… i love you❤️ #tabithabrown #spreadlove </title>
@@ -51,5 +43,13 @@
     <content>A little afternoon tomato sandwich for this good Juneteenth 😋 Baby this is how we do it in North Carolina!! Who else love a good old tomato sandwich? #tabithabrown #vegan #foodie #plantbased #quick #delicious #recipe #tomatosandwich </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7246618422233271598" rel="alternate"/>
     <published>2023-06-20T04:20:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7246985352022396206</id>
+    <title>You made a mistake but its not the end of the world, ok? You will get through it❤️. I love you❤️ #tabithabrown #spreadlove </title>
+    <updated>2023-06-21T04:04:40+00:00</updated>
+    <content>You made a mistake but its not the end of the world, ok? You will get through it❤️. I love you❤️ #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7246985352022396206" rel="alternate"/>
+    <published>2023-06-21T04:04:40+00:00</published>
   </entry>
 </feed>
