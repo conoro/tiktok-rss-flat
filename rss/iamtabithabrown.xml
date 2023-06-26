@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-06-24T18:47:15+00:00</updated>
+  <updated>2023-06-26T00:50:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7242497686266498347</id>
-    <title>Did y’all catch this past Fridays with Tab and Chance Episode on YouTube? Honey it got real, real quick!! One thang we ain’t doing is playing them “new friend games”😂. We all friends 😂❤️. Let us know if y’all watched? #tabithabrown #chancebrown #fridayswi</title>
-    <updated>2023-06-09T01:50:08+00:00</updated>
-    <content>Did y’all catch this past Fridays with Tab and Chance Episode on YouTube? Honey it got real, real quick!! One thang we ain’t doing is playing them “new friend games”😂. We all friends 😂❤️. Let us know if y’all watched? #tabithabrown #chancebrown #fridayswithtabandchance #marriage #couples #relationships</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7242497686266498347" rel="alternate"/>
-    <published>2023-06-09T01:50:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7246618422233271598</id>
     <title>A little afternoon tomato sandwich for this good Juneteenth 😋 Baby this is how we do it in North Carolina!! Who else love a good old tomato sandwich? #tabithabrown #vegan #foodie #plantbased #quick #delicious #recipe #tomatosandwich </title>
@@ -51,5 +43,13 @@
     <content>Family!!!!! It’s about to go down @Ulta Beauty starting tomorrow!!!! Baby @Donna’s Recipe entire collection is part of the Big Summer Beauty Sale!! This let’s us know that Summer is officially here, meaning warmer weather, lots of sunshine &amp; amazing deals!!! See y’all there!!🎉🎉 The sale started tomorrow June 25th and runs until -July 15th! But you know how quick we be selling out so don’t wait and miss out on this deal!! Donna said get in in there 😂. Love y’all!! #tabithabrown #donnasrecipe </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7248326056472513835" rel="alternate"/>
     <published>2023-06-24T18:47:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7248790741558758698</id>
+    <title>Sunday morning peaches and biscuits ❤️ #tabithabrown #vegan #foodie #plantbased #biscuits #peaches</title>
+    <updated>2023-06-26T00:50:25+00:00</updated>
+    <content>Sunday morning peaches and biscuits ❤️ #tabithabrown #vegan #foodie #plantbased #biscuits #peaches</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7248790741558758698" rel="alternate"/>
+    <published>2023-06-26T00:50:25+00:00</published>
   </entry>
 </feed>
