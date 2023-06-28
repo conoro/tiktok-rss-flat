@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-06-26T00:50:25+00:00</updated>
+  <updated>2023-06-28T00:41:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7246618422233271598</id>
-    <title>A little afternoon tomato sandwich for this good Juneteenth 😋 Baby this is how we do it in North Carolina!! Who else love a good old tomato sandwich? #tabithabrown #vegan #foodie #plantbased #quick #delicious #recipe #tomatosandwich </title>
-    <updated>2023-06-20T04:20:53+00:00</updated>
-    <content>A little afternoon tomato sandwich for this good Juneteenth 😋 Baby this is how we do it in North Carolina!! Who else love a good old tomato sandwich? #tabithabrown #vegan #foodie #plantbased #quick #delicious #recipe #tomatosandwich </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7246618422233271598" rel="alternate"/>
-    <published>2023-06-20T04:20:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7246985352022396206</id>
     <title>You made a mistake but its not the end of the world, ok? You will get through it❤️. I love you❤️ #tabithabrown #spreadlove </title>
@@ -51,5 +43,13 @@
     <content>Sunday morning peaches and biscuits ❤️ #tabithabrown #vegan #foodie #plantbased #biscuits #peaches</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7248790741558758698" rel="alternate"/>
     <published>2023-06-26T00:50:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7249530680680680750</id>
+    <title>Spicy green ramen with mataki mushrooms for the nose running win😂 #vegan #foodie #plantbased #tabithabrown #ramen #spicyramen</title>
+    <updated>2023-06-28T00:41:47+00:00</updated>
+    <content>Spicy green ramen with mataki mushrooms for the nose running win😂 #vegan #foodie #plantbased #tabithabrown #ramen #spicyramen</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7249530680680680750" rel="alternate"/>
+    <published>2023-06-28T00:41:47+00:00</published>
   </entry>
 </feed>
