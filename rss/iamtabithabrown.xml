@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-06-28T00:41:47+00:00</updated>
+  <updated>2023-06-28T19:18:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7246985352022396206</id>
-    <title>You made a mistake but its not the end of the world, ok? You will get through it❤️. I love you❤️ #tabithabrown #spreadlove </title>
-    <updated>2023-06-21T04:04:40+00:00</updated>
-    <content>You made a mistake but its not the end of the world, ok? You will get through it❤️. I love you❤️ #tabithabrown #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7246985352022396206" rel="alternate"/>
-    <published>2023-06-21T04:04:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7248019217012837675</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>Spicy green ramen with mataki mushrooms for the nose running win😂 #vegan #foodie #plantbased #tabithabrown #ramen #spicyramen</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7249530680680680750" rel="alternate"/>
     <published>2023-06-28T00:41:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7249818540696423722</id>
+    <title>Just a little story time to remind you all to set healthy intentions for yourselves.  I love you! #tabithabrown #spreadlove </title>
+    <updated>2023-06-28T19:18:50+00:00</updated>
+    <content>Just a little story time to remind you all to set healthy intentions for yourselves.  I love you! #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7249818540696423722" rel="alternate"/>
+    <published>2023-06-28T19:18:50+00:00</published>
   </entry>
 </feed>
