@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-06-28T19:18:50+00:00</updated>
+  <updated>2023-06-29T19:41:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7248019217012837675</id>
-    <title>No Title</title>
-    <updated>2023-06-23T22:56:35+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7248019217012837675" rel="alternate"/>
-    <published>2023-06-23T22:56:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7248326056472513835</id>
     <title>Family!!!!! It’s about to go down @Ulta Beauty starting tomorrow!!!! Baby @Donna’s Recipe entire collection is part of the Big Summer Beauty Sale!! This let’s us know that Summer is officially here, meaning warmer weather, lots of sunshine &amp; amazing deals</title>
@@ -51,5 +43,13 @@
     <content>Just a little story time to remind you all to set healthy intentions for yourselves.  I love you! #tabithabrown #spreadlove </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7249818540696423722" rel="alternate"/>
     <published>2023-06-28T19:18:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7250195558986566955</id>
+    <title>Just a little @Official Tab Time  reminder to keep trying and never give up❤️. I love y’all! #tabithabrown #tabtime #spreadlove #nevergiveup #kindness #support</title>
+    <updated>2023-06-29T19:41:52+00:00</updated>
+    <content>Just a little @Official Tab Time  reminder to keep trying and never give up❤️. I love y’all! #tabithabrown #tabtime #spreadlove #nevergiveup #kindness #support</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7250195558986566955" rel="alternate"/>
+    <published>2023-06-29T19:41:52+00:00</published>
   </entry>
 </feed>
