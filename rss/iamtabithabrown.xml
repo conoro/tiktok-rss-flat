@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-07-13T22:41:34+00:00</updated>
+  <updated>2023-07-14T23:50:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7254417296729345323</id>
-    <title>Chickpea wraps and accountability for the win❤️ #vegan #plantbased #tabithabrown </title>
-    <updated>2023-07-11T04:44:26+00:00</updated>
-    <content>Chickpea wraps and accountability for the win❤️ #vegan #plantbased #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7254417296729345323" rel="alternate"/>
-    <published>2023-07-11T04:44:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7254670412783619371</id>
     <title>✨ULTA SALE BOGO 50% OFF!✨ 🩷 We wanted to remind all our cousins of the current Ulta Sale! Don’t miss out on this amazing deal!  🧡 Tag us with your @Donna’s Recipe purchase at your local Ulta store and we will randomly select people who tag us with a full </title>
@@ -51,5 +43,13 @@
     <content>My sister always takes me back to our childhood 😂😂😂. Who else use to get the packs of NOW&amp;LATERS for 5 cent at the corner store??? And did y’all pronounce it the same?? #childhood #memories #country #nowlaters #tabithabrown #familytime </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7255437093441146154" rel="alternate"/>
     <published>2023-07-13T22:41:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7255825822353771822</id>
+    <title>Ok family the @ultabeauty BOGO sale ends tomorrow!!! @donnasrecipe is Buy one get one 50%off!!! Love and appreciate y’all so much!!! #tabithabrown #donnasrecipexulta #hair </title>
+    <updated>2023-07-14T23:50:05+00:00</updated>
+    <content>Ok family the @ultabeauty BOGO sale ends tomorrow!!! @donnasrecipe is Buy one get one 50%off!!! Love and appreciate y’all so much!!! #tabithabrown #donnasrecipexulta #hair </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7255825822353771822" rel="alternate"/>
+    <published>2023-07-14T23:50:05+00:00</published>
   </entry>
 </feed>
