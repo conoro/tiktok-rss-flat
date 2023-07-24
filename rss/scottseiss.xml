@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2023-07-23T00:01:08+00:00</updated>
+  <updated>2023-05-28T00:00:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7204263120179727662</id>
+    <title>In theatres now! #movie  #comedу #cocainebear  #fyp </title>
+    <updated>2023-02-26T01:00:32+00:00</updated>
+    <content>In theatres now! #movie  #comedу #cocainebear  #fyp </content>
+    <link href="https://tiktok.com/@scottseiss/video/7204263120179727662" rel="alternate"/>
+    <published>2023-02-26T01:00:32+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7212040519864552747</id>
     <title>“You should tip your landlord” New tour dates in TX, CA, NC, MO, MA, NY &amp; more! Link in bio for full schedule #rent #landlord  #comedу #fyp #bgcdramaeffect </title>
@@ -43,13 +51,5 @@
     <content>I’m in North Carolina next week! Just added shows in Timonium, MD and Royal Oak, MI too 😁 Link in my bio for tickets! #comedу #northcarolina #standup #tour #texas #california #rochesterny </content>
     <link href="https://tiktok.com/@scottseiss/video/7238016401326296363" rel="alternate"/>
     <published>2023-05-28T00:00:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7258797331615894830</id>
-    <title>I got heckled by Nancy Pelosi’s coworker. Link in bio for shows in Maryland, Michigan and Buffalo, NY! 😁 #standup #comedу #tour </title>
-    <updated>2023-07-23T00:01:08+00:00</updated>
-    <content>I got heckled by Nancy Pelosi’s coworker. Link in bio for shows in Maryland, Michigan and Buffalo, NY! 😁 #standup #comedу #tour </content>
-    <link href="https://tiktok.com/@scottseiss/video/7258797331615894830" rel="alternate"/>
-    <published>2023-07-23T00:01:08+00:00</published>
   </entry>
 </feed>
