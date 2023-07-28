@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-07-14T23:50:05+00:00</updated>
+  <updated>2023-07-28T12:37:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7254670412783619371</id>
-    <title>✨ULTA SALE BOGO 50% OFF!✨ 🩷 We wanted to remind all our cousins of the current Ulta Sale! Don’t miss out on this amazing deal!  🧡 Tag us with your @Donna’s Recipe purchase at your local Ulta store and we will randomly select people who tag us with a full </title>
-    <updated>2023-07-11T21:06:30+00:00</updated>
-    <content>✨ULTA SALE BOGO 50% OFF!✨ 🩷 We wanted to remind all our cousins of the current Ulta Sale! Don’t miss out on this amazing deal!  🧡 Tag us with your @Donna’s Recipe purchase at your local Ulta store and we will randomly select people who tag us with a full Donna’s Recipe Collection wrapped in our signature Donna’s Recipe scarf not available for sale 🙌🏾! Run to Ulta today 🏃🏾‍♀️!!! #donnasrecipe #tabithabrown #ultabeauty #veganhaircare #healthyhairjourney</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7254670412783619371" rel="alternate"/>
-    <published>2023-07-11T21:06:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7254793720128752938</id>
     <title>Jackfruit hoagies for the dinner win tonight!! Baaabby it was 🥵 😂😂😂 but im ok😂😂 #tabithabrown #vegan #plantbased #foodie #jackfruit #hoagie </title>
@@ -51,5 +43,13 @@
     <content>Ok family the @ultabeauty BOGO sale ends tomorrow!!! @donnasrecipe is Buy one get one 50%off!!! Love and appreciate y’all so much!!! #tabithabrown #donnasrecipexulta #hair </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7255825822353771822" rel="alternate"/>
     <published>2023-07-14T23:50:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7260847446438497582</id>
+    <title>Lets pick some apples from the backyard and make a good old salad!! #vegan #tabithabrown #foodie #apples #salad </title>
+    <updated>2023-07-28T12:37:09+00:00</updated>
+    <content>Lets pick some apples from the backyard and make a good old salad!! #vegan #tabithabrown #foodie #apples #salad </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7260847446438497582" rel="alternate"/>
+    <published>2023-07-28T12:37:09+00:00</published>
   </entry>
 </feed>
