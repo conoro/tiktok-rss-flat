@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-07-28T12:37:09+00:00</updated>
+  <updated>2023-07-28T20:29:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7254793720128752938</id>
-    <title>Jackfruit hoagies for the dinner win tonight!! Baaabby it was 🥵 😂😂😂 but im ok😂😂 #tabithabrown #vegan #plantbased #foodie #jackfruit #hoagie </title>
-    <updated>2023-07-12T05:05:00+00:00</updated>
-    <content>Jackfruit hoagies for the dinner win tonight!! Baaabby it was 🥵 😂😂😂 but im ok😂😂 #tabithabrown #vegan #plantbased #foodie #jackfruit #hoagie </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7254793720128752938" rel="alternate"/>
-    <published>2023-07-12T05:05:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7255401352120012078</id>
     <title>My sister is visiting me from home (NC) and honey some things never change😂😂. She always ate banana sandwiches with mayo, salt and pepper growing up and still eats them😂. It might be a North Carolina thang, but it’s definitely country eating 😂😂😂 #bananasa</title>
@@ -51,5 +43,13 @@
     <content>Lets pick some apples from the backyard and make a good old salad!! #vegan #tabithabrown #foodie #apples #salad </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7260847446438497582" rel="alternate"/>
     <published>2023-07-28T12:37:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7260969184845172011</id>
+    <title>Alright family if you’re trying to love your gut and immune health this one is for you!  @Goli® Nutrition has a new Probiotic+ gummy! It’s gluten free, completely vegan and loaded with benefits! You can definitely check gut health goals off your list with</title>
+    <updated>2023-07-28T20:29:03+00:00</updated>
+    <content>Alright family if you’re trying to love your gut and immune health this one is for you!  @Goli® Nutrition has a new Probiotic+ gummy! It’s gluten free, completely vegan and loaded with benefits! You can definitely check gut health goals off your list with this one.  Thank me later ❤️ #probiotics+ #3in1goligummies #ad #golipartner #goliprobiotics+ #prepostprobiotics</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7260969184845172011" rel="alternate"/>
+    <published>2023-07-28T20:29:03+00:00</published>
   </entry>
 </feed>
