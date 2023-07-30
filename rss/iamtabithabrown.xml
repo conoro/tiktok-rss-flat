@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-07-28T20:29:03+00:00</updated>
+  <updated>2023-07-29T22:22:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7255401352120012078</id>
-    <title>My sister is visiting me from home (NC) and honey some things never change😂😂. She always ate banana sandwiches with mayo, salt and pepper growing up and still eats them😂. It might be a North Carolina thang, but it’s definitely country eating 😂😂😂 #bananasa</title>
-    <updated>2023-07-13T20:22:55+00:00</updated>
-    <content>My sister is visiting me from home (NC) and honey some things never change😂😂. She always ate banana sandwiches with mayo, salt and pepper growing up and still eats them😂. It might be a North Carolina thang, but it’s definitely country eating 😂😂😂 #bananasandwich #tabithabrown #countryeating </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7255401352120012078" rel="alternate"/>
-    <published>2023-07-13T20:22:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7255437093441146154</id>
-    <title>My sister always takes me back to our childhood 😂😂😂. Who else use to get the packs of NOW&amp;LATERS for 5 cent at the corner store??? And did y’all pronounce it the same?? #childhood #memories #country #nowlaters #tabithabrown #familytime </title>
-    <updated>2023-07-13T22:41:34+00:00</updated>
-    <content>My sister always takes me back to our childhood 😂😂😂. Who else use to get the packs of NOW&amp;LATERS for 5 cent at the corner store??? And did y’all pronounce it the same?? #childhood #memories #country #nowlaters #tabithabrown #familytime </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7255437093441146154" rel="alternate"/>
-    <published>2023-07-13T22:41:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7255825822353771822</id>
     <title>Ok family the @ultabeauty BOGO sale ends tomorrow!!! @donnasrecipe is Buy one get one 50%off!!! Love and appreciate y’all so much!!! #tabithabrown #donnasrecipexulta #hair </title>
@@ -51,5 +35,21 @@
     <content>Alright family if you’re trying to love your gut and immune health this one is for you!  @Goli® Nutrition has a new Probiotic+ gummy! It’s gluten free, completely vegan and loaded with benefits! You can definitely check gut health goals off your list with this one.  Thank me later ❤️ #probiotics+ #3in1goligummies #ad #golipartner #goliprobiotics+ #prepostprobiotics</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7260969184845172011" rel="alternate"/>
     <published>2023-07-28T20:29:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7261314468888595754</id>
+    <title>So uuummm I didn’t finish Donna’s bedtime routine last night and baby she chose violence with me this morning. 😩. If I ain’t back later, please send help🙏🏾 #donnachronicles #tabithabrown #hair #naturalhair </title>
+    <updated>2023-07-29T18:48:59+00:00</updated>
+    <content>So uuummm I didn’t finish Donna’s bedtime routine last night and baby she chose violence with me this morning. 😩. If I ain’t back later, please send help🙏🏾 #donnachronicles #tabithabrown #hair #naturalhair </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7261314468888595754" rel="alternate"/>
+    <published>2023-07-29T18:48:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7261369401545395498</id>
+    <title>Just finished my workout and Abitha and Flabitha wanted to check in with a word!! You deserve ✌🏾 but you’re also contributing to not getting it❤️. I love you! #tabithabrown #spreadlove #peace </title>
+    <updated>2023-07-29T22:22:05+00:00</updated>
+    <content>Just finished my workout and Abitha and Flabitha wanted to check in with a word!! You deserve ✌🏾 but you’re also contributing to not getting it❤️. I love you! #tabithabrown #spreadlove #peace </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7261369401545395498" rel="alternate"/>
+    <published>2023-07-29T22:22:05+00:00</published>
   </entry>
 </feed>
