@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-08-01T21:39:52+00:00</updated>
+  <updated>2023-08-03T18:54:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7261314468888595754</id>
-    <title>So uuummm I didn’t finish Donna’s bedtime routine last night and baby she chose violence with me this morning. 😩. If I ain’t back later, please send help🙏🏾 #donnachronicles #tabithabrown #hair #naturalhair </title>
-    <updated>2023-07-29T18:48:59+00:00</updated>
-    <content>So uuummm I didn’t finish Donna’s bedtime routine last night and baby she chose violence with me this morning. 😩. If I ain’t back later, please send help🙏🏾 #donnachronicles #tabithabrown #hair #naturalhair </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7261314468888595754" rel="alternate"/>
-    <published>2023-07-29T18:48:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7261369401545395498</id>
     <title>Just finished my workout and Abitha and Flabitha wanted to check in with a word!! You deserve ✌🏾 but you’re also contributing to not getting it❤️. I love you! #tabithabrown #spreadlove #peace </title>
@@ -51,5 +43,13 @@
     <content>Lets make some mindful avocado toast aka half a sandwich 😂❤️. Be good to yourself, you deserve that❤️ #tabithabrown #spreadlove #vegan #foodie #plantbased </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7262471784371359019" rel="alternate"/>
     <published>2023-08-01T21:39:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7263171318709833006</id>
+    <title>Just a little reminder to be mindful, compassionate and graceful to others and ourselves ❤️. Love yall! #tabithabrown #spreadlove </title>
+    <updated>2023-08-03T18:54:26+00:00</updated>
+    <content>Just a little reminder to be mindful, compassionate and graceful to others and ourselves ❤️. Love yall! #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7263171318709833006" rel="alternate"/>
+    <published>2023-08-03T18:54:26+00:00</published>
   </entry>
 </feed>
