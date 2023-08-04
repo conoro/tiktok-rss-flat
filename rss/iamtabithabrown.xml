@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-08-03T18:54:26+00:00</updated>
+  <updated>2023-08-04T18:47:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7261369401545395498</id>
-    <title>Just finished my workout and Abitha and Flabitha wanted to check in with a word!! You deserve ✌🏾 but you’re also contributing to not getting it❤️. I love you! #tabithabrown #spreadlove #peace </title>
-    <updated>2023-07-29T22:22:05+00:00</updated>
-    <content>Just finished my workout and Abitha and Flabitha wanted to check in with a word!! You deserve ✌🏾 but you’re also contributing to not getting it❤️. I love you! #tabithabrown #spreadlove #peace </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7261369401545395498" rel="alternate"/>
-    <published>2023-07-29T22:22:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7261720043631824174</id>
     <title>Its not about being mad, its about being honest❤️. I love you #tabithabrown #spreadlove </title>
@@ -51,5 +43,13 @@
     <content>Just a little reminder to be mindful, compassionate and graceful to others and ourselves ❤️. Love yall! #tabithabrown #spreadlove </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7263171318709833006" rel="alternate"/>
     <published>2023-08-03T18:54:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7263540658403544362</id>
+    <title>Baby this week on Fridays with Tab and Chance we talking about times we’ve been embarrassed in front of each other!! This story is over 23 years old but it never gets old😂😂😂😂. Honey my moma changed my lip size that day😂😂😂😂. Anybody else ever thought y’all</title>
+    <updated>2023-08-04T18:47:37+00:00</updated>
+    <content>Baby this week on Fridays with Tab and Chance we talking about times we’ve been embarrassed in front of each other!! This story is over 23 years old but it never gets old😂😂😂😂. Honey my moma changed my lip size that day😂😂😂😂. Anybody else ever thought y’all was that grown??? Baby I’m lucky to still be here😂😂😂</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7263540658403544362" rel="alternate"/>
+    <published>2023-08-04T18:47:37+00:00</published>
   </entry>
 </feed>
