@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-08-05T21:57:15+00:00</updated>
+  <updated>2023-08-06T01:18:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7262471784371359019</id>
-    <title>Lets make some mindful avocado toast aka half a sandwich 😂❤️. Be good to yourself, you deserve that❤️ #tabithabrown #spreadlove #vegan #foodie #plantbased </title>
-    <updated>2023-08-01T21:39:52+00:00</updated>
-    <content>Lets make some mindful avocado toast aka half a sandwich 😂❤️. Be good to yourself, you deserve that❤️ #tabithabrown #spreadlove #vegan #foodie #plantbased </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7262471784371359019" rel="alternate"/>
-    <published>2023-08-01T21:39:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7263171318709833006</id>
     <title>Just a little reminder to be mindful, compassionate and graceful to others and ourselves ❤️. Love yall! #tabithabrown #spreadlove </title>
@@ -51,5 +43,13 @@
     <content>Don’t ignore the signs from the storms ❤️. Love you! #spreadlove #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7263960587875454254" rel="alternate"/>
     <published>2023-08-05T21:57:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7264012520237616427</id>
+    <title>Late post but forgot to share with y’all this gem that we ran across last week!! Baby if you are looking for a 100% vegan lunch or dinner spot you definitely should try Ocado 😋. One of the best jackfruit bbq sliders and Caesar salads I’ve ever had and y’a</title>
+    <updated>2023-08-06T01:18:43+00:00</updated>
+    <content>Late post but forgot to share with y’all this gem that we ran across last week!! Baby if you are looking for a 100% vegan lunch or dinner spot you definitely should try Ocado 😋. One of the best jackfruit bbq sliders and Caesar salads I’ve ever had and y’all see how Chance tore that blt up😂 yep we will be back!! Y’all be sure to check them out if you’re ever in the valley in LA, they are right on Ventura blvd! #vegan #foodie #tabithabrown #chancebrown #plantbased #restaurants #losangeles #shermanoaks </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7264012520237616427" rel="alternate"/>
+    <published>2023-08-06T01:18:43+00:00</published>
   </entry>
 </feed>
