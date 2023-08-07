@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-08-06T01:18:43+00:00</updated>
+  <updated>2023-08-07T16:02:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7263171318709833006</id>
-    <title>Just a little reminder to be mindful, compassionate and graceful to others and ourselves ❤️. Love yall! #tabithabrown #spreadlove </title>
-    <updated>2023-08-03T18:54:26+00:00</updated>
-    <content>Just a little reminder to be mindful, compassionate and graceful to others and ourselves ❤️. Love yall! #tabithabrown #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7263171318709833006" rel="alternate"/>
-    <published>2023-08-03T18:54:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7263540658403544362</id>
     <title>Baby this week on Fridays with Tab and Chance we talking about times we’ve been embarrassed in front of each other!! This story is over 23 years old but it never gets old😂😂😂😂. Honey my moma changed my lip size that day😂😂😂😂. Anybody else ever thought y’all</title>
@@ -51,5 +43,13 @@
     <content>Late post but forgot to share with y’all this gem that we ran across last week!! Baby if you are looking for a 100% vegan lunch or dinner spot you definitely should try Ocado 😋. One of the best jackfruit bbq sliders and Caesar salads I’ve ever had and y’all see how Chance tore that blt up😂 yep we will be back!! Y’all be sure to check them out if you’re ever in the valley in LA, they are right on Ventura blvd! #vegan #foodie #tabithabrown #chancebrown #plantbased #restaurants #losangeles #shermanoaks </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7264012520237616427" rel="alternate"/>
     <published>2023-08-06T01:18:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7264611391963696426</id>
+    <title>Family, have you tried my new @McCormick Spices seasoning mixes yet? Whether you’re into Taco, Burger, or Sauté Business I got you covered because that’s my business! Head to your local grocery store,  pick them up and tag me in your cooking videos! Love </title>
+    <updated>2023-08-07T16:02:42+00:00</updated>
+    <content>Family, have you tried my new @McCormick Spices seasoning mixes yet? Whether you’re into Taco, Burger, or Sauté Business I got you covered because that’s my business! Head to your local grocery store,  pick them up and tag me in your cooking videos! Love y’all and thank you for the support! #tabithabrown #mccormickpartner #ad</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7264611391963696426" rel="alternate"/>
+    <published>2023-08-07T16:02:42+00:00</published>
   </entry>
 </feed>
