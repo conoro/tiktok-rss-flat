@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-08-07T16:02:42+00:00</updated>
+  <updated>2023-08-09T16:58:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7263540658403544362</id>
-    <title>Baby this week on Fridays with Tab and Chance we talking about times we’ve been embarrassed in front of each other!! This story is over 23 years old but it never gets old😂😂😂😂. Honey my moma changed my lip size that day😂😂😂😂. Anybody else ever thought y’all</title>
-    <updated>2023-08-04T18:47:37+00:00</updated>
-    <content>Baby this week on Fridays with Tab and Chance we talking about times we’ve been embarrassed in front of each other!! This story is over 23 years old but it never gets old😂😂😂😂. Honey my moma changed my lip size that day😂😂😂😂. Anybody else ever thought y’all was that grown??? Baby I’m lucky to still be here😂😂😂</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7263540658403544362" rel="alternate"/>
-    <published>2023-08-04T18:47:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7263904029539978539</id>
-    <title>Wuick breakfast parfait that you and your kids will enjoy❤️. Love yall! #vegan #foodie #breakfast #parfait #tabithabrown </title>
-    <updated>2023-08-05T18:17:44+00:00</updated>
-    <content>Wuick breakfast parfait that you and your kids will enjoy❤️. Love yall! #vegan #foodie #breakfast #parfait #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7263904029539978539" rel="alternate"/>
-    <published>2023-08-05T18:17:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7263960587875454254</id>
     <title>Don’t ignore the signs from the storms ❤️. Love you! #spreadlove #tabithabrown </title>
@@ -51,5 +35,21 @@
     <content>Family, have you tried my new @McCormick Spices seasoning mixes yet? Whether you’re into Taco, Burger, or Sauté Business I got you covered because that’s my business! Head to your local grocery store,  pick them up and tag me in your cooking videos! Love y’all and thank you for the support! #tabithabrown #mccormickpartner #ad</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7264611391963696426" rel="alternate"/>
     <published>2023-08-07T16:02:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7264988289931693355</id>
+    <title>Did yall catch Very Good Mondays yesterday??  Sis why else would we sing this song😂😂😂. Honey it is never a dull moment with my baby girl @choyce 😂😂😂😂😂. Watch the full episode now(link in bio) #littlemermaid #tabithabrown #choycebrown #verygoodmondays </title>
+    <updated>2023-08-08T16:25:07+00:00</updated>
+    <content>Did yall catch Very Good Mondays yesterday??  Sis why else would we sing this song😂😂😂. Honey it is never a dull moment with my baby girl @choyce 😂😂😂😂😂. Watch the full episode now(link in bio) #littlemermaid #tabithabrown #choycebrown #verygoodmondays </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7264988289931693355" rel="alternate"/>
+    <published>2023-08-08T16:25:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7265367957339983146</id>
+    <title>Hey family please follow my @Donna’s Recipe page for some fun giveaways and lots of hair love!!! See yall there❤️</title>
+    <updated>2023-08-09T16:58:36+00:00</updated>
+    <content>Hey family please follow my @Donna’s Recipe page for some fun giveaways and lots of hair love!!! See yall there❤️</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7265367957339983146" rel="alternate"/>
+    <published>2023-08-09T16:58:36+00:00</published>
   </entry>
 </feed>
