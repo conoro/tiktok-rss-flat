@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-08-09T16:58:36+00:00</updated>
+  <updated>2023-08-10T05:31:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7263960587875454254</id>
-    <title>Don’t ignore the signs from the storms ❤️. Love you! #spreadlove #tabithabrown </title>
-    <updated>2023-08-05T21:57:15+00:00</updated>
-    <content>Don’t ignore the signs from the storms ❤️. Love you! #spreadlove #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7263960587875454254" rel="alternate"/>
-    <published>2023-08-05T21:57:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7264012520237616427</id>
     <title>Late post but forgot to share with y’all this gem that we ran across last week!! Baby if you are looking for a 100% vegan lunch or dinner spot you definitely should try Ocado 😋. One of the best jackfruit bbq sliders and Caesar salads I’ve ever had and y’a</title>
@@ -51,5 +43,13 @@
     <content>Hey family please follow my @Donna’s Recipe page for some fun giveaways and lots of hair love!!! See yall there❤️</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7265367957339983146" rel="alternate"/>
     <published>2023-08-09T16:58:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7265562013122727211</id>
+    <title>Time to take the bandage off so your wound can get some air and finish healing baby❤️ i love you. #tabithabrown #spreadlove </title>
+    <updated>2023-08-10T05:31:36+00:00</updated>
+    <content>Time to take the bandage off so your wound can get some air and finish healing baby❤️ i love you. #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7265562013122727211" rel="alternate"/>
+    <published>2023-08-10T05:31:36+00:00</published>
   </entry>
 </feed>
