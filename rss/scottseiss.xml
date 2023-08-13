@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2023-08-05T23:01:56+00:00</updated>
+  <updated>2023-07-27T23:00:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7212040519864552747</id>
+    <title>“You should tip your landlord” New tour dates in TX, CA, NC, MO, MA, NY &amp; more! Link in bio for full schedule #rent #landlord  #comedу #fyp #bgcdramaeffect </title>
+    <updated>2023-03-19T00:00:47+00:00</updated>
+    <content>“You should tip your landlord” New tour dates in TX, CA, NC, MO, MA, NY &amp; more! Link in bio for full schedule #rent #landlord  #comedу #fyp #bgcdramaeffect </content>
+    <link href="https://tiktok.com/@scottseiss/video/7212040519864552747" rel="alternate"/>
+    <published>2023-03-19T00:00:47+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7214638168333618475</id>
     <title>Texas! California! Added late shows for MO! And more! Link in bio for full schedule  and tickets #fyp #comedу #work #standup #tour </title>
@@ -43,13 +51,5 @@
     <content>“Let’s replace all of our employees with A.I.” #bgcdramaeffect  #fyp #work #AI </content>
     <link href="https://tiktok.com/@scottseiss/video/7260637123064237355" rel="alternate"/>
     <published>2023-07-27T23:00:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7263977268052053290</id>
-    <title>H&amp;M purse pooper 👜👀 Come see me in MD, MI, &amp; Buffalo, NY! Link in bio for tickets 🎟️ #work #comedу #retail #standup </title>
-    <updated>2023-08-05T23:01:56+00:00</updated>
-    <content>H&amp;M purse pooper 👜👀 Come see me in MD, MI, &amp; Buffalo, NY! Link in bio for tickets 🎟️ #work #comedу #retail #standup </content>
-    <link href="https://tiktok.com/@scottseiss/video/7263977268052053290" rel="alternate"/>
-    <published>2023-08-05T23:01:56+00:00</published>
   </entry>
 </feed>
