@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2023-09-01T00:18:40+00:00</updated>
+  <updated>2023-09-06T23:00:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7238016401326296363</id>
-    <title>I’m in North Carolina next week! Just added shows in Timonium, MD and Royal Oak, MI too 😁 Link in my bio for tickets! #comedу #northcarolina #standup #tour #texas #california #rochesterny </title>
-    <updated>2023-05-28T00:00:30+00:00</updated>
-    <content>I’m in North Carolina next week! Just added shows in Timonium, MD and Royal Oak, MI too 😁 Link in my bio for tickets! #comedу #northcarolina #standup #tour #texas #california #rochesterny </content>
-    <link href="https://tiktok.com/@scottseiss/video/7238016401326296363" rel="alternate"/>
-    <published>2023-05-28T00:00:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7260637123064237355</id>
     <title>“Let’s replace all of our employees with A.I.” #bgcdramaeffect  #fyp #work #AI </title>
@@ -51,5 +43,13 @@
     <content>Hello Fresh is getting desperate. Come see me in Philly &amp; MD! Link in bio for tickets 😁 #comedу #fyp #rant #food #dinner #mealkit #cooking #notanad </content>
     <link href="https://tiktok.com/@scottseiss/video/7273645239842262314" rel="alternate"/>
     <published>2023-09-01T00:18:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7275851629080071470</id>
+    <title>Philly this weekend! MD the next. Link in bio for tickets and shout out to that one Enterprise employee! #comedу #standup #philadelphia #pennsylvania #maryland #timonium #baltimore </title>
+    <updated>2023-09-06T23:00:31+00:00</updated>
+    <content>Philly this weekend! MD the next. Link in bio for tickets and shout out to that one Enterprise employee! #comedу #standup #philadelphia #pennsylvania #maryland #timonium #baltimore </content>
+    <link href="https://tiktok.com/@scottseiss/video/7275851629080071470" rel="alternate"/>
+    <published>2023-09-06T23:00:31+00:00</published>
   </entry>
 </feed>
