@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-09-11T22:06:36+00:00</updated>
+  <updated>2023-09-13T01:33:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7276997640926006570</id>
-    <title>After my hip put me on restrictions for the last 2 months Me and Abitha were able to get a lil dance in today🙌🏾🙌🏾. We must remember MOVEMENT is a gift ❤️. Sending you all so much love today!!! #tabithabrown #move #fitness #selflove #selfcare #spreadlove #</title>
-    <updated>2023-09-10T01:07:34+00:00</updated>
-    <content>After my hip put me on restrictions for the last 2 months Me and Abitha were able to get a lil dance in today🙌🏾🙌🏾. We must remember MOVEMENT is a gift ❤️. Sending you all so much love today!!! #tabithabrown #move #fitness #selflove #selfcare #spreadlove #nothate  Thank you @rubenrojas for this cute workout set❤️ keep spreading love brother!</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7276997640926006570" rel="alternate"/>
-    <published>2023-09-10T01:07:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7277219686767512874</id>
-    <title>A great plantbased post workout meal ❤️. Kale and chickpeas for the win!! Love yall! #vegan #plantbased #foodie #tabithabrown </title>
-    <updated>2023-09-10T15:29:19+00:00</updated>
-    <content>A great plantbased post workout meal ❤️. Kale and chickpeas for the win!! Love yall! #vegan #plantbased #foodie #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7277219686767512874" rel="alternate"/>
-    <published>2023-09-10T15:29:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7277570506512125230</id>
     <title>Asian markets always have so many varieties of mushrooms at affordable prices! The only bad part is the use of so much plastic😩. But check out your local  Asian markets for fun mushroom finds❤️ Love y’all! #mushrooms #tabithabrown #asian #markets </title>
@@ -51,5 +35,21 @@
     <content>Baby the letters were stretched ouuutttt trying to hold my brother @Nic Few in😂😂😂  #verygoodmondays #tabithabrown #nicfew #support #smallbusiness </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7277693157813275947" rel="alternate"/>
     <published>2023-09-11T22:06:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7277790529436339502</id>
+    <title>You spent a lot of time on foolishness today, but no time on YOU❤️. Lets do better tomorrow…. I love you.. #tabithabrown #spreadlove #Godislove  </title>
+    <updated>2023-09-12T04:24:35+00:00</updated>
+    <content>You spent a lot of time on foolishness today, but no time on YOU❤️. Lets do better tomorrow…. I love you.. #tabithabrown #spreadlove #Godislove  </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7277790529436339502" rel="alternate"/>
+    <published>2023-09-12T04:24:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7278117675820240170</id>
+    <title>Protein toast and a little reminder with love❤️ #vegan #plantbased #tabithabrown </title>
+    <updated>2023-09-13T01:33:55+00:00</updated>
+    <content>Protein toast and a little reminder with love❤️ #vegan #plantbased #tabithabrown </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7278117675820240170" rel="alternate"/>
+    <published>2023-09-13T01:33:55+00:00</published>
   </entry>
 </feed>
