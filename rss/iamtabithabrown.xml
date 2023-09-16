@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-09-13T01:33:55+00:00</updated>
+  <updated>2023-09-15T23:49:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7277570506512125230</id>
-    <title>Asian markets always have so many varieties of mushrooms at affordable prices! The only bad part is the use of so much plastic😩. But check out your local  Asian markets for fun mushroom finds❤️ Love y’all! #mushrooms #tabithabrown #asian #markets </title>
-    <updated>2023-09-11T14:10:51+00:00</updated>
-    <content>Asian markets always have so many varieties of mushrooms at affordable prices! The only bad part is the use of so much plastic😩. But check out your local  Asian markets for fun mushroom finds❤️ Love y’all! #mushrooms #tabithabrown #asian #markets </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7277570506512125230" rel="alternate"/>
-    <published>2023-09-11T14:10:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7277612772945415467</id>
     <title>May we all learn to root grace and forgiveness for others in pure love!  We deserve that kind of peace ❤️ I love y’all! Have a beautiful day❤️ #tabithabrown #spreadlove </title>
@@ -51,5 +43,13 @@
     <content>Protein toast and a little reminder with love❤️ #vegan #plantbased #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7278117675820240170" rel="alternate"/>
     <published>2023-09-13T01:33:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7279203988568804654</id>
+    <title>What better way to celebrate WORLD AFRO DAY  than with @Donna’s Recipe cousins🎉. Donna said she wanted to do a surprise pop up in Memphis the @target on 601 Colonial rd 🎉🎉. What a joy it was to hug and love on all of y’all today!!! I signed all the bottle</title>
+    <updated>2023-09-15T23:49:18+00:00</updated>
+    <content>What better way to celebrate WORLD AFRO DAY  than with @Donna’s Recipe cousins🎉. Donna said she wanted to do a surprise pop up in Memphis the @target on 601 Colonial rd 🎉🎉. What a joy it was to hug and love on all of y’all today!!! I signed all the bottles of @donnasrecipe so if you are in the area, stop by and grab some goodies!! Next stop Brown Missionary Baptist Church!  See y’all soon❤️ #donnasrecipe #worldafroday</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7279203988568804654" rel="alternate"/>
+    <published>2023-09-15T23:49:18+00:00</published>
   </entry>
 </feed>
