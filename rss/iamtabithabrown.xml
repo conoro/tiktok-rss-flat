@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-09-18T01:07:07+00:00</updated>
+  <updated>2023-09-19T14:22:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7277693157813275947</id>
-    <title>Baby the letters were stretched ouuutttt trying to hold my brother @Nic Few in😂😂😂  #verygoodmondays #tabithabrown #nicfew #support #smallbusiness </title>
-    <updated>2023-09-11T22:06:36+00:00</updated>
-    <content>Baby the letters were stretched ouuutttt trying to hold my brother @Nic Few in😂😂😂  #verygoodmondays #tabithabrown #nicfew #support #smallbusiness </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7277693157813275947" rel="alternate"/>
-    <published>2023-09-11T22:06:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7277790529436339502</id>
     <title>You spent a lot of time on foolishness today, but no time on YOU❤️. Lets do better tomorrow…. I love you.. #tabithabrown #spreadlove #Godislove  </title>
@@ -51,5 +43,13 @@
     <content>Omg this has brought tears to my eyes!!  Wow, thank you @officialc5 for thinking of me and sharing your gift with me…. Wow❤️🙏🏾. #thankful #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7279966191026834731" rel="alternate"/>
     <published>2023-09-18T01:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7280542149706353963</id>
+    <title>Those uncomfortable conversations are healthy and important in relationships!! Anybody understand what im talking about?  #relationships #marriage #menopause #women #men #health </title>
+    <updated>2023-09-19T14:22:04+00:00</updated>
+    <content>Those uncomfortable conversations are healthy and important in relationships!! Anybody understand what im talking about?  #relationships #marriage #menopause #women #men #health </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7280542149706353963" rel="alternate"/>
+    <published>2023-09-19T14:22:04+00:00</published>
   </entry>
 </feed>
