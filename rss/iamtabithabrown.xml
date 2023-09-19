@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-09-19T14:22:04+00:00</updated>
+  <updated>2023-09-19T17:56:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7277790529436339502</id>
-    <title>You spent a lot of time on foolishness today, but no time on YOU❤️. Lets do better tomorrow…. I love you.. #tabithabrown #spreadlove #Godislove  </title>
-    <updated>2023-09-12T04:24:35+00:00</updated>
-    <content>You spent a lot of time on foolishness today, but no time on YOU❤️. Lets do better tomorrow…. I love you.. #tabithabrown #spreadlove #Godislove  </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7277790529436339502" rel="alternate"/>
-    <published>2023-09-12T04:24:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7278117675820240170</id>
     <title>Protein toast and a little reminder with love❤️ #vegan #plantbased #tabithabrown </title>
@@ -51,5 +43,13 @@
     <content>Those uncomfortable conversations are healthy and important in relationships!! Anybody understand what im talking about?  #relationships #marriage #menopause #women #men #health </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7280542149706353963" rel="alternate"/>
     <published>2023-09-19T14:22:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7280597490422861099</id>
+    <title>A quick way to refresh Donna(my hair) when im traveling without my spray bottle!  Im using @Donna’s Recipe strength oil! Its also the same oil that got Donna her thickness and length back🙌🏾. Available at Ulta Beauty, select Target stores and www.donnasrec</title>
+    <updated>2023-09-19T17:56:52+00:00</updated>
+    <content>A quick way to refresh Donna(my hair) when im traveling without my spray bottle!  Im using @Donna’s Recipe strength oil! Its also the same oil that got Donna her thickness and length back🙌🏾. Available at Ulta Beauty, select Target stores and www.donnasrecipe.com ❤️. #donnasrecipe #hair #growth #afro #journey </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7280597490422861099" rel="alternate"/>
+    <published>2023-09-19T17:56:52+00:00</published>
   </entry>
 </feed>
