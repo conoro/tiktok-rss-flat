@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-09-19T17:56:52+00:00</updated>
+  <updated>2023-09-20T03:12:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7278117675820240170</id>
-    <title>Protein toast and a little reminder with love❤️ #vegan #plantbased #tabithabrown </title>
-    <updated>2023-09-13T01:33:55+00:00</updated>
-    <content>Protein toast and a little reminder with love❤️ #vegan #plantbased #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7278117675820240170" rel="alternate"/>
-    <published>2023-09-13T01:33:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7279203988568804654</id>
     <title>What better way to celebrate WORLD AFRO DAY  than with @Donna’s Recipe cousins🎉. Donna said she wanted to do a surprise pop up in Memphis the @target on 601 Colonial rd 🎉🎉. What a joy it was to hug and love on all of y’all today!!! I signed all the bottle</title>
@@ -51,5 +43,13 @@
     <content>A quick way to refresh Donna(my hair) when im traveling without my spray bottle!  Im using @Donna’s Recipe strength oil! Its also the same oil that got Donna her thickness and length back🙌🏾. Available at Ulta Beauty, select Target stores and www.donnasrecipe.com ❤️. #donnasrecipe #hair #growth #afro #journey </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7280597490422861099" rel="alternate"/>
     <published>2023-09-19T17:56:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7280740682510175530</id>
+    <title>Baby you cant eat up everything day 1, its supposed to last you for the week😂❤️. Just reminding you because I love you! #diet #health #humor #comedy #spreadlove #tabithabrown #vegan #foodie </title>
+    <updated>2023-09-20T03:12:26+00:00</updated>
+    <content>Baby you cant eat up everything day 1, its supposed to last you for the week😂❤️. Just reminding you because I love you! #diet #health #humor #comedy #spreadlove #tabithabrown #vegan #foodie </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7280740682510175530" rel="alternate"/>
+    <published>2023-09-20T03:12:26+00:00</published>
   </entry>
 </feed>
