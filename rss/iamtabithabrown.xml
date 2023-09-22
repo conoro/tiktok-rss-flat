@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-09-20T15:29:46+00:00</updated>
+  <updated>2023-09-22T20:57:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7279966191026834731</id>
-    <title>Omg this has brought tears to my eyes!!  Wow, thank you @officialc5 for thinking of me and sharing your gift with me…. Wow❤️🙏🏾. #thankful #tabithabrown </title>
-    <updated>2023-09-18T01:07:07+00:00</updated>
-    <content>Omg this has brought tears to my eyes!!  Wow, thank you @officialc5 for thinking of me and sharing your gift with me…. Wow❤️🙏🏾. #thankful #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7279966191026834731" rel="alternate"/>
-    <published>2023-09-18T01:07:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7280542149706353963</id>
     <title>Those uncomfortable conversations are healthy and important in relationships!! Anybody understand what im talking about?  #relationships #marriage #menopause #women #men #health </title>
@@ -51,5 +43,13 @@
     <content>Family!!!!! I’ve been eating a lot of raw vegan meals for the past 2 months, so today me and my brother @nicfew stopped by @Wild living foods and got raw burgers!!! Listen my mind is blown with how good this 100% RAW Vegan BBQ Bacon chorizo burger is🤯. If you are ever in downtown Los Angeles please stop in and try this burger!!! If you are cleansing from cooked food, eating raw, or just want to incorporate more living meals into your daily journey this place is going to bless you!! #vegan #foodie #tabithabrown #wildlivingfood #rawvegan</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7280930678181661998" rel="alternate"/>
     <published>2023-09-20T15:29:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7281757248651676971</id>
+    <title>Divorce conversations can absolutely happen in marriages…. Lets talk about it! Link in bio for the full episode❤️ #fridayswithtabandchance </title>
+    <updated>2023-09-22T20:57:17+00:00</updated>
+    <content>Divorce conversations can absolutely happen in marriages…. Lets talk about it! Link in bio for the full episode❤️ #fridayswithtabandchance </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7281757248651676971" rel="alternate"/>
+    <published>2023-09-22T20:57:17+00:00</published>
   </entry>
 </feed>
