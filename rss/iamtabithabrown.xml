@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-09-22T20:57:17+00:00</updated>
+  <updated>2023-09-23T17:29:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7280542149706353963</id>
-    <title>Those uncomfortable conversations are healthy and important in relationships!! Anybody understand what im talking about?  #relationships #marriage #menopause #women #men #health </title>
-    <updated>2023-09-19T14:22:04+00:00</updated>
-    <content>Those uncomfortable conversations are healthy and important in relationships!! Anybody understand what im talking about?  #relationships #marriage #menopause #women #men #health </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7280542149706353963" rel="alternate"/>
-    <published>2023-09-19T14:22:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7280597490422861099</id>
     <title>A quick way to refresh Donna(my hair) when im traveling without my spray bottle!  Im using @Donna’s Recipe strength oil! Its also the same oil that got Donna her thickness and length back🙌🏾. Available at Ulta Beauty, select Target stores and www.donnasrec</title>
@@ -51,5 +43,13 @@
     <content>Divorce conversations can absolutely happen in marriages…. Lets talk about it! Link in bio for the full episode❤️ #fridayswithtabandchance </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7281757248651676971" rel="alternate"/>
     <published>2023-09-22T20:57:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7282074853195337006</id>
+    <title>First day of fall and a reminder that seasons are always changing ❤️. Love you all! #tabithabrown #spreadlove </title>
+    <updated>2023-09-23T17:29:44+00:00</updated>
+    <content>First day of fall and a reminder that seasons are always changing ❤️. Love you all! #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7282074853195337006" rel="alternate"/>
+    <published>2023-09-23T17:29:44+00:00</published>
   </entry>
 </feed>
