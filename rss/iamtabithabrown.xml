@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-09-23T17:29:44+00:00</updated>
+  <updated>2023-09-24T18:10:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7280597490422861099</id>
-    <title>A quick way to refresh Donna(my hair) when im traveling without my spray bottle!  Im using @Donna’s Recipe strength oil! Its also the same oil that got Donna her thickness and length back🙌🏾. Available at Ulta Beauty, select Target stores and www.donnasrec</title>
-    <updated>2023-09-19T17:56:52+00:00</updated>
-    <content>A quick way to refresh Donna(my hair) when im traveling without my spray bottle!  Im using @Donna’s Recipe strength oil! Its also the same oil that got Donna her thickness and length back🙌🏾. Available at Ulta Beauty, select Target stores and www.donnasrecipe.com ❤️. #donnasrecipe #hair #growth #afro #journey </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7280597490422861099" rel="alternate"/>
-    <published>2023-09-19T17:56:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7280740682510175530</id>
     <title>Baby you cant eat up everything day 1, its supposed to last you for the week😂❤️. Just reminding you because I love you! #diet #health #humor #comedy #spreadlove #tabithabrown #vegan #foodie </title>
@@ -51,5 +43,13 @@
     <content>First day of fall and a reminder that seasons are always changing ❤️. Love you all! #tabithabrown #spreadlove </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7282074853195337006" rel="alternate"/>
     <published>2023-09-23T17:29:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7282456536671178026</id>
+    <title>My baby moved to the Houston coast 😂😂. Honey this moment still has me crying laughing 😂 only @choyce 😂 #houston #bicoastal #choycebrown #tabithabrown #eastcoast #westcoast #verygoodmondays #motherdaughter </title>
+    <updated>2023-09-24T18:10:54+00:00</updated>
+    <content>My baby moved to the Houston coast 😂😂. Honey this moment still has me crying laughing 😂 only @choyce 😂 #houston #bicoastal #choycebrown #tabithabrown #eastcoast #westcoast #verygoodmondays #motherdaughter </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7282456536671178026" rel="alternate"/>
+    <published>2023-09-24T18:10:54+00:00</published>
   </entry>
 </feed>
