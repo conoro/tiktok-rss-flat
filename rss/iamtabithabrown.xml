@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-09-27T13:02:33+00:00</updated>
+  <updated>2023-09-27T18:18:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7280930678181661998</id>
-    <title>Family!!!!! I’ve been eating a lot of raw vegan meals for the past 2 months, so today me and my brother @nicfew stopped by @Wild living foods and got raw burgers!!! Listen my mind is blown with how good this 100% RAW Vegan BBQ Bacon chorizo burger is🤯. If</title>
-    <updated>2023-09-20T15:29:46+00:00</updated>
-    <content>Family!!!!! I’ve been eating a lot of raw vegan meals for the past 2 months, so today me and my brother @nicfew stopped by @Wild living foods and got raw burgers!!! Listen my mind is blown with how good this 100% RAW Vegan BBQ Bacon chorizo burger is🤯. If you are ever in downtown Los Angeles please stop in and try this burger!!! If you are cleansing from cooked food, eating raw, or just want to incorporate more living meals into your daily journey this place is going to bless you!! #vegan #foodie #tabithabrown #wildlivingfood #rawvegan</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7280930678181661998" rel="alternate"/>
-    <published>2023-09-20T15:29:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7281757248651676971</id>
     <title>Divorce conversations can absolutely happen in marriages…. Lets talk about it! Link in bio for the full episode❤️ #fridayswithtabandchance </title>
@@ -51,5 +43,13 @@
     <content>Ok so many of you asked me to video the twist out of Donna, so here you go!  She was actually still a little damp but she honey she still cute!! I used the full @donnasrecipe sweet potato pie shampoo, conditioner and LOC system to achieve this look ❤️. Love y’all!! #tabithabrown #thedonnachronicles #naturalhair #twistout #afro #donnasrecipe Dress by @farmrio New lipstick by @iliabeauty thanks @thealist.us</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7283490340492021038" rel="alternate"/>
     <published>2023-09-27T13:02:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7283571733985103150</id>
+    <title>TSA:  Trust the process 💪🏾 From last night to today, Donna just out here learning to trust the process and me😂! #naturalhair #thedonnachronicles #tabithabrown #afro #donnasrecipe </title>
+    <updated>2023-09-27T18:18:22+00:00</updated>
+    <content>TSA:  Trust the process 💪🏾 From last night to today, Donna just out here learning to trust the process and me😂! #naturalhair #thedonnachronicles #tabithabrown #afro #donnasrecipe </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7283571733985103150" rel="alternate"/>
+    <published>2023-09-27T18:18:22+00:00</published>
   </entry>
 </feed>
