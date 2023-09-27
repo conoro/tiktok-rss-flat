@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-09-24T18:10:54+00:00</updated>
+  <updated>2023-09-27T13:02:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7280740682510175530</id>
-    <title>Baby you cant eat up everything day 1, its supposed to last you for the week😂❤️. Just reminding you because I love you! #diet #health #humor #comedy #spreadlove #tabithabrown #vegan #foodie </title>
-    <updated>2023-09-20T03:12:26+00:00</updated>
-    <content>Baby you cant eat up everything day 1, its supposed to last you for the week😂❤️. Just reminding you because I love you! #diet #health #humor #comedy #spreadlove #tabithabrown #vegan #foodie </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7280740682510175530" rel="alternate"/>
-    <published>2023-09-20T03:12:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7280930678181661998</id>
     <title>Family!!!!! I’ve been eating a lot of raw vegan meals for the past 2 months, so today me and my brother @nicfew stopped by @Wild living foods and got raw burgers!!! Listen my mind is blown with how good this 100% RAW Vegan BBQ Bacon chorizo burger is🤯. If</title>
@@ -51,5 +43,13 @@
     <content>My baby moved to the Houston coast 😂😂. Honey this moment still has me crying laughing 😂 only @choyce 😂 #houston #bicoastal #choycebrown #tabithabrown #eastcoast #westcoast #verygoodmondays #motherdaughter </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7282456536671178026" rel="alternate"/>
     <published>2023-09-24T18:10:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7283490340492021038</id>
+    <title>Ok so many of you asked me to video the twist out of Donna, so here you go!  She was actually still a little damp but she honey she still cute!! I used the full @donnasrecipe sweet potato pie shampoo, conditioner and LOC system to achieve this look ❤️. Lo</title>
+    <updated>2023-09-27T13:02:33+00:00</updated>
+    <content>Ok so many of you asked me to video the twist out of Donna, so here you go!  She was actually still a little damp but she honey she still cute!! I used the full @donnasrecipe sweet potato pie shampoo, conditioner and LOC system to achieve this look ❤️. Love y’all!! #tabithabrown #thedonnachronicles #naturalhair #twistout #afro #donnasrecipe Dress by @farmrio New lipstick by @iliabeauty thanks @thealist.us</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7283490340492021038" rel="alternate"/>
+    <published>2023-09-27T13:02:33+00:00</published>
   </entry>
 </feed>
