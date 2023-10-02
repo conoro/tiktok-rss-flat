@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-09-30T16:44:28+00:00</updated>
+  <updated>2023-10-02T02:21:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7282456536671178026</id>
-    <title>My baby moved to the Houston coast 😂😂. Honey this moment still has me crying laughing 😂 only @choyce 😂 #houston #bicoastal #choycebrown #tabithabrown #eastcoast #westcoast #verygoodmondays #motherdaughter </title>
-    <updated>2023-09-24T18:10:54+00:00</updated>
-    <content>My baby moved to the Houston coast 😂😂. Honey this moment still has me crying laughing 😂 only @choyce 😂 #houston #bicoastal #choycebrown #tabithabrown #eastcoast #westcoast #verygoodmondays #motherdaughter </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7282456536671178026" rel="alternate"/>
-    <published>2023-09-24T18:10:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7283490340492021038</id>
     <title>Ok so many of you asked me to video the twist out of Donna, so here you go!  She was actually still a little damp but she honey she still cute!! I used the full @donnasrecipe sweet potato pie shampoo, conditioner and LOC system to achieve this look ❤️. Lo</title>
@@ -51,5 +43,13 @@
     <content>Family!!! Can y’all tell I’m excited about my favorite seasoning company @McCormick Spices changing their signature red bottle caps to new SnapTight lids that keep flavor sealed in!!! Honey I couldn’t wait to use them in a recipe! Let’s get into these jackfruit tacos!! #mccormickpartner #tabxmccormick #tabithabrown #jackfruit #tacos </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7284660740911402282" rel="alternate"/>
     <published>2023-09-30T16:44:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7285180472051698986</id>
+    <title>Atlanta!!! If you’re in the 3535 Peachtree area tomorrow, I just popped up @target and signed all the @Donna’s Recipe collection for yall❤️. Show Donna some love and maybe get a few for some friends and family gifts while they last!! I love yall and will </title>
+    <updated>2023-10-02T02:21:09+00:00</updated>
+    <content>Atlanta!!! If you’re in the 3535 Peachtree area tomorrow, I just popped up @target and signed all the @Donna’s Recipe collection for yall❤️. Show Donna some love and maybe get a few for some friends and family gifts while they last!! I love yall and will see yall again soon! #tabithabrown #donnasrecipextarget #haircare #naturalhair #allhairtypes </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7285180472051698986" rel="alternate"/>
+    <published>2023-10-02T02:21:09+00:00</published>
   </entry>
 </feed>
