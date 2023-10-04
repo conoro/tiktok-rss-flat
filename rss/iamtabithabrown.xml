@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-10-03T05:35:12+00:00</updated>
+  <updated>2023-10-04T17:31:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7283571733985103150</id>
-    <title>TSA:  Trust the process 💪🏾 From last night to today, Donna just out here learning to trust the process and me😂! #naturalhair #thedonnachronicles #tabithabrown #afro #donnasrecipe </title>
-    <updated>2023-09-27T18:18:22+00:00</updated>
-    <content>TSA:  Trust the process 💪🏾 From last night to today, Donna just out here learning to trust the process and me😂! #naturalhair #thedonnachronicles #tabithabrown #afro #donnasrecipe </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7283571733985103150" rel="alternate"/>
-    <published>2023-09-27T18:18:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7284329762074529066</id>
     <title>Family!!! I’m officially a @Better Homes &amp; Gardens STYLE MAKER❤️. Thank you so much @steporr for the love and conversation yesterday , you are amazing and I appreciate you and your entire staff❤️. And omg @C5 they played your song when I walked out!!! Thi</title>
@@ -51,5 +43,13 @@
     <content>How much longer will you say “NOT YET”🥹🙏🏾. I love you❤️. #tabithatbrown #spreadlove </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7285601427181948203" rel="alternate"/>
     <published>2023-10-03T05:35:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7286157145362484522</id>
+    <title>🎉🎉Happy National Taco day🎉🎉 Like I always say, every day is a good day for tacos!! But since today is National Taco Day, let’s get into my Taco Business with @McCormick Spices . What kind of tacos are y’all making today?? #nationaltacoday #tabxmccormick #</title>
+    <updated>2023-10-04T17:31:27+00:00</updated>
+    <content>🎉🎉Happy National Taco day🎉🎉 Like I always say, every day is a good day for tacos!! But since today is National Taco Day, let’s get into my Taco Business with @McCormick Spices . What kind of tacos are y’all making today?? #nationaltacoday #tabxmccormick #mccormickpartner #tabithabrown  </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7286157145362484522" rel="alternate"/>
+    <published>2023-10-04T17:31:27+00:00</published>
   </entry>
 </feed>
