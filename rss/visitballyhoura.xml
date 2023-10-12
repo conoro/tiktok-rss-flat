@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@visitballyhoura</id>
   <title>visitballyhoura TikTok</title>
-  <updated>2023-10-10T17:19:17+00:00</updated>
+  <updated>2023-10-12T19:23:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from visitballyhoura</subtitle>
-  <entry>
-    <id>https://tiktok.com/@visitballyhoura/video/7233875469970509083</id>
-    <title>Another wonderful day at the official reopening of Doneraile Court last week. The 5th most visited free attraction, Doneraile Court and Gardens is located in the North Cork area of Ballyhoura Country and it’s one of the Ireland’s most popular hidden gems </title>
-    <updated>2023-05-16T20:11:31+00:00</updated>
-    <content>Another wonderful day at the official reopening of Doneraile Court last week. The 5th most visited free attraction, Doneraile Court and Gardens is located in the North Cork area of Ballyhoura Country and it’s one of the Ireland’s most popular hidden gems 💎. The €2m refurbishment of the Doneraile Court by @opwireland opened up the second floor to the public. It is now open 5 days a week until mid June and guided tours are available from 10am to 4pm Wednesday to Sunday and Bank holidays. It will be open 7 days a week from mid June 🙌✨ #heritageireland #OPW #visitdoneraile #visitballyhoura #castletownhouse #irelandshiddenheartlands #ballyhoura #munstervales #purecork #guidesofireland #visitcork @Munster Vales @Pure Cork @Ireland’s Hidden Heartlands @</content>
-    <link href="https://tiktok.com/@visitballyhoura/video/7233875469970509083" rel="alternate"/>
-    <published>2023-05-16T20:11:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7234216029025586459</id>
     <title>🌿🎥 We had an amazing time filming and exploring the beautiful Ballyhoura nature trail! The brand new signage made it even easier to navigate and discover all the hidden gems along the way. 🌳 Check out this reel for a sneak peek of our adventure and keep a</title>
@@ -51,5 +43,13 @@
     <content>🌿✨ A huge THANK YOU to everyone who made the Ballyhoura Walking Festival 2023 a tremendous success! ✨🌿 Over 350 walkers joined us for an incredible weekend of adventure, and we couldn’t have done it without your enthusiasm. A massive shoutout goes to our dedicated volunteers who played an indispensable role in making this festival a success. A special mention goes to the incredible members of the Ballyhoura Bears Walking Club for their invaluable assistance in planning and leading the walks.  A huge thanks to our ambulance crew from the Red Cross, who tirelessly drove around and ensured our safety throughout the festival. We’re also grateful for the unwavering support from the Kilfinane community, Joyce Brothers Music Festival Committee, Kilfinane Community Council, Ballyhoura CCE, Ballyhoura Heritage &amp; Environment and Ballyhoura Fáilte volunteer members.  A heartfelt thank you to Limerick County Council for their festival funding, which made this festival even more enjoyable for all. We’d also like to express our appreciation to Deebert House Hotel for providing refreshments and Centra in Kilfinane for supplying us with healthy goodies for our goodie bags.  A special tip of the hat to our local guides who led our heritage walks in Kilmallock, Lough Gur, Mitchelstown, and Doneraile, including members of the Doneraile Drama Society. Your captivating stories added a whole new layer to our walks! There are too many more people to mention, but we do appreciate all your help and support. We’re already looking forward to next year’s adventures! 🌄🥾 #BallyhouraWalkingFestival #ThankYou #Community #Adventure #VisitBallyhoura #BallyhouraFestival </content>
     <link href="https://tiktok.com/@visitballyhoura/video/7288380622668647713" rel="alternate"/>
     <published>2023-10-10T17:19:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7289154781627616545</id>
+    <title>Little Carron Mountain (440m) offers stunning views of the Ballyhoura Country. Maybe you’ll be mesmerised by the windmills, or be captivated by drifting clouds, or even catch a beautiful sunset. The summit is just a short detour from the Castlepook mounta</title>
+    <updated>2023-10-12T19:23:33+00:00</updated>
+    <content>Little Carron Mountain (440m) offers stunning views of the Ballyhoura Country. Maybe you’ll be mesmerised by the windmills, or be captivated by drifting clouds, or even catch a beautiful sunset. The summit is just a short detour from the Castlepook mountain biking route (54km) and is also part of the Ballyhoura Way. For day-hikers, a great option is to start from the Ballinaboola car-park and hike to the summit. Make sure to add this peak to your list the next time you’re out in the Ballyhouras! #Ballyhoura #VisitBallyhoura #BallyhouraMoments #BallyhouraMountains #MunsterVales #IrelandsHiddenHeartlands #LimerickEdgeEmbrace #DiscoverIreland #KeepDiscovering #GetOutdoors #AdventureTourism #Irelandtravel #ballyhouraforest #coillteoutdoors @Munster Vales @Ireland’s Hidden Heartlands @Discover Ireland @Limerick.ie @Tourism Ireland </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7289154781627616545" rel="alternate"/>
+    <published>2023-10-12T19:23:33+00:00</published>
   </entry>
 </feed>
