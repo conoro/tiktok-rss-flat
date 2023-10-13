@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-10-10T02:45:28+00:00</updated>
+  <updated>2023-10-13T15:38:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7285180472051698986</id>
-    <title>Atlanta!!! If you’re in the 3535 Peachtree area tomorrow, I just popped up @target and signed all the @Donna’s Recipe collection for yall❤️. Show Donna some love and maybe get a few for some friends and family gifts while they last!! I love yall and will </title>
-    <updated>2023-10-02T02:21:09+00:00</updated>
-    <content>Atlanta!!! If you’re in the 3535 Peachtree area tomorrow, I just popped up @target and signed all the @Donna’s Recipe collection for yall❤️. Show Donna some love and maybe get a few for some friends and family gifts while they last!! I love yall and will see yall again soon! #tabithabrown #donnasrecipextarget #haircare #naturalhair #allhairtypes </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7285180472051698986" rel="alternate"/>
-    <published>2023-10-02T02:21:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7285601427181948203</id>
     <title>How much longer will you say “NOT YET”🥹🙏🏾. I love you❤️. #tabithatbrown #spreadlove </title>
@@ -51,5 +43,13 @@
     <content>Give yourself time to heal properly ❤️. I love you! #tabithabrown #spreadlove </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7288155433989147947" rel="alternate"/>
     <published>2023-10-10T02:45:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7289467900476394794</id>
+    <title>Expand doesnt always mean larger… I had the opportunity to share this moment and more on the latest episode of #GoldMinds w/ @Kevin Hart . Tune in on all platforms now!🎧 #podcasts #tabithabrown #kevinhart #thankful #growth   </title>
+    <updated>2023-10-13T15:38:37+00:00</updated>
+    <content>Expand doesnt always mean larger… I had the opportunity to share this moment and more on the latest episode of #GoldMinds w/ @Kevin Hart . Tune in on all platforms now!🎧 #podcasts #tabithabrown #kevinhart #thankful #growth   </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7289467900476394794" rel="alternate"/>
+    <published>2023-10-13T15:38:37+00:00</published>
   </entry>
 </feed>
