@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-10-13T15:38:37+00:00</updated>
+  <updated>2023-10-13T20:47:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7285601427181948203</id>
-    <title>How much longer will you say “NOT YET”🥹🙏🏾. I love you❤️. #tabithatbrown #spreadlove </title>
-    <updated>2023-10-03T05:35:12+00:00</updated>
-    <content>How much longer will you say “NOT YET”🥹🙏🏾. I love you❤️. #tabithatbrown #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7285601427181948203" rel="alternate"/>
-    <published>2023-10-03T05:35:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7286157145362484522</id>
     <title>🎉🎉Happy National Taco day🎉🎉 Like I always say, every day is a good day for tacos!! But since today is National Taco Day, let’s get into my Taco Business with @McCormick Spices . What kind of tacos are y’all making today?? #nationaltacoday #tabxmccormick #</title>
@@ -51,5 +43,13 @@
     <content>Expand doesnt always mean larger… I had the opportunity to share this moment and more on the latest episode of #GoldMinds w/ @Kevin Hart . Tune in on all platforms now!🎧 #podcasts #tabithabrown #kevinhart #thankful #growth   </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7289467900476394794" rel="alternate"/>
     <published>2023-10-13T15:38:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7289547535008484654</id>
+    <title>Laaawwddd the Sunshine scramble got my greedy spirit out here licking plates😂😂😂 but that’s my business😂😂. How yall doing this afternoon?? #tabithabrown #vegan #foodie #lunch </title>
+    <updated>2023-10-13T20:47:39+00:00</updated>
+    <content>Laaawwddd the Sunshine scramble got my greedy spirit out here licking plates😂😂😂 but that’s my business😂😂. How yall doing this afternoon?? #tabithabrown #vegan #foodie #lunch </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7289547535008484654" rel="alternate"/>
+    <published>2023-10-13T20:47:39+00:00</published>
   </entry>
 </feed>
