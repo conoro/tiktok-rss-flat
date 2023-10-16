@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-10-14T17:34:10+00:00</updated>
+  <updated>2023-10-16T14:36:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7286713591820979498</id>
-    <title>Praying for those whose families/relatives wont acknowledge your trauma.  Your feelings are valid.  I love you❤️ #abuse #awareness #spreadlove #tabithabrown </title>
-    <updated>2023-10-06T05:30:49+00:00</updated>
-    <content>Praying for those whose families/relatives wont acknowledge your trauma.  Your feelings are valid.  I love you❤️ #abuse #awareness #spreadlove #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7286713591820979498" rel="alternate"/>
-    <published>2023-10-06T05:30:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7288155433989147947</id>
     <title>Give yourself time to heal properly ❤️. I love you! #tabithabrown #spreadlove </title>
@@ -51,5 +43,13 @@
     <content>Make it about you today❤️. You deserve YOU too!!! I love you!!! #happySaturday </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7289868769952812331" rel="alternate"/>
     <published>2023-10-14T17:34:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7290565236887833902</id>
+    <title>Hot and juicy hearts of palm for the win!!! Baaabbyyy I almost fight myself every time i make this😂😂😂. #vegan #crablegs #crabboil #tabithabrown #foodie #recipe #plantbased </title>
+    <updated>2023-10-16T14:36:57+00:00</updated>
+    <content>Hot and juicy hearts of palm for the win!!! Baaabbyyy I almost fight myself every time i make this😂😂😂. #vegan #crablegs #crabboil #tabithabrown #foodie #recipe #plantbased </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7290565236887833902" rel="alternate"/>
+    <published>2023-10-16T14:36:57+00:00</published>
   </entry>
 </feed>
