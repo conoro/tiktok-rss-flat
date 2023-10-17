@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@visitballyhoura</id>
   <title>visitballyhoura TikTok</title>
-  <updated>2023-10-12T19:23:33+00:00</updated>
+  <updated>2023-10-17T19:29:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from visitballyhoura</subtitle>
-  <entry>
-    <id>https://tiktok.com/@visitballyhoura/video/7234216029025586459</id>
-    <title>🌿🎥 We had an amazing time filming and exploring the beautiful Ballyhoura nature trail! The brand new signage made it even easier to navigate and discover all the hidden gems along the way. 🌳 Check out this reel for a sneak peek of our adventure and keep a</title>
-    <updated>2023-05-17T18:13:03+00:00</updated>
-    <content>🌿🎥 We had an amazing time filming and exploring the beautiful Ballyhoura nature trail! The brand new signage made it even easier to navigate and discover all the hidden gems along the way. 🌳 Check out this reel for a sneak peek of our adventure and keep an eye for our new video release very soon 🙌🎬. If you’re looking for a fun and scenic outdoor activity, Ballyhoura Nature Trail is the perfect spot! It’s located at the Ballyhoura Mountain Bike Centre 🚵‍♀️ and it is a 40-minute 2km investigation of over 20 hidden creatures 🪹🪶🪲in the woods that kiddies have to uncover on their walk. For more information on the trail and other activities in the area, check out visitballyhoura.com. Trust us, you won’t be disappointed! 😍 #Ballyhoura #NatureTrail #ExploreIreland #OutdoorAdventure #VisitBallyhoura #naturelovers #irelandshiddenheartlands #munstervales #keepdiscovering #ballyhouramountains #ballyhouratrails #familyfriendlywalks  </content>
-    <link href="https://tiktok.com/@visitballyhoura/video/7234216029025586459" rel="alternate"/>
-    <published>2023-05-17T18:13:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7256731633590570266</id>
     <title>✨Looking for an epic outdoor activity that the whole family can enjoy? Look no further than Ballyhoura Mountain Biking trails! 🌳🚵‍♂ With its breathtaking scenery and thrilling trails, Ballyhoura is the perfect destination for an unforgettable #familyadven</title>
@@ -51,5 +43,13 @@
     <content>Little Carron Mountain (440m) offers stunning views of the Ballyhoura Country. Maybe you’ll be mesmerised by the windmills, or be captivated by drifting clouds, or even catch a beautiful sunset. The summit is just a short detour from the Castlepook mountain biking route (54km) and is also part of the Ballyhoura Way. For day-hikers, a great option is to start from the Ballinaboola car-park and hike to the summit. Make sure to add this peak to your list the next time you’re out in the Ballyhouras! #Ballyhoura #VisitBallyhoura #BallyhouraMoments #BallyhouraMountains #MunsterVales #IrelandsHiddenHeartlands #LimerickEdgeEmbrace #DiscoverIreland #KeepDiscovering #GetOutdoors #AdventureTourism #Irelandtravel #ballyhouraforest #coillteoutdoors @Munster Vales @Ireland’s Hidden Heartlands @Discover Ireland @Limerick.ie @Tourism Ireland </content>
     <link href="https://tiktok.com/@visitballyhoura/video/7289154781627616545" rel="alternate"/>
     <published>2023-10-12T19:23:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7291011798575123744</id>
+    <title>Everything you need for a great ride...in one place! Did you know the Ballyhoura Trail Centre has... 1. Secure car parking. Cashless payments are easy, or purchase an annual pass on coillte.ie 2. Bike rentals. Make sure to book in with the Trailriders cre</title>
+    <updated>2023-10-17T19:29:34+00:00</updated>
+    <content>Everything you need for a great ride...in one place! Did you know the Ballyhoura Trail Centre has... 1. Secure car parking. Cashless payments are easy, or purchase an annual pass on coillte.ie 2. Bike rentals. Make sure to book in with the Trailriders crew @ballyhouratrailriders 3. A bike shop with all the essentials, like bike gear, spare tubes, snacks and coffee 4. Toilets 5. A bike wash (€2 required) 6. Showers (2 x €1 coins required) 7. Picnic tables for post-ride munchies  And a fantastic community atmosphere, especially on weekends. With over 98km of mountain biking trails, including recent exciting new additions to the network, don't miss the chance to ride here. @Munster Vales @Ireland’s Hidden Heartlands @Discover Ireland @Limerick.ie @Tourism Ireland  #ORIS #OurRuralFuture #Ireland2040 #Ballyhoura #VisitBallyhoura #BallyhouraMoments #BallyhouraMountains #MunsterVales #IrelandsHiddenHeartlands #LimerickEdgeEmbrace #DiscoverIreland #KeepDiscovering #GetOutdoors #AdventureTourism #Irelandtravel #ballyhouraforest #coillteoutdoors #mountainbiking #mtb #mtblife #mtblovers </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7291011798575123744" rel="alternate"/>
+    <published>2023-10-17T19:29:34+00:00</published>
   </entry>
 </feed>
