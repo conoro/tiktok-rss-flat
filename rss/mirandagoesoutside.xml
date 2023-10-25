@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@mirandagoesoutside</id>
   <title>mirandagoesoutside TikTok</title>
-  <updated>2022-10-19T18:08:51+00:00</updated>
+  <updated>2022-10-19T22:29:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mirandagoesoutside</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mirandagoesoutside/video/7102619422686219562</id>
-    <title>Rest easy knowing you're sleeping on trash... kind of 🗑 😴 #ThermARest #Recycle #ReduceReuseRecycle #OptToAct #CascadeDesigns #RestBetter #Camping #CampHack #NatureTok #Nature #REIEmployee #LNT #RecyclingDoesntWork</title>
-    <updated>2022-05-28T03:10:52+00:00</updated>
-    <content>Rest easy knowing you're sleeping on trash... kind of 🗑 😴 #ThermARest #Recycle #ReduceReuseRecycle #OptToAct #CascadeDesigns #RestBetter #Camping #CampHack #NatureTok #Nature #REIEmployee #LNT #RecyclingDoesntWork</content>
-    <link href="https://tiktok.com/@mirandagoesoutside/video/7102619422686219562" rel="alternate"/>
-    <published>2022-05-28T03:10:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mirandagoesoutside/video/7112080742208785707</id>
     <title>I am the ideal candidate for your June rainbow campaign 🏳️‍🌈 #pride #bisexual #pridemonth #happypride #outdoorsy #hiking #womenwhohike #queer #hiker #ootd</title>
@@ -51,5 +43,13 @@
     <content>This is what nightmares are made of #viral #divacup #womenempowerment </content>
     <link href="https://tiktok.com/@mirandagoesoutside/video/7156286992140061994" rel="alternate"/>
     <published>2022-10-19T18:08:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mirandagoesoutside/video/7156354337743228206</id>
+    <title>Pretty much perfect if you ask me</title>
+    <updated>2022-10-19T22:29:56+00:00</updated>
+    <content>Pretty much perfect if you ask me</content>
+    <link href="https://tiktok.com/@mirandagoesoutside/video/7156354337743228206" rel="alternate"/>
+    <published>2022-10-19T22:29:56+00:00</published>
   </entry>
 </feed>
