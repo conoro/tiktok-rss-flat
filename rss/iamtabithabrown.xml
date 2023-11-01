@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-10-29T02:33:54+00:00</updated>
+  <updated>2023-11-01T00:14:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7290565236887833902</id>
-    <title>Hot and juicy hearts of palm for the win!!! Baaabbyyy I almost fight myself every time i make this😂😂😂. #vegan #crablegs #crabboil #tabithabrown #foodie #recipe #plantbased </title>
-    <updated>2023-10-16T14:36:57+00:00</updated>
-    <content>Hot and juicy hearts of palm for the win!!! Baaabbyyy I almost fight myself every time i make this😂😂😂. #vegan #crablegs #crabboil #tabithabrown #foodie #recipe #plantbased </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7290565236887833902" rel="alternate"/>
-    <published>2023-10-16T14:36:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7291530091354459434</id>
     <title>Late night TSA:  Your threw in the towel and it ain’t even have no sweat on it!! Pick it up and start over!! I love you!❤️ #tabithabrown #spreadlove #motivation #dontquit</title>
@@ -51,5 +43,13 @@
     <content>Baaabbbyyyy we just tried the BEST  SUSHI I have ever had in my life!!!!! Omg Daikon Vegan Sushi y’all blessed us real good today!!! If y’all are ever in Las Vegas do yourself a favor and stop by and order the Golden State Roll, Spooky Roll, and the Yellow magic roll  and thank me later!!! I can’t wait to come back!!! Very Good!!!!! #lasvegas #tabithabrown #vegan #sushi #restaurant #review</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7295203071385160991" rel="alternate"/>
     <published>2023-10-29T02:33:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7296280392062012702</id>
+    <title>Becoming Queen Charlotte 👑. Here’s how I made my wig!  #happyhalloween #tabithabrown #queencharlotte </title>
+    <updated>2023-11-01T00:14:28+00:00</updated>
+    <content>Becoming Queen Charlotte 👑. Here’s how I made my wig!  #happyhalloween #tabithabrown #queencharlotte </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7296280392062012702" rel="alternate"/>
+    <published>2023-11-01T00:14:28+00:00</published>
   </entry>
 </feed>
