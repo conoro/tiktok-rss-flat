@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-11-01T00:14:28+00:00</updated>
+  <updated>2023-11-01T23:39:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7291530091354459434</id>
-    <title>Late night TSA:  Your threw in the towel and it ain’t even have no sweat on it!! Pick it up and start over!! I love you!❤️ #tabithabrown #spreadlove #motivation #dontquit</title>
-    <updated>2023-10-19T05:01:04+00:00</updated>
-    <content>Late night TSA:  Your threw in the towel and it ain’t even have no sweat on it!! Pick it up and start over!! I love you!❤️ #tabithabrown #spreadlove #motivation #dontquit</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7291530091354459434" rel="alternate"/>
-    <published>2023-10-19T05:01:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7292229952748129582</id>
     <title>When everyone tries to convince you that its not too much cleavage showing, but the camera says otherwise 😩.  Not my daughter @choyce sassing me😂😂. Im bout to get a switch 🌳 for that butt!! 😂. I ended up being cute and comfy once I was able to pull it up </title>
@@ -51,5 +43,13 @@
     <content>Becoming Queen Charlotte 👑. Here’s how I made my wig!  #happyhalloween #tabithabrown #queencharlotte </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7296280392062012702" rel="alternate"/>
     <published>2023-11-01T00:14:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7296642513169812766</id>
+    <title>Happy WORLD VEGAN DAY🎉. As most of you all know 6 years ago I went on a 30 day vegan challenge and never went back!  Doing something new everyday for 30 days changed my entire life! So I’m excited and hopeful that  you all love my new book “I DID A NEW TH</title>
+    <updated>2023-11-01T23:39:40+00:00</updated>
+    <content>Happy WORLD VEGAN DAY🎉. As most of you all know 6 years ago I went on a 30 day vegan challenge and never went back!  Doing something new everyday for 30 days changed my entire life! So I’m excited and hopeful that  you all love my new book “I DID A NEW THING” and are encouraged to try something new! Be sure to support local book stores @malikbooks and @reparations.club by preordering signed copies with them!  Stay tuned for the official book tour announcements because I’m doing a new thing and going to going to some new cities I’ve never been to before and I’m so excited!!!! Love y’all❤️ #ididanewthing #tabithabrown #worldveganday </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7296642513169812766" rel="alternate"/>
+    <published>2023-11-01T23:39:40+00:00</published>
   </entry>
 </feed>
