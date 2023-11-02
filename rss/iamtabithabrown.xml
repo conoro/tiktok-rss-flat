@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-11-01T23:39:40+00:00</updated>
+  <updated>2023-11-02T04:41:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7292229952748129582</id>
-    <title>When everyone tries to convince you that its not too much cleavage showing, but the camera says otherwise 😩.  Not my daughter @choyce sassing me😂😂. Im bout to get a switch 🌳 for that butt!! 😂. I ended up being cute and comfy once I was able to pull it up </title>
-    <updated>2023-10-21T02:16:43+00:00</updated>
-    <content>When everyone tries to convince you that its not too much cleavage showing, but the camera says otherwise 😩.  Not my daughter @choyce sassing me😂😂. Im bout to get a switch 🌳 for that butt!! 😂. I ended up being cute and comfy once I was able to pull it up good 😂 #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7292229952748129582" rel="alternate"/>
-    <published>2023-10-21T02:16:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7293561557148077354</id>
     <title>Every Monday my brother @Nic Few or my daughter @choyce and I showcase small businesses on Instagram, Facebook and YouTube ❤️. I figured why not give some extra exposure here! Welcome to Very Good Mondays, even though its now Tuesday😂 Welcome to Very Good</title>
@@ -51,5 +43,13 @@
     <content>Happy WORLD VEGAN DAY🎉. As most of you all know 6 years ago I went on a 30 day vegan challenge and never went back!  Doing something new everyday for 30 days changed my entire life! So I’m excited and hopeful that  you all love my new book “I DID A NEW THING” and are encouraged to try something new! Be sure to support local book stores @malikbooks and @reparations.club by preordering signed copies with them!  Stay tuned for the official book tour announcements because I’m doing a new thing and going to going to some new cities I’ve never been to before and I’m so excited!!!! Love y’all❤️ #ididanewthing #tabithabrown #worldveganday </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7296642513169812766" rel="alternate"/>
     <published>2023-11-01T23:39:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7296720347552910623</id>
+    <title>You are worthy of more ❤️. I love you ❤️ #tabithabrown #spreadlove </title>
+    <updated>2023-11-02T04:41:43+00:00</updated>
+    <content>You are worthy of more ❤️. I love you ❤️ #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7296720347552910623" rel="alternate"/>
+    <published>2023-11-02T04:41:43+00:00</published>
   </entry>
 </feed>
