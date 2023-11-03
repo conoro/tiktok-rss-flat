@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@visitballyhoura</id>
   <title>visitballyhoura TikTok</title>
-  <updated>2023-10-27T19:12:59+00:00</updated>
+  <updated>2023-11-03T21:20:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from visitballyhoura</subtitle>
-  <entry>
-    <id>https://tiktok.com/@visitballyhoura/video/7288380622668647713</id>
-    <title>🌿✨ A huge THANK YOU to everyone who made the Ballyhoura Walking Festival 2023 a tremendous success! ✨🌿 Over 350 walkers joined us for an incredible weekend of adventure, and we couldn’t have done it without your enthusiasm. A massive shoutout goes to our </title>
-    <updated>2023-10-10T17:19:17+00:00</updated>
-    <content>🌿✨ A huge THANK YOU to everyone who made the Ballyhoura Walking Festival 2023 a tremendous success! ✨🌿 Over 350 walkers joined us for an incredible weekend of adventure, and we couldn’t have done it without your enthusiasm. A massive shoutout goes to our dedicated volunteers who played an indispensable role in making this festival a success. A special mention goes to the incredible members of the Ballyhoura Bears Walking Club for their invaluable assistance in planning and leading the walks.  A huge thanks to our ambulance crew from the Red Cross, who tirelessly drove around and ensured our safety throughout the festival. We’re also grateful for the unwavering support from the Kilfinane community, Joyce Brothers Music Festival Committee, Kilfinane Community Council, Ballyhoura CCE, Ballyhoura Heritage &amp; Environment and Ballyhoura Fáilte volunteer members.  A heartfelt thank you to Limerick County Council for their festival funding, which made this festival even more enjoyable for all. We’d also like to express our appreciation to Deebert House Hotel for providing refreshments and Centra in Kilfinane for supplying us with healthy goodies for our goodie bags.  A special tip of the hat to our local guides who led our heritage walks in Kilmallock, Lough Gur, Mitchelstown, and Doneraile, including members of the Doneraile Drama Society. Your captivating stories added a whole new layer to our walks! There are too many more people to mention, but we do appreciate all your help and support. We’re already looking forward to next year’s adventures! 🌄🥾 #BallyhouraWalkingFestival #ThankYou #Community #Adventure #VisitBallyhoura #BallyhouraFestival </content>
-    <link href="https://tiktok.com/@visitballyhoura/video/7288380622668647713" rel="alternate"/>
-    <published>2023-10-10T17:19:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7289154781627616545</id>
     <title>Little Carron Mountain (440m) offers stunning views of the Ballyhoura Country. Maybe you’ll be mesmerised by the windmills, or be captivated by drifting clouds, or even catch a beautiful sunset. The summit is just a short detour from the Castlepook mounta</title>
@@ -51,5 +43,13 @@
     <content>Handy tips for longer days in the saddle!  If you're new to Ballyhoura's mountain biking trails, here are a few handy tips on what to bring for the bigger loops (Tech Route 24km, Garrane Route 35km, Castlepook Route 54km). Is there something we've missed? Let us know below ⬇️  @Munster Vales @Ireland’s Hidden Heartlands @Tourism Ireland @Break the Resistance @Discover Ireland @Limerick.ie  #ORIS #OurRuralFuture #Ireland2040 #Ballyhoura #VisitBallyhoura #BallyhouraMoments #BallyhouraMountains #MunsterVales #IrelandsHiddenHeartlands #LimerickEdgeEmbrace #DiscoverIreland #KeepDiscovering #GetOutdoors #AdventureTourism #Irelandtravel #ballyhouraforest #coillteoutdoors #mtb #mtblife #mtbtips #mountainbiking #mtblover </content>
     <link href="https://tiktok.com/@visitballyhoura/video/7294718381150883104" rel="alternate"/>
     <published>2023-10-27T19:12:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7297348831023287585</id>
+    <title>Leah Maunsell takes on Toto, one of the new black trails in the Ballyhouras. Leah is the 9 x women's Elite Irish Enduro National Champion 🇮🇪 and the Ballyhouras are her local. Have you tried the new trails yet? Let us know what you think below ⬇️  @Leah @</title>
+    <updated>2023-11-03T21:20:31+00:00</updated>
+    <content>Leah Maunsell takes on Toto, one of the new black trails in the Ballyhouras. Leah is the 9 x women's Elite Irish Enduro National Champion 🇮🇪 and the Ballyhouras are her local. Have you tried the new trails yet? Let us know what you think below ⬇️  @Leah @Munster Vales @Ireland’s Hidden Heartlands @Tourism Ireland @Break the Resistance @Discover Ireland @Cycling Ireland @Limerick.ie  #ORIS #OurRuralFuture #Ireland2040 #Ballyhoura #VisitBallyhoura #BallyhouraMoments #BallyhouraMountains #MunsterVales #IrelandsHiddenHeartlands #LimerickEdgeEmbrace #DiscoverIreland #KeepDiscovering #GetOutdoors #AdventureTourism #Irelandtravel #BallyhouraForest #CoillteOutdoors #MountainBiking #mtb #mtblife #mtblovers #mtbireland </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7297348831023287585" rel="alternate"/>
+    <published>2023-11-03T21:20:31+00:00</published>
   </entry>
 </feed>
