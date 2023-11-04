@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-11-02T04:41:43+00:00</updated>
+  <updated>2023-11-04T18:39:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7293561557148077354</id>
-    <title>Every Monday my brother @Nic Few or my daughter @choyce and I showcase small businesses on Instagram, Facebook and YouTube ❤️. I figured why not give some extra exposure here! Welcome to Very Good Mondays, even though its now Tuesday😂 Welcome to Very Good</title>
-    <updated>2023-10-24T16:24:01+00:00</updated>
-    <content>Every Monday my brother @Nic Few or my daughter @choyce and I showcase small businesses on Instagram, Facebook and YouTube ❤️. I figured why not give some extra exposure here! Welcome to Very Good Mondays, even though its now Tuesday😂 Welcome to Very Good Mondays, where we showcase small businesses with love, laughter and a little bit of cutting up!  Here are todays Featured Businesses: T-shirts and Sweaters - Conrads Apparel Website: https://conradsapparel.com/  IG: @conradsapparel FB: conradsapparel  Glasses - Focus and Frame Eyewear Website: https://focusandframeeyewear.com/ IG: @focusandframeeyewear FB: FocusAndFrameEyewear Children’s Books - Fearless Princess by MeKael Black Website: http://www.mekaelblack.com  IG: @mekaelblack FB: MekaelBlack Candle of the week - Lit Moments Candle Company Website: http://www.lit-moments.com  IG: litmomentsco1 FB: litmomentscandleco #supportsmallbusiness</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7293561557148077354" rel="alternate"/>
-    <published>2023-10-24T16:24:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7295203071385160991</id>
     <title>Baaabbbyyyy we just tried the BEST  SUSHI I have ever had in my life!!!!! Omg Daikon Vegan Sushi y’all blessed us real good today!!! If y’all are ever in Las Vegas do yourself a favor and stop by and order the Golden State Roll, Spooky Roll, and the Yello</title>
@@ -51,5 +43,13 @@
     <content>You are worthy of more ❤️. I love you ❤️ #tabithabrown #spreadlove </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7296720347552910623" rel="alternate"/>
     <published>2023-11-02T04:41:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7297678424993320222</id>
+    <title>It’s Saturday!!!! Make it a about you today!! Love you! #tabithabrown #spreadlove </title>
+    <updated>2023-11-04T18:39:39+00:00</updated>
+    <content>It’s Saturday!!!! Make it a about you today!! Love you! #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7297678424993320222" rel="alternate"/>
+    <published>2023-11-04T18:39:39+00:00</published>
   </entry>
 </feed>
