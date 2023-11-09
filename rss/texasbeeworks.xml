@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@texasbeeworks</id>
   <title>texasbeeworks TikTok</title>
-  <updated>2023-09-29T16:42:01+00:00</updated>
+  <updated>2023-11-07T16:00:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from texasbeeworks</subtitle>
-  <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/7224909251708243246</id>
-    <title>Happy Earth Day from me and the bees! #earthday #bees #savingthebees </title>
-    <updated>2023-04-22T16:18:03+00:00</updated>
-    <content>Happy Earth Day from me and the bees! #earthday #bees #savingthebees </content>
-    <link href="https://tiktok.com/@texasbeeworks/video/7224909251708243246" rel="alternate"/>
-    <published>2023-04-22T16:18:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@texasbeeworks/video/7240099010923466026</id>
     <title>Bees packed themselves into a suitcase and they needed my help! #beekeeper #beerescue #suitcase #beetok #savingthebees </title>
@@ -51,5 +43,13 @@
     <content>Bee battle!</content>
     <link href="https://tiktok.com/@texasbeeworks/video/7284289008572583210" rel="alternate"/>
     <published>2023-09-29T16:42:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/7298750561971604778</id>
+    <title>It’s that time of year again… when the male bees get kicked out of the hive. </title>
+    <updated>2023-11-07T16:00:01+00:00</updated>
+    <content>It’s that time of year again… when the male bees get kicked out of the hive. </content>
+    <link href="https://tiktok.com/@texasbeeworks/video/7298750561971604778" rel="alternate"/>
+    <published>2023-11-07T16:00:01+00:00</published>
   </entry>
 </feed>
