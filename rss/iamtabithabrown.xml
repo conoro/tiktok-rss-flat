@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-11-07T05:55:39+00:00</updated>
+  <updated>2023-11-14T19:57:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7296280392062012702</id>
-    <title>Becoming Queen Charlotte 👑. Here’s how I made my wig!  #happyhalloween #tabithabrown #queencharlotte </title>
-    <updated>2023-11-01T00:14:28+00:00</updated>
-    <content>Becoming Queen Charlotte 👑. Here’s how I made my wig!  #happyhalloween #tabithabrown #queencharlotte </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7296280392062012702" rel="alternate"/>
-    <published>2023-11-01T00:14:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7296642513169812766</id>
     <title>Happy WORLD VEGAN DAY🎉. As most of you all know 6 years ago I went on a 30 day vegan challenge and never went back!  Doing something new everyday for 30 days changed my entire life! So I’m excited and hopeful that  you all love my new book “I DID A NEW TH</title>
@@ -51,5 +43,13 @@
     <content>Quick and easy Garlic veggie pasta❤️ #vegan #plantbased #tabithabrown #recipes </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7298594800817818923" rel="alternate"/>
     <published>2023-11-07T05:55:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7301409344476712235</id>
+    <title>Morning TSA: Life is an emotional rollercoaster, sometimes we wanna throw our hands up and scream with excitement while enjoying the ride, other times we just want to get off the rollercoaster 🥹 but both are normal.  Life has seasons baby, and they will c</title>
+    <updated>2023-11-14T19:57:39+00:00</updated>
+    <content>Morning TSA: Life is an emotional rollercoaster, sometimes we wanna throw our hands up and scream with excitement while enjoying the ride, other times we just want to get off the rollercoaster 🥹 but both are normal.  Life has seasons baby, and they will come and go!  Y’all hang in there❤️. I love you! #tabithabrown #spreadlove #Godislove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7301409344476712235" rel="alternate"/>
+    <published>2023-11-14T19:57:39+00:00</published>
   </entry>
 </feed>
