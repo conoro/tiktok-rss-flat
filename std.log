@@ -1,11 +1,11 @@
-2023-11-23 09:15:33,905 Using selector: EpollSelector
-2023-11-23 09:15:33,906 Running for user '{csvuser}'
-2023-11-23 09:15:33,906 Running for user '{csvuser}'
-2023-11-23 09:15:33,906 Running for user '{csvuser}'
-2023-11-23 09:15:33,906 Running for user '{csvuser}'
-2023-11-23 09:15:33,906 Running for user '{csvuser}'
-2023-11-23 09:17:35,776 Some error: Data scraping unable to complete in 60.0s (retries: 3)
-2023-11-23 09:17:35,923 Some error: Data scraping unable to complete in 60.0s (retries: 3)
-2023-11-23 09:17:35,980 Some error: Data scraping unable to complete in 60.0s (retries: 3)
-2023-11-23 09:17:35,992 Some error: Data scraping unable to complete in 60.0s (retries: 3)
-2023-11-23 09:17:36,016 Some error: Data scraping unable to complete in 60.0s (retries: 3)
+2023-11-23 11:15:05,824 Using selector: EpollSelector
+2023-11-23 11:15:05,824 Running for user '{csvuser}'
+2023-11-23 11:15:05,824 Running for user '{csvuser}'
+2023-11-23 11:15:05,824 Running for user '{csvuser}'
+2023-11-23 11:15:05,824 Running for user '{csvuser}'
+2023-11-23 11:15:05,825 Running for user '{csvuser}'
+2023-11-23 11:17:07,783 Some error: Data scraping unable to complete in 60.0s (retries: 3)
+2023-11-23 11:17:07,856 Some error: Data scraping unable to complete in 60.0s (retries: 3)
+2023-11-23 11:17:07,948 Some error: Data scraping unable to complete in 60.0s (retries: 3)
+2023-11-23 11:17:07,959 Some error: Data scraping unable to complete in 60.0s (retries: 3)
+2023-11-23 11:17:07,969 Some error: Data scraping unable to complete in 60.0s (retries: 3)
