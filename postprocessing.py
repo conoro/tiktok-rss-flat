@@ -3,6 +3,19 @@ import csv
 from datetime import datetime, timezone
 from feedgen.feed import FeedGenerator
 from tiktokapipy.async_api import AsyncTikTokAPI
+#importing the module
+import logging
+
+#now we will Create and configure logger
+logging.basicConfig(filename="std.log",
+					format='%(asctime)s %(message)s',
+					filemode='w')
+
+#Let us Create an object
+logger=logging.getLogger()
+
+#Now we are going to Set the threshold of logger to DEBUG
+logger.setLevel(logging.DEBUG)
 
 # Now using a new TikTok library https://github.com/Russell-Newton/TikTokPy
 
@@ -24,7 +37,7 @@ async def runAll():
 
 async def run(csvuser):
     try:
-        print(f'Running for user \'{csvuser}\'')
+        logger.debug('Running for user \'{csvuser}\'')
 
         fg = FeedGenerator()
         fg.id('https://tiktok.com/@' + csvuser)
@@ -42,13 +55,13 @@ async def run(csvuser):
         async with AsyncTikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
             tiktokuser = await api.user(csvuser, video_limit=maxItems)
             async for video in tiktokuser.videos:
-                # print(video.create_time, video.desc)
-                print("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
+                logger.debug(video.create_time, video.desc) 
+                logger.debug("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id)) 
                 fe = fg.add_entry()
                 link = "https://tiktok.com/@" + csvuser + "/video/" + str(video.id)
                 fe.id(link)
                 ts = video.create_time
-                print(ts)
+                logger.debug(ts)
                 fe.published(ts)
                 fe.updated(ts)
                 updated = max(ts, updated) if updated else ts
@@ -67,7 +80,7 @@ async def run(csvuser):
         fg.updated(updated)
         fg.atom_file('rss/' + csvuser + '.xml', pretty=True) # Write the RSS feed to a file
     except Exception as e:
-        print(f"Some error: {e}")
+        logger.error(f"Some error: {e}")
         pass
 
 
