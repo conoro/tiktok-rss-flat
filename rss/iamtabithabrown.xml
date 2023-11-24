@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-11-15T17:42:13+00:00</updated>
+  <updated>2023-11-23T04:55:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7296720347552910623</id>
-    <title>You are worthy of more ❤️. I love you ❤️ #tabithabrown #spreadlove </title>
-    <updated>2023-11-02T04:41:43+00:00</updated>
-    <content>You are worthy of more ❤️. I love you ❤️ #tabithabrown #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7296720347552910623" rel="alternate"/>
-    <published>2023-11-02T04:41:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7297678424993320222</id>
-    <title>It’s Saturday!!!! Make it a about you today!! Love you! #tabithabrown #spreadlove </title>
-    <updated>2023-11-04T18:39:39+00:00</updated>
-    <content>It’s Saturday!!!! Make it a about you today!! Love you! #tabithabrown #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7297678424993320222" rel="alternate"/>
-    <published>2023-11-04T18:39:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7298594800817818923</id>
     <title>Quick and easy Garlic veggie pasta❤️ #vegan #plantbased #tabithabrown #recipes </title>
@@ -51,5 +35,21 @@
     <content>Happy Wednesday and Happy Early Black Friday!!! First of all y’all get into how much Donna is growing, the. We growth since coloring her is crazy😳 but that’s our business 😂. Anyway If y’all missed the sale last week, it’s ok @donnasrecipe got you!! We are hooking y’all up with 30%off the entire collection directly from our website!! Head on over to www.Donnasrecipe.com and get your shop on!! We love and appreciate y’all!! #holiday #sale #blackfriday #early #discount #donnasrecipe</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7301745513441922347" rel="alternate"/>
     <published>2023-11-15T17:42:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7304341671938985262</id>
+    <title>Just incase yall need a reminder about the Angel eggs recipe❤️😂. Love yall! #vegan #deviledeggs #angeleggs #savedeggs #tabithabrown </title>
+    <updated>2023-11-22T17:36:28+00:00</updated>
+    <content>Just incase yall need a reminder about the Angel eggs recipe❤️😂. Love yall! #vegan #deviledeggs #angeleggs #savedeggs #tabithabrown </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7304341671938985262" rel="alternate"/>
+    <published>2023-11-22T17:36:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7304516590656212270</id>
+    <title>My baby girl @choyce is home and in the kitchen 😂😂😂😂  #vegan #eggs #choycebrown </title>
+    <updated>2023-11-23T04:55:17+00:00</updated>
+    <content>My baby girl @choyce is home and in the kitchen 😂😂😂😂  #vegan #eggs #choycebrown </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7304516590656212270" rel="alternate"/>
+    <published>2023-11-23T04:55:17+00:00</published>
   </entry>
 </feed>

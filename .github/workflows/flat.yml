@@ -10,17 +10,20 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup deno
-        uses: denoland/setup-deno@main
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner.
+      - name: setup python
+        uses: actions/setup-python@v4
         with:
-          deno-version: v1.10.x
-      - name: Check out repo
-        uses: actions/checkout@v2
-      - name: update apt
-        run: sudo apt-get update
-      - name: Fetch data
-        uses: githubocto/flat@v3
-        with:
-          http_url: https://conoroneill.com/index.xml
-          downloaded_filename: conor_rss.xml
-          postprocess: postprocess.ts
+          python-version: 3.8 #install the python needed
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: execute py script
+        run: |
+          python postprocessing.py
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Latest TikTok RSS"
+          git push

@@ -9,7 +9,7 @@ import logging
 #now we will Create and configure logger
 logging.basicConfig(filename="std.log",
 					format='%(asctime)s %(message)s',
-					filemode='w')
+					filemode='w', encoding='utf-8')
 
 #Let us Create an object
 logger=logging.getLogger()
@@ -37,8 +37,6 @@ async def runAll():
 
 async def run(csvuser):
     try:
-        logger.debug('Running for user \'{csvuser}\'')
-
         fg = FeedGenerator()
         fg.id('https://tiktok.com/@' + csvuser)
         fg.title(csvuser + ' TikTok')
@@ -54,9 +52,10 @@ async def run(csvuser):
 
         async with AsyncTikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
             tiktokuser = await api.user(csvuser, video_limit=maxItems)
+
             async for video in tiktokuser.videos:
-                logger.debug(video.create_time, video.desc) 
-                logger.debug("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id)) 
+                logger.debug(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
+                logger.debug("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
                 fe = fg.add_entry()
                 link = "https://tiktok.com/@" + csvuser + "/video/" + str(video.id)
                 fe.id(link)
