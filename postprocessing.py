@@ -15,7 +15,6 @@ import logging
 
 print("Step 4")
 
-"""
 #now we will Create and configure logger
 logging.basicConfig(filename="std.log",
 					format='%(asctime)s %(message)s',
@@ -36,6 +35,9 @@ logger.setLevel(logging.DEBUG)
 ghPagesURL = "https://tiktokrss.conoroneill.com/"
 
 maxItems = 5
+
+"""
+
 
 def run(csvuser):
     try:
