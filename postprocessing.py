@@ -43,7 +43,7 @@ def run(csvuser):
 
         print("Step 5", flush=True)
 
-        with TikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
+        with TikTokAPI(navigation_retries=3, navigation_timeout=60, args=["--disable-gpu", "--single-process"]) as api:
 
             print("Step 6", flush=True)
 
