@@ -44,10 +44,12 @@ def run(csvuser):
 
         with TikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
             tiktokuser = api.user(csvuser, video_limit=maxItems)
-
+            print(tiktokuser)
             for video in tiktokuser.videos:
                 logger.debug(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
                 logger.debug("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
+                print(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
+                print("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
                 fe = fg.add_entry()
                 link = "https://tiktok.com/@" + csvuser + "/video/" + str(video.id)
                 fe.id(link)
@@ -77,4 +79,5 @@ def run(csvuser):
 
 with open('subscriptions.csv') as f:
     for row in csv.DictReader(f, fieldnames=['username']):
+        print(row['username'])
         run(row['username'])
