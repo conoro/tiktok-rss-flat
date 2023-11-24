@@ -41,17 +41,17 @@ def run(csvuser):
         # Set the last modification time for the feed to be the most recent post, else now.
         updated=None
 
-        print("Step 5")
+        print("Step 5", flush=True)
 
         with TikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
 
-            print("Step 6")
+            print("Step 6", flush=True)
 
             tiktokuser = api.user(csvuser, video_limit=maxItems)
             print(tiktokuser)
 
             for video in tiktokuser.videos:
-                print("Step 7")
+                print("Step 7", flush=True)
 
 
 """
