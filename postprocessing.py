@@ -27,7 +27,7 @@ maxItems = 5
 
 
 def run(csvuser):
-#    try:
+    try:
         fg = FeedGenerator()
         fg.id('https://tiktok.com/@' + csvuser)
         fg.title(csvuser + ' TikTok')
@@ -53,8 +53,6 @@ def run(csvuser):
             for video in tiktokuser.videos:
                 print("Step 7", flush=True)
 
-
-"""
                 logger.debug(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
                 logger.debug("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
                 print(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
@@ -79,12 +77,11 @@ def run(csvuser):
                     fe.description( "No Description")
                 #print(fg.rss_str(pretty=True))
 
-"""
-#        fg.updated(updated)
-#        fg.atom_file('rss/' + csvuser + '.xml', pretty=True) # Write the RSS feed to a file
-#    except Exception as e:
-#        logger.error(f"Error: {e}")
-#        pass
+        fg.updated(updated)
+        fg.atom_file('rss/' + csvuser + '.xml', pretty=True) # Write the RSS feed to a file
+    except Exception as e:
+        logger.error(f"Error: {e}")
+        pass
 
 with open('subscriptions.csv') as f:
 
