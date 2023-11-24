@@ -1,4 +1,3 @@
-import asyncio
 import csv
 from datetime import datetime, timezone
 
