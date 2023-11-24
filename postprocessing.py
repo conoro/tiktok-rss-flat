@@ -1,11 +1,20 @@
 import asyncio
 import csv
 from datetime import datetime, timezone
+
+print("Step 1")
+
 from feedgen.feed import FeedGenerator
+
+print("Step 2")
+
 from tiktokapipy.api import TikTokAPI
-#importing the module
+
+print("Step 3")
+
 import logging
 
+print("Step 4")
 #now we will Create and configure logger
 logging.basicConfig(filename="std.log",
 					format='%(asctime)s %(message)s',
@@ -76,8 +85,11 @@ def run(csvuser):
         logger.error(f"Error: {e}")
         pass
 
+print("Step 5")
 
 with open('subscriptions.csv') as f:
+    print("Step 6")
+
     for row in csv.DictReader(f, fieldnames=['username']):
         print(row['username'])
         run(row['username'])
