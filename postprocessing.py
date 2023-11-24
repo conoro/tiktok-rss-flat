@@ -48,7 +48,7 @@ def run(csvuser):
             print("Step 6", flush=True)
 
             tiktokuser = api.user(csvuser, video_limit=maxItems)
-            print(tiktokuser)
+            print(tiktokuser, flush=True)
 
             for video in tiktokuser.videos:
                 print("Step 7", flush=True)
