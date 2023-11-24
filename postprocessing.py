@@ -58,10 +58,12 @@ def run(csvuser):
 
             print("Step 6")
 
-"""
-
             tiktokuser = api.user(csvuser, video_limit=maxItems)
             print(tiktokuser)
+
+
+"""
+
             for video in tiktokuser.videos:
                 logger.debug(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
                 logger.debug("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
