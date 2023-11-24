@@ -28,12 +28,17 @@ ghPagesURL = "https://tiktokrss.conoroneill.com/"
 maxItems = 5
 
 
-async def runAll():
+""" async def runAll():
     with open('subscriptions.csv') as f:
         # TODO: Switch to 3.11 TaskGroup or trio nursery
         await asyncio.gather(*[
             run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
+ """
 
+async def runAll():
+    with open('subscriptions.csv') as f:
+        for row in csv.DictReader(f, fieldnames=['username']):
+            await run(row['username'])
 
 async def run(csvuser):
     try:
@@ -53,6 +58,7 @@ async def run(csvuser):
         async with AsyncTikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
             tiktokuser = await api.user(csvuser, video_limit=maxItems)
 
+#            async for video in tiktokuser.videos:
             async for video in tiktokuser.videos:
                 logger.debug(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
                 logger.debug("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
@@ -79,9 +85,8 @@ async def run(csvuser):
         fg.updated(updated)
         fg.atom_file('rss/' + csvuser + '.xml', pretty=True) # Write the RSS feed to a file
     except Exception as e:
-        logger.error(f"Some error: {e}")
+        logger.error(f"Error: {e}")
         pass
-
 
 
 asyncio.run(runAll())
