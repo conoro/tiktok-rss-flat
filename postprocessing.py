@@ -1,19 +1,8 @@
 import csv
 from datetime import datetime, timezone
-
-print("Step 1")
-
 from feedgen.feed import FeedGenerator
-
-print("Step 2")
-
 from tiktokapipy.api import TikTokAPI
-
-print("Step 3")
-
 import logging
-
-print("Step 4")
 
 #now we will Create and configure logger
 logging.basicConfig(filename="std.log",
@@ -61,10 +50,11 @@ def run(csvuser):
             tiktokuser = api.user(csvuser, video_limit=maxItems)
             print(tiktokuser)
 
+            for video in tiktokuser.videos:
+                print("Step 7")
+
 
 """
-
-            for video in tiktokuser.videos:
                 logger.debug(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
                 logger.debug("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
                 print(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
@@ -98,7 +88,6 @@ def run(csvuser):
 
 with open('subscriptions.csv') as f:
 
-    print("Step 6")
     for row in csv.DictReader(f, fieldnames=['username']):
         print(row['username'])
         run(row['username'])
