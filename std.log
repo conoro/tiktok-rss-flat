@@ -1,11 +1,46 @@
-2023-11-23 11:15:05,824 Using selector: EpollSelector
-2023-11-23 11:15:05,824 Running for user '{csvuser}'
-2023-11-23 11:15:05,824 Running for user '{csvuser}'
-2023-11-23 11:15:05,824 Running for user '{csvuser}'
-2023-11-23 11:15:05,824 Running for user '{csvuser}'
-2023-11-23 11:15:05,825 Running for user '{csvuser}'
-2023-11-23 11:17:07,783 Some error: Data scraping unable to complete in 60.0s (retries: 3)
-2023-11-23 11:17:07,856 Some error: Data scraping unable to complete in 60.0s (retries: 3)
-2023-11-23 11:17:07,948 Some error: Data scraping unable to complete in 60.0s (retries: 3)
-2023-11-23 11:17:07,959 Some error: Data scraping unable to complete in 60.0s (retries: 3)
-2023-11-23 11:17:07,969 Some error: Data scraping unable to complete in 60.0s (retries: 3)
+2023-11-24 07:58:37,357 Using selector: EpollSelector
+2023-11-24 07:58:37,822 Some error: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1091/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2023-11-24 07:58:37,855 Some error: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1091/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2023-11-24 07:58:37,855 Some error: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1091/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2023-11-24 07:58:37,866 Some error: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1091/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2023-11-24 07:58:37,918 Some error: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1091/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
