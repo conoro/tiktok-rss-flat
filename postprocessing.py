@@ -2,7 +2,7 @@ import asyncio
 import csv
 from datetime import datetime, timezone
 from feedgen.feed import FeedGenerator
-from tiktokapipy.async_api import AsyncTikTokAPI
+from tiktokapipy.api import TikTokAPI
 #importing the module
 import logging
 
@@ -27,20 +27,7 @@ ghPagesURL = "https://tiktokrss.conoroneill.com/"
 
 maxItems = 5
 
-
-""" async def runAll():
-    with open('subscriptions.csv') as f:
-        # TODO: Switch to 3.11 TaskGroup or trio nursery
-        await asyncio.gather(*[
-            run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
- """
-
-async def runAll():
-    with open('subscriptions.csv') as f:
-        for row in csv.DictReader(f, fieldnames=['username']):
-            await run(row['username'])
-
-async def run(csvuser):
+def run(csvuser):
     try:
         fg = FeedGenerator()
         fg.id('https://tiktok.com/@' + csvuser)
@@ -55,11 +42,10 @@ async def run(csvuser):
         # Set the last modification time for the feed to be the most recent post, else now.
         updated=None
 
-        async with AsyncTikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
-            tiktokuser = await api.user(csvuser, video_limit=maxItems)
+        with TikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
+            tiktokuser = api.user(csvuser, video_limit=maxItems)
 
-#            async for video in tiktokuser.videos:
-            async for video in tiktokuser.videos:
+            for video in tiktokuser.videos:
                 logger.debug(video.create_time.strftime("%m/%d/%Y, %H:%M:%S") + ": " + video.desc)
                 logger.debug("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
                 fe = fg.add_entry()
@@ -89,4 +75,6 @@ async def run(csvuser):
         pass
 
 
-asyncio.run(runAll())
+with open('subscriptions.csv') as f:
+    for row in csv.DictReader(f, fieldnames=['username']):
+        run(row['username'])
