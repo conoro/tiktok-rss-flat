@@ -14,6 +14,8 @@ print("Step 3")
 import logging
 
 print("Step 4")
+
+"""
 #now we will Create and configure logger
 logging.basicConfig(filename="std.log",
 					format='%(asctime)s %(message)s',
@@ -87,8 +89,12 @@ def run(csvuser):
 print("Step 5")
 
 with open('subscriptions.csv') as f:
-    print("Step 6")
 
+    print("Step 6")
     for row in csv.DictReader(f, fieldnames=['username']):
         print(row['username'])
         run(row['username'])
+"""
+with open('subscriptions.csv') as f:
+    for row in csv.DictReader(f, fieldnames=['username']):
+        print(row['username'])
