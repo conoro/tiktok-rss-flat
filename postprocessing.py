@@ -36,11 +36,9 @@ ghPagesURL = "https://tiktokrss.conoroneill.com/"
 
 maxItems = 5
 
-"""
-
 
 def run(csvuser):
-    try:
+#    try:
         fg = FeedGenerator()
         fg.id('https://tiktok.com/@' + csvuser)
         fg.title(csvuser + ' TikTok')
@@ -53,6 +51,7 @@ def run(csvuser):
 
         # Set the last modification time for the feed to be the most recent post, else now.
         updated=None
+"""
 
         with TikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
             tiktokuser = api.user(csvuser, video_limit=maxItems)
@@ -82,11 +81,13 @@ def run(csvuser):
                     fe.description( "No Description")
                 #print(fg.rss_str(pretty=True))
 
+
         fg.updated(updated)
         fg.atom_file('rss/' + csvuser + '.xml', pretty=True) # Write the RSS feed to a file
     except Exception as e:
         logger.error(f"Error: {e}")
         pass
+"""
 
 print("Step 5")
 
@@ -96,7 +97,4 @@ with open('subscriptions.csv') as f:
     for row in csv.DictReader(f, fieldnames=['username']):
         print(row['username'])
         run(row['username'])
-"""
-with open('subscriptions.csv') as f:
-    for row in csv.DictReader(f, fieldnames=['username']):
-        print(row['username'])
+
