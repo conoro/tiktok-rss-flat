@@ -51,9 +51,15 @@ def run(csvuser):
 
         # Set the last modification time for the feed to be the most recent post, else now.
         updated=None
-"""
+
+        print("Step 5")
 
         with TikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
+
+            print("Step 6")
+
+"""
+
             tiktokuser = api.user(csvuser, video_limit=maxItems)
             print(tiktokuser)
             for video in tiktokuser.videos:
@@ -81,15 +87,12 @@ def run(csvuser):
                     fe.description( "No Description")
                 #print(fg.rss_str(pretty=True))
 
-
-        fg.updated(updated)
-        fg.atom_file('rss/' + csvuser + '.xml', pretty=True) # Write the RSS feed to a file
-    except Exception as e:
-        logger.error(f"Error: {e}")
-        pass
 """
-
-print("Step 5")
+#        fg.updated(updated)
+#        fg.atom_file('rss/' + csvuser + '.xml', pretty=True) # Write the RSS feed to a file
+#    except Exception as e:
+#        logger.error(f"Error: {e}")
+#        pass
 
 with open('subscriptions.csv') as f:
 
