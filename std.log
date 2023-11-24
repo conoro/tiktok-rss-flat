@@ -1,5 +1,1 @@
-2023-11-24 10:15:10,099 Using selector: EpollSelector
-2023-11-24 10:15:15,877 Using selector: EpollSelector
-2023-11-24 10:15:18,337 Using selector: EpollSelector
-2023-11-24 10:15:24,061 Using selector: EpollSelector
-2023-11-24 10:15:26,015 Using selector: EpollSelector
+2023-11-24 11:28:19,411 Using proactor: IocpProactor
