@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@visitballyhoura</id>
   <title>visitballyhoura TikTok</title>
-  <updated>2023-11-03T21:20:31+00:00</updated>
+  <updated>2023-11-27T20:44:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from visitballyhoura</subtitle>
-  <entry>
-    <id>https://tiktok.com/@visitballyhoura/video/7289154781627616545</id>
-    <title>Little Carron Mountain (440m) offers stunning views of the Ballyhoura Country. Maybe you’ll be mesmerised by the windmills, or be captivated by drifting clouds, or even catch a beautiful sunset. The summit is just a short detour from the Castlepook mounta</title>
-    <updated>2023-10-12T19:23:33+00:00</updated>
-    <content>Little Carron Mountain (440m) offers stunning views of the Ballyhoura Country. Maybe you’ll be mesmerised by the windmills, or be captivated by drifting clouds, or even catch a beautiful sunset. The summit is just a short detour from the Castlepook mountain biking route (54km) and is also part of the Ballyhoura Way. For day-hikers, a great option is to start from the Ballinaboola car-park and hike to the summit. Make sure to add this peak to your list the next time you’re out in the Ballyhouras! #Ballyhoura #VisitBallyhoura #BallyhouraMoments #BallyhouraMountains #MunsterVales #IrelandsHiddenHeartlands #LimerickEdgeEmbrace #DiscoverIreland #KeepDiscovering #GetOutdoors #AdventureTourism #Irelandtravel #ballyhouraforest #coillteoutdoors @Munster Vales @Ireland’s Hidden Heartlands @Discover Ireland @Limerick.ie @Tourism Ireland </content>
-    <link href="https://tiktok.com/@visitballyhoura/video/7289154781627616545" rel="alternate"/>
-    <published>2023-10-12T19:23:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7291011798575123744</id>
     <title>Everything you need for a great ride...in one place! Did you know the Ballyhoura Trail Centre has... 1. Secure car parking. Cashless payments are easy, or purchase an annual pass on coillte.ie 2. Bike rentals. Make sure to book in with the Trailriders cre</title>
@@ -51,5 +43,13 @@
     <content>Leah Maunsell takes on Toto, one of the new black trails in the Ballyhouras. Leah is the 9 x women's Elite Irish Enduro National Champion 🇮🇪 and the Ballyhouras are her local. Have you tried the new trails yet? Let us know what you think below ⬇️  @Leah @Munster Vales @Ireland’s Hidden Heartlands @Tourism Ireland @Break the Resistance @Discover Ireland @Cycling Ireland @Limerick.ie  #ORIS #OurRuralFuture #Ireland2040 #Ballyhoura #VisitBallyhoura #BallyhouraMoments #BallyhouraMountains #MunsterVales #IrelandsHiddenHeartlands #LimerickEdgeEmbrace #DiscoverIreland #KeepDiscovering #GetOutdoors #AdventureTourism #Irelandtravel #BallyhouraForest #CoillteOutdoors #MountainBiking #mtb #mtblife #mtblovers #mtbireland </content>
     <link href="https://tiktok.com/@visitballyhoura/video/7297348831023287585" rel="alternate"/>
     <published>2023-11-03T21:20:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7306245633201949985</id>
+    <title>Perfect weather for discovering something a little different...🚵🏽‍♀️ The Lough Gur Cycling Loop, also called the Kilmallock Route 3, is a 62 km (~4 hours) leisurely spin from Kilmallock Library. Download the free Ballyhoura Trails app for directions or he</title>
+    <updated>2023-11-27T20:44:40+00:00</updated>
+    <content>Perfect weather for discovering something a little different...🚵🏽‍♀️ The Lough Gur Cycling Loop, also called the Kilmallock Route 3, is a 62 km (~4 hours) leisurely spin from Kilmallock Library. Download the free Ballyhoura Trails app for directions or head to VisitBallyhoura.com for a downloadable route map.  You'll experience quiet roads, historic landmarks and stunning views of the Lough. Plus, re-fuel with a hot cuppa 🍵 at the Lakeshore Kiosk.  @Munster Vales @Ireland’s Hidden Heartlands @Tourism Ireland @Discover Ireland @Limerick.ie  #ORIS #OurRuralFuture #Ireland2040 #VisitBallyhoura #BallyhouraMoments #MunsterVales #IrelandsHiddenHeartlands #LimerickEdgeEmbrace #DiscoverIreland #KeepDiscovering #GetOutdoors #AdventureTourism #Cycling #WhateverTheWeather #ThingsToDoInIreland #Winter2023 #OutdoorIreland #WinterInIreland #PerfectDiscoveringWeather #KilmallockCyclingHub</content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7306245633201949985" rel="alternate"/>
+    <published>2023-11-27T20:44:40+00:00</published>
   </entry>
 </feed>
