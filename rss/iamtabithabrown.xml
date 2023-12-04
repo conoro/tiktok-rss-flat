@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2023-12-01T21:37:36+00:00</updated>
+  <updated>2023-12-04T03:53:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7304516590656212270</id>
-    <title>My baby girl @choyce is home and in the kitchen 😂😂😂😂  #vegan #eggs #choycebrown </title>
-    <updated>2023-11-23T04:55:17+00:00</updated>
-    <content>My baby girl @choyce is home and in the kitchen 😂😂😂😂  #vegan #eggs #choycebrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7304516590656212270" rel="alternate"/>
-    <published>2023-11-23T04:55:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7304934596452388138</id>
     <title>Alright family @Donna’s Recipe Black Friday Sale is live!!! Everything is $10!!! #blackfridaysale #donnasrecipe #tabithabrown #hairproducts  </title>
@@ -51,5 +43,13 @@
     <content>I’m going on book tour for my birthday and going to some new places because #IDIDANEWTHING 🎉🎉🎉. See yall soon!!! Get your tickets now!! IamTabithaBrown.com #tabithabrown #ididanewthing #booktour </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7307743584713772334" rel="alternate"/>
     <published>2023-12-01T21:37:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7308582708987366698</id>
+    <title>Baaabbbyyyy when I say @thecolorpurple was absolutely AMAZING, I mean that thang!!!! Yall go head and get your tickets now and thank me later!!! My God!!!!  💜💜 #thecolorpurple</title>
+    <updated>2023-12-04T03:53:54+00:00</updated>
+    <content>Baaabbbyyyy when I say @thecolorpurple was absolutely AMAZING, I mean that thang!!!! Yall go head and get your tickets now and thank me later!!! My God!!!!  💜💜 #thecolorpurple</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7308582708987366698" rel="alternate"/>
+    <published>2023-12-04T03:53:54+00:00</published>
   </entry>
 </feed>
