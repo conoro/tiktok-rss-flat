@@ -1,10 +1,10 @@
-2024-01-13 03:15:04,313 Using selector: EpollSelector
-2024-01-13 03:17:07,084 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-01-13 03:17:07,084 Using selector: EpollSelector
-2024-01-13 03:18:07,999 Error: net::ERR_TIMED_OUT at https://www.tiktok.com/@mirandagoesoutside
-2024-01-13 03:18:08,000 Using selector: EpollSelector
-2024-01-13 03:20:10,539 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-01-13 03:20:10,540 Using selector: EpollSelector
-2024-01-13 03:22:12,796 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-01-13 03:22:12,796 Using selector: EpollSelector
-2024-01-13 03:24:15,439 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-01-13 04:15:34,398 Using selector: EpollSelector
+2024-01-13 04:17:36,545 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-01-13 04:17:36,545 Using selector: EpollSelector
+2024-01-13 04:19:38,895 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-01-13 04:19:38,895 Using selector: EpollSelector
+2024-01-13 04:21:40,924 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-01-13 04:21:40,924 Using selector: EpollSelector
+2024-01-13 04:23:43,407 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-01-13 04:23:43,408 Using selector: EpollSelector
+2024-01-13 04:25:46,175 Error: Data scraping unable to complete in 60.0s (retries: 3)
