@@ -21,7 +21,7 @@ logger.setLevel(logging.DEBUG)
 # ghPagesURL = "https://conoro.github.io/tiktok-rss-flat/"
 
 # Custom Domain
-ghPagesURL = "https://tiktokrss.conoroneill.com/"
+ghPagesURL = "https://rededemuseus.github.io/tiktok-rss-flat/"
 
 maxItems = 5
 
@@ -34,7 +34,7 @@ def run(csvuser):
         fg.author( {'name':'Conor ONeill','email':'conor@conoroneill.com'} )
         fg.link( href='http://tiktok.com', rel='alternate' )
         fg.logo(ghPagesURL + 'tiktok-rss.png')
-        fg.subtitle('OK Boomer, all the latest TikToks from ' + csvuser)
+        fg.subtitle('All the latest TikToks from ' + csvuser)
         fg.link( href=ghPagesURL + 'rss/' + csvuser + '.xml', rel='self' )
         fg.language('en')
 
