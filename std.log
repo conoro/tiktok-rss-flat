@@ -1,41 +1,10 @@
-2024-02-14 04:15:29,616 Using selector: EpollSelector
-2024-02-14 04:15:31,777 Error: Target page, context or browser has been closed
-Browser logs:
-
-<launching> /home/runner/.cache/ms-playwright/chromium-1097/chrome-linux/chrome --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate,HttpsUpgrades,PaintHolding --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --disable-gpu --single-process --user-data-dir=/tmp/playwright_chromiumdev_profile-Uy8KmK --remote-debugging-pipe --no-startup-window
-<launched> pid=1960
-[pid=1960][err] [0214/041531.533379:WARNING:audio_manager_linux.cc(53)] Falling back to ALSA for audio output. PulseAudio is not available or could not be initialized.
-[pid=1960][err] [0214/041531.536140:INFO:policy_logger.cc(144)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping mandatory platform policies because no policy file was found at: /etc/chromium/policies/managed
-[pid=1960][err] [0214/041531.536166:INFO:policy_logger.cc(144)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping recommended platform policies because no policy file was found at: /etc/chromium/policies/recommended
-[pid=1960][err] Received signal 11 SI_KERNEL000000000000
-[pid=1960][err]  Possibly a General Protection Fault, can be due to a non-canonical address dereference. See "Intel 64 and IA-32 Architectures Software Developer’s Manual", Volume 1, Section 3.3.7.1.
-[pid=1960][err] #0 0x5558c5a87932 [0214/041531.539819:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
-[pid=1960][err] base::debug::CollectStackTrace()
-[pid=1960][err] #1 0x5558c5a75573 base::debug::StackTrace::StackTrace()
-[pid=1960][err] #2 0x5558c5a87351 base::debug::(anonymous namespace)::StackDumpSignalHandler()
-[pid=1960][err] #3 0x7ff0ed442520 (/usr/lib/x86_64-linux-gnu/libc.so.6+0x4251f)
-[pid=1960][err] #4 0x7ff0ed444c1d getenv
-[pid=1960][err] #5 0x5558c5c0ca59 epoll_init
-[pid=1960][err] #6 0x5558c5c09f71 event_base_new
-[pid=1960][err] #7 0x5558c5a9216d base::MessagePumpLibevent::MessagePumpLibevent()
-[pid=1960][err] #8 0x5558c59d4403 base::MessagePump::Create()
-[pid=1960][err] #9 0x5558c5a55f53 base::internal::SequenceManagerThreadDelegate::BindToCurrentThread()
-[pid=1960][err] #10 0x5558c5a55bb8 base::Thread::ThreadMain()
-[pid=1960][err] #11 0x5558c5a6b086 base::(anonymous namespace)::ThreadFunc()
-[pid=1960][err] #12 0x7ff0ed494ac3 (/usr/lib/x86_64-linux-gnu/libc.so.6+0x94ac2)
-[pid=1960][err] #13 0x7ff0ed526850 (/usr/lib/x86_64-linux-gnu/libc.so.6+0x12684f)
-[pid=1960][err]   r8: 00000000000a8000  r9: 000015f0000aa080 r10: 00007ffe9e3a4080 r11: 0000000000000246
-[pid=1960][err]  r12: 00cc2200fc350000 r13: 000000000000000d r14: 000000000000000b r15: 00005558bed94112
-[pid=1960][err]   di: 00005558bed94110  si: 0000000000000042  bp: 0000000000005645  bx: 000035fc0022c800
-[pid=1960][err]   dx: 00005558bed94110  ax: 000000000000000d  cx: 00007ff0ed4ec09b  sp: 00007ff0d51f7fd0
-[pid=1960][err]   ip: 00007ff0ed444c1d efl: 0000000000010206 cgf: 002b000000000033 erf: 0000000000000000
-[pid=1960][err]  trp: 000000000000000d msk: 0000000000000000 cr2: 0000000000000000
-[pid=1960][err] [end of stack trace]
-2024-02-14 04:15:31,777 Error: It looks like you are using Playwright Sync API inside the asyncio loop.
-Please use the Async API instead.
-2024-02-14 04:15:31,777 Error: It looks like you are using Playwright Sync API inside the asyncio loop.
-Please use the Async API instead.
-2024-02-14 04:15:31,777 Error: It looks like you are using Playwright Sync API inside the asyncio loop.
-Please use the Async API instead.
-2024-02-14 04:15:31,777 Error: It looks like you are using Playwright Sync API inside the asyncio loop.
-Please use the Async API instead.
+2024-02-14 05:14:49,395 Using selector: EpollSelector
+2024-02-14 05:16:50,930 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-14 05:16:50,931 Using selector: EpollSelector
+2024-02-14 05:18:51,880 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-14 05:18:51,881 Using selector: EpollSelector
+2024-02-14 05:20:52,840 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-14 05:20:52,841 Using selector: EpollSelector
+2024-02-14 05:22:53,797 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-14 05:22:53,798 Using selector: EpollSelector
+2024-02-14 05:24:54,865 Error: Data scraping unable to complete in 60.0s (retries: 3)
