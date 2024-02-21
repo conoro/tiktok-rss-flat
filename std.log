@@ -1,19 +1,10 @@
-2024-02-21 16:15:40,008 Using selector: EpollSelector
-2024-02-21 16:17:43,424 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-02-21 16:17:43,424 Using selector: EpollSelector
-2024-02-21 16:19:45,376 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-02-21 16:19:45,376 Using selector: EpollSelector
-2024-02-21 16:21:47,296 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-02-21 16:21:47,296 Using selector: EpollSelector
-2024-02-21 16:23:49,287 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-02-21 16:23:49,287 Using selector: EpollSelector
-2024-02-21 16:23:49,769 Error: Target page, context or browser has been closed
-Browser logs:
-
-<launching> /home/runner/.cache/ms-playwright/chromium-1097/chrome-linux/chrome --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate,HttpsUpgrades,PaintHolding --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --disable-gpu --single-process --user-data-dir=/tmp/playwright_chromiumdev_profile-Bvmgo7 --remote-debugging-pipe --no-startup-window
-<launched> pid=2676
-[pid=2676][err] [0221/162349.618598:WARNING:audio_manager_linux.cc(53)] Falling back to ALSA for audio output. PulseAudio is not available or could not be initialized.
-[pid=2676][err] [0221/162349.621162:INFO:policy_logger.cc(144)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping mandatory platform policies because no policy file was found at: /etc/chromium/policies/managed
-[pid=2676][err] [0221/162349.621187:INFO:policy_logger.cc(144)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping recommended platform policies because no policy file was found at: /etc/chromium/policies/recommended
-[pid=2676][err] Received signal 11 SI_KERNEL000000000000
-[pid=2676][err]  Possibly a General Protection Fault, can be due to a non-canonical address dereference. See "Intel 64 and IA-32 Architectures Software Developer’s Manual", Volume 1, Section 3.3.7.1.
+2024-02-21 17:14:54,398 Using selector: EpollSelector
+2024-02-21 17:16:56,610 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-21 17:16:56,610 Using selector: EpollSelector
+2024-02-21 17:18:58,733 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-21 17:18:58,733 Using selector: EpollSelector
+2024-02-21 17:21:01,098 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-21 17:21:01,099 Using selector: EpollSelector
+2024-02-21 17:23:03,185 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-21 17:23:03,185 Using selector: EpollSelector
+2024-02-21 17:25:05,450 Error: Data scraping unable to complete in 60.0s (retries: 3)
