@@ -1,10 +1,10 @@
-2024-02-27 16:15:47,258 Using selector: EpollSelector
-2024-02-27 16:17:51,093 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-02-27 16:17:51,093 Using selector: EpollSelector
-2024-02-27 16:19:53,454 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-02-27 16:19:53,454 Using selector: EpollSelector
-2024-02-27 16:21:55,792 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-02-27 16:21:55,793 Using selector: EpollSelector
-2024-02-27 16:23:59,058 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-02-27 16:23:59,058 Using selector: EpollSelector
-2024-02-27 16:26:01,527 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-27 17:14:56,933 Using selector: EpollSelector
+2024-02-27 17:16:59,648 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-27 17:16:59,648 Using selector: EpollSelector
+2024-02-27 17:19:02,194 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-27 17:19:02,195 Using selector: EpollSelector
+2024-02-27 17:21:04,436 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-27 17:21:04,437 Using selector: EpollSelector
+2024-02-27 17:23:06,767 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-02-27 17:23:06,767 Using selector: EpollSelector
+2024-02-27 17:23:37,242 Error: net::ERR_TIMED_OUT at https://www.tiktok.com/@visitballyhoura
