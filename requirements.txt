@@ -1,4 +1,4 @@
 asyncio
 feedgen
-tiktokapipy
+TikTokApi
 
