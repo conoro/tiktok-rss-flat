@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@marcococoachocolates</id>
+  <title>marcococoachocolates TikTok</title>
+  <updated>2022-06-03T22:33:49+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://tiktokrss.conoroneill.com/rss/marcococoachocolates.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from marcococoachocolates</subtitle>
+  <entry>
+    <id>https://tiktok.com/@marcococoachocolates/video/7078047210914581765</id>
+    <title>Whiskey &amp; wild Chocolate 🙂👍❤️🥃🍫</title>
+    <updated>2022-03-22T21:58:09+00:00</updated>
+    <content>Whiskey &amp; wild Chocolate 🙂👍❤️🥃🍫</content>
+    <link href="https://tiktok.com/@marcococoachocolates/video/7078047210914581765"/>
+    <published>2022-03-22T21:58:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@marcococoachocolates/video/7078057563220233478</id>
+    <title>Whiskey &amp; Wild Chocolate Ganache 🙂👍❤️🥃🍫</title>
+    <updated>2022-03-22T22:38:19+00:00</updated>
+    <content>Whiskey &amp; Wild Chocolate Ganache 🙂👍❤️🥃🍫</content>
+    <link href="https://tiktok.com/@marcococoachocolates/video/7078057563220233478"/>
+    <published>2022-03-22T22:38:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@marcococoachocolates/video/7078390682095815941</id>
+    <title>Black &amp; Goald Leaf Whiskey Bonbons 🙂👍❤️🥃🍫</title>
+    <updated>2022-03-23T20:10:59+00:00</updated>
+    <content>Black &amp; Goald Leaf Whiskey Bonbons 🙂👍❤️🥃🍫</content>
+    <link href="https://tiktok.com/@marcococoachocolates/video/7078390682095815941"/>
+    <published>2022-03-23T20:10:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@marcococoachocolates/video/7078774138009177350</id>
+    <title>Simple but cool design exclusively for the whiskey #chocolate lovers from #Waterford #Whiskey #Society with their own bottled #thomondGate #vadrafjordr 59.99% AVP single pot still Whiskey paired with a Wild #Bolivian 68% Dark Chocolate to create one hell </title>
+    <updated>2022-03-24T20:59:00+00:00</updated>
+    <content>Simple but cool design exclusively for the whiskey #chocolate lovers from #Waterford #Whiskey #Society with their own bottled #thomondGate #vadrafjordr 59.99% AVP single pot still Whiskey paired with a Wild #Bolivian 68% Dark Chocolate to create one hell </content>
+    <link href="https://tiktok.com/@marcococoachocolates/video/7078774138009177350"/>
+    <published>2022-03-24T20:59:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@marcococoachocolates/video/7078778113320045830</id>
+    <title>Futuristic #bladerunner design box exclusively for the folks from Friends of #Bruichladdich . Using #Octomore 08.2 Super Heavily Peated Islay Single Malt Scoth Whiskey PPM:167  58.4% AVP paired with a dark caramel with shortbread biscuit &amp; praline centre </title>
+    <updated>2022-03-24T21:14:25+00:00</updated>
+    <content>Futuristic #bladerunner design box exclusively for the folks from Friends of #Bruichladdich . Using #Octomore 08.2 Super Heavily Peated Islay Single Malt Scoth Whiskey PPM:167  58.4% AVP paired with a dark caramel with shortbread biscuit &amp; praline centre </content>
+    <link href="https://tiktok.com/@marcococoachocolates/video/7078778113320045830"/>
+    <published>2022-03-24T21:14:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@marcococoachocolates/video/7105145610516385029</id>
+    <title>Key lime Pie Flavoured Bonbon #marcococoa #chocolateisart #lovechocolate</title>
+    <updated>2022-06-03T22:33:49+00:00</updated>
+    <content>Key lime Pie Flavoured Bonbon #marcococoa #chocolateisart #lovechocolate</content>
+    <link href="https://tiktok.com/@marcococoachocolates/video/7105145610516385029"/>
+    <published>2022-06-03T22:33:49+00:00</published>
+  </entry>
+</feed>

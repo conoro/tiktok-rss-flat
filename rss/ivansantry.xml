@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@ivansantry</id>
+  <title>ivansantry TikTok</title>
+  <updated>2023-09-08T16:40:47+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://tiktokrss.conoroneill.com/rss/ivansantry.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from ivansantry</subtitle>
+  <entry>
+    <id>https://tiktok.com/@ivansantry/video/6907560608586124546</id>
+    <title>#Santa #Pintman #Christmas</title>
+    <updated>2020-12-18T11:43:04+00:00</updated>
+    <content>#Santa #Pintman #Christmas</content>
+    <link href="https://tiktok.com/@ivansantry/video/6907560608586124546"/>
+    <published>2020-12-18T11:43:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ivansantry/video/6934785647324466437</id>
+    <title>#IrishCoffee</title>
+    <updated>2021-03-01T20:30:18+00:00</updated>
+    <content>#IrishCoffee</content>
+    <link href="https://tiktok.com/@ivansantry/video/6934785647324466437"/>
+    <published>2021-03-01T20:30:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ivansantry/video/7000476005274012934</id>
+    <title>Cliff walk Ardmore #Travel #vibes</title>
+    <updated>2021-08-25T21:02:15+00:00</updated>
+    <content>Cliff walk Ardmore #Travel #vibes</content>
+    <link href="https://tiktok.com/@ivansantry/video/7000476005274012934"/>
+    <published>2021-08-25T21:02:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ivansantry/video/7070237280400592133</id>
+    <title>Ardmore Cliff Walk #walking #Ireland #Travel #vibes</title>
+    <updated>2022-03-01T20:51:37+00:00</updated>
+    <content>Ardmore Cliff Walk #walking #Ireland #Travel #vibes</content>
+    <link href="https://tiktok.com/@ivansantry/video/7070237280400592133"/>
+    <published>2022-03-01T20:51:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ivansantry/video/7140323838667033862</id>
+    <title>#IrishTV #Memories #Comedy #fyp</title>
+    <updated>2022-09-06T17:43:20+00:00</updated>
+    <content>#IrishTV #Memories #Comedy #fyp</content>
+    <link href="https://tiktok.com/@ivansantry/video/7140323838667033862"/>
+    <published>2022-09-06T17:43:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ivansantry/video/7167359495356681477</id>
+    <title>Happy 18th Faye!! Have a great day. </title>
+    <updated>2022-11-18T14:15:30+00:00</updated>
+    <content>Happy 18th Faye!! Have a great day. </content>
+    <link href="https://tiktok.com/@ivansantry/video/7167359495356681477"/>
+    <published>2022-11-18T14:15:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ivansantry/video/7250213318827216155</id>
+    <title>The Prodigy Musgrave Park Cork #Cork #Produgy #Ireland </title>
+    <updated>2023-06-29T20:50:41+00:00</updated>
+    <content>The Prodigy Musgrave Park Cork #Cork #Produgy #Ireland </content>
+    <link href="https://tiktok.com/@ivansantry/video/7250213318827216155"/>
+    <published>2023-06-29T20:50:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ivansantry/video/7264967436938546465</id>
+    <title>#Ireland #Travel #family #fyp @Heather @Faye Santry </title>
+    <updated>2023-08-08T15:04:10+00:00</updated>
+    <content>#Ireland #Travel #family #fyp @Heather @Faye Santry </content>
+    <link href="https://tiktok.com/@ivansantry/video/7264967436938546465"/>
+    <published>2023-08-08T15:04:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ivansantry/video/7268942023774850336</id>
+    <title>#stormbetty #weather #ireland </title>
+    <updated>2023-08-19T08:07:42+00:00</updated>
+    <content>#stormbetty #weather #ireland </content>
+    <link href="https://tiktok.com/@ivansantry/video/7268942023774850336"/>
+    <published>2023-08-19T08:07:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ivansantry/video/7276495977593212193</id>
+    <title>Kayaking in Ardmore, Co Watwrford. #ireland #holiday #travel #fyp </title>
+    <updated>2023-09-08T16:40:47+00:00</updated>
+    <content>Kayaking in Ardmore, Co Watwrford. #ireland #holiday #travel #fyp </content>
+    <link href="https://tiktok.com/@ivansantry/video/7276495977593212193"/>
+    <published>2023-09-08T16:40:47+00:00</published>
+  </entry>
+</feed>

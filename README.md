@@ -2,16 +2,17 @@
 # TikTok RSS Using GitHub OCTO Flat Data
 
 
-**NOTE January 2023: This is now working again due to an alternative TikTok library.**
+** NOTE March 2024: This can work locally again due to improvements in the original TikTok library. But a small issue means it can only run on your local machine. You need to install everything and then edit tiktok.py to change line 203 from headless=True to headless=False. I'll see if I can get it running on GH Actions in the coming week **
 
-* Generate usable RSS feeds from TikTok using [GitHub OCTO Flat Data](https://octo.github.com/projects/flat-data), GitHub Actions and GitHub Pages.
+* Generate usable RSS feeds from TikTok using GitHub Actions and GitHub Pages.
 
-* This uses a newer unoffical [TikTokPy library](https://github.com/Russell-Newton/TikTokPy) to extract information about user videos from TikTok as JSON and generate RSS feeds for each user you are interested in.
+* This uses an unoffical [TikTokPy library](https://github.com/davidteather/TikTok-Api) to extract information about user videos from TikTok as JSON and generate RSS feeds for each user you are interested in.
 
 * To get your own instance running
     * Fork this repo 
+    * Copy config-example.py to config.py and follow instructions for changing ms_token 
     * Enable GitHub Pages for your new repo
-    * Change the `ghPagesURL` in postprocessing.py from "https://conoro.github.io/tiktok-rss-flat/" to your URL
+    * Change the `ghPagesURL` in config.py from "https://conoro.github.io/tiktok-rss-flat/" to your URL
     * Add the TikTok usernames that you like to subscriptions.csv
     * Make sure to enable Actions in the Actions tab 
 

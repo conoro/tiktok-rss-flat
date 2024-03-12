@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@topgold.ie</id>
+  <title>topgold.ie TikTok</title>
+  <updated>2024-01-04T11:59:51+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://tiktokrss.conoroneill.com/rss/topgold.ie.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from topgold.ie</subtitle>
+  <entry>
+    <id>https://tiktok.com/@topgold.ie/video/7320189245384166688</id>
+    <title>TikTok is probably the best use for Meta Ray-Bans. AND this can be done with a 5yo much-abused phone. #metaview </title>
+    <updated>2024-01-04T10:33:11+00:00</updated>
+    <content>TikTok is probably the best use for Meta Ray-Bans. AND this can be done with a 5yo much-abused phone. #metaview </content>
+    <link href="https://tiktok.com/@topgold.ie/video/7320189245384166688"/>
+    <published>2024-01-04T10:33:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@topgold.ie/video/7320211583907499296</id>
+    <title>Planning an emergency wash with Speed Queen</title>
+    <updated>2024-01-04T11:59:51+00:00</updated>
+    <content>Planning an emergency wash with Speed Queen</content>
+    <link href="https://tiktok.com/@topgold.ie/video/7320211583907499296"/>
+    <published>2024-01-04T11:59:51+00:00</published>
+  </entry>
+</feed>

@@ -1,0 +1,11 @@
+--- tiktok_orig.py	2024-03-12 07:54:17
++++ tiktok.py	2024-03-12 05:26:04
+@@ -203,7 +203,7 @@
+     async def create_sessions(
+         self,
+         num_sessions=5,
+-        headless=True,
++        headless=False,
+         ms_tokens: list[str] = None,
+         proxies: list = None,
+         sleep_after=1,
