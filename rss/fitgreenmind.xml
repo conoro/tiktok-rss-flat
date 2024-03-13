@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-11T20:52:47+00:00</updated>
+  <updated>2024-03-12T20:53:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7340019321797610785</id>
-    <title>FREEZER COOKIES 🍪  Freeze your cookie dough to have freshly baked cookies whenever you want!😋 I used the “levain style cookie” recipe by @justine_snacks and it was amazing!🫶 RECIPE (6 cookies, 15min prep time): -175g flour -40g corn starch -1 Tsp baking p</title>
-    <updated>2024-02-26T21:03:48+00:00</updated>
-    <content>FREEZER COOKIES 🍪  Freeze your cookie dough to have freshly baked cookies whenever you want!😋 I used the “levain style cookie” recipe by @justine_snacks and it was amazing!🫶 RECIPE (6 cookies, 15min prep time): -175g flour -40g corn starch -1 Tsp baking p</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7340019321797610785"/>
-    <published>2024-02-26T21:03:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7340768790533229856</id>
     <title>SINGLE SERVE CURRY LAKSA 🍜  This is an extremely simplified version of the Malaysian curry laksa noodle soup buuuut it was very delicious!😋 RECIPE (1 serving, 15min prep time): -1 Tbsp (15g) red curry paste -100ml coconut milk Let it simmer 3-4mins. -200m</title>
@@ -91,5 +83,13 @@
     <content>LAZY PASTA 🍝  I think boiling pasta doesn’t count as “cooking”!😼 RECIPE (1 serving, 20min prep time): -165g cherry tomatoes -1 small onion, sliced -1 Tsp dried Italian herbs -salt to taste -olive oil to drizzle -1 Tbsp balsamic vinegar  -1 Tbsp vegan crea</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7345211669246709025"/>
     <published>2024-03-11T20:52:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7345583058403249440</id>
+    <title>CHICKPEA SANDWICH 🥪  A great sandwich can make your day better!🤭 RECIPE (2 servings, 15min prep time): Chickpea smash: -1 can (220g) cooked chickpeas -1 small onion, chopped -1 bunch parsley, chopped -1 Tbsp tahini -juice of 1/2 lemon -1 Tbsp maple syrup </title>
+    <updated>2024-03-12T20:53:57+00:00</updated>
+    <content>CHICKPEA SANDWICH 🥪  A great sandwich can make your day better!🤭 RECIPE (2 servings, 15min prep time): Chickpea smash: -1 can (220g) cooked chickpeas -1 small onion, chopped -1 bunch parsley, chopped -1 Tbsp tahini -juice of 1/2 lemon -1 Tbsp maple syrup </content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7345583058403249440"/>
+    <published>2024-03-12T20:53:57+00:00</published>
   </entry>
 </feed>

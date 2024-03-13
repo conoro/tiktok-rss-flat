@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-03-12T01:57:08+00:00</updated>
+  <updated>2024-03-12T23:36:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7335690341925899553</id>
-    <title>EP1 of easy cooking hacks: Yemeni S’hug (Zhug) 💚🌶️🌿 as someone who can’t eat crazy levels of spiciness (yet), this flavorful hot sauce is perfection! It adds so much yum and garlicky-herby goodness I smoother it on everything! 🧄 • INGREDIENTS •  5 serrano</title>
-    <updated>2024-02-15T05:05:57+00:00</updated>
-    <content>EP1 of easy cooking hacks: Yemeni S’hug (Zhug) 💚🌶️🌿 as someone who can’t eat crazy levels of spiciness (yet), this flavorful hot sauce is perfection! It adds so much yum and garlicky-herby goodness I smoother it on everything! 🧄 • INGREDIENTS •  5 serrano</content>
-    <link href="https://tiktok.com/@thetastyk/video/7335690341925899553"/>
-    <published>2024-02-15T05:05:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7336001759543840032</id>
     <title>CREAMY CHOCOLATE PUDDING 🍫that’s #dairyfree with a whooping 12g of protein per serving! It’s so rich and scrumptious — you wouldn’t believe it is made with 4 ingredients only!  INGREDIENTS (serves 3) 1 block silken tofu (12.3oz/350g), room temperature 1-2</title>
@@ -67,6 +59,14 @@
     <content>CUCUMBER SESAME SALAD 🥒(Sunomono-style) marinated in a deliciously sweet and tangy dressing✨  • INGREDIENTS • 4 small cucumbers, thinly sliced 1/4 tsp sea salt 3 Tbsp (45ml) rice vinegar 1 Tbsp (15ml) sesame oil 1 Tbsp (15ml) soy sauce 1 tsp maple syrup (</content>
     <link href="https://tiktok.com/@thetastyk/video/7345290063711980832"/>
     <published>2024-03-12T01:57:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7345625027997338912</id>
+    <title>BLUEBERRY OVERNIGHT OATS 🫐💜 are my favorite new breakfast obsession! Absolutely in love with the color, texture and taste of these! • INGREDIENTS • (serves 3) 1.5 cups rolled oats 3 Tbsp chia seeds 3 Tbsp hemp seeds 3 Tbsp slivered almonds 2 Tbsp raisins </title>
+    <updated>2024-03-12T23:36:54+00:00</updated>
+    <content>BLUEBERRY OVERNIGHT OATS 🫐💜 are my favorite new breakfast obsession! Absolutely in love with the color, texture and taste of these! • INGREDIENTS • (serves 3) 1.5 cups rolled oats 3 Tbsp chia seeds 3 Tbsp hemp seeds 3 Tbsp slivered almonds 2 Tbsp raisins </content>
+    <link href="https://tiktok.com/@thetastyk/video/7345625027997338912"/>
+    <published>2024-03-12T23:36:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>

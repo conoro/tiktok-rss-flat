@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-03-11T11:58:31+00:00</updated>
+  <updated>2024-03-12T14:49:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7342901532356103466</id>
-    <title>Moooooooooooooove it #runtok #ultrarunner #ultramarathon </title>
-    <updated>2024-03-05T15:28:22+00:00</updated>
-    <content>Moooooooooooooove it #runtok #ultrarunner #ultramarathon </content>
-    <link href="https://tiktok.com/@glazeruns/video/7342901532356103466"/>
-    <published>2024-03-05T15:28:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7343052204242193706</id>
     <title>Happy Birthday to my son Hayden. Can't believe he is 13 years old. I have a teenager now.</title>
@@ -67,6 +59,14 @@
     <content>In Vans, no less. Should have worn the Hokas. Rookie mistake. #runtok </content>
     <link href="https://tiktok.com/@glazeruns/video/7345073721431837994"/>
     <published>2024-03-11T11:58:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7345489025899302186</id>
+    <title>I can quit after 4 years, right? #runtok #runstreak #ultrarunner </title>
+    <updated>2024-03-12T14:49:15+00:00</updated>
+    <content>I can quit after 4 years, right? #runtok #runstreak #ultrarunner </content>
+    <link href="https://tiktok.com/@glazeruns/video/7345489025899302186"/>
+    <published>2024-03-12T14:49:15+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
