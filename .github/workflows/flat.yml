@@ -18,6 +18,9 @@ jobs:
           python-version: 3.9 #install the python needed
       - name: Install dependencies
         run: |
+          python3.9 -m venv env
+          source env/bin/activate
+          echo "VIRTUAL ENV:" $VIRTUAL_ENV
           pip install -r requirements.txt
           python -m playwright install
       - name: execute py script

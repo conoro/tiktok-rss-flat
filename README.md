@@ -4,7 +4,7 @@
 Generate usable RSS feeds from TikTok using GitHub Actions and GitHub Pages.
 
 
-** NOTE March 2024: This can work again due to improvements in the original TikTok library. But a small issue means it can only run on your local machine. You need to install everything and then edit tiktok.py to change line 203 from headless=True to headless=False. I'll see if I can get it running on GH Actions in the coming week **
+**NOTE March 2024: This can work again due to improvements in the original TikTok library. But a small issue means it can only run on your local machine. You need to install everything and then edit tiktok.py to change line 203 from headless=True to headless=False. I'll see if I can get it running on GH Actions in the coming week**
 
 ## Setup for GitHub Actions
 * To get your own instance running
