@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-12T20:53:57+00:00</updated>
+  <updated>2024-03-14T20:44:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7340768790533229856</id>
-    <title>SINGLE SERVE CURRY LAKSA 🍜  This is an extremely simplified version of the Malaysian curry laksa noodle soup buuuut it was very delicious!😋 RECIPE (1 serving, 15min prep time): -1 Tbsp (15g) red curry paste -100ml coconut milk Let it simmer 3-4mins. -200m</title>
-    <updated>2024-02-28T21:32:09+00:00</updated>
-    <content>SINGLE SERVE CURRY LAKSA 🍜  This is an extremely simplified version of the Malaysian curry laksa noodle soup buuuut it was very delicious!😋 RECIPE (1 serving, 15min prep time): -1 Tbsp (15g) red curry paste -100ml coconut milk Let it simmer 3-4mins. -200m</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7340768790533229856"/>
-    <published>2024-02-28T21:32:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7341132446051732769</id>
     <title>HOMEMADE BAGELS 🥯  I love making a batch of bagels every other week and popping them in the freezer to have the best bagels on the hand whenever I want! 😋 RECIPE (8 bagels, 2h prep time): -1 1/4 cup (310ml) lukewarm water -2 Tsp instant yeast -1 Tbsp suga</title>
@@ -91,5 +83,13 @@
     <content>CHICKPEA SANDWICH 🥪  A great sandwich can make your day better!🤭 RECIPE (2 servings, 15min prep time): Chickpea smash: -1 can (220g) cooked chickpeas -1 small onion, chopped -1 bunch parsley, chopped -1 Tbsp tahini -juice of 1/2 lemon -1 Tbsp maple syrup </content>
     <link href="https://tiktok.com/@fitgreenmind/video/7345583058403249440"/>
     <published>2024-03-12T20:53:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7346322822987386145</id>
+    <title>SINGLE SERVE FOCACCIA 😋 I love focaccia but it tastes best fresh, so I made a mini one which is also great for sandwiches! 🥪  RECIPE (1 serving, 3h prep time): -60ml lukewarm water -1 Tsp instant yeast -1/2 Tsp salt -1 Tsp olive oil Mix. -90g flour Stir i</title>
+    <updated>2024-03-14T20:44:40+00:00</updated>
+    <content>SINGLE SERVE FOCACCIA 😋 I love focaccia but it tastes best fresh, so I made a mini one which is also great for sandwiches! 🥪  RECIPE (1 serving, 3h prep time): -60ml lukewarm water -1 Tsp instant yeast -1/2 Tsp salt -1 Tsp olive oil Mix. -90g flour Stir i</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7346322822987386145"/>
+    <published>2024-03-14T20:44:40+00:00</published>
   </entry>
 </feed>
