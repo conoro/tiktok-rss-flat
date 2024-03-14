@@ -2,7 +2,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,node,macos,windows,linux,visualstudiocode,deno
 
 venv
-config.py
 
 ### Deno ###
 /.idea/

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-03-12T23:36:54+00:00</updated>
+  <updated>2024-03-14T01:04:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7336001759543840032</id>
-    <title>CREAMY CHOCOLATE PUDDING 🍫that’s #dairyfree with a whooping 12g of protein per serving! It’s so rich and scrumptious — you wouldn’t believe it is made with 4 ingredients only!  INGREDIENTS (serves 3) 1 block silken tofu (12.3oz/350g), room temperature 1-2</title>
-    <updated>2024-02-16T01:14:00+00:00</updated>
-    <content>CREAMY CHOCOLATE PUDDING 🍫that’s #dairyfree with a whooping 12g of protein per serving! It’s so rich and scrumptious — you wouldn’t believe it is made with 4 ingredients only!  INGREDIENTS (serves 3) 1 block silken tofu (12.3oz/350g), room temperature 1-2</content>
-    <link href="https://tiktok.com/@thetastyk/video/7336001759543840032"/>
-    <published>2024-02-16T01:14:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7340841095732956449</id>
     <title>Starting my days with a #plantbased breaky 🌱 that’s both high in protein AND fiber has been a game-changer in terms of overall energy, reduced cravings throughout the day and healthy digestion! 🙌🏼 I usually go through phases of alternating between sweet &amp;</title>
@@ -67,6 +59,14 @@
     <content>BLUEBERRY OVERNIGHT OATS 🫐💜 are my favorite new breakfast obsession! Absolutely in love with the color, texture and taste of these! • INGREDIENTS • (serves 3) 1.5 cups rolled oats 3 Tbsp chia seeds 3 Tbsp hemp seeds 3 Tbsp slivered almonds 2 Tbsp raisins </content>
     <link href="https://tiktok.com/@thetastyk/video/7345625027997338912"/>
     <published>2024-03-12T23:36:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7346018588630830368</id>
+    <title>HOMEMADE SPROUTS 🌿 so easy to make, super nutritious (to put on sandwiches or salads) &amp; for a fraction of the supermarket price! Never ever going back to store-bought! 🤩 • INGREDIENTS • Jar with mesh lid 1 Tbsp sprout seeds (I love broccoli, alfalfa, mung</title>
+    <updated>2024-03-14T01:04:41+00:00</updated>
+    <content>HOMEMADE SPROUTS 🌿 so easy to make, super nutritious (to put on sandwiches or salads) &amp; for a fraction of the supermarket price! Never ever going back to store-bought! 🤩 • INGREDIENTS • Jar with mesh lid 1 Tbsp sprout seeds (I love broccoli, alfalfa, mung</content>
+    <link href="https://tiktok.com/@thetastyk/video/7346018588630830368"/>
+    <published>2024-03-14T01:04:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>

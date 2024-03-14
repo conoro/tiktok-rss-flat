@@ -1,3 +1,4 @@
+import os
 import asyncio
 import csv
 from datetime import datetime, timezone
@@ -14,7 +15,9 @@ ghPagesURL = config.ghPagesURL
 
 api = TikTokApi()
 
-ms_token = config.ms_token
+ms_token = os.environ.get(
+    "MS_TOKEN", None
+)
 
 async def user_videos():
 
