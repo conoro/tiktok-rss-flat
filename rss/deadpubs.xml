@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@deadpubs</id>
   <title>deadpubs TikTok</title>
-  <updated>2024-03-06T13:59:02+00:00</updated>
+  <updated>2024-03-14T13:04:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -83,5 +83,13 @@
     <content>A Swift One at… Quinn’s, NW1 8NY. #camden #deadpubs #londonpub #pubs #fypシ #ukpubs #londonlife #review #beertok #londondeadpubs #camdentown </content>
     <link href="https://tiktok.com/@deadpubs/video/7343249621851983137"/>
     <published>2024-03-06T13:59:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7346204170971663649</id>
+    <title>A Swift One at… The Heart of Hackney, E8 3NS. #hackney #london #deadpubs #londonpub #pubculture #fypシ゚viral #eastlondon </title>
+    <updated>2024-03-14T13:04:12+00:00</updated>
+    <content>A Swift One at… The Heart of Hackney, E8 3NS. #hackney #london #deadpubs #londonpub #pubculture #fypシ゚viral #eastlondon </content>
+    <link href="https://tiktok.com/@deadpubs/video/7346204170971663649"/>
+    <published>2024-03-14T13:04:12+00:00</published>
   </entry>
 </feed>
