@@ -20,6 +20,8 @@ jobs:
         env:
           MS_TOKEN: ${{ secrets.MS_TOKEN }}
         run: |
+          export DISPLAY=:99
+          sudo Xvfb -ac :99 -screen 0 1280x1024x24 > /dev/null 2>&1 &
           python3.9 -m venv venv
           source venv/bin/activate
           echo "VIRTUAL ENV:" $VIRTUAL_ENV
