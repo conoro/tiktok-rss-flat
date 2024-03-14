@@ -4,7 +4,7 @@
 Generate usable RSS feeds from TikTok using GitHub Actions and GitHub Pages.
 
 
-**NOTE March 2024: This seems to work again due to improvements in the original TikTok library. It requires on on-the-fly patch to that underlying TikTok library, which is hopefully only temporary**
+**NOTE March 2024: This seems to work again due to improvements in the original TikTok library. It requires an on-the-fly patch to that underlying TikTok library, which is hopefully only temporary**
 
 ## Setup for GitHub Actions
 * To get your own instance running
@@ -56,11 +56,11 @@ git push origin main
     * (Or in my case where I've set a custom domain for the GitHub Pages project called tiktokrss.conoroneill.com, the URL is https://tiktokrss.conoroneill.com/rss/iamtabithabrown.xml)
 
 ## Acknowledgements
-* This uses an unoffical [TikTokPy library](https://github.com/davidteather/TikTok-Api) to extract information about user videos from TikTok as JSON and generate RSS feeds for each user you are interested in.
+This uses an unoffical [TikTokPy library](https://github.com/davidteather/TikTok-Api) to extract information about user videos from TikTok as JSON and generate RSS feeds for each user you are interested in.
 
 Logo was created using the TikTok and RSS [Font Awesome](https://fontawesome.com/license/free) icons via CC BY 4.0 License
 
-Copyright Conor O'Neill, 2021 (conor@conoroneill.com)
+Copyright Conor O'Neill, 2021-2024 (conor@conoroneill.com)
 
 License Apache 2.0
 
