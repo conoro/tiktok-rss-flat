@@ -4,7 +4,7 @@
 Generate usable RSS feeds from TikTok using GitHub Actions and GitHub Pages.
 
 
-**NOTE March 2024: This can work again due to improvements in the original TikTok library. But a small issue means it can only run on your local machine. You need to install everything and then edit tiktok.py to change line 203 from headless=True to headless=False. I'll see if I can get it running on GH Actions in the coming week**
+**NOTE March 2024: This seems to work again due to improvements in the original TikTok library. It requires on on-the-fly patch to that underlying TikTok library, which is hopefully only temporary**
 
 ## Setup for GitHub Actions
 * To get your own instance running
@@ -26,15 +26,26 @@ Generate usable RSS feeds from TikTok using GitHub Actions and GitHub Pages.
 
 * It's set to run once per hour and generates one RSS XML file per user in the rss output directory.
 
-## Running locally
+## Running locally as an alternative
 * You need Python installed
-* `pip install virtualenv`
-* `python -m venv venv`
-* `source venv\bin\activate`
-* `pip install -r requirements.txt`
-* `export MS_TOKEN="blah"`
-* `python postprocessing.py`
+* Then setup with:
 
+```bash
+pip install virtualenv
+python -m venv venv
+source venv\bin\activate
+pip install -r requirements.txt
+export MS_TOKEN="blah"
+```
+
+* Then run each time with:
+
+```bash
+source venv\bin\activate
+python postprocessing.py
+git commit -a -m "latest RSS"
+git push origin main
+```
 
 ## Feed Reading
 * You then subscribe to each feed in [Feedly](https://www.feedly.com) or another feed reader using a GitHub Pages URL. Those URLs are constructed like so. E.g.:
