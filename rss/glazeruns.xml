@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-03-12T14:49:15+00:00</updated>
+  <updated>2024-03-15T01:40:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7343052204242193706</id>
-    <title>Happy Birthday to my son Hayden. Can't believe he is 13 years old. I have a teenager now.</title>
-    <updated>2024-03-06T01:13:03+00:00</updated>
-    <content>Happy Birthday to my son Hayden. Can't believe he is 13 years old. I have a teenager now.</content>
-    <link href="https://tiktok.com/@glazeruns/video/7343052204242193706"/>
-    <published>2024-03-06T01:13:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7344016725018594606</id>
     <title>Cocodona 250 miler is my next big race. This will be my 4th attempt at the race. Starting to mentally prepare for the suffering. #ultramarathon #runtok #cocodona250 </title>
@@ -67,6 +59,14 @@
     <content>I can quit after 4 years, right? #runtok #runstreak #ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7345489025899302186"/>
     <published>2024-03-12T14:49:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7346399003182927146</id>
+    <title>If you see a giant @PRIME bottle running through the LA marathon this weekend. Say hi. I'll be easy to spot. Smile, or you're doing it wrong. #marathon #ultrarunner #runtok </title>
+    <updated>2024-03-15T01:40:21+00:00</updated>
+    <content>If you see a giant @PRIME bottle running through the LA marathon this weekend. Say hi. I'll be easy to spot. Smile, or you're doing it wrong. #marathon #ultrarunner #runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7346399003182927146"/>
+    <published>2024-03-15T01:40:21+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
