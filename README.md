@@ -24,7 +24,8 @@ Generate usable RSS feeds from TikTok using GitHub Actions and GitHub Pages.
     * Edit config.py to change `ghPagesURL` from "https://conoro.github.io/tiktok-rss-flat/" to your URL
     * Add the TikTok usernames that you like to subscriptions.csv
 
-* It's set to run once per hour and generates one RSS XML file per user in the rss output directory.
+* It's set to run once every 4 hours and generates one RSS XML file per user in the rss output directory.
+* You may need to update the msToken whenever your get GH Actions erros about TikTok returning an empty response
 
 ## Running locally as an alternative
 * You need Python installed
