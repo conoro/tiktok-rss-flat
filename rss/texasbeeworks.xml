@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@texasbeeworks</id>
   <title>texasbeeworks TikTok</title>
-  <updated>2024-02-01T02:13:45+00:00</updated>
+  <updated>2024-03-15T15:18:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from texasbeeworks</subtitle>
-  <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/7224909251708243246</id>
-    <title>Happy Earth Day from me and the bees! #earthday #bees #savingthebees </title>
-    <updated>2023-04-22T16:18:03+00:00</updated>
-    <content>Happy Earth Day from me and the bees! #earthday #bees #savingthebees </content>
-    <link href="https://tiktok.com/@texasbeeworks/video/7224909251708243246"/>
-    <published>2023-04-22T16:18:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@texasbeeworks/video/7255300671317167406</id>
     <title>Can you find the queen? #bees #beekeeping #queen #savingthebees </title>
@@ -67,6 +59,14 @@
     <content>I’m so grateful to @TikTok for changing my life and for providing me with so many incredible opportunities like this one. </content>
     <link href="https://tiktok.com/@texasbeeworks/video/7330450950718508331"/>
     <published>2024-02-01T02:13:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/7346609829999463726</id>
+    <title>Another great day of saving the bees! </title>
+    <updated>2024-03-15T15:18:47+00:00</updated>
+    <content>Another great day of saving the bees! </content>
+    <link href="https://tiktok.com/@texasbeeworks/video/7346609829999463726"/>
+    <published>2024-03-15T15:18:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@texasbeeworks/video/6938831081684651269</id>
