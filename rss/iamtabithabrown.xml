@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-03-14T03:45:34+00:00</updated>
+  <updated>2024-03-16T17:22:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7340194981325491502</id>
-    <title>Late night TSA: No more junk drawers❤️ #tabithabrown #spreadlove </title>
-    <updated>2024-02-27T08:27:16+00:00</updated>
-    <content>Late night TSA: No more junk drawers❤️ #tabithabrown #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7340194981325491502"/>
-    <published>2024-02-27T08:27:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7341272299984735530</id>
     <title>Here is one of my favorite kale salad recipes 😋 Let’s get into it❤️. #vegan #plantbased #lunch #salad #tabithabrown #foodie #eatwell  Lemon pepper Parmesan from @kellyscroutons Truffle hot sauce from @sauce My sweater set is from @dressedinlala  Earrings </title>
@@ -91,5 +83,13 @@
     <content>Oh dear Katherine😩. When did it begin😩. I mean I ain’t mad about, I just wanted to know how I missed it😩 #womanhood #perimenopause #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7346060104258637102"/>
     <published>2024-03-14T03:45:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7347012922264096042</id>
+    <title>Apparently Saturdsys are just for cuddles and relaxing 😂. Clearly Blacky Brown is not ready for the day yet 😂❤️ #happysaturday #dogsoftiktok #blackybrown #tabithabrown #fyp</title>
+    <updated>2024-03-16T17:22:59+00:00</updated>
+    <content>Apparently Saturdsys are just for cuddles and relaxing 😂. Clearly Blacky Brown is not ready for the day yet 😂❤️ #happysaturday #dogsoftiktok #blackybrown #tabithabrown #fyp</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7347012922264096042"/>
+    <published>2024-03-16T17:22:59+00:00</published>
   </entry>
 </feed>
