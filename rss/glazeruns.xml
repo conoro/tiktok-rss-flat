@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-03-15T01:40:21+00:00</updated>
+  <updated>2024-03-16T00:07:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7344016725018594606</id>
-    <title>Cocodona 250 miler is my next big race. This will be my 4th attempt at the race. Starting to mentally prepare for the suffering. #ultramarathon #runtok #cocodona250 </title>
-    <updated>2024-03-08T15:35:52+00:00</updated>
-    <content>Cocodona 250 miler is my next big race. This will be my 4th attempt at the race. Starting to mentally prepare for the suffering. #ultramarathon #runtok #cocodona250 </content>
-    <link href="https://tiktok.com/@glazeruns/video/7344016725018594606"/>
-    <published>2024-03-08T15:35:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7344524614690721066</id>
     <title>Adding the feedback to my mixtape #runtok #ultramarathon #ultrarunner </title>
@@ -67,6 +59,14 @@
     <content>If you see a giant @PRIME bottle running through the LA marathon this weekend. Say hi. I'll be easy to spot. Smile, or you're doing it wrong. #marathon #ultrarunner #runtok </content>
     <link href="https://tiktok.com/@glazeruns/video/7346399003182927146"/>
     <published>2024-03-15T01:40:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7346746171370622251</id>
+    <title>It's just 26 miles though. Los Angeles Marathon see you soon.   Smile, or you're doing it wrong. #runtok #marathon #ultrarunner </title>
+    <updated>2024-03-16T00:07:50+00:00</updated>
+    <content>It's just 26 miles though. Los Angeles Marathon see you soon.   Smile, or you're doing it wrong. #runtok #marathon #ultrarunner </content>
+    <link href="https://tiktok.com/@glazeruns/video/7346746171370622251"/>
+    <published>2024-03-16T00:07:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-14T20:44:40+00:00</updated>
+  <updated>2024-03-15T21:05:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7341132446051732769</id>
-    <title>HOMEMADE BAGELS 🥯  I love making a batch of bagels every other week and popping them in the freezer to have the best bagels on the hand whenever I want! 😋 RECIPE (8 bagels, 2h prep time): -1 1/4 cup (310ml) lukewarm water -2 Tsp instant yeast -1 Tbsp suga</title>
-    <updated>2024-02-29T21:03:18+00:00</updated>
-    <content>HOMEMADE BAGELS 🥯  I love making a batch of bagels every other week and popping them in the freezer to have the best bagels on the hand whenever I want! 😋 RECIPE (8 bagels, 2h prep time): -1 1/4 cup (310ml) lukewarm water -2 Tsp instant yeast -1 Tbsp suga</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7341132446051732769"/>
-    <published>2024-02-29T21:03:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7341872564144213281</id>
     <title>SINGLE SERVE LASAGNA 🍝  This recipe is super customizable… no eggplant? Leave it out! No lentils? Use tofu or chickpeas! Make it your own.🤭 RECIPE (1 servings, 55min prep time): Sauce: -1 small onion -1 clove garlic -1/2 eggplant Chop everything and sauté</title>
@@ -91,5 +83,13 @@
     <content>SINGLE SERVE FOCACCIA 😋 I love focaccia but it tastes best fresh, so I made a mini one which is also great for sandwiches! 🥪  RECIPE (1 serving, 3h prep time): -60ml lukewarm water -1 Tsp instant yeast -1/2 Tsp salt -1 Tsp olive oil Mix. -90g flour Stir i</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7346322822987386145"/>
     <published>2024-03-14T20:44:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7346699371167206688</id>
+    <title>APPLE CRISP BREAKFAST 🍎  New go-to breakfast unlocked!🔓 The original recipe is by @leaheverecipes and it’s AMAZEBALLS.🤭 Much love  Maya ✨ RECIPE (1 serving, 10min prep time): -1 apple, sliced -1 Tbsp oil (I used coconut oil) -1 Tbsp maple syrup -a dash of</title>
+    <updated>2024-03-15T21:05:51+00:00</updated>
+    <content>APPLE CRISP BREAKFAST 🍎  New go-to breakfast unlocked!🔓 The original recipe is by @leaheverecipes and it’s AMAZEBALLS.🤭 Much love  Maya ✨ RECIPE (1 serving, 10min prep time): -1 apple, sliced -1 Tbsp oil (I used coconut oil) -1 Tbsp maple syrup -a dash of</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7346699371167206688"/>
+    <published>2024-03-15T21:05:51+00:00</published>
   </entry>
 </feed>
