@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-15T21:05:51+00:00</updated>
+  <updated>2024-03-16T20:32:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7341872564144213281</id>
-    <title>SINGLE SERVE LASAGNA 🍝  This recipe is super customizable… no eggplant? Leave it out! No lentils? Use tofu or chickpeas! Make it your own.🤭 RECIPE (1 servings, 55min prep time): Sauce: -1 small onion -1 clove garlic -1/2 eggplant Chop everything and sauté</title>
-    <updated>2024-03-02T20:55:20+00:00</updated>
-    <content>SINGLE SERVE LASAGNA 🍝  This recipe is super customizable… no eggplant? Leave it out! No lentils? Use tofu or chickpeas! Make it your own.🤭 RECIPE (1 servings, 55min prep time): Sauce: -1 small onion -1 clove garlic -1/2 eggplant Chop everything and sauté</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7341872564144213281"/>
-    <published>2024-03-02T20:55:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7342975417785011488</id>
     <title>VEGAN CREAM CHEESE 🥯  It’s so easy to make and perfect for sandwiches, sauces and much more!😋 RECIPE (5 servings, 5min prep time): -1 block (200g) firm tofu -1 Tsp salt -juice of 1 lemon -3 Tbsp melted coconut oil (you don’t taste it but it gives the crea</title>
@@ -91,5 +83,13 @@
     <content>APPLE CRISP BREAKFAST 🍎  New go-to breakfast unlocked!🔓 The original recipe is by @leaheverecipes and it’s AMAZEBALLS.🤭 Much love  Maya ✨ RECIPE (1 serving, 10min prep time): -1 apple, sliced -1 Tbsp oil (I used coconut oil) -1 Tbsp maple syrup -a dash of</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7346699371167206688"/>
     <published>2024-03-15T21:05:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7347061772018273569</id>
+    <title>FRÜHSTÜCKSTACO mit ohne Ei 🌮 Werbung/Ad Ein perfektes Sonntagsfrühstück oder? 😉 Besonders gut wird es mit dem neuen Rührei-spice von @soul-spice.com , das gibt’s momentan im Bundle mit 4 weiteren neuen Gewürzen 10% reduziert und mit „Maya5“ könnt ihr imme</title>
+    <updated>2024-03-16T20:32:07+00:00</updated>
+    <content>FRÜHSTÜCKSTACO mit ohne Ei 🌮 Werbung/Ad Ein perfektes Sonntagsfrühstück oder? 😉 Besonders gut wird es mit dem neuen Rührei-spice von @soul-spice.com , das gibt’s momentan im Bundle mit 4 weiteren neuen Gewürzen 10% reduziert und mit „Maya5“ könnt ihr imme</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7347061772018273569"/>
+    <published>2024-03-16T20:32:07+00:00</published>
   </entry>
 </feed>
