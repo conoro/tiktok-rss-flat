@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-03-16T17:22:59+00:00</updated>
+  <updated>2024-03-17T04:47:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7341272299984735530</id>
-    <title>Here is one of my favorite kale salad recipes 😋 Let’s get into it❤️. #vegan #plantbased #lunch #salad #tabithabrown #foodie #eatwell  Lemon pepper Parmesan from @kellyscroutons Truffle hot sauce from @sauce My sweater set is from @dressedinlala  Earrings </title>
-    <updated>2024-03-01T06:06:10+00:00</updated>
-    <content>Here is one of my favorite kale salad recipes 😋 Let’s get into it❤️. #vegan #plantbased #lunch #salad #tabithabrown #foodie #eatwell  Lemon pepper Parmesan from @kellyscroutons Truffle hot sauce from @sauce My sweater set is from @dressedinlala  Earrings </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7341272299984735530"/>
-    <published>2024-03-01T06:06:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7341985845932461354</id>
     <title>Anybody else grew up like this or is it just a NC thang?? My granddaddy always stopped our nose bleeds with keys on our necks… 🤷🏾‍♀️. #nosebleeds #countrylife</title>
@@ -91,5 +83,13 @@
     <content>Apparently Saturdsys are just for cuddles and relaxing 😂. Clearly Blacky Brown is not ready for the day yet 😂❤️ #happysaturday #dogsoftiktok #blackybrown #tabithabrown #fyp</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7347012922264096042"/>
     <published>2024-03-16T17:22:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7347189364104891690</id>
+    <title>It was your confirmation ❤️. Love you! #spreadlove #tabithabrown </title>
+    <updated>2024-03-17T04:47:34+00:00</updated>
+    <content>It was your confirmation ❤️. Love you! #spreadlove #tabithabrown </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7347189364104891690"/>
+    <published>2024-03-17T04:47:34+00:00</published>
   </entry>
 </feed>
