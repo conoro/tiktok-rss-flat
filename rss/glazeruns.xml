@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-03-16T14:01:37+00:00</updated>
+  <updated>2024-03-18T02:10:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7344786628944203050</id>
-    <title>Time to climb. #runtok #firefighter #stairclimb </title>
-    <updated>2024-03-10T17:23:41+00:00</updated>
-    <content>Time to climb. #runtok #firefighter #stairclimb </content>
-    <link href="https://tiktok.com/@glazeruns/video/7344786628944203050"/>
-    <published>2024-03-10T17:23:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7344826552997137706</id>
-    <title>Had a blast. I'll be back next year</title>
-    <updated>2024-03-10T19:58:32+00:00</updated>
-    <content>Had a blast. I'll be back next year</content>
-    <link href="https://tiktok.com/@glazeruns/video/7344826552997137706"/>
-    <published>2024-03-10T19:58:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7345073721431837994</id>
     <title>In Vans, no less. Should have worn the Hokas. Rookie mistake. #runtok </title>
@@ -67,6 +51,22 @@
     <content>Time to get loopy in Joshua Tree. 12 hours should be a nice warmup for the LA Marathon tomorrow.  Smile, or you're doing it wrong. #runtok #ultrarunner #runstreak </content>
     <link href="https://tiktok.com/@glazeruns/video/7346960964698361130"/>
     <published>2024-03-16T14:01:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7347505690686098734</id>
+    <title>It's always great to set a World Record. Smile, or you're doing it wrong. . #runtok #lamarathon </title>
+    <updated>2024-03-18T01:15:04+00:00</updated>
+    <content>It's always great to set a World Record. Smile, or you're doing it wrong. . #runtok #lamarathon </content>
+    <link href="https://tiktok.com/@glazeruns/video/7347505690686098734"/>
+    <published>2024-03-18T01:15:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7347520023772089643</id>
+    <title>Fun time in the Prime suit . #runtok #lamarathon </title>
+    <updated>2024-03-18T02:10:44+00:00</updated>
+    <content>Fun time in the Prime suit . #runtok #lamarathon </content>
+    <link href="https://tiktok.com/@glazeruns/video/7347520023772089643"/>
+    <published>2024-03-18T02:10:44+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
