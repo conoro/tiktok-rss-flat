@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-16T20:32:07+00:00</updated>
+  <updated>2024-03-17T20:59:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7342975417785011488</id>
-    <title>VEGAN CREAM CHEESE 🥯  It’s so easy to make and perfect for sandwiches, sauces and much more!😋 RECIPE (5 servings, 5min prep time): -1 block (200g) firm tofu -1 Tsp salt -juice of 1 lemon -3 Tbsp melted coconut oil (you don’t taste it but it gives the crea</title>
-    <updated>2024-03-05T20:14:58+00:00</updated>
-    <content>VEGAN CREAM CHEESE 🥯  It’s so easy to make and perfect for sandwiches, sauces and much more!😋 RECIPE (5 servings, 5min prep time): -1 block (200g) firm tofu -1 Tsp salt -juice of 1 lemon -3 Tbsp melted coconut oil (you don’t taste it but it gives the crea</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7342975417785011488"/>
-    <published>2024-03-05T20:14:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7343722718367403296</id>
     <title>CARROT LOX 🥕  Carrots are not a boring vegetable… prepared like this, they turn into a real delight which is perfect for a “lox” bagel!😋 RECIPE (4 servings, 1h prep time): -3 carrots, washed Drizzle with oil and salt. Bake at 180C/350F for 45mins. Optiona</title>
@@ -91,5 +83,13 @@
     <content>FRÜHSTÜCKSTACO mit ohne Ei 🌮 Werbung/Ad Ein perfektes Sonntagsfrühstück oder? 😉 Besonders gut wird es mit dem neuen Rührei-spice von @soul-spice.com , das gibt’s momentan im Bundle mit 4 weiteren neuen Gewürzen 10% reduziert und mit „Maya5“ könnt ihr imme</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7347061772018273569"/>
     <published>2024-03-16T20:32:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7347439821318573344</id>
+    <title>MEAL PREP SUNDAY 🧑‍🍳  You can find all detailed recipes on my YouTube channel “fitgreenmind” and here’s what I made 😋: •freezer pancakes, granola, couscous salad •tofu feta, laab style tempeh •quick pickled cucumber and tomatoes •chocolate dates  - MEAL P</title>
+    <updated>2024-03-17T20:59:10+00:00</updated>
+    <content>MEAL PREP SUNDAY 🧑‍🍳  You can find all detailed recipes on my YouTube channel “fitgreenmind” and here’s what I made 😋: •freezer pancakes, granola, couscous salad •tofu feta, laab style tempeh •quick pickled cucumber and tomatoes •chocolate dates  - MEAL P</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7347439821318573344"/>
+    <published>2024-03-17T20:59:10+00:00</published>
   </entry>
 </feed>
