@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-03-14T23:54:51+00:00</updated>
+  <updated>2024-03-19T00:02:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7338919490832403758</id>
-    <title>I cant wait for the first kinda warm day this year! I will be losing my mind just like this #onthisday #spring #running #motivation </title>
-    <updated>2024-02-23T21:56:23+00:00</updated>
-    <content>I cant wait for the first kinda warm day this year! I will be losing my mind just like this #onthisday #spring #running #motivation </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7338919490832403758"/>
-    <published>2024-02-23T21:56:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7339671823715503406</id>
     <title>At no point during these 30 days did I think I would notice this much of a difference. I have triceps! I can do things! I was just trying to build a habit, but I’m not complaining about progress! It’s hard to show everything in a short video, but the ener</title>
@@ -91,5 +83,13 @@
     <content>For curiosity/inspiration purposes only 🤣 as always, I am not an expert so do not do what I say. I’m just sharing for everyone who was curious about what I meant by “I just followed YouTube videos” in my 30 day results video. Hope this helps! My favorite </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7346371822318898474"/>
     <published>2024-03-14T23:54:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7347858162088758571</id>
+    <title>I’ve been showing up here with my issues and imperfections from the beginning of my running journey in 2019, so shoutout to anyone who has embraced me and my content whether I’m crying in a cornfield at mile 7 of an 18 mile run, interviewing athletes in a</title>
+    <updated>2024-03-19T00:02:52+00:00</updated>
+    <content>I’ve been showing up here with my issues and imperfections from the beginning of my running journey in 2019, so shoutout to anyone who has embraced me and my content whether I’m crying in a cornfield at mile 7 of an 18 mile run, interviewing athletes in a</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7347858162088758571"/>
+    <published>2024-03-19T00:02:52+00:00</published>
   </entry>
 </feed>
