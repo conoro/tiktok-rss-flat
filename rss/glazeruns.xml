@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-03-19T00:05:49+00:00</updated>
+  <updated>2024-03-19T14:25:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7346399003182927146</id>
-    <title>If you see a giant @PRIME bottle running through the LA marathon this weekend. Say hi. I'll be easy to spot. Smile, or you're doing it wrong. #marathon #ultrarunner #runtok </title>
-    <updated>2024-03-15T01:40:21+00:00</updated>
-    <content>If you see a giant @PRIME bottle running through the LA marathon this weekend. Say hi. I'll be easy to spot. Smile, or you're doing it wrong. #marathon #ultrarunner #runtok </content>
-    <link href="https://tiktok.com/@glazeruns/video/7346399003182927146"/>
-    <published>2024-03-15T01:40:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7346746171370622251</id>
     <title>It's just 26 miles though. Los Angeles Marathon see you soon.   Smile, or you're doing it wrong. #runtok #marathon #ultrarunner </title>
@@ -67,6 +59,14 @@
     <content>Happy Medal Monday Los Angeles Marathon ✅️ #runtok #lamarathon </content>
     <link href="https://tiktok.com/@glazeruns/video/7347858912432934187"/>
     <published>2024-03-19T00:05:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7348080572792720682</id>
+    <title>It was a good week for the haters. So many people unfollowed me. I'm surprised you're even here watching this video. It was a fun week regardless and I had so much fun. Hope this made you laugh. Smile, or you're doing it wrong. #runtok </title>
+    <updated>2024-03-19T14:25:50+00:00</updated>
+    <content>It was a good week for the haters. So many people unfollowed me. I'm surprised you're even here watching this video. It was a fun week regardless and I had so much fun. Hope this made you laugh. Smile, or you're doing it wrong. #runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7348080572792720682"/>
+    <published>2024-03-19T14:25:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
