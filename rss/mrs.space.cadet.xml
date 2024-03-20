@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-03-19T00:02:52+00:00</updated>
+  <updated>2024-03-19T21:41:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7339671823715503406</id>
-    <title>At no point during these 30 days did I think I would notice this much of a difference. I have triceps! I can do things! I was just trying to build a habit, but I’m not complaining about progress! It’s hard to show everything in a short video, but the ener</title>
-    <updated>2024-02-25T22:35:40+00:00</updated>
-    <content>At no point during these 30 days did I think I would notice this much of a difference. I have triceps! I can do things! I was just trying to build a habit, but I’m not complaining about progress! It’s hard to show everything in a short video, but the ener</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7339671823715503406"/>
-    <published>2024-02-25T22:35:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7340060742080711982</id>
     <title>One thing about me is I’m good at rejection ☺️ This is my official application, cover letter, and resume. Please let me know if you need anything else on my end, @Philadelphia Eagles 🦅 💦 ALSO…to everyone about to comment “they are actually athletic traine</title>
@@ -91,5 +83,13 @@
     <content>I’ve been showing up here with my issues and imperfections from the beginning of my running journey in 2019, so shoutout to anyone who has embraced me and my content whether I’m crying in a cornfield at mile 7 of an 18 mile run, interviewing athletes in a</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7347858162088758571"/>
     <published>2024-03-19T00:02:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7348192896920603947</id>
+    <title>National Geographic is screaming crying punching the air for not coming up with this 😮‍💨 now if only we can get the temperature above 50 and maybe get rid of the blistering wind? That’d be super. Are you looking forward to running or just existing in the </title>
+    <updated>2024-03-19T21:41:45+00:00</updated>
+    <content>National Geographic is screaming crying punching the air for not coming up with this 😮‍💨 now if only we can get the temperature above 50 and maybe get rid of the blistering wind? That’d be super. Are you looking forward to running or just existing in the </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7348192896920603947"/>
+    <published>2024-03-19T21:41:45+00:00</published>
   </entry>
 </feed>
