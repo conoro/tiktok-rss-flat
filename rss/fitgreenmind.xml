@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-17T20:59:10+00:00</updated>
+  <updated>2024-03-20T19:55:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7343722718367403296</id>
-    <title>CARROT LOX 🥕  Carrots are not a boring vegetable… prepared like this, they turn into a real delight which is perfect for a “lox” bagel!😋 RECIPE (4 servings, 1h prep time): -3 carrots, washed Drizzle with oil and salt. Bake at 180C/350F for 45mins. Optiona</title>
-    <updated>2024-03-07T20:34:54+00:00</updated>
-    <content>CARROT LOX 🥕  Carrots are not a boring vegetable… prepared like this, they turn into a real delight which is perfect for a “lox” bagel!😋 RECIPE (4 servings, 1h prep time): -3 carrots, washed Drizzle with oil and salt. Bake at 180C/350F for 45mins. Optiona</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7343722718367403296"/>
-    <published>2024-03-07T20:34:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7344092840101711137</id>
     <title>SWITCHEL aka nature’s Gatorade ⚡️ This drink is SO GOOD! Originating in the 17th in the Caribbean, Switchel or Haymakers Punch is not only a refreshing drink, it’s also great for your gut and heart by including ginger, lemon and vinegar.😇 RECIPE (5-6 serv</title>
@@ -91,5 +83,13 @@
     <content>MEAL PREP SUNDAY 🧑‍🍳  You can find all detailed recipes on my YouTube channel “fitgreenmind” and here’s what I made 😋: •freezer pancakes, granola, couscous salad •tofu feta, laab style tempeh •quick pickled cucumber and tomatoes •chocolate dates  - MEAL P</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7347439821318573344"/>
     <published>2024-03-17T20:59:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7348536632653434145</id>
+    <title>VEGAN MAYO🌱 This vegan Mayo is 100% foolproof, made in 2mins and tastes better than the store bought mayo.🤗 And you can customize it by adding different spices.🤓 RECIPE (2 jars, 2min prep time): -water of a can of chickpeas (about 1/2cup {125ml}) -1 Tbsp </title>
+    <updated>2024-03-20T19:55:21+00:00</updated>
+    <content>VEGAN MAYO🌱 This vegan Mayo is 100% foolproof, made in 2mins and tastes better than the store bought mayo.🤗 And you can customize it by adding different spices.🤓 RECIPE (2 jars, 2min prep time): -water of a can of chickpeas (about 1/2cup {125ml}) -1 Tbsp </content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7348536632653434145"/>
+    <published>2024-03-20T19:55:21+00:00</published>
   </entry>
 </feed>

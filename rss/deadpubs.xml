@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@deadpubs</id>
   <title>deadpubs TikTok</title>
-  <updated>2024-03-14T13:04:12+00:00</updated>
+  <updated>2024-03-20T19:32:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from deadpubs</subtitle>
-  <entry>
-    <id>https://tiktok.com/@deadpubs/video/7320619505766436129</id>
-    <title>A Swift One at… The Nag’s Head, SW1X 8ED #deadpubs #pubtok #pubreview #pubreviews #londonpub #pubculture #londondeadpubs #centrallondonpub #review #londonpubs #london #pubs #winterwonderland </title>
-    <updated>2024-01-05T14:22:39+00:00</updated>
-    <content>A Swift One at… The Nag’s Head, SW1X 8ED #deadpubs #pubtok #pubreview #pubreviews #londonpub #pubculture #londondeadpubs #centrallondonpub #review #londonpubs #london #pubs #winterwonderland </content>
-    <link href="https://tiktok.com/@deadpubs/video/7320619505766436129"/>
-    <published>2024-01-05T14:22:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@deadpubs/video/7322094397779103008</id>
     <title>A Swift One at… Rose’s, SE18 6NE #deadpubs #pubtok #pubreview #pubreviews #londonpub #pubculture #londondeadpubs #review #londonpubs #london #pubs #woolwich </title>
@@ -91,5 +83,13 @@
     <content>A Swift One at… The Heart of Hackney, E8 3NS. #hackney #london #deadpubs #londonpub #pubculture #fypシ゚viral #eastlondon </content>
     <link href="https://tiktok.com/@deadpubs/video/7346204170971663649"/>
     <published>2024-03-14T13:04:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7348530836184124704</id>
+    <title>A Swift One at… The Shakespeare’s Head, EC1R 1XA. #deadpubs #london #londonpub #pubculture #review #englishpub #pubs #theatre #england #fypシ </title>
+    <updated>2024-03-20T19:32:52+00:00</updated>
+    <content>A Swift One at… The Shakespeare’s Head, EC1R 1XA. #deadpubs #london #londonpub #pubculture #review #englishpub #pubs #theatre #england #fypシ </content>
+    <link href="https://tiktok.com/@deadpubs/video/7348530836184124704"/>
+    <published>2024-03-20T19:32:52+00:00</published>
   </entry>
 </feed>
