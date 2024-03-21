@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-03-19T21:41:45+00:00</updated>
+  <updated>2024-03-21T00:25:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7340060742080711982</id>
-    <title>One thing about me is I’m good at rejection ☺️ This is my official application, cover letter, and resume. Please let me know if you need anything else on my end, @Philadelphia Eagles 🦅 💦 ALSO…to everyone about to comment “they are actually athletic traine</title>
-    <updated>2024-02-26T23:44:38+00:00</updated>
-    <content>One thing about me is I’m good at rejection ☺️ This is my official application, cover letter, and resume. Please let me know if you need anything else on my end, @Philadelphia Eagles 🦅 💦 ALSO…to everyone about to comment “they are actually athletic traine</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7340060742080711982"/>
-    <published>2024-02-26T23:44:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7340422099065949483</id>
     <title>Replying to @reganmkemp PSA! For everyone like me who thought water boys girls people were real…they’re highly educated athletic trainers who happen to also give the players water. Hope this clears things up after I spread the false narrative about water </title>
@@ -91,5 +83,13 @@
     <content>National Geographic is screaming crying punching the air for not coming up with this 😮‍💨 now if only we can get the temperature above 50 and maybe get rid of the blistering wind? That’d be super. Are you looking forward to running or just existing in the </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7348192896920603947"/>
     <published>2024-03-19T21:41:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7348606211052424491</id>
+    <title>This could be a daily series and I wish I was joking but I got these corduroy(?) pants that are NOT sweatpants but they ARE comfortable so I would like to wear them to a hypothetical place where sweatpants aka my entire wardrobe is unacceptable please adv</title>
+    <updated>2024-03-21T00:25:42+00:00</updated>
+    <content>This could be a daily series and I wish I was joking but I got these corduroy(?) pants that are NOT sweatpants but they ARE comfortable so I would like to wear them to a hypothetical place where sweatpants aka my entire wardrobe is unacceptable please adv</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7348606211052424491"/>
+    <published>2024-03-21T00:25:42+00:00</published>
   </entry>
 </feed>
