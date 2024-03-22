@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@visitballyhoura</id>
   <title>visitballyhoura TikTok</title>
-  <updated>2024-03-08T12:05:47+00:00</updated>
+  <updated>2024-03-22T19:29:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from visitballyhoura</subtitle>
-  <entry>
-    <id>https://tiktok.com/@visitballyhoura/video/7292879099595443488</id>
-    <title>A huge welcome home for Oisín O'Callaghan &amp; Ronan Dunne at the Ballyhoura Trail Centre last night, to celebrate their epic race season. These legends have made Irish mountain biking history, by coming 🪙🥈 at the Elite Men's Downhill World Cup in Snowshoe, </title>
-    <updated>2023-10-22T20:15:40+00:00</updated>
-    <content>A huge welcome home for Oisín O'Callaghan &amp; Ronan Dunne at the Ballyhoura Trail Centre last night, to celebrate their epic race season. These legends have made Irish mountain biking history, by coming 🪙🥈 at the Elite Men's Downhill World Cup in Snowshoe, </content>
-    <link href="https://tiktok.com/@visitballyhoura/video/7292879099595443488"/>
-    <published>2023-10-22T20:15:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7294718381150883104</id>
     <title>Handy tips for longer days in the saddle!  If you're new to Ballyhoura's mountain biking trails, here are a few handy tips on what to bring for the bigger loops (Tech Route 24km, Garrane Route 35km, Castlepook Route 54km). Is there something we've missed?</title>
@@ -83,6 +75,14 @@
     <content>Happy #InternationalWomensDay—to all the women &amp; girls who inspire us in our lives!  @Leah @Julia_Piorek_mtb  🎥@Break the Resistance  #IWD2024 #womensday #womeninspiringwomen #inspirationalwomen #mountainbiking #mtblife #Ballyhoura #VisitBallyhoura #Bally</content>
     <link href="https://tiktok.com/@visitballyhoura/video/7343962581763116320"/>
     <published>2024-03-08T12:05:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7349272118661614880</id>
+    <title>Lough Gur is magical at any time of the day ✨ Come and enjoy breathtaking views of the lake, and don't miss Lough Gur's Easter Craft Fair next Saturday, with a variety of handmade goods from a diverse range of stalls. 📍Lough Gur Lakeshore Park 📅 Sat 30th </title>
+    <updated>2024-03-22T19:29:47+00:00</updated>
+    <content>Lough Gur is magical at any time of the day ✨ Come and enjoy breathtaking views of the lake, and don't miss Lough Gur's Easter Craft Fair next Saturday, with a variety of handmade goods from a diverse range of stalls. 📍Lough Gur Lakeshore Park 📅 Sat 30th </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7349272118661614880"/>
+    <published>2024-03-22T19:29:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7172848461744803078</id>
