@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-20T19:55:21+00:00</updated>
+  <updated>2024-03-21T20:02:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7344092840101711137</id>
-    <title>SWITCHEL aka nature’s Gatorade ⚡️ This drink is SO GOOD! Originating in the 17th in the Caribbean, Switchel or Haymakers Punch is not only a refreshing drink, it’s also great for your gut and heart by including ginger, lemon and vinegar.😇 RECIPE (5-6 serv</title>
-    <updated>2024-03-08T20:31:08+00:00</updated>
-    <content>SWITCHEL aka nature’s Gatorade ⚡️ This drink is SO GOOD! Originating in the 17th in the Caribbean, Switchel or Haymakers Punch is not only a refreshing drink, it’s also great for your gut and heart by including ginger, lemon and vinegar.😇 RECIPE (5-6 serv</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7344092840101711137"/>
-    <published>2024-03-08T20:31:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7344468366016515360</id>
     <title>BOLOGNESE BIANCO 🍝 Werbung/Ad Du magst Bolo? Dann probier mal diese Version!😋 Besonders gut wird sie mit dem neuen Bolognese-spice von @soul-spice.com , das gibt’s momentan im Bundle mit 4 weiteren neuen Gewürzen 10% reduziert und mit „Maya5“ könnt ihr im</title>
@@ -91,5 +83,13 @@
     <content>VEGAN MAYO🌱 This vegan Mayo is 100% foolproof, made in 2mins and tastes better than the store bought mayo.🤗 And you can customize it by adding different spices.🤓 RECIPE (2 jars, 2min prep time): -water of a can of chickpeas (about 1/2cup {125ml}) -1 Tbsp </content>
     <link href="https://tiktok.com/@fitgreenmind/video/7348536632653434145"/>
     <published>2024-03-20T19:55:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7348909538092829984</id>
+    <title>MISO SESAME DRESSING 🥗  This dressing will turn any salad into a highlight! I mixed it with roasted broccoli and lots of fresh herbs.😮‍💨 RECIPE (3 serving, 30mins prep time): -1 head of broccoli Cut in florets, mix with oil and salt, bake at 180C/360F for</title>
+    <updated>2024-03-21T20:02:24+00:00</updated>
+    <content>MISO SESAME DRESSING 🥗  This dressing will turn any salad into a highlight! I mixed it with roasted broccoli and lots of fresh herbs.😮‍💨 RECIPE (3 serving, 30mins prep time): -1 head of broccoli Cut in florets, mix with oil and salt, bake at 180C/360F for</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7348909538092829984"/>
+    <published>2024-03-21T20:02:24+00:00</published>
   </entry>
 </feed>

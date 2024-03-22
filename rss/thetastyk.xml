@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-03-14T01:04:41+00:00</updated>
+  <updated>2024-03-21T17:35:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7340841095732956449</id>
-    <title>Starting my days with a #plantbased breaky 🌱 that’s both high in protein AND fiber has been a game-changer in terms of overall energy, reduced cravings throughout the day and healthy digestion! 🙌🏼 I usually go through phases of alternating between sweet &amp;</title>
-    <updated>2024-02-29T02:13:34+00:00</updated>
-    <content>Starting my days with a #plantbased breaky 🌱 that’s both high in protein AND fiber has been a game-changer in terms of overall energy, reduced cravings throughout the day and healthy digestion! 🙌🏼 I usually go through phases of alternating between sweet &amp;</content>
-    <link href="https://tiktok.com/@thetastyk/video/7340841095732956449"/>
-    <published>2024-02-29T02:13:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7341070283425484065</id>
     <title>Restaurant-style salad at home? No problem! #ad 😍 This @California Pizza Kitchen Copycat Thai Crunch Salad is a keeper — it’s perfectly crunchy, full of protein &amp; takes only 20 mins to make! @The Feedfeed  • INGREDIENTS • (serves: 2-3) Marinated tempeh (o</title>
@@ -67,6 +59,14 @@
     <content>HOMEMADE SPROUTS 🌿 so easy to make, super nutritious (to put on sandwiches or salads) &amp; for a fraction of the supermarket price! Never ever going back to store-bought! 🤩 • INGREDIENTS • Jar with mesh lid 1 Tbsp sprout seeds (I love broccoli, alfalfa, mung</content>
     <link href="https://tiktok.com/@thetastyk/video/7346018588630830368"/>
     <published>2024-03-14T01:04:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7348871606783003937</id>
+    <title>HERBY BEETROOT SALAD 🩷🌿 this must be one of my favorite ways to eat beets! Pickled beetroot used to be a staple while growing up and this refreshing salad combines all the best of flavors + nutrition 😍 • INGREDIENTS • 6 medium cooked beets 1 medium red on</title>
+    <updated>2024-03-21T17:35:13+00:00</updated>
+    <content>HERBY BEETROOT SALAD 🩷🌿 this must be one of my favorite ways to eat beets! Pickled beetroot used to be a staple while growing up and this refreshing salad combines all the best of flavors + nutrition 😍 • INGREDIENTS • 6 medium cooked beets 1 medium red on</content>
+    <link href="https://tiktok.com/@thetastyk/video/7348871606783003937"/>
+    <published>2024-03-21T17:35:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>
