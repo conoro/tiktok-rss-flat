@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-21T20:02:24+00:00</updated>
+  <updated>2024-03-23T20:42:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7344468366016515360</id>
-    <title>BOLOGNESE BIANCO 🍝 Werbung/Ad Du magst Bolo? Dann probier mal diese Version!😋 Besonders gut wird sie mit dem neuen Bolognese-spice von @soul-spice.com , das gibt’s momentan im Bundle mit 4 weiteren neuen Gewürzen 10% reduziert und mit „Maya5“ könnt ihr im</title>
-    <updated>2024-03-09T20:48:24+00:00</updated>
-    <content>BOLOGNESE BIANCO 🍝 Werbung/Ad Du magst Bolo? Dann probier mal diese Version!😋 Besonders gut wird sie mit dem neuen Bolognese-spice von @soul-spice.com , das gibt’s momentan im Bundle mit 4 weiteren neuen Gewürzen 10% reduziert und mit „Maya5“ könnt ihr im</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7344468366016515360"/>
-    <published>2024-03-09T20:48:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7344835254290533665</id>
     <title>2-INGREDIENT CHOCOLATE MOUSSE 🍫 Werbung/Ad This mousse is one of the EASIEST things you can make, yet it’s so delicious with a rich chocolate flavor!😋 My organic coconut milk is from @koro where you can save 5% with “fitgreenmind”.🫶 RECIPE (6 servings, 15</title>
@@ -91,5 +83,13 @@
     <content>MISO SESAME DRESSING 🥗  This dressing will turn any salad into a highlight! I mixed it with roasted broccoli and lots of fresh herbs.😮‍💨 RECIPE (3 serving, 30mins prep time): -1 head of broccoli Cut in florets, mix with oil and salt, bake at 180C/360F for</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7348909538092829984"/>
     <published>2024-03-21T20:02:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7349662112505007393</id>
+    <title>STOVE TOP APPLE CAKE 🍰  Making a cake without an oven? Yep, it works and it’s super delicious! 😋  RECIPE (23cm diameter nonstick pan): -90g flour -10g corn starch -50g sugar Stir -1 Tsp baking powder -30g oil -85ml plant milk -a squeeze of lemon -cinnamon</title>
+    <updated>2024-03-23T20:42:47+00:00</updated>
+    <content>STOVE TOP APPLE CAKE 🍰  Making a cake without an oven? Yep, it works and it’s super delicious! 😋  RECIPE (23cm diameter nonstick pan): -90g flour -10g corn starch -50g sugar Stir -1 Tsp baking powder -30g oil -85ml plant milk -a squeeze of lemon -cinnamon</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7349662112505007393"/>
+    <published>2024-03-23T20:42:47+00:00</published>
   </entry>
 </feed>

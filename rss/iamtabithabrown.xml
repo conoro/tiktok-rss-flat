@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-03-23T06:44:12+00:00</updated>
+  <updated>2024-03-23T20:24:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7343147844418702634</id>
-    <title>Tonight’s dinner I made my favorite raw tacos aka pecan lettuce wraps!  I had my friend try it and her mind was blown🤯. I think she likes em😂 #tabithabrown #vegan #plantbased #tacos </title>
-    <updated>2024-03-06T07:24:17+00:00</updated>
-    <content>Tonight’s dinner I made my favorite raw tacos aka pecan lettuce wraps!  I had my friend try it and her mind was blown🤯. I think she likes em😂 #tabithabrown #vegan #plantbased #tacos </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7343147844418702634"/>
-    <published>2024-03-06T07:24:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7343496151095725355</id>
     <title>Late night TSA:  I’m not sure who this is for, but baby you got to do it on your own❤️ and you know exactly what I’m talking about❤️. I love you!  #spreadlove #tabithabrown </title>
@@ -91,5 +83,13 @@
     <content>Smoothie with a message ❤️ #spreadlove #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7349445830614535470"/>
     <published>2024-03-23T06:44:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7349657401382964522</id>
+    <title>Ok so here is how I got Donna’s look yesterday❤️. A good old @Donna’s Recipe twist out❤️ #tabithabrown #naturalhair #twistout </title>
+    <updated>2024-03-23T20:24:45+00:00</updated>
+    <content>Ok so here is how I got Donna’s look yesterday❤️. A good old @Donna’s Recipe twist out❤️ #tabithabrown #naturalhair #twistout </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7349657401382964522"/>
+    <published>2024-03-23T20:24:45+00:00</published>
   </entry>
 </feed>
