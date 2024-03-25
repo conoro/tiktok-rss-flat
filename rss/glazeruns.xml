@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-03-22T22:17:01+00:00</updated>
+  <updated>2024-03-24T18:07:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7347505690686098734</id>
-    <title>It's always great to set a World Record. Smile, or you're doing it wrong. . #runtok #lamarathon </title>
-    <updated>2024-03-18T01:15:04+00:00</updated>
-    <content>It's always great to set a World Record. Smile, or you're doing it wrong. . #runtok #lamarathon </content>
-    <link href="https://tiktok.com/@glazeruns/video/7347505690686098734"/>
-    <published>2024-03-18T01:15:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7347520023772089643</id>
     <title>Fun time in the Prime suit . #runtok #lamarathon </title>
@@ -67,6 +59,14 @@
     <content>62 miles/100km That sock blow out caused a side blister that hurt. I had to clean it and put some kt tape on it so I could run the LA Marathon a few hours later. #runtok #ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7349315246315621675"/>
     <published>2024-03-22T22:17:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7349993105019522346</id>
+    <title>Haters will say it's AI #runtok </title>
+    <updated>2024-03-24T18:07:32+00:00</updated>
+    <content>Haters will say it's AI #runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7349993105019522346"/>
+    <published>2024-03-24T18:07:32+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>

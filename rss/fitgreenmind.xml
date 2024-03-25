@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-23T20:42:47+00:00</updated>
+  <updated>2024-03-24T20:53:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7344835254290533665</id>
-    <title>2-INGREDIENT CHOCOLATE MOUSSE 🍫 Werbung/Ad This mousse is one of the EASIEST things you can make, yet it’s so delicious with a rich chocolate flavor!😋 My organic coconut milk is from @koro where you can save 5% with “fitgreenmind”.🫶 RECIPE (6 servings, 15</title>
-    <updated>2024-03-10T20:32:06+00:00</updated>
-    <content>2-INGREDIENT CHOCOLATE MOUSSE 🍫 Werbung/Ad This mousse is one of the EASIEST things you can make, yet it’s so delicious with a rich chocolate flavor!😋 My organic coconut milk is from @koro where you can save 5% with “fitgreenmind”.🫶 RECIPE (6 servings, 15</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7344835254290533665"/>
-    <published>2024-03-10T20:32:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7345211669246709025</id>
     <title>LAZY PASTA 🍝  I think boiling pasta doesn’t count as “cooking”!😼 RECIPE (1 serving, 20min prep time): -165g cherry tomatoes -1 small onion, sliced -1 Tsp dried Italian herbs -salt to taste -olive oil to drizzle -1 Tbsp balsamic vinegar  -1 Tbsp vegan crea</title>
@@ -91,5 +83,13 @@
     <content>STOVE TOP APPLE CAKE 🍰  Making a cake without an oven? Yep, it works and it’s super delicious! 😋  RECIPE (23cm diameter nonstick pan): -90g flour -10g corn starch -50g sugar Stir -1 Tsp baking powder -30g oil -85ml plant milk -a squeeze of lemon -cinnamon</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7349662112505007393"/>
     <published>2024-03-23T20:42:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7350035887289355553</id>
+    <title>TORTELLINI SOUP 🍲  Aka the soup that makes you feel like home! 🫶😊 RECIPE (1 serving, 45min prep time): -1 small carrot -1 clove garlic  -1 small onion -a spring of thyme -a spring of rosemary Roughly chop and sauté in some oil. -625ml veg stock -a pinch o</title>
+    <updated>2024-03-24T20:53:14+00:00</updated>
+    <content>TORTELLINI SOUP 🍲  Aka the soup that makes you feel like home! 🫶😊 RECIPE (1 serving, 45min prep time): -1 small carrot -1 clove garlic  -1 small onion -a spring of thyme -a spring of rosemary Roughly chop and sauté in some oil. -625ml veg stock -a pinch o</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7350035887289355553"/>
+    <published>2024-03-24T20:53:14+00:00</published>
   </entry>
 </feed>
