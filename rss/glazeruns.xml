@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-03-24T18:07:32+00:00</updated>
+  <updated>2024-03-26T18:26:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7347520023772089643</id>
-    <title>Fun time in the Prime suit . #runtok #lamarathon </title>
-    <updated>2024-03-18T02:10:44+00:00</updated>
-    <content>Fun time in the Prime suit . #runtok #lamarathon </content>
-    <link href="https://tiktok.com/@glazeruns/video/7347520023772089643"/>
-    <published>2024-03-18T02:10:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7347856106670148910</id>
     <title>Warmup race for the LA Marathon the next day. Ran 12 hours around Joshua Tree, drove home, ate half a pizza, slept 2 hours, drove to Los Angeles, and ran the LA Marathon in the Prime suit. The perfect weekend. Smile, or you're doing it wrong. . #runtok #u</title>
@@ -67,6 +59,14 @@
     <content>Haters will say it's AI #runtok </content>
     <link href="https://tiktok.com/@glazeruns/video/7349993105019522346"/>
     <published>2024-03-24T18:07:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7350740127095819563</id>
+    <title>Suicide &amp; Crisis Lifeline - 988 The national suicide hotline. Not first responder specific, but they can talk to anyone who needs help. Safe Call Now - 1-206-459-3020 A 24/7 help line staffed by first responders for first responders and their family membe</title>
+    <updated>2024-03-26T18:26:10+00:00</updated>
+    <content>Suicide &amp; Crisis Lifeline - 988 The national suicide hotline. Not first responder specific, but they can talk to anyone who needs help. Safe Call Now - 1-206-459-3020 A 24/7 help line staffed by first responders for first responders and their family membe</content>
+    <link href="https://tiktok.com/@glazeruns/video/7350740127095819563"/>
+    <published>2024-03-26T18:26:10+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
