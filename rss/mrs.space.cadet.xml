@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-03-22T00:29:17+00:00</updated>
+  <updated>2024-03-26T00:26:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7341160493069143342</id>
-    <title>It appears I need some BALANCE. I wasn’t getting enough running in while I was focusing on strength workouts so the next goal is to create some balance! Is anyone else all or nothing?! 😩 Luckily my legs felt so strong I’m actually looking forward to my ne</title>
-    <updated>2024-02-29T22:52:16+00:00</updated>
-    <content>It appears I need some BALANCE. I wasn’t getting enough running in while I was focusing on strength workouts so the next goal is to create some balance! Is anyone else all or nothing?! 😩 Luckily my legs felt so strong I’m actually looking forward to my ne</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7341160493069143342"/>
-    <published>2024-02-29T22:52:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7343354224773729578</id>
     <title>36! That’s the number of new product innovations that @lululemon put into these race kits based on research performed on women athletes. The race kits are just one of MANY details of the FURTHER event, allowing these ten ultra runners to go further than t</title>
@@ -91,5 +83,13 @@
     <content>My answers used to be 1) yes 2) bad 3) bad, but now my answer to the third question is GOOD. It took a while to reframe my thoughts about running and I’m curious where you’re at 👀 #running #gymclass #questions </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7348978291518295339"/>
     <published>2024-03-22T00:29:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7350461896480329002</id>
+    <title>It’s like all the practical tips I’ve learned over the years escape me and I’m left to my own devices which is never good. Do you have any struggle run tips to share?  #runners #oops #protip #motherrunner #strugglerunner </title>
+    <updated>2024-03-26T00:26:35+00:00</updated>
+    <content>It’s like all the practical tips I’ve learned over the years escape me and I’m left to my own devices which is never good. Do you have any struggle run tips to share?  #runners #oops #protip #motherrunner #strugglerunner </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7350461896480329002"/>
+    <published>2024-03-26T00:26:35+00:00</published>
   </entry>
 </feed>

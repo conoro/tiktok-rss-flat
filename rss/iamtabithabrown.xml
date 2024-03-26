@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-03-24T21:14:17+00:00</updated>
+  <updated>2024-03-25T21:00:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7345606292066635050</id>
-    <title>Hey family, spring is almost here but until then let’s get into this super easy, one-pot Butternut squash curry soup! Baaabbyy when I say it’s very good, I mean VERY GOOD!! Be sure to check out all of my @McCormick Spice seasonings and create this recipe </title>
-    <updated>2024-03-12T22:24:32+00:00</updated>
-    <content>Hey family, spring is almost here but until then let’s get into this super easy, one-pot Butternut squash curry soup! Baaabbyy when I say it’s very good, I mean VERY GOOD!! Be sure to check out all of my @McCormick Spice seasonings and create this recipe </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7345606292066635050"/>
-    <published>2024-03-12T22:24:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7346060104258637102</id>
     <title>Oh dear Katherine😩. When did it begin😩. I mean I ain’t mad about, I just wanted to know how I missed it😩 #womanhood #perimenopause #tabithabrown </title>
@@ -91,5 +83,13 @@
     <content>My bad 🤦🏾‍♀️ but yes I do have a cookbook❤️. Thank you for asking ❤️ #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7350041260951883051"/>
     <published>2024-03-24T21:14:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7350408892523793706</id>
+    <title>Us women have to stick together against Peri😩 IYKYK Laaawwdddd Peri be so disrespectful 😩 Last week I was on the red carpet being interviewed by @tanishalavernegrant and Peri tried to take over😩. I was prepared tho and blessed my sis with a fan ❤️. #perim</title>
+    <updated>2024-03-25T21:00:51+00:00</updated>
+    <content>Us women have to stick together against Peri😩 IYKYK Laaawwdddd Peri be so disrespectful 😩 Last week I was on the red carpet being interviewed by @tanishalavernegrant and Peri tried to take over😩. I was prepared tho and blessed my sis with a fan ❤️. #perim</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7350408892523793706"/>
+    <published>2024-03-25T21:00:51+00:00</published>
   </entry>
 </feed>

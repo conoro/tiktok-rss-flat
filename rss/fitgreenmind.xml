@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-24T20:53:14+00:00</updated>
+  <updated>2024-03-25T22:41:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7345211669246709025</id>
-    <title>LAZY PASTA 🍝  I think boiling pasta doesn’t count as “cooking”!😼 RECIPE (1 serving, 20min prep time): -165g cherry tomatoes -1 small onion, sliced -1 Tsp dried Italian herbs -salt to taste -olive oil to drizzle -1 Tbsp balsamic vinegar  -1 Tbsp vegan crea</title>
-    <updated>2024-03-11T20:52:47+00:00</updated>
-    <content>LAZY PASTA 🍝  I think boiling pasta doesn’t count as “cooking”!😼 RECIPE (1 serving, 20min prep time): -165g cherry tomatoes -1 small onion, sliced -1 Tsp dried Italian herbs -salt to taste -olive oil to drizzle -1 Tbsp balsamic vinegar  -1 Tbsp vegan crea</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7345211669246709025"/>
-    <published>2024-03-11T20:52:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7345583058403249440</id>
     <title>CHICKPEA SANDWICH 🥪  A great sandwich can make your day better!🤭 RECIPE (2 servings, 15min prep time): Chickpea smash: -1 can (220g) cooked chickpeas -1 small onion, chopped -1 bunch parsley, chopped -1 Tbsp tahini -juice of 1/2 lemon -1 Tbsp maple syrup </title>
@@ -91,5 +83,13 @@
     <content>TORTELLINI SOUP 🍲  Aka the soup that makes you feel like home! 🫶😊 RECIPE (1 serving, 45min prep time): -1 small carrot -1 clove garlic  -1 small onion -a spring of thyme -a spring of rosemary Roughly chop and sauté in some oil. -625ml veg stock -a pinch o</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7350035887289355553"/>
     <published>2024-03-24T20:53:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7350434904997465377</id>
+    <title>MUSHROOM STEAK 👨‍🍳 Werbung/Ad Mushrooms are full of umami, so perfect to be prepared like a steak.😜 I get many staples like soy sauce or maple syrup from @KoRo where you can use „fitgreenmind“ for 5% off. 🥳 RECIPE (2 servings, 15min prep time): -2 big mus</title>
+    <updated>2024-03-25T22:41:40+00:00</updated>
+    <content>MUSHROOM STEAK 👨‍🍳 Werbung/Ad Mushrooms are full of umami, so perfect to be prepared like a steak.😜 I get many staples like soy sauce or maple syrup from @KoRo where you can use „fitgreenmind“ for 5% off. 🥳 RECIPE (2 servings, 15min prep time): -2 big mus</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7350434904997465377"/>
+    <published>2024-03-25T22:41:40+00:00</published>
   </entry>
 </feed>
