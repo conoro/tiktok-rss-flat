@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-25T22:41:40+00:00</updated>
+  <updated>2024-03-26T21:28:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7345583058403249440</id>
-    <title>CHICKPEA SANDWICH 🥪  A great sandwich can make your day better!🤭 RECIPE (2 servings, 15min prep time): Chickpea smash: -1 can (220g) cooked chickpeas -1 small onion, chopped -1 bunch parsley, chopped -1 Tbsp tahini -juice of 1/2 lemon -1 Tbsp maple syrup </title>
-    <updated>2024-03-12T20:53:57+00:00</updated>
-    <content>CHICKPEA SANDWICH 🥪  A great sandwich can make your day better!🤭 RECIPE (2 servings, 15min prep time): Chickpea smash: -1 can (220g) cooked chickpeas -1 small onion, chopped -1 bunch parsley, chopped -1 Tbsp tahini -juice of 1/2 lemon -1 Tbsp maple syrup </content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7345583058403249440"/>
-    <published>2024-03-12T20:53:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7346322822987386145</id>
     <title>SINGLE SERVE FOCACCIA 😋 I love focaccia but it tastes best fresh, so I made a mini one which is also great for sandwiches! 🥪  RECIPE (1 serving, 3h prep time): -60ml lukewarm water -1 Tsp instant yeast -1/2 Tsp salt -1 Tsp olive oil Mix. -90g flour Stir i</title>
@@ -91,5 +83,13 @@
     <content>MUSHROOM STEAK 👨‍🍳 Werbung/Ad Mushrooms are full of umami, so perfect to be prepared like a steak.😜 I get many staples like soy sauce or maple syrup from @KoRo where you can use „fitgreenmind“ for 5% off. 🥳 RECIPE (2 servings, 15min prep time): -2 big mus</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7350434904997465377"/>
     <published>2024-03-25T22:41:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7350787225216404769</id>
+    <title>MEATLESS MEATBALLS 🔥 If you don’t know how to flavor your tofu right… try this recipe!😌 🥶The meat(less)balls can be stored after baking in the freezer up to 3 months. RECIPE (3 servings, 25min prep time): -1 block (200g) firm tofu, crumbled -1 small, fine</title>
+    <updated>2024-03-26T21:28:49+00:00</updated>
+    <content>MEATLESS MEATBALLS 🔥 If you don’t know how to flavor your tofu right… try this recipe!😌 🥶The meat(less)balls can be stored after baking in the freezer up to 3 months. RECIPE (3 servings, 25min prep time): -1 block (200g) firm tofu, crumbled -1 small, fine</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7350787225216404769"/>
+    <published>2024-03-26T21:28:49+00:00</published>
   </entry>
 </feed>
