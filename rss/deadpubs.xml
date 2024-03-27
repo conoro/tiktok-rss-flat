@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@deadpubs</id>
   <title>deadpubs TikTok</title>
-  <updated>2024-03-20T19:32:52+00:00</updated>
+  <updated>2024-03-27T13:07:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from deadpubs</subtitle>
-  <entry>
-    <id>https://tiktok.com/@deadpubs/video/7322094397779103008</id>
-    <title>A Swift One at… Rose’s, SE18 6NE #deadpubs #pubtok #pubreview #pubreviews #londonpub #pubculture #londondeadpubs #review #londonpubs #london #pubs #woolwich </title>
-    <updated>2024-01-09T13:46:01+00:00</updated>
-    <content>A Swift One at… Rose’s, SE18 6NE #deadpubs #pubtok #pubreview #pubreviews #londonpub #pubculture #londondeadpubs #review #londonpubs #london #pubs #woolwich </content>
-    <link href="https://tiktok.com/@deadpubs/video/7322094397779103008"/>
-    <published>2024-01-09T13:46:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@deadpubs/video/7325031527140658464</id>
     <title>A Swift One at… The King’s Head, N4 2DR #properpub #finsburypark #londonpubs #london #pubtok #pubs #review #pubculture #londondeadpubs #pubreviews #londonpub #deadpubs #pubreview </title>
@@ -91,5 +83,13 @@
     <content>A Swift One at… The Shakespeare’s Head, EC1R 1XA. #deadpubs #london #londonpub #pubculture #review #englishpub #pubs #theatre #england #fypシ </content>
     <link href="https://tiktok.com/@deadpubs/video/7348530836184124704"/>
     <published>2024-03-20T19:32:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7351029079145073952</id>
+    <title>A Swift One at… The Shamrock Sports &amp; Social, W3 0BP. #pubs #london #londonlife #deadpubs #acton #englandtiktok #alcohol </title>
+    <updated>2024-03-27T13:07:21+00:00</updated>
+    <content>A Swift One at… The Shamrock Sports &amp; Social, W3 0BP. #pubs #london #londonlife #deadpubs #acton #englandtiktok #alcohol </content>
+    <link href="https://tiktok.com/@deadpubs/video/7351029079145073952"/>
+    <published>2024-03-27T13:07:21+00:00</published>
   </entry>
 </feed>
