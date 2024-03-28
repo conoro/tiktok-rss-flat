@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-03-26T20:24:57+00:00</updated>
+  <updated>2024-03-27T23:06:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7347012922264096042</id>
-    <title>Apparently Saturdsys are just for cuddles and relaxing 😂. Clearly Blacky Brown is not ready for the day yet 😂❤️ #happysaturday #dogsoftiktok #blackybrown #tabithabrown #fyp</title>
-    <updated>2024-03-16T17:22:59+00:00</updated>
-    <content>Apparently Saturdsys are just for cuddles and relaxing 😂. Clearly Blacky Brown is not ready for the day yet 😂❤️ #happysaturday #dogsoftiktok #blackybrown #tabithabrown #fyp</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7347012922264096042"/>
-    <published>2024-03-16T17:22:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7347189364104891690</id>
     <title>It was your confirmation ❤️. Love you! #spreadlove #tabithabrown </title>
@@ -91,5 +83,13 @@
     <content>Afternoon TSA: Are we being consistent in the right way? #spreadlove #tabithabrown #consistent </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7350770718197419307"/>
     <published>2024-03-26T20:24:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7351183514085182763</id>
+    <title>Thank you!!! Thank you!!!!! Thank you for all your continued support 🥹🙏🏾!!!! Family my food and beverage collection is returning to @target permanently starting next month and it’s all because of you!!! Some of your favorites will be back but I also have </title>
+    <updated>2024-03-27T23:06:54+00:00</updated>
+    <content>Thank you!!! Thank you!!!!! Thank you for all your continued support 🥹🙏🏾!!!! Family my food and beverage collection is returning to @target permanently starting next month and it’s all because of you!!! Some of your favorites will be back but I also have </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7351183514085182763"/>
+    <published>2024-03-27T23:06:54+00:00</published>
   </entry>
 </feed>
