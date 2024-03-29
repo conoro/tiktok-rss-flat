@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-03-27T23:06:54+00:00</updated>
+  <updated>2024-03-28T23:46:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7347189364104891690</id>
-    <title>It was your confirmation ❤️. Love you! #spreadlove #tabithabrown </title>
-    <updated>2024-03-17T04:47:34+00:00</updated>
-    <content>It was your confirmation ❤️. Love you! #spreadlove #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7347189364104891690"/>
-    <published>2024-03-17T04:47:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7348510132382240043</id>
     <title>New snack alert thats causing problems in my house lol. Have yall tried these before?? #snacks #tabithabrown #vegan #foodie </title>
@@ -91,5 +83,13 @@
     <content>Thank you!!! Thank you!!!!! Thank you for all your continued support 🥹🙏🏾!!!! Family my food and beverage collection is returning to @target permanently starting next month and it’s all because of you!!! Some of your favorites will be back but I also have </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7351183514085182763"/>
     <published>2024-03-27T23:06:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7351564803099348266</id>
+    <title>Here’s a fun and delicious way to hide the veggies from your family 🤫 #tabithabrown #tacos #vegan #veggie #plantbased #recipes </title>
+    <updated>2024-03-28T23:46:29+00:00</updated>
+    <content>Here’s a fun and delicious way to hide the veggies from your family 🤫 #tabithabrown #tacos #vegan #veggie #plantbased #recipes </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7351564803099348266"/>
+    <published>2024-03-28T23:46:29+00:00</published>
   </entry>
 </feed>

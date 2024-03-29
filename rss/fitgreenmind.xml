@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-26T21:28:49+00:00</updated>
+  <updated>2024-03-28T21:47:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7346322822987386145</id>
-    <title>SINGLE SERVE FOCACCIA 😋 I love focaccia but it tastes best fresh, so I made a mini one which is also great for sandwiches! 🥪  RECIPE (1 serving, 3h prep time): -60ml lukewarm water -1 Tsp instant yeast -1/2 Tsp salt -1 Tsp olive oil Mix. -90g flour Stir i</title>
-    <updated>2024-03-14T20:44:40+00:00</updated>
-    <content>SINGLE SERVE FOCACCIA 😋 I love focaccia but it tastes best fresh, so I made a mini one which is also great for sandwiches! 🥪  RECIPE (1 serving, 3h prep time): -60ml lukewarm water -1 Tsp instant yeast -1/2 Tsp salt -1 Tsp olive oil Mix. -90g flour Stir i</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7346322822987386145"/>
-    <published>2024-03-14T20:44:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7346699371167206688</id>
     <title>APPLE CRISP BREAKFAST 🍎  New go-to breakfast unlocked!🔓 The original recipe is by @leaheverecipes and it’s AMAZEBALLS.🤭 Much love  Maya ✨ RECIPE (1 serving, 10min prep time): -1 apple, sliced -1 Tbsp oil (I used coconut oil) -1 Tbsp maple syrup -a dash of</title>
@@ -91,5 +83,13 @@
     <content>MEATLESS MEATBALLS 🔥 If you don’t know how to flavor your tofu right… try this recipe!😌 🥶The meat(less)balls can be stored after baking in the freezer up to 3 months. RECIPE (3 servings, 25min prep time): -1 block (200g) firm tofu, crumbled -1 small, fine</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7350787225216404769"/>
     <published>2024-03-26T21:28:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7351534190099205409</id>
+    <title>15min SUNDRIED TOMATO PASTA 🍝  Too lazy to cook? Then make this pasta! I also like serving it with veggies and tempeh to make it a complete meal.😋 RECIPE (1 serving, 15min prep time): -1 serving of pasta  Cook al dente and save some pasta water. -65g sun </title>
+    <updated>2024-03-28T21:47:24+00:00</updated>
+    <content>15min SUNDRIED TOMATO PASTA 🍝  Too lazy to cook? Then make this pasta! I also like serving it with veggies and tempeh to make it a complete meal.😋 RECIPE (1 serving, 15min prep time): -1 serving of pasta  Cook al dente and save some pasta water. -65g sun </content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7351534190099205409"/>
+    <published>2024-03-28T21:47:24+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-03-26T00:26:35+00:00</updated>
+  <updated>2024-03-28T23:57:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7343354224773729578</id>
-    <title>36! That’s the number of new product innovations that @lululemon put into these race kits based on research performed on women athletes. The race kits are just one of MANY details of the FURTHER event, allowing these ten ultra runners to go further than t</title>
-    <updated>2024-03-06T20:45:22+00:00</updated>
-    <content>36! That’s the number of new product innovations that @lululemon put into these race kits based on research performed on women athletes. The race kits are just one of MANY details of the FURTHER event, allowing these ten ultra runners to go further than t</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7343354224773729578"/>
-    <published>2024-03-06T20:45:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7344091360674336043</id>
     <title>Happy International Women’s Day! I was thrilled to be at @lululemon’s Further feat surrounded by fabulous, supportive, smart as heck women. Some of the runners are already breaking records and it’s only day 3 of 6! AND I got to meet one of the amazing hum</title>
@@ -91,5 +83,13 @@
     <content>It’s like all the practical tips I’ve learned over the years escape me and I’m left to my own devices which is never good. Do you have any struggle run tips to share?  #runners #oops #protip #motherrunner #strugglerunner </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7350461896480329002"/>
     <published>2024-03-26T00:26:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7351567702214970667</id>
+    <title>*The pieces of lint flying around are paid actors*  Who else is trying to find balance?? This is a theme in many areas of my life lately 😮‍💨 #running #runningmotivation #startingover </title>
+    <updated>2024-03-28T23:57:53+00:00</updated>
+    <content>*The pieces of lint flying around are paid actors*  Who else is trying to find balance?? This is a theme in many areas of my life lately 😮‍💨 #running #runningmotivation #startingover </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7351567702214970667"/>
+    <published>2024-03-28T23:57:53+00:00</published>
   </entry>
 </feed>
