@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2024-02-22T17:00:20+00:00</updated>
+  <updated>2024-03-31T00:00:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7260637123064237355</id>
-    <title>“Let’s replace all of our employees with A.I.” #bgcdramaeffect  #fyp #work #AI </title>
-    <updated>2023-07-27T23:00:27+00:00</updated>
-    <content>“Let’s replace all of our employees with A.I.” #bgcdramaeffect  #fyp #work #AI </content>
-    <link href="https://tiktok.com/@scottseiss/video/7260637123064237355"/>
-    <published>2023-07-27T23:00:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7263977268052053290</id>
     <title>H&amp;M purse pooper 👜👀 Come see me in MD, MI, &amp; Buffalo, NY! Link in bio for tickets 🎟️ #work #comedу #retail #standup </title>
@@ -75,6 +67,14 @@
     <content>I wrote a book! 😁 Preorder the physical copy or audiobook (read by me) now #comedy #book #work #books #booktok #fyp </content>
     <link href="https://tiktok.com/@scottseiss/video/7338472212275432750"/>
     <published>2024-02-22T17:00:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7352310530645708074</id>
+    <title>Chicago! I’m doing 2 shows on April 13 at The Den Theatre 😁 Come on out! #Chicago #comedy #standup </title>
+    <updated>2024-03-31T00:00:19+00:00</updated>
+    <content>Chicago! I’m doing 2 shows on April 13 at The Den Theatre 😁 Come on out! #Chicago #comedy #standup </content>
+    <link href="https://tiktok.com/@scottseiss/video/7352310530645708074"/>
+    <published>2024-03-31T00:00:19+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7081294899366202666</id>
