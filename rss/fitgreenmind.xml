@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-03-28T21:47:24+00:00</updated>
+  <updated>2024-04-02T19:51:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7346699371167206688</id>
-    <title>APPLE CRISP BREAKFAST 🍎  New go-to breakfast unlocked!🔓 The original recipe is by @leaheverecipes and it’s AMAZEBALLS.🤭 Much love  Maya ✨ RECIPE (1 serving, 10min prep time): -1 apple, sliced -1 Tbsp oil (I used coconut oil) -1 Tbsp maple syrup -a dash of</title>
-    <updated>2024-03-15T21:05:51+00:00</updated>
-    <content>APPLE CRISP BREAKFAST 🍎  New go-to breakfast unlocked!🔓 The original recipe is by @leaheverecipes and it’s AMAZEBALLS.🤭 Much love  Maya ✨ RECIPE (1 serving, 10min prep time): -1 apple, sliced -1 Tbsp oil (I used coconut oil) -1 Tbsp maple syrup -a dash of</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7346699371167206688"/>
-    <published>2024-03-15T21:05:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7347061772018273569</id>
     <title>FRÜHSTÜCKSTACO mit ohne Ei 🌮 Werbung/Ad Ein perfektes Sonntagsfrühstück oder? 😉 Besonders gut wird es mit dem neuen Rührei-spice von @soul-spice.com , das gibt’s momentan im Bundle mit 4 weiteren neuen Gewürzen 10% reduziert und mit „Maya5“ könnt ihr imme</title>
@@ -91,5 +83,13 @@
     <content>15min SUNDRIED TOMATO PASTA 🍝  Too lazy to cook? Then make this pasta! I also like serving it with veggies and tempeh to make it a complete meal.😋 RECIPE (1 serving, 15min prep time): -1 serving of pasta  Cook al dente and save some pasta water. -65g sun </content>
     <link href="https://tiktok.com/@fitgreenmind/video/7351534190099205409"/>
     <published>2024-03-28T21:47:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7353359832008707360</id>
+    <title>LAZY MUSHROOM PASTA 🍝  Inspired by @dr.vegan, super easy and super delicious! 😋  RECIPE (1 serving, 20min prep time): -150g mushrooms, sliced -1 small onion, sliced -a spring of thyme -1 Tsp paprika -salt to taste Mix with a drizzle of oil. -1 big Tbsp ve</title>
+    <updated>2024-04-02T19:51:47+00:00</updated>
+    <content>LAZY MUSHROOM PASTA 🍝  Inspired by @dr.vegan, super easy and super delicious! 😋  RECIPE (1 serving, 20min prep time): -150g mushrooms, sliced -1 small onion, sliced -a spring of thyme -1 Tsp paprika -salt to taste Mix with a drizzle of oil. -1 big Tbsp ve</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7353359832008707360"/>
+    <published>2024-04-02T19:51:47+00:00</published>
   </entry>
 </feed>

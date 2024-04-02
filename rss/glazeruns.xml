@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-04-01T10:54:59+00:00</updated>
+  <updated>2024-04-02T17:00:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7349993105019522346</id>
-    <title>Haters will say it's AI #runtok </title>
-    <updated>2024-03-24T18:07:32+00:00</updated>
-    <content>Haters will say it's AI #runtok </content>
-    <link href="https://tiktok.com/@glazeruns/video/7349993105019522346"/>
-    <published>2024-03-24T18:07:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7350740127095819563</id>
     <title>Suicide &amp; Crisis Lifeline - 988 The national suicide hotline. Not first responder specific, but they can talk to anyone who needs help. Safe Call Now - 1-206-459-3020 A 24/7 help line staffed by first responders for first responders and their family membe</title>
@@ -67,6 +59,14 @@
     <content>Thanks for all the support over the past 4 years. Over 30,000 miles run. So many highs and lows. But all good things must come to an end. Happy April Fools Day. #runtok #runstreak #ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7352849976071900462"/>
     <published>2024-04-01T10:54:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7353315711713807662</id>
+    <title>Low mileage month, but I'm happy with everything I accomplished. My racing season is getting ready to start, and I'll have plenty of opportunities to make up some miles. Besides working a ton, I raised money for @llsusa and flew to Seattle for the @firefi</title>
+    <updated>2024-04-02T17:00:43+00:00</updated>
+    <content>Low mileage month, but I'm happy with everything I accomplished. My racing season is getting ready to start, and I'll have plenty of opportunities to make up some miles. Besides working a ton, I raised money for @llsusa and flew to Seattle for the @firefi</content>
+    <link href="https://tiktok.com/@glazeruns/video/7353315711713807662"/>
+    <published>2024-04-02T17:00:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
