@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-03-30T00:00:54+00:00</updated>
+  <updated>2024-04-02T00:39:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7344412481957154091</id>
-    <title>You might be wondering what else @lululemon is doing to help these 10 women run the furthest in their careers over 6 days (besides those amazing individualized race kits in my last video), so here are some more examples: 1. Personal chef on site  2. Indiv</title>
-    <updated>2024-03-09T17:11:37+00:00</updated>
-    <content>You might be wondering what else @lululemon is doing to help these 10 women run the furthest in their careers over 6 days (besides those amazing individualized race kits in my last video), so here are some more examples: 1. Personal chef on site  2. Indiv</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7344412481957154091"/>
-    <published>2024-03-09T17:11:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7345218705355328814</id>
     <title>I never regret going for a run, but sometimes the start and middle are less than ideal. Can you feel the cohesion? 🤣 #runningbuddy #runwithme #runmotivation </title>
@@ -91,5 +83,13 @@
     <content>Do you try to hold your breathing in for nature videos during your run or when you’re passing people?! 🤣 #nature #running #5ktraining #run </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7351939605828062507"/>
     <published>2024-03-30T00:00:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7353062731722919210</id>
+    <title>For what?! I love Spring but wooooooow there’s a lot of audacity when it comes to the wind right now. #running #jogging #motherrunner #windyrun </title>
+    <updated>2024-04-02T00:39:01+00:00</updated>
+    <content>For what?! I love Spring but wooooooow there’s a lot of audacity when it comes to the wind right now. #running #jogging #motherrunner #windyrun </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7353062731722919210"/>
+    <published>2024-04-02T00:39:01+00:00</published>
   </entry>
 </feed>

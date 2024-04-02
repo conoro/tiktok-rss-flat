@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-03-29T21:25:04+00:00</updated>
+  <updated>2024-03-21T17:35:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7341070283425484065</id>
+    <title>Restaurant-style salad at home? No problem! #ad 😍 This @California Pizza Kitchen Copycat Thai Crunch Salad is a keeper — it’s perfectly crunchy, full of protein &amp; takes only 20 mins to make! @The Feedfeed  • INGREDIENTS • (serves: 2-3) Marinated tempeh (o</title>
+    <updated>2024-02-29T17:02:03+00:00</updated>
+    <content>Restaurant-style salad at home? No problem! #ad 😍 This @California Pizza Kitchen Copycat Thai Crunch Salad is a keeper — it’s perfectly crunchy, full of protein &amp; takes only 20 mins to make! @The Feedfeed  • INGREDIENTS • (serves: 2-3) Marinated tempeh (o</content>
+    <link href="https://tiktok.com/@thetastyk/video/7341070283425484065"/>
+    <published>2024-02-29T17:02:03+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7344142468033580321</id>
     <title>My favorite go-to dish with over 40g of protein per serving: Roasted Veg with Marinated Tempeh, Brown Rice and the most addictive Miso Peanut Sauce! 🥕🥜🥦🧡 • INGREDIENTS • (serves 4-5) Roasted Veggies: 1 medium red cabbage, sliced 1 medium broccoli head, in</title>
@@ -59,14 +67,6 @@
     <content>HERBY BEETROOT SALAD 🩷🌿 this must be one of my favorite ways to eat beets! Pickled beetroot used to be a staple while growing up and this refreshing salad combines all the best of flavors + nutrition 😍 • INGREDIENTS • 6 medium cooked beets 1 medium red on</content>
     <link href="https://tiktok.com/@thetastyk/video/7348871606783003937"/>
     <published>2024-03-21T17:35:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7351899520218746145</id>
-    <title>Here’s an easy &amp; delicious way to support a healthy lifestyle with this Women’s History Month recipe: AÇAÍ MACA SMOOTHIE 💜 #ad  @SAMBAZON Açaí unsweetened packs not only offer antioxidants and healthy omegas, but they also have 0 grams of sugar and are a </title>
-    <updated>2024-03-29T21:25:04+00:00</updated>
-    <content>Here’s an easy &amp; delicious way to support a healthy lifestyle with this Women’s History Month recipe: AÇAÍ MACA SMOOTHIE 💜 #ad  @SAMBAZON Açaí unsweetened packs not only offer antioxidants and healthy omegas, but they also have 0 grams of sugar and are a </content>
-    <link href="https://tiktok.com/@thetastyk/video/7351899520218746145"/>
-    <published>2024-03-29T21:25:04+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-03-28T23:46:29+00:00</updated>
+  <updated>2024-04-02T02:51:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7348510132382240043</id>
-    <title>New snack alert thats causing problems in my house lol. Have yall tried these before?? #snacks #tabithabrown #vegan #foodie </title>
-    <updated>2024-03-20T18:12:50+00:00</updated>
-    <content>New snack alert thats causing problems in my house lol. Have yall tried these before?? #snacks #tabithabrown #vegan #foodie </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7348510132382240043"/>
-    <published>2024-03-20T18:12:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7348577375329848618</id>
     <title>Shout out to @Mugsys Mad Lab 🎉🎉. I salute you and celebrate you for Women’s history month!!! Keep on going❤️. Yall check her out!! #supportsmallbusiness #tabithabrown </title>
@@ -91,5 +83,13 @@
     <content>Here’s a fun and delicious way to hide the veggies from your family 🤫 #tabithabrown #tacos #vegan #veggie #plantbased #recipes </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7351564803099348266"/>
     <published>2024-03-28T23:46:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7353096952206167338</id>
+    <title>Snakes love frogs😂😂😂 My sister telling us this story about the snakes and frogs in the neighborhood had us crying 😂😂. I love bring back home!! 😂 #countrygirls #northcarolina #tabithabrown </title>
+    <updated>2024-04-02T02:51:49+00:00</updated>
+    <content>Snakes love frogs😂😂😂 My sister telling us this story about the snakes and frogs in the neighborhood had us crying 😂😂. I love bring back home!! 😂 #countrygirls #northcarolina #tabithabrown </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7353096952206167338"/>
+    <published>2024-04-02T02:51:49+00:00</published>
   </entry>
 </feed>
