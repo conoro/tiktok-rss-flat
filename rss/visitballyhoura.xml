@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@visitballyhoura</id>
   <title>visitballyhoura TikTok</title>
-  <updated>2024-03-22T19:29:47+00:00</updated>
+  <updated>2024-04-03T18:58:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from visitballyhoura</subtitle>
-  <entry>
-    <id>https://tiktok.com/@visitballyhoura/video/7294718381150883104</id>
-    <title>Handy tips for longer days in the saddle!  If you're new to Ballyhoura's mountain biking trails, here are a few handy tips on what to bring for the bigger loops (Tech Route 24km, Garrane Route 35km, Castlepook Route 54km). Is there something we've missed?</title>
-    <updated>2023-10-27T19:12:59+00:00</updated>
-    <content>Handy tips for longer days in the saddle!  If you're new to Ballyhoura's mountain biking trails, here are a few handy tips on what to bring for the bigger loops (Tech Route 24km, Garrane Route 35km, Castlepook Route 54km). Is there something we've missed?</content>
-    <link href="https://tiktok.com/@visitballyhoura/video/7294718381150883104"/>
-    <published>2023-10-27T19:12:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7297348831023287585</id>
     <title>Leah Maunsell takes on Toto, one of the new black trails in the Ballyhouras. Leah is the 9 x women's Elite Irish Enduro National Champion 🇮🇪 and the Ballyhouras are her local. Have you tried the new trails yet? Let us know what you think below ⬇️  @Leah @</title>
@@ -83,6 +75,14 @@
     <content>Lough Gur is magical at any time of the day ✨ Come and enjoy breathtaking views of the lake, and don't miss Lough Gur's Easter Craft Fair next Saturday, with a variety of handmade goods from a diverse range of stalls. 📍Lough Gur Lakeshore Park 📅 Sat 30th </content>
     <link href="https://tiktok.com/@visitballyhoura/video/7349272118661614880"/>
     <published>2024-03-22T19:29:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7353717094644485408</id>
+    <title>Spring adventures are calling😎🪻! With longer days and warmer weather here, it's the perfect time explore the beautiful cycling routes in the Ballyhoura region. One of our favourites is the Lough Gur Cycling Loop, also called Kilmallock Route 3, a 62 km (~</title>
+    <updated>2024-04-03T18:58:33+00:00</updated>
+    <content>Spring adventures are calling😎🪻! With longer days and warmer weather here, it's the perfect time explore the beautiful cycling routes in the Ballyhoura region. One of our favourites is the Lough Gur Cycling Loop, also called Kilmallock Route 3, a 62 km (~</content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7353717094644485408"/>
+    <published>2024-04-03T18:58:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7172848461744803078</id>
