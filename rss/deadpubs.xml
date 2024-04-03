@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@deadpubs</id>
   <title>deadpubs TikTok</title>
-  <updated>2024-03-27T13:07:21+00:00</updated>
+  <updated>2024-04-03T07:04:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from deadpubs</subtitle>
-  <entry>
-    <id>https://tiktok.com/@deadpubs/video/7325031527140658464</id>
-    <title>A Swift One at… The King’s Head, N4 2DR #properpub #finsburypark #londonpubs #london #pubtok #pubs #review #pubculture #londondeadpubs #pubreviews #londonpub #deadpubs #pubreview </title>
-    <updated>2024-01-17T11:43:34+00:00</updated>
-    <content>A Swift One at… The King’s Head, N4 2DR #properpub #finsburypark #londonpubs #london #pubtok #pubs #review #pubculture #londondeadpubs #pubreviews #londonpub #deadpubs #pubreview </content>
-    <link href="https://tiktok.com/@deadpubs/video/7325031527140658464"/>
-    <published>2024-01-17T11:43:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@deadpubs/video/7327278435389295904</id>
     <title>A Swift One at… Brewdog Waterloo, SE1 7BH #waterloo #pubreview #londondeadpubs #london #londonpub #pubs #pubtok #pubculture #deadpubs #pints </title>
@@ -91,5 +83,13 @@
     <content>A Swift One at… The Shamrock Sports &amp; Social, W3 0BP. #pubs #london #londonlife #deadpubs #acton #englandtiktok #alcohol </content>
     <link href="https://tiktok.com/@deadpubs/video/7351029079145073952"/>
     <published>2024-03-27T13:07:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7353533192827145505</id>
+    <title>A Swift One at… The Tattershall Castle, SW1A 2HR. #fyp #london #londonlife #centrallondon #pubs #englishpub #foryou #booze </title>
+    <updated>2024-04-03T07:04:48+00:00</updated>
+    <content>A Swift One at… The Tattershall Castle, SW1A 2HR. #fyp #london #londonlife #centrallondon #pubs #englishpub #foryou #booze </content>
+    <link href="https://tiktok.com/@deadpubs/video/7353533192827145505"/>
+    <published>2024-04-03T07:04:48+00:00</published>
   </entry>
 </feed>
