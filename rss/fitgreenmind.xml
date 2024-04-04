@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-04-02T19:51:47+00:00</updated>
+  <updated>2024-04-04T20:12:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7347061772018273569</id>
-    <title>FRÜHSTÜCKSTACO mit ohne Ei 🌮 Werbung/Ad Ein perfektes Sonntagsfrühstück oder? 😉 Besonders gut wird es mit dem neuen Rührei-spice von @soul-spice.com , das gibt’s momentan im Bundle mit 4 weiteren neuen Gewürzen 10% reduziert und mit „Maya5“ könnt ihr imme</title>
-    <updated>2024-03-16T20:32:07+00:00</updated>
-    <content>FRÜHSTÜCKSTACO mit ohne Ei 🌮 Werbung/Ad Ein perfektes Sonntagsfrühstück oder? 😉 Besonders gut wird es mit dem neuen Rührei-spice von @soul-spice.com , das gibt’s momentan im Bundle mit 4 weiteren neuen Gewürzen 10% reduziert und mit „Maya5“ könnt ihr imme</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7347061772018273569"/>
-    <published>2024-03-16T20:32:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7347439821318573344</id>
     <title>MEAL PREP SUNDAY 🧑‍🍳  You can find all detailed recipes on my YouTube channel “fitgreenmind” and here’s what I made 😋: •freezer pancakes, granola, couscous salad •tofu feta, laab style tempeh •quick pickled cucumber and tomatoes •chocolate dates  - MEAL P</title>
@@ -91,5 +83,13 @@
     <content>LAZY MUSHROOM PASTA 🍝  Inspired by @dr.vegan, super easy and super delicious! 😋  RECIPE (1 serving, 20min prep time): -150g mushrooms, sliced -1 small onion, sliced -a spring of thyme -1 Tsp paprika -salt to taste Mix with a drizzle of oil. -1 big Tbsp ve</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7353359832008707360"/>
     <published>2024-04-02T19:51:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7354107426385169697</id>
+    <title>My favorite soy recipes 😇👇 Whipped tofu RECIPE (4 servings, 10min prep time): -250g firm tofu -2 Tsp oil -4 Tsp maple syrup  -juice and zest of 1/2 lemon -1 Tsp vanilla  -2 to 3 Tbsp water Blend until smooth. Use on toast as dip. It’ll last in the fridge </title>
+    <updated>2024-04-04T20:12:52+00:00</updated>
+    <content>My favorite soy recipes 😇👇 Whipped tofu RECIPE (4 servings, 10min prep time): -250g firm tofu -2 Tsp oil -4 Tsp maple syrup  -juice and zest of 1/2 lemon -1 Tsp vanilla  -2 to 3 Tbsp water Blend until smooth. Use on toast as dip. It’ll last in the fridge </content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7354107426385169697"/>
+    <published>2024-04-04T20:12:52+00:00</published>
   </entry>
 </feed>
