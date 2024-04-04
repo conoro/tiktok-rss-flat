@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-04-02T00:39:01+00:00</updated>
+  <updated>2024-04-03T23:32:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7345218705355328814</id>
-    <title>I never regret going for a run, but sometimes the start and middle are less than ideal. Can you feel the cohesion? 🤣 #runningbuddy #runwithme #runmotivation </title>
-    <updated>2024-03-11T21:20:30+00:00</updated>
-    <content>I never regret going for a run, but sometimes the start and middle are less than ideal. Can you feel the cohesion? 🤣 #runningbuddy #runwithme #runmotivation </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7345218705355328814"/>
-    <published>2024-03-11T21:20:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7346371822318898474</id>
     <title>For curiosity/inspiration purposes only 🤣 as always, I am not an expert so do not do what I say. I’m just sharing for everyone who was curious about what I meant by “I just followed YouTube videos” in my 30 day results video. Hope this helps! My favorite </title>
@@ -91,5 +83,13 @@
     <content>For what?! I love Spring but wooooooow there’s a lot of audacity when it comes to the wind right now. #running #jogging #motherrunner #windyrun </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7353062731722919210"/>
     <published>2024-04-02T00:39:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7353787816989494571</id>
+    <title>The real question is why’d I go from zero to marathon and for that I have no answer 🙃 Thanks for this jam, @Chandler 🙌 #running #marathontraining </title>
+    <updated>2024-04-03T23:32:57+00:00</updated>
+    <content>The real question is why’d I go from zero to marathon and for that I have no answer 🙃 Thanks for this jam, @Chandler 🙌 #running #marathontraining </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7353787816989494571"/>
+    <published>2024-04-03T23:32:57+00:00</published>
   </entry>
 </feed>
