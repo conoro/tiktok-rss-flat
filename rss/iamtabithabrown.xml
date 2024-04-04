@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-04-03T16:24:56+00:00</updated>
+  <updated>2024-04-04T03:55:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7349445830614535470</id>
-    <title>Smoothie with a message ❤️ #spreadlove #tabithabrown </title>
-    <updated>2024-03-23T06:44:12+00:00</updated>
-    <content>Smoothie with a message ❤️ #spreadlove #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7349445830614535470"/>
-    <published>2024-03-23T06:44:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7349657401382964522</id>
     <title>Ok so here is how I got Donna’s look yesterday❤️. A good old @Donna’s Recipe twist out❤️ #tabithabrown #naturalhair #twistout </title>
@@ -91,5 +83,13 @@
     <content>🗣️Hear ye Hear Ye 🗣️ Yes, my popcorn is coming back to @target 😘 #comingsoon #targettabcollab #tabithabrown</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7353677484459576619"/>
     <published>2024-04-03T16:24:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7353855395884043563</id>
+    <title>Y’all look at my nails!!! My lil cousin @_evelynmichelle_ just blessed me!!! She does nails in Reidsville and Greensboro but she also travels!! Please support her and book her ❤️. Thank you Chelle, I love them and I am so proud of you!!  @Prettyyellathang</title>
+    <updated>2024-04-04T03:55:22+00:00</updated>
+    <content>Y’all look at my nails!!! My lil cousin @_evelynmichelle_ just blessed me!!! She does nails in Reidsville and Greensboro but she also travels!! Please support her and book her ❤️. Thank you Chelle, I love them and I am so proud of you!!  @Prettyyellathang</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7353855395884043563"/>
+    <published>2024-04-04T03:55:22+00:00</published>
   </entry>
 </feed>
