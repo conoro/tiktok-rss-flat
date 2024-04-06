@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ivansantry</id>
   <title>ivansantry TikTok</title>
-  <updated>2023-09-08T16:40:47+00:00</updated>
+  <updated>2024-04-06T19:23:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from ivansantry</subtitle>
-  <entry>
-    <id>https://tiktok.com/@ivansantry/video/6907560608586124546</id>
-    <title>#Santa #Pintman #Christmas</title>
-    <updated>2020-12-18T11:43:04+00:00</updated>
-    <content>#Santa #Pintman #Christmas</content>
-    <link href="https://tiktok.com/@ivansantry/video/6907560608586124546"/>
-    <published>2020-12-18T11:43:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@ivansantry/video/6934785647324466437</id>
     <title>#IrishCoffee</title>
@@ -91,5 +83,13 @@
     <content>Kayaking in Ardmore, Co Watwrford. #ireland #holiday #travel #fyp </content>
     <link href="https://tiktok.com/@ivansantry/video/7276495977593212193"/>
     <published>2023-09-08T16:40:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@ivansantry/video/7354836710359911712</id>
+    <title>Ardmore beach #Saturday</title>
+    <updated>2024-04-06T19:23:19+00:00</updated>
+    <content>Ardmore beach #Saturday</content>
+    <link href="https://tiktok.com/@ivansantry/video/7354836710359911712"/>
+    <published>2024-04-06T19:23:19+00:00</published>
   </entry>
 </feed>
