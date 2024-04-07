@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-04-07T01:13:06+00:00</updated>
+  <updated>2024-04-07T19:09:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7349761145416322346</id>
-    <title>Lets make a lil salad, and learn a few lessons from the avocado ❤️ #tabithabrown #salad #recipe #foodie #inspire </title>
-    <updated>2024-03-24T03:07:28+00:00</updated>
-    <content>Lets make a lil salad, and learn a few lessons from the avocado ❤️ #tabithabrown #salad #recipe #foodie #inspire </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7349761145416322346"/>
-    <published>2024-03-24T03:07:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7350041260951883051</id>
     <title>My bad 🤦🏾‍♀️ but yes I do have a cookbook❤️. Thank you for asking ❤️ #tabithabrown </title>
@@ -91,5 +83,13 @@
     <content>Family!!!! Tomorrow is the day that my food collection starts to roll back into @target ❤️. Make sure you tag me on what you find!! And if you don’t see your favorite items yet, don’t worry, we’re just getting started with the rollout🎉 stay tuned❤️ #targe</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7354926913397198123"/>
     <published>2024-04-07T01:13:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7355204262281907499</id>
+    <title>Ok family let me show yall how to find my @target food items❤️. Remember all items will not be available today, but today is the day they begin to be placed permanently in store!  So if you don’t see it today don’t worry, it’s on the way ❤️. Love and appr</title>
+    <updated>2024-04-07T19:09:26+00:00</updated>
+    <content>Ok family let me show yall how to find my @target food items❤️. Remember all items will not be available today, but today is the day they begin to be placed permanently in store!  So if you don’t see it today don’t worry, it’s on the way ❤️. Love and appr</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7355204262281907499"/>
+    <published>2024-04-07T19:09:26+00:00</published>
   </entry>
 </feed>
