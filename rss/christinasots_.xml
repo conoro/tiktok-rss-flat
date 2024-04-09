@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@christinasots_</id>
   <title>christinasots_ TikTok</title>
-  <updated>2024-04-06T11:43:15+00:00</updated>
+  <updated>2024-04-09T10:31:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from christinasots_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@christinasots_/video/7332226177664339233</id>
-    <title>Follow me for more vegan recipes and tips! Adding nutritious additions to your plant meals is an easy way to boost the vitamin and protein content, and this super delicious tamari crispy quinoa and seed mix is my absolute fave.  Some other ideas for nutri</title>
-    <updated>2024-02-05T21:02:25+00:00</updated>
-    <content>Follow me for more vegan recipes and tips! Adding nutritious additions to your plant meals is an easy way to boost the vitamin and protein content, and this super delicious tamari crispy quinoa and seed mix is my absolute fave.  Some other ideas for nutri</content>
-    <link href="https://tiktok.com/@christinasots_/video/7332226177664339233"/>
-    <published>2024-02-05T21:02:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7333306293509295392</id>
     <title>Hummus!  1 x 700g jar of chickpeas (or 2 tins)  Half of the aquafaba/ chickpea water (more or less, depending on how soft the chickpeas are) 3 tbsp runny tahini  Juice of ½ - 1 lemon  ½ tsp flaky sea salt  1 tbsp olive oil  My tips for the smoothest hummu</title>
@@ -67,6 +59,14 @@
     <content>If you’ve never cooked a sweet potato in the microwave, then this might just become your new favorite 10 minute meal.  Load it up with veggies and chickpeas and my lime-soy tahini drizzle and you’ve got yourself a hearty, healthy, super satisfying meal in</content>
     <link href="https://tiktok.com/@christinasots_/video/7354718258735451425"/>
     <published>2024-04-06T11:43:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@christinasots_/video/7355813048159882529</id>
+    <title>CRUNCHY, ZESTY SPRING GREEN SALAD 💚 The weather might not be screaming Spring but we’re manifesting it with this herby, dijon-y, crisp green salad on a yoghurt base. Add a grain like barley or quinoa to bulk it up if you like!  P.S I always keep a bag of </title>
+    <updated>2024-04-09T10:31:35+00:00</updated>
+    <content>CRUNCHY, ZESTY SPRING GREEN SALAD 💚 The weather might not be screaming Spring but we’re manifesting it with this herby, dijon-y, crisp green salad on a yoghurt base. Add a grain like barley or quinoa to bulk it up if you like!  P.S I always keep a bag of </content>
+    <link href="https://tiktok.com/@christinasots_/video/7355813048159882529"/>
+    <published>2024-04-09T10:31:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7198125871461403909</id>
