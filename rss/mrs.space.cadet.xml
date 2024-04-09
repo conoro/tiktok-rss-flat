@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-04-04T21:54:23+00:00</updated>
+  <updated>2024-04-09T01:09:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7347858162088758571</id>
-    <title>I’ve been showing up here with my issues and imperfections from the beginning of my running journey in 2019, so shoutout to anyone who has embraced me and my content whether I’m crying in a cornfield at mile 7 of an 18 mile run, interviewing athletes in a</title>
-    <updated>2024-03-19T00:02:52+00:00</updated>
-    <content>I’ve been showing up here with my issues and imperfections from the beginning of my running journey in 2019, so shoutout to anyone who has embraced me and my content whether I’m crying in a cornfield at mile 7 of an 18 mile run, interviewing athletes in a</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7347858162088758571"/>
-    <published>2024-03-19T00:02:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7348192896920603947</id>
     <title>National Geographic is screaming crying punching the air for not coming up with this 😮‍💨 now if only we can get the temperature above 50 and maybe get rid of the blistering wind? That’d be super. Are you looking forward to running or just existing in the </title>
@@ -91,5 +83,13 @@
     <content>*Pink sparkly skirt and fairy wand optional* 🤭But for me, wearing a pair of the new @Reebok FloatZig 1 is a must! Perfect for anyone from struggle runners like me to seasoned athletes 🙌 This run hack always gets me to pick up the pace and is perfect for h</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7354133554051304746"/>
     <published>2024-04-04T21:54:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7355668052928826670</id>
+    <title>It’s that time of year again. Will we find flowy shorts under $150 that don’t ride up our thighs?! Stay tuned for this year’s Shorts Gobbling Season content and let me know if you have recommendations 🙌 #shorts #tryonhaul #shortsseason #thickthighproblems</title>
+    <updated>2024-04-09T01:09:08+00:00</updated>
+    <content>It’s that time of year again. Will we find flowy shorts under $150 that don’t ride up our thighs?! Stay tuned for this year’s Shorts Gobbling Season content and let me know if you have recommendations 🙌 #shorts #tryonhaul #shortsseason #thickthighproblems</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7355668052928826670"/>
+    <published>2024-04-09T01:09:08+00:00</published>
   </entry>
 </feed>

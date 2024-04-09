@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-04-05T14:06:45+00:00</updated>
+  <updated>2024-04-08T11:23:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7351873237841612074</id>
-    <title>Special Trail Talk edition this week. Welcome to the show. I made a quick video for this week's Trail Talk show and was roasted by the panel. I have thick skin. Let's see if they do. Seems the elite gatekeepers are upset that I did something I thought wou</title>
-    <updated>2024-03-29T19:43:22+00:00</updated>
-    <content>Special Trail Talk edition this week. Welcome to the show. I made a quick video for this week's Trail Talk show and was roasted by the panel. I have thick skin. Let's see if they do. Seems the elite gatekeepers are upset that I did something I thought wou</content>
-    <link href="https://tiktok.com/@glazeruns/video/7351873237841612074"/>
-    <published>2024-03-29T19:43:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7352614376404290858</id>
     <title>This is what my runner's highs look like. 240 miles into Cocodona 250. This was day 7 of my 350-mile CocoCanyons adventure. I had run 340 miles and climbed 55,000 feet at this point. 10 more miles, and it would all be over. I was stripped bare. What a bea</title>
@@ -67,6 +59,14 @@
     <content>I am a city boy and have no idea what to do. . #runtok #cowtok </content>
     <link href="https://tiktok.com/@glazeruns/video/7354384138268331306"/>
     <published>2024-04-05T14:06:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7355454936009723179</id>
+    <title>Eclipse glasses or it didn't happen.  Moab 240 was wild last year with a full eclipse during the race. smile, or you're doing it wrong  #runtok #eclipse </title>
+    <updated>2024-04-08T11:23:00+00:00</updated>
+    <content>Eclipse glasses or it didn't happen.  Moab 240 was wild last year with a full eclipse during the race. smile, or you're doing it wrong  #runtok #eclipse </content>
+    <link href="https://tiktok.com/@glazeruns/video/7355454936009723179"/>
+    <published>2024-04-08T11:23:00+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
