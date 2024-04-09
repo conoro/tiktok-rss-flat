@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-04-06T19:44:09+00:00</updated>
+  <updated>2024-04-09T19:55:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7348536632653434145</id>
-    <title>VEGAN MAYO🌱 This vegan Mayo is 100% foolproof, made in 2mins and tastes better than the store bought mayo.🤗 And you can customize it by adding different spices.🤓 RECIPE (2 jars, 2min prep time): -water of a can of chickpeas (about 1/2cup {125ml}) -1 Tbsp </title>
-    <updated>2024-03-20T19:55:21+00:00</updated>
-    <content>VEGAN MAYO🌱 This vegan Mayo is 100% foolproof, made in 2mins and tastes better than the store bought mayo.🤗 And you can customize it by adding different spices.🤓 RECIPE (2 jars, 2min prep time): -water of a can of chickpeas (about 1/2cup {125ml}) -1 Tbsp </content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7348536632653434145"/>
-    <published>2024-03-20T19:55:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7348909538092829984</id>
     <title>MISO SESAME DRESSING 🥗  This dressing will turn any salad into a highlight! I mixed it with roasted broccoli and lots of fresh herbs.😮‍💨 RECIPE (3 serving, 30mins prep time): -1 head of broccoli Cut in florets, mix with oil and salt, bake at 180C/360F for</title>
@@ -91,5 +83,13 @@
     <content>CRISPY RUCE SALAD inspired by Nam khao 🇱🇦  Nam khao is a popular salad from Laos, the crispy rice with the fresh herbs, the crunchy nuts and the tangy dressing tastes incredible! 😋 I slightly adjusted it to use ingredients I had at home. 😇 RECIPE (3 servi</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7354842203216219425"/>
     <published>2024-04-06T19:44:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7355958318696828193</id>
+    <title>CRISPY POTATO SALAD 🥔 Werbung/Ad I’m late to all kinds of trends but luckily I still tried this one because it’s fiiiire!😮‍💨 I got my vegan mayo from @KoRo where you can save 5% with “fitgreenmind”.🫶 RECIPE (3-4 servings, 45min prep time): -1kg potatoes B</title>
+    <updated>2024-04-09T19:55:17+00:00</updated>
+    <content>CRISPY POTATO SALAD 🥔 Werbung/Ad I’m late to all kinds of trends but luckily I still tried this one because it’s fiiiire!😮‍💨 I got my vegan mayo from @KoRo where you can save 5% with “fitgreenmind”.🫶 RECIPE (3-4 servings, 45min prep time): -1kg potatoes B</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7355958318696828193"/>
+    <published>2024-04-09T19:55:17+00:00</published>
   </entry>
 </feed>
