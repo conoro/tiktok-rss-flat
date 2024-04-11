@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-04-09T01:09:08+00:00</updated>
+  <updated>2024-04-11T00:04:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7348192896920603947</id>
-    <title>National Geographic is screaming crying punching the air for not coming up with this 😮‍💨 now if only we can get the temperature above 50 and maybe get rid of the blistering wind? That’d be super. Are you looking forward to running or just existing in the </title>
-    <updated>2024-03-19T21:41:45+00:00</updated>
-    <content>National Geographic is screaming crying punching the air for not coming up with this 😮‍💨 now if only we can get the temperature above 50 and maybe get rid of the blistering wind? That’d be super. Are you looking forward to running or just existing in the </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7348192896920603947"/>
-    <published>2024-03-19T21:41:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7348606211052424491</id>
     <title>This could be a daily series and I wish I was joking but I got these corduroy(?) pants that are NOT sweatpants but they ARE comfortable so I would like to wear them to a hypothetical place where sweatpants aka my entire wardrobe is unacceptable please adv</title>
@@ -91,5 +83,13 @@
     <content>It’s that time of year again. Will we find flowy shorts under $150 that don’t ride up our thighs?! Stay tuned for this year’s Shorts Gobbling Season content and let me know if you have recommendations 🙌 #shorts #tryonhaul #shortsseason #thickthighproblems</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7355668052928826670"/>
     <published>2024-04-09T01:09:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7356393531709295918</id>
+    <title>I have once again found myself in a pickle. Please advise. #fashion #clueless #confused #jeans </title>
+    <updated>2024-04-11T00:04:25+00:00</updated>
+    <content>I have once again found myself in a pickle. Please advise. #fashion #clueless #confused #jeans </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7356393531709295918"/>
+    <published>2024-04-11T00:04:25+00:00</published>
   </entry>
 </feed>
