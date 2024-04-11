@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-04-11T02:07:42+00:00</updated>
+  <updated>2024-04-11T18:06:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7352699638194949419</id>
-    <title>Happy Easter from the Glaze Family. Station visits from the family are always the best. Part of being a firefighter is missing a lot of holidays, birthdays, and milestones. But we make it work.  Smile, or you're doing it wrong. #firefighter </title>
-    <updated>2024-04-01T01:10:08+00:00</updated>
-    <content>Happy Easter from the Glaze Family. Station visits from the family are always the best. Part of being a firefighter is missing a lot of holidays, birthdays, and milestones. But we make it work.  Smile, or you're doing it wrong. #firefighter </content>
-    <link href="https://tiktok.com/@glazeruns/video/7352699638194949419"/>
-    <published>2024-04-01T01:10:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7352720536633462058</id>
     <title>It was such a fun month watching firefighters from all over the world running fire station loops. I hope you challenged yourself and possibly found that running is fun and a great way to destress. Please let me know how many miles you ran. Don't worry if </title>
@@ -67,6 +59,14 @@
     <content>Seems like a lot of middle school personalities in the comments this week. Whatever will I do with all this hate? Remember, if you put yourself out there on the internet, the troll will come for you. They will try to rip you down to make themselves feel b</content>
     <link href="https://tiktok.com/@glazeruns/video/7356425325426904362"/>
     <published>2024-04-11T02:07:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7356672460764286250</id>
+    <title>Being prepared is part of getting through the rough points without quitting. We will call this part one, because there's more I carry. Maybe it's the paramedic in me, but I'm always seeing worst-case scenarios, and often, there is a small lightweight solu</title>
+    <updated>2024-04-11T18:06:50+00:00</updated>
+    <content>Being prepared is part of getting through the rough points without quitting. We will call this part one, because there's more I carry. Maybe it's the paramedic in me, but I'm always seeing worst-case scenarios, and often, there is a small lightweight solu</content>
+    <link href="https://tiktok.com/@glazeruns/video/7356672460764286250"/>
+    <published>2024-04-11T18:06:50+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
