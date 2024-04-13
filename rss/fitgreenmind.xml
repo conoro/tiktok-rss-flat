@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-04-09T19:55:17+00:00</updated>
+  <updated>2024-04-13T19:39:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7348909538092829984</id>
-    <title>MISO SESAME DRESSING 🥗  This dressing will turn any salad into a highlight! I mixed it with roasted broccoli and lots of fresh herbs.😮‍💨 RECIPE (3 serving, 30mins prep time): -1 head of broccoli Cut in florets, mix with oil and salt, bake at 180C/360F for</title>
-    <updated>2024-03-21T20:02:24+00:00</updated>
-    <content>MISO SESAME DRESSING 🥗  This dressing will turn any salad into a highlight! I mixed it with roasted broccoli and lots of fresh herbs.😮‍💨 RECIPE (3 serving, 30mins prep time): -1 head of broccoli Cut in florets, mix with oil and salt, bake at 180C/360F for</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7348909538092829984"/>
-    <published>2024-03-21T20:02:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7349662112505007393</id>
     <title>STOVE TOP APPLE CAKE 🍰  Making a cake without an oven? Yep, it works and it’s super delicious! 😋  RECIPE (23cm diameter nonstick pan): -90g flour -10g corn starch -50g sugar Stir -1 Tsp baking powder -30g oil -85ml plant milk -a squeeze of lemon -cinnamon</title>
@@ -91,5 +83,13 @@
     <content>CRISPY POTATO SALAD 🥔 Werbung/Ad I’m late to all kinds of trends but luckily I still tried this one because it’s fiiiire!😮‍💨 I got my vegan mayo from @KoRo where you can save 5% with “fitgreenmind”.🫶 RECIPE (3-4 servings, 45min prep time): -1kg potatoes B</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7355958318696828193"/>
     <published>2024-04-09T19:55:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7357438604894915873</id>
+    <title>- What I eat in a day -post marathon edition 🏃‍♀️😋 Reminder: Vergleiche dich nicht mit anderen, jeder ist einzigartig und hat andere Bedürfnisse.🫶 Breakky: -120 ml Pflanzenmilch -1 Messlöffel veganes Proteinpulver -Zimt -1 EL gemahlene Leinsamen -3 Scheib</title>
+    <updated>2024-04-13T19:39:33+00:00</updated>
+    <content>- What I eat in a day -post marathon edition 🏃‍♀️😋 Reminder: Vergleiche dich nicht mit anderen, jeder ist einzigartig und hat andere Bedürfnisse.🫶 Breakky: -120 ml Pflanzenmilch -1 Messlöffel veganes Proteinpulver -Zimt -1 EL gemahlene Leinsamen -3 Scheib</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7357438604894915873"/>
+    <published>2024-04-13T19:39:33+00:00</published>
   </entry>
 </feed>

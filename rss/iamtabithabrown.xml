@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-04-11T16:35:27+00:00</updated>
+  <updated>2024-04-13T18:04:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7350408892523793706</id>
-    <title>Us women have to stick together against Peri😩 IYKYK Laaawwdddd Peri be so disrespectful 😩 Last week I was on the red carpet being interviewed by @tanishalavernegrant and Peri tried to take over😩. I was prepared tho and blessed my sis with a fan ❤️. #perim</title>
-    <updated>2024-03-25T21:00:51+00:00</updated>
-    <content>Us women have to stick together against Peri😩 IYKYK Laaawwdddd Peri be so disrespectful 😩 Last week I was on the red carpet being interviewed by @tanishalavernegrant and Peri tried to take over😩. I was prepared tho and blessed my sis with a fan ❤️. #perim</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7350408892523793706"/>
-    <published>2024-03-25T21:00:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7350770718197419307</id>
     <title>Afternoon TSA: Are we being consistent in the right way? #spreadlove #tabithabrown #consistent </title>
@@ -91,5 +83,13 @@
     <content>The way my husband be trying me 😏 #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7356648967226051886"/>
     <published>2024-04-11T16:35:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7357413976596122922</id>
+    <title>Happy Ravioli Saturday!! Lets get into a quick and delicious recipe using my @target ravioli and hummus❤️. What’s your favorite sauce for ravioli?? #vegan #plantbased #recipes #tabithabrown #targettabcollab </title>
+    <updated>2024-04-13T18:04:13+00:00</updated>
+    <content>Happy Ravioli Saturday!! Lets get into a quick and delicious recipe using my @target ravioli and hummus❤️. What’s your favorite sauce for ravioli?? #vegan #plantbased #recipes #tabithabrown #targettabcollab </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7357413976596122922"/>
+    <published>2024-04-13T18:04:13+00:00</published>
   </entry>
 </feed>
