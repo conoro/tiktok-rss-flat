@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@christinasots_</id>
   <title>christinasots_ TikTok</title>
-  <updated>2024-04-09T10:31:35+00:00</updated>
+  <updated>2024-04-13T09:56:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from christinasots_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@christinasots_/video/7333306293509295392</id>
-    <title>Hummus!  1 x 700g jar of chickpeas (or 2 tins)  Half of the aquafaba/ chickpea water (more or less, depending on how soft the chickpeas are) 3 tbsp runny tahini  Juice of ½ - 1 lemon  ½ tsp flaky sea salt  1 tbsp olive oil  My tips for the smoothest hummu</title>
-    <updated>2024-02-08T18:53:52+00:00</updated>
-    <content>Hummus!  1 x 700g jar of chickpeas (or 2 tins)  Half of the aquafaba/ chickpea water (more or less, depending on how soft the chickpeas are) 3 tbsp runny tahini  Juice of ½ - 1 lemon  ½ tsp flaky sea salt  1 tbsp olive oil  My tips for the smoothest hummu</content>
-    <link href="https://tiktok.com/@christinasots_/video/7333306293509295392"/>
-    <published>2024-02-08T18:53:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7335431843988147489</id>
     <title>Mushroom Stuffed Chickpea Crepe!   Serves 2  250g Chestnut Mushrooms  80g Kale Or Spinach  1 Red Onion  2-4 Garlic Cloves 115g Chickpea Flour  1 Tbsp Olive Oil  2 Tbsp Vegan Spicy Red Pesto (Or Sub Green Pesto, harissa or hot sauce )  Chili Flakes (Option</title>
@@ -67,6 +59,14 @@
     <content>CRUNCHY, ZESTY SPRING GREEN SALAD 💚 The weather might not be screaming Spring but we’re manifesting it with this herby, dijon-y, crisp green salad on a yoghurt base. Add a grain like barley or quinoa to bulk it up if you like!  P.S I always keep a bag of </content>
     <link href="https://tiktok.com/@christinasots_/video/7355813048159882529"/>
     <published>2024-04-09T10:31:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@christinasots_/video/7357288240417623329</id>
+    <title>I went to @mildredsrestaurants with my sister to try the new @everleafdrinks non-alcoholic Sakura cocktail and I loved it so much that I wanted to recreate it at home!  So they kindly sent me a bottle of the Mountain flavour aperitif and I just added some</title>
+    <updated>2024-04-13T09:56:05+00:00</updated>
+    <content>I went to @mildredsrestaurants with my sister to try the new @everleafdrinks non-alcoholic Sakura cocktail and I loved it so much that I wanted to recreate it at home!  So they kindly sent me a bottle of the Mountain flavour aperitif and I just added some</content>
+    <link href="https://tiktok.com/@christinasots_/video/7357288240417623329"/>
+    <published>2024-04-13T09:56:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7198125871461403909</id>
