@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-04-11T18:06:50+00:00</updated>
+  <updated>2024-04-13T00:30:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7352720536633462058</id>
-    <title>It was such a fun month watching firefighters from all over the world running fire station loops. I hope you challenged yourself and possibly found that running is fun and a great way to destress. Please let me know how many miles you ran. Don't worry if </title>
-    <updated>2024-04-01T02:31:15+00:00</updated>
-    <content>It was such a fun month watching firefighters from all over the world running fire station loops. I hope you challenged yourself and possibly found that running is fun and a great way to destress. Please let me know how many miles you ran. Don't worry if </content>
-    <link href="https://tiktok.com/@glazeruns/video/7352720536633462058"/>
-    <published>2024-04-01T02:31:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7352849976071900462</id>
     <title>Thanks for all the support over the past 4 years. Over 30,000 miles run. So many highs and lows. But all good things must come to an end. Happy April Fools Day. #runtok #runstreak #ultrarunner </title>
@@ -67,6 +59,14 @@
     <content>Being prepared is part of getting through the rough points without quitting. We will call this part one, because there's more I carry. Maybe it's the paramedic in me, but I'm always seeing worst-case scenarios, and often, there is a small lightweight solu</content>
     <link href="https://tiktok.com/@glazeruns/video/7356672460764286250"/>
     <published>2024-04-11T18:06:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7357142442384133419</id>
+    <title>Onward. #runtok </title>
+    <updated>2024-04-13T00:30:33+00:00</updated>
+    <content>Onward. #runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7357142442384133419"/>
+    <published>2024-04-13T00:30:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
