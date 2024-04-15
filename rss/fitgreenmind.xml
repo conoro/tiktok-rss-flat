@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-04-13T19:39:33+00:00</updated>
+  <updated>2024-04-15T19:41:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7349662112505007393</id>
-    <title>STOVE TOP APPLE CAKE 🍰  Making a cake without an oven? Yep, it works and it’s super delicious! 😋  RECIPE (23cm diameter nonstick pan): -90g flour -10g corn starch -50g sugar Stir -1 Tsp baking powder -30g oil -85ml plant milk -a squeeze of lemon -cinnamon</title>
-    <updated>2024-03-23T20:42:47+00:00</updated>
-    <content>STOVE TOP APPLE CAKE 🍰  Making a cake without an oven? Yep, it works and it’s super delicious! 😋  RECIPE (23cm diameter nonstick pan): -90g flour -10g corn starch -50g sugar Stir -1 Tsp baking powder -30g oil -85ml plant milk -a squeeze of lemon -cinnamon</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7349662112505007393"/>
-    <published>2024-03-23T20:42:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7350035887289355553</id>
     <title>TORTELLINI SOUP 🍲  Aka the soup that makes you feel like home! 🫶😊 RECIPE (1 serving, 45min prep time): -1 small carrot -1 clove garlic  -1 small onion -a spring of thyme -a spring of rosemary Roughly chop and sauté in some oil. -625ml veg stock -a pinch o</title>
@@ -91,5 +83,13 @@
     <content>- What I eat in a day -post marathon edition 🏃‍♀️😋 Reminder: Vergleiche dich nicht mit anderen, jeder ist einzigartig und hat andere Bedürfnisse.🫶 Breakky: -120 ml Pflanzenmilch -1 Messlöffel veganes Proteinpulver -Zimt -1 EL gemahlene Leinsamen -3 Scheib</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7357438604894915873"/>
     <published>2024-04-13T19:39:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7358181379777056032</id>
+    <title>CHEUNG FUN (hack) 😋 Cheung fun in China or Bánh cuốn in Vietnam are ultra thin sheets of rice noodles that can be filled with various fillings and topped with different sauces… perfect for summer!🫶 RECIPE (6 rolls, 25min prep time): -250g of your favorite</title>
+    <updated>2024-04-15T19:41:51+00:00</updated>
+    <content>CHEUNG FUN (hack) 😋 Cheung fun in China or Bánh cuốn in Vietnam are ultra thin sheets of rice noodles that can be filled with various fillings and topped with different sauces… perfect for summer!🫶 RECIPE (6 rolls, 25min prep time): -250g of your favorite</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7358181379777056032"/>
+    <published>2024-04-15T19:41:51+00:00</published>
   </entry>
 </feed>
