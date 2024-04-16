@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@christinasots_</id>
   <title>christinasots_ TikTok</title>
-  <updated>2024-04-13T09:56:05+00:00</updated>
+  <updated>2024-04-16T15:58:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from christinasots_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@christinasots_/video/7335431843988147489</id>
-    <title>Mushroom Stuffed Chickpea Crepe!   Serves 2  250g Chestnut Mushrooms  80g Kale Or Spinach  1 Red Onion  2-4 Garlic Cloves 115g Chickpea Flour  1 Tbsp Olive Oil  2 Tbsp Vegan Spicy Red Pesto (Or Sub Green Pesto, harissa or hot sauce )  Chili Flakes (Option</title>
-    <updated>2024-02-14T12:22:05+00:00</updated>
-    <content>Mushroom Stuffed Chickpea Crepe!   Serves 2  250g Chestnut Mushrooms  80g Kale Or Spinach  1 Red Onion  2-4 Garlic Cloves 115g Chickpea Flour  1 Tbsp Olive Oil  2 Tbsp Vegan Spicy Red Pesto (Or Sub Green Pesto, harissa or hot sauce )  Chili Flakes (Option</content>
-    <link href="https://tiktok.com/@christinasots_/video/7335431843988147489"/>
-    <published>2024-02-14T12:22:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7347404778848259360</id>
     <title>Freekeh is my favourite grain and I would love to see more people eating it!  - It’s really high in protein and fibre. One small serving (half cup) of cooked freekeh has about 8 grams of protein.  - It also contains zinc, iron, copper, potassium, calcium,</title>
@@ -67,6 +59,14 @@
     <content>I went to @mildredsrestaurants with my sister to try the new @everleafdrinks non-alcoholic Sakura cocktail and I loved it so much that I wanted to recreate it at home!  So they kindly sent me a bottle of the Mountain flavour aperitif and I just added some</content>
     <link href="https://tiktok.com/@christinasots_/video/7357288240417623329"/>
     <published>2024-04-13T09:56:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@christinasots_/video/7358494902247836960</id>
+    <title>GARLIC MUSHROOMS ON CREAMY TAHINI BEANS I eat a variation of this dish every week, usually as a fridge raid and with whatever veggies I have that need using up. A creamy beany base is perfect for mushrooms, broccoli, courgette or even just a load of sauté</title>
+    <updated>2024-04-16T15:58:31+00:00</updated>
+    <content>GARLIC MUSHROOMS ON CREAMY TAHINI BEANS I eat a variation of this dish every week, usually as a fridge raid and with whatever veggies I have that need using up. A creamy beany base is perfect for mushrooms, broccoli, courgette or even just a load of sauté</content>
+    <link href="https://tiktok.com/@christinasots_/video/7358494902247836960"/>
+    <published>2024-04-16T15:58:31+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7198125871461403909</id>

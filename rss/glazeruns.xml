@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-04-13T14:24:53+00:00</updated>
+  <updated>2024-04-16T13:46:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7353315711713807662</id>
-    <title>Low mileage month, but I'm happy with everything I accomplished. My racing season is getting ready to start, and I'll have plenty of opportunities to make up some miles. Besides working a ton, I raised money for @llsusa and flew to Seattle for the @firefi</title>
-    <updated>2024-04-02T17:00:43+00:00</updated>
-    <content>Low mileage month, but I'm happy with everything I accomplished. My racing season is getting ready to start, and I'll have plenty of opportunities to make up some miles. Besides working a ton, I raised money for @llsusa and flew to Seattle for the @firefi</content>
-    <link href="https://tiktok.com/@glazeruns/video/7353315711713807662"/>
-    <published>2024-04-02T17:00:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7354384138268331306</id>
     <title>I am a city boy and have no idea what to do. . #runtok #cowtok </title>
@@ -67,6 +59,14 @@
     <content>300 miles seems far Arizona Monster 300 here I come #runtok #ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7357357364384763179"/>
     <published>2024-04-13T14:24:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7358460936249789739</id>
+    <title>550 miles seems far . #runtok #ultrarunner #ultramarathon </title>
+    <updated>2024-04-16T13:46:51+00:00</updated>
+    <content>550 miles seems far . #runtok #ultrarunner #ultramarathon </content>
+    <link href="https://tiktok.com/@glazeruns/video/7358460936249789739"/>
+    <published>2024-04-16T13:46:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
