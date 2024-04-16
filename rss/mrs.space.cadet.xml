@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-04-12T00:25:57+00:00</updated>
+  <updated>2024-04-15T20:57:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7348978291518295339</id>
-    <title>My answers used to be 1) yes 2) bad 3) bad, but now my answer to the third question is GOOD. It took a while to reframe my thoughts about running and I’m curious where you’re at 👀 #running #gymclass #questions </title>
-    <updated>2024-03-22T00:29:17+00:00</updated>
-    <content>My answers used to be 1) yes 2) bad 3) bad, but now my answer to the third question is GOOD. It took a while to reframe my thoughts about running and I’m curious where you’re at 👀 #running #gymclass #questions </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7348978291518295339"/>
-    <published>2024-03-22T00:29:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7350461896480329002</id>
     <title>It’s like all the practical tips I’ve learned over the years escape me and I’m left to my own devices which is never good. Do you have any struggle run tips to share?  #runners #oops #protip #motherrunner #strugglerunner </title>
@@ -91,5 +83,13 @@
     <content>That afternoon slump is my worst enemy!! If I need to refuel after a workout, I know a safe bet will be these new @Subway wraps, because they’re filling without being FILLING you know what I mean? With four wrap flavors to choose from, you won’t get bored</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7356770179528871214"/>
     <published>2024-04-12T00:25:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7358200673512607019</id>
+    <title>No need for a shakeout run when you just want to socialize! I couldn’t have asked for a better group of people to vibe with and share our greatest running hacks 🤩 Which one is your favorite?? Bonus running hack: the new @Reebok FloatZig 1 Running Shoes. T</title>
+    <updated>2024-04-15T20:57:02+00:00</updated>
+    <content>No need for a shakeout run when you just want to socialize! I couldn’t have asked for a better group of people to vibe with and share our greatest running hacks 🤩 Which one is your favorite?? Bonus running hack: the new @Reebok FloatZig 1 Running Shoes. T</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7358200673512607019"/>
+    <published>2024-04-15T20:57:02+00:00</published>
   </entry>
 </feed>
