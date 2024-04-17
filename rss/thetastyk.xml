@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-04-04T18:16:10+00:00</updated>
+  <updated>2024-04-16T23:39:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7344142468033580321</id>
-    <title>My favorite go-to dish with over 40g of protein per serving: Roasted Veg with Marinated Tempeh, Brown Rice and the most addictive Miso Peanut Sauce! 🥕🥜🥦🧡 • INGREDIENTS • (serves 4-5) Roasted Veggies: 1 medium red cabbage, sliced 1 medium broccoli head, in</title>
-    <updated>2024-03-08T23:43:53+00:00</updated>
-    <content>My favorite go-to dish with over 40g of protein per serving: Roasted Veg with Marinated Tempeh, Brown Rice and the most addictive Miso Peanut Sauce! 🥕🥜🥦🧡 • INGREDIENTS • (serves 4-5) Roasted Veggies: 1 medium red cabbage, sliced 1 medium broccoli head, in</content>
-    <link href="https://tiktok.com/@thetastyk/video/7344142468033580321"/>
-    <published>2024-03-08T23:43:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7344827330507885856</id>
     <title>BIRCHER MUESLI W/ CARAMELIZED PEARS 🍐 holds a special place in my heart and brings me right back to dear childhood memories! • INGREDIENTS • (serves 3) 1.5 cups rolled oats 2 Tbsp chia seeds 2 Tbsp hemp seeds 1/3 cup slivered almonds 1/4 cup seeds (sunflo</title>
@@ -67,6 +59,14 @@
     <content>MEAL PREP QUICKIES 🌱⚡️ we all have those busy weeks where a full meal prep menu just isn’t happening! In those cases I rely on a collection of tried and true #plantbased staples that always hit the spot in taste, nutrition and effort required (max 10 mins</content>
     <link href="https://tiktok.com/@thetastyk/video/7354077357617040672"/>
     <published>2024-04-04T18:16:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7358613502740745504</id>
+    <title>GARLIC DILL PICKLES 🫙🥒 homemade goodness that is so easy to make, rich in probiotics &amp; good bacteria and so beneficial for your gut! ❤️ The base recipe is just cucumbers, water and salt but feel free to add garlic, dill, spicy peppers or peppercorns. • IN</title>
+    <updated>2024-04-16T23:39:09+00:00</updated>
+    <content>GARLIC DILL PICKLES 🫙🥒 homemade goodness that is so easy to make, rich in probiotics &amp; good bacteria and so beneficial for your gut! ❤️ The base recipe is just cucumbers, water and salt but feel free to add garlic, dill, spicy peppers or peppercorns. • IN</content>
+    <link href="https://tiktok.com/@thetastyk/video/7358613502740745504"/>
+    <published>2024-04-16T23:39:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>
