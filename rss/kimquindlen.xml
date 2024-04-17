@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kimquindlen</id>
   <title>kimquindlen TikTok</title>
-  <updated>2024-04-09T15:56:57+00:00</updated>
+  <updated>2024-04-17T15:36:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kimquindlen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kimquindlen/video/7329918383229635882</id>
-    <title>Sry one more time </title>
-    <updated>2024-01-30T15:47:57+00:00</updated>
-    <content>Sry one more time </content>
-    <link href="https://tiktok.com/@kimquindlen/video/7329918383229635882"/>
-    <published>2024-01-30T15:47:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kimquindlen/video/7333275441811426606</id>
     <title>buckle up </title>
@@ -67,6 +59,14 @@
     <content>It’s not the heat that gets you it’s the humidity!!!!!!</content>
     <link href="https://tiktok.com/@kimquindlen/video/7355896873330216235"/>
     <published>2024-04-09T15:56:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kimquindlen/video/7358860101135895850</id>
+    <title>okay. SO. </title>
+    <updated>2024-04-17T15:36:13+00:00</updated>
+    <content>okay. SO. </content>
+    <link href="https://tiktok.com/@kimquindlen/video/7358860101135895850"/>
+    <published>2024-04-17T15:36:13+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kimquindlen/video/7052868933723950341</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@deadpubs</id>
   <title>deadpubs TikTok</title>
-  <updated>2024-04-10T13:03:18+00:00</updated>
+  <updated>2024-04-17T12:58:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from deadpubs</subtitle>
-  <entry>
-    <id>https://tiktok.com/@deadpubs/video/7330611155615993121</id>
-    <title>A Swift One at… The Cart &amp; Horses, E15 1PF. #pubreview #londondeadpubs #londonpub #london #pubs #pubtok #pubculture #deadpubs #londonpubs #ironmaiden #stratford </title>
-    <updated>2024-02-01T12:35:21+00:00</updated>
-    <content>A Swift One at… The Cart &amp; Horses, E15 1PF. #pubreview #londondeadpubs #londonpub #london #pubs #pubtok #pubculture #deadpubs #londonpubs #ironmaiden #stratford </content>
-    <link href="https://tiktok.com/@deadpubs/video/7330611155615993121"/>
-    <published>2024-02-01T12:35:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@deadpubs/video/7332488411611221280</id>
     <title>A Swift One at… The King’s Head, W1G 8PJ. #pubreview #londondeadpubs #londonpub #london #pubs #pubtok #pubculture #deadpubs #londonpubs #marylebone </title>
@@ -91,5 +83,13 @@
     <content>A Swift One at… The Joiners Arms, SE25 5EU. #deadpubs #croydon #southlondon #pubs #fypシ #review #london #england #uklife </content>
     <link href="https://tiktok.com/@deadpubs/video/7356223239628098848"/>
     <published>2024-04-10T13:03:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7358819699875908897</id>
+    <title>A Swift One at… The London’s Pride, TW6 1EW. #heathrow #review #pubs #englishpub #london #londonlife #drinks #fyp #deadpubs #publichouse #airport </title>
+    <updated>2024-04-17T12:58:55+00:00</updated>
+    <content>A Swift One at… The London’s Pride, TW6 1EW. #heathrow #review #pubs #englishpub #london #londonlife #drinks #fyp #deadpubs #publichouse #airport </content>
+    <link href="https://tiktok.com/@deadpubs/video/7358819699875908897"/>
+    <published>2024-04-17T12:58:55+00:00</published>
   </entry>
 </feed>
