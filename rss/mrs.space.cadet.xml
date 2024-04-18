@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-04-15T20:57:02+00:00</updated>
+  <updated>2024-04-18T01:11:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7350461896480329002</id>
-    <title>It’s like all the practical tips I’ve learned over the years escape me and I’m left to my own devices which is never good. Do you have any struggle run tips to share?  #runners #oops #protip #motherrunner #strugglerunner </title>
-    <updated>2024-03-26T00:26:35+00:00</updated>
-    <content>It’s like all the practical tips I’ve learned over the years escape me and I’m left to my own devices which is never good. Do you have any struggle run tips to share?  #runners #oops #protip #motherrunner #strugglerunner </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7350461896480329002"/>
-    <published>2024-03-26T00:26:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7351567702214970667</id>
     <title>*The pieces of lint flying around are paid actors*  Who else is trying to find balance?? This is a theme in many areas of my life lately 😮‍💨 #running #runningmotivation #startingover </title>
@@ -91,5 +83,13 @@
     <content>No need for a shakeout run when you just want to socialize! I couldn’t have asked for a better group of people to vibe with and share our greatest running hacks 🤩 Which one is your favorite?? Bonus running hack: the new @Reebok FloatZig 1 Running Shoes. T</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7358200673512607019"/>
     <published>2024-04-15T20:57:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7359008444634008878</id>
+    <title>Another uncut unhinged @Nonmembers Only episode comes out Monday! This time we’re in Boston for marathon weekend, bouncing around events, filming videos, editing for hours in our hotel, and wheeze laughing out of delirium. It’ll be a doozy. Stay tuned! #p</title>
+    <updated>2024-04-18T01:11:33+00:00</updated>
+    <content>Another uncut unhinged @Nonmembers Only episode comes out Monday! This time we’re in Boston for marathon weekend, bouncing around events, filming videos, editing for hours in our hotel, and wheeze laughing out of delirium. It’ll be a doozy. Stay tuned! #p</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7359008444634008878"/>
+    <published>2024-04-18T01:11:33+00:00</published>
   </entry>
 </feed>
