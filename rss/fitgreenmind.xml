@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-04-15T19:41:51+00:00</updated>
+  <updated>2024-04-19T20:04:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7350035887289355553</id>
-    <title>TORTELLINI SOUP 🍲  Aka the soup that makes you feel like home! 🫶😊 RECIPE (1 serving, 45min prep time): -1 small carrot -1 clove garlic  -1 small onion -a spring of thyme -a spring of rosemary Roughly chop and sauté in some oil. -625ml veg stock -a pinch o</title>
-    <updated>2024-03-24T20:53:14+00:00</updated>
-    <content>TORTELLINI SOUP 🍲  Aka the soup that makes you feel like home! 🫶😊 RECIPE (1 serving, 45min prep time): -1 small carrot -1 clove garlic  -1 small onion -a spring of thyme -a spring of rosemary Roughly chop and sauté in some oil. -625ml veg stock -a pinch o</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7350035887289355553"/>
-    <published>2024-03-24T20:53:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7350434904997465377</id>
-    <title>MUSHROOM STEAK 👨‍🍳 Werbung/Ad Mushrooms are full of umami, so perfect to be prepared like a steak.😜 I get many staples like soy sauce or maple syrup from @KoRo where you can use „fitgreenmind“ for 5% off. 🥳 RECIPE (2 servings, 15min prep time): -2 big mus</title>
-    <updated>2024-03-25T22:41:40+00:00</updated>
-    <content>MUSHROOM STEAK 👨‍🍳 Werbung/Ad Mushrooms are full of umami, so perfect to be prepared like a steak.😜 I get many staples like soy sauce or maple syrup from @KoRo where you can use „fitgreenmind“ for 5% off. 🥳 RECIPE (2 servings, 15min prep time): -2 big mus</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7350434904997465377"/>
-    <published>2024-03-25T22:41:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7350787225216404769</id>
     <title>MEATLESS MEATBALLS 🔥 If you don’t know how to flavor your tofu right… try this recipe!😌 🥶The meat(less)balls can be stored after baking in the freezer up to 3 months. RECIPE (3 servings, 25min prep time): -1 block (200g) firm tofu, crumbled -1 small, fine</title>
@@ -91,5 +75,21 @@
     <content>CHEUNG FUN (hack) 😋 Cheung fun in China or Bánh cuốn in Vietnam are ultra thin sheets of rice noodles that can be filled with various fillings and topped with different sauces… perfect for summer!🫶 RECIPE (6 rolls, 25min prep time): -250g of your favorite</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7358181379777056032"/>
     <published>2024-04-15T19:41:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7359293602033306912</id>
+    <title>MISO EGGPLANT 🍆  This is how I come up with most of my recipes… using what I‘ve got, eye balling, just trying to make things taste good.😇 RECIPE (1 serving, 20min prep time): -1 eggplant Cut in quarters, then score diagonally. Brush with oil and add some </title>
+    <updated>2024-04-18T19:37:51+00:00</updated>
+    <content>MISO EGGPLANT 🍆  This is how I come up with most of my recipes… using what I‘ve got, eye balling, just trying to make things taste good.😇 RECIPE (1 serving, 20min prep time): -1 eggplant Cut in quarters, then score diagonally. Brush with oil and add some </content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7359293602033306912"/>
+    <published>2024-04-18T19:37:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7359671673685069089</id>
+    <title>SMASHED PEA TOAST 🫛  I’m actually not a savory breakfast girlie but this made me change my mind…🤭 RECIPE (1 serving, 10min prep time): -100g frozen peas Cook 3-4mins. Then drain. -juice of 1/2 lemon -salt, pepper and garlic powder to taste Mash until it’s</title>
+    <updated>2024-04-19T20:04:59+00:00</updated>
+    <content>SMASHED PEA TOAST 🫛  I’m actually not a savory breakfast girlie but this made me change my mind…🤭 RECIPE (1 serving, 10min prep time): -100g frozen peas Cook 3-4mins. Then drain. -juice of 1/2 lemon -salt, pepper and garlic powder to taste Mash until it’s</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7359671673685069089"/>
+    <published>2024-04-19T20:04:59+00:00</published>
   </entry>
 </feed>

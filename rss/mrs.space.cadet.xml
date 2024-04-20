@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-04-18T01:11:33+00:00</updated>
+  <updated>2024-04-19T22:55:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7351567702214970667</id>
-    <title>*The pieces of lint flying around are paid actors*  Who else is trying to find balance?? This is a theme in many areas of my life lately 😮‍💨 #running #runningmotivation #startingover </title>
-    <updated>2024-03-28T23:57:53+00:00</updated>
-    <content>*The pieces of lint flying around are paid actors*  Who else is trying to find balance?? This is a theme in many areas of my life lately 😮‍💨 #running #runningmotivation #startingover </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7351567702214970667"/>
-    <published>2024-03-28T23:57:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7351939605828062507</id>
-    <title>Do you try to hold your breathing in for nature videos during your run or when you’re passing people?! 🤣 #nature #running #5ktraining #run </title>
-    <updated>2024-03-30T00:00:54+00:00</updated>
-    <content>Do you try to hold your breathing in for nature videos during your run or when you’re passing people?! 🤣 #nature #running #5ktraining #run </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7351939605828062507"/>
-    <published>2024-03-30T00:00:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7353062731722919210</id>
     <title>For what?! I love Spring but wooooooow there’s a lot of audacity when it comes to the wind right now. #running #jogging #motherrunner #windyrun </title>
@@ -91,5 +75,21 @@
     <content>Another uncut unhinged @Nonmembers Only episode comes out Monday! This time we’re in Boston for marathon weekend, bouncing around events, filming videos, editing for hours in our hotel, and wheeze laughing out of delirium. It’ll be a doozy. Stay tuned! #p</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7359008444634008878"/>
     <published>2024-04-18T01:11:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7359352039169838382</id>
+    <title>This is a public service announcement: If I’m cheering for you at a marathon (or anything really) I’m prepared for all the sweaty hugs! So many runners apologized when we hugged during the Boston Marathon. I welcome all the hugs! No need to apologize 🥹 RA</title>
+    <updated>2024-04-18T23:24:43+00:00</updated>
+    <content>This is a public service announcement: If I’m cheering for you at a marathon (or anything really) I’m prepared for all the sweaty hugs! So many runners apologized when we hugged during the Boston Marathon. I welcome all the hugs! No need to apologize 🥹 RA</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7359352039169838382"/>
+    <published>2024-04-18T23:24:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7359715428979002667</id>
+    <title>Brb gotta go steam some more cauliflower because I’m in a glass case of emotion idk why but it works 🤷‍♀️ #motivationtips #workoutmotivation #helpfultips </title>
+    <updated>2024-04-19T22:55:08+00:00</updated>
+    <content>Brb gotta go steam some more cauliflower because I’m in a glass case of emotion idk why but it works 🤷‍♀️ #motivationtips #workoutmotivation #helpfultips </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7359715428979002667"/>
+    <published>2024-04-19T22:55:08+00:00</published>
   </entry>
 </feed>

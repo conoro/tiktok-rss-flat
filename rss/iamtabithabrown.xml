@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-04-17T13:37:49+00:00</updated>
+  <updated>2024-04-18T12:08:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7351183514085182763</id>
-    <title>Thank you!!! Thank you!!!!! Thank you for all your continued support 🥹🙏🏾!!!! Family my food and beverage collection is returning to @target permanently starting next month and it’s all because of you!!! Some of your favorites will be back but I also have </title>
-    <updated>2024-03-27T23:06:54+00:00</updated>
-    <content>Thank you!!! Thank you!!!!! Thank you for all your continued support 🥹🙏🏾!!!! Family my food and beverage collection is returning to @target permanently starting next month and it’s all because of you!!! Some of your favorites will be back but I also have </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7351183514085182763"/>
-    <published>2024-03-27T23:06:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7351564803099348266</id>
-    <title>Here’s a fun and delicious way to hide the veggies from your family 🤫 #tabithabrown #tacos #vegan #veggie #plantbased #recipes </title>
-    <updated>2024-03-28T23:46:29+00:00</updated>
-    <content>Here’s a fun and delicious way to hide the veggies from your family 🤫 #tabithabrown #tacos #vegan #veggie #plantbased #recipes </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7351564803099348266"/>
-    <published>2024-03-28T23:46:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7353096952206167338</id>
     <title>Snakes love frogs😂😂😂 My sister telling us this story about the snakes and frogs in the neighborhood had us crying 😂😂. I love bring back home!! 😂 #countrygirls #northcarolina #tabithabrown </title>
@@ -69,6 +53,14 @@
     <published>2024-04-07T19:09:26+00:00</published>
   </entry>
   <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7356381553972219182</id>
+    <title>Columbus, Ohio!!!!! Me and Donna out here in these streets!!!  #tabithabrown #spreadlove </title>
+    <updated>2024-04-10T23:17:45+00:00</updated>
+    <content>Columbus, Ohio!!!!! Me and Donna out here in these streets!!!  #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7356381553972219182"/>
+    <published>2024-04-10T23:17:45+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7356648967226051886</id>
     <title>The way my husband be trying me 😏 #tabithabrown </title>
     <updated>2024-04-11T16:35:27+00:00</updated>
@@ -91,5 +83,13 @@
     <content>I remember before we got married I practiced saying and writing Tabitha Brown and it would give me butterflies 🦋. I couldn’t wait to carry his name permanently ❤️. I couldn’t wait to say “My husband”🥰❤️. So Baaaabbbbbyyyy when he answered this question la</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7358829570923023659"/>
     <published>2024-04-17T13:37:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7359177649119382827</id>
+    <title>Greensboro NC you know I had to stop by @target to check out all things “Tab”and of course leave a little love!!! I hope yall enjoy❤️. Thank you for your support ❤️ #tabithabrown </title>
+    <updated>2024-04-18T12:08:01+00:00</updated>
+    <content>Greensboro NC you know I had to stop by @target to check out all things “Tab”and of course leave a little love!!! I hope yall enjoy❤️. Thank you for your support ❤️ #tabithabrown </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7359177649119382827"/>
+    <published>2024-04-18T12:08:01+00:00</published>
   </entry>
 </feed>

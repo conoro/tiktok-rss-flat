@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-04-17T13:30:04+00:00</updated>
+  <updated>2024-04-19T00:09:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7355454936009723179</id>
-    <title>Eclipse glasses or it didn't happen.  Moab 240 was wild last year with a full eclipse during the race. smile, or you're doing it wrong  #runtok #eclipse </title>
-    <updated>2024-04-08T11:23:00+00:00</updated>
-    <content>Eclipse glasses or it didn't happen.  Moab 240 was wild last year with a full eclipse during the race. smile, or you're doing it wrong  #runtok #eclipse </content>
-    <link href="https://tiktok.com/@glazeruns/video/7355454936009723179"/>
-    <published>2024-04-08T11:23:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7356425325426904362</id>
     <title>Seems like a lot of middle school personalities in the comments this week. Whatever will I do with all this hate? Remember, if you put yourself out there on the internet, the troll will come for you. They will try to rip you down to make themselves feel b</title>
@@ -67,6 +59,14 @@
     <content>stay hard #runtok </content>
     <link href="https://tiktok.com/@glazeruns/video/7358827575172435242"/>
     <published>2024-04-17T13:30:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7359363462738300203</id>
+    <title>My least favorite game for the next several months of trail running  #runtok </title>
+    <updated>2024-04-19T00:09:01+00:00</updated>
+    <content>My least favorite game for the next several months of trail running  #runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7359363462738300203"/>
+    <published>2024-04-19T00:09:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
