@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-04-19T22:55:08+00:00</updated>
+  <updated>2024-04-22T01:05:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7353062731722919210</id>
-    <title>For what?! I love Spring but wooooooow there’s a lot of audacity when it comes to the wind right now. #running #jogging #motherrunner #windyrun </title>
-    <updated>2024-04-02T00:39:01+00:00</updated>
-    <content>For what?! I love Spring but wooooooow there’s a lot of audacity when it comes to the wind right now. #running #jogging #motherrunner #windyrun </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7353062731722919210"/>
-    <published>2024-04-02T00:39:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7353787816989494571</id>
     <title>The real question is why’d I go from zero to marathon and for that I have no answer 🙃 Thanks for this jam, @Chandler 🙌 #running #marathontraining </title>
@@ -91,5 +83,13 @@
     <content>Brb gotta go steam some more cauliflower because I’m in a glass case of emotion idk why but it works 🤷‍♀️ #motivationtips #workoutmotivation #helpfultips </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7359715428979002667"/>
     <published>2024-04-19T22:55:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7360491256813800746</id>
+    <title>It wasn’t hard to find people who wanted @Sleep Number pillows, but it took a bit more effort to find runners who agreed for me to follow up with them during the marathon about how they slept! Better sleep helps with performance, so this was a fun/playful</title>
+    <updated>2024-04-22T01:05:39+00:00</updated>
+    <content>It wasn’t hard to find people who wanted @Sleep Number pillows, but it took a bit more effort to find runners who agreed for me to follow up with them during the marathon about how they slept! Better sleep helps with performance, so this was a fun/playful</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7360491256813800746"/>
+    <published>2024-04-22T01:05:39+00:00</published>
   </entry>
 </feed>
