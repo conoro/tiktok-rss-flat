@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-04-18T12:08:01+00:00</updated>
+  <updated>2024-04-22T19:53:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7353096952206167338</id>
-    <title>Snakes love frogs😂😂😂 My sister telling us this story about the snakes and frogs in the neighborhood had us crying 😂😂. I love bring back home!! 😂 #countrygirls #northcarolina #tabithabrown </title>
-    <updated>2024-04-02T02:51:49+00:00</updated>
-    <content>Snakes love frogs😂😂😂 My sister telling us this story about the snakes and frogs in the neighborhood had us crying 😂😂. I love bring back home!! 😂 #countrygirls #northcarolina #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7353096952206167338"/>
-    <published>2024-04-02T02:51:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7353677484459576619</id>
     <title>🗣️Hear ye Hear Ye 🗣️ Yes, my popcorn is coming back to @target 😘 #comingsoon #targettabcollab #tabithabrown</title>
@@ -91,5 +83,13 @@
     <content>Greensboro NC you know I had to stop by @target to check out all things “Tab”and of course leave a little love!!! I hope yall enjoy❤️. Thank you for your support ❤️ #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7359177649119382827"/>
     <published>2024-04-18T12:08:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7360781732666232110</id>
+    <title>Laaawwwdddd Akbar done tried to eat my @Donna’s Recipe sweet potato pie shampoo😂😂 on @The Talk . That scent will definitely tempt you, but its for your hair😂 #shampoo #sweetpotato #pie #earthday #tabithabrown</title>
+    <updated>2024-04-22T19:53:05+00:00</updated>
+    <content>Laaawwwdddd Akbar done tried to eat my @Donna’s Recipe sweet potato pie shampoo😂😂 on @The Talk . That scent will definitely tempt you, but its for your hair😂 #shampoo #sweetpotato #pie #earthday #tabithabrown</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7360781732666232110"/>
+    <published>2024-04-22T19:53:05+00:00</published>
   </entry>
 </feed>
