@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-04-19T20:04:59+00:00</updated>
+  <updated>2024-04-23T19:42:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7350787225216404769</id>
-    <title>MEATLESS MEATBALLS 🔥 If you don’t know how to flavor your tofu right… try this recipe!😌 🥶The meat(less)balls can be stored after baking in the freezer up to 3 months. RECIPE (3 servings, 25min prep time): -1 block (200g) firm tofu, crumbled -1 small, fine</title>
-    <updated>2024-03-26T21:28:49+00:00</updated>
-    <content>MEATLESS MEATBALLS 🔥 If you don’t know how to flavor your tofu right… try this recipe!😌 🥶The meat(less)balls can be stored after baking in the freezer up to 3 months. RECIPE (3 servings, 25min prep time): -1 block (200g) firm tofu, crumbled -1 small, fine</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7350787225216404769"/>
-    <published>2024-03-26T21:28:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7351534190099205409</id>
     <title>15min SUNDRIED TOMATO PASTA 🍝  Too lazy to cook? Then make this pasta! I also like serving it with veggies and tempeh to make it a complete meal.😋 RECIPE (1 serving, 15min prep time): -1 serving of pasta  Cook al dente and save some pasta water. -65g sun </title>
@@ -91,5 +83,13 @@
     <content>SMASHED PEA TOAST 🫛  I’m actually not a savory breakfast girlie but this made me change my mind…🤭 RECIPE (1 serving, 10min prep time): -100g frozen peas Cook 3-4mins. Then drain. -juice of 1/2 lemon -salt, pepper and garlic powder to taste Mash until it’s</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7359671673685069089"/>
     <published>2024-04-19T20:04:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7361150239698324768</id>
+    <title>TOFISH 🐟🌱 A fun way to prepare tofu…🤭 It tastes great with a subtle fish flavor and an amazing texture! 😋 Much love Maya ✨ RECIPE (2 tofish, 50min prep time): Marinade: -1/2 Cup (125ml) water -1 sheet nori, crumbled (alternatively you can use 3 Tsp dill) </title>
+    <updated>2024-04-23T19:42:33+00:00</updated>
+    <content>TOFISH 🐟🌱 A fun way to prepare tofu…🤭 It tastes great with a subtle fish flavor and an amazing texture! 😋 Much love Maya ✨ RECIPE (2 tofish, 50min prep time): Marinade: -1/2 Cup (125ml) water -1 sheet nori, crumbled (alternatively you can use 3 Tsp dill) </content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7361150239698324768"/>
+    <published>2024-04-23T19:42:33+00:00</published>
   </entry>
 </feed>
