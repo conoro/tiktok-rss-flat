@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-04-22T13:23:12+00:00</updated>
+  <updated>2024-04-23T23:22:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7354133554051304746</id>
-    <title>*Pink sparkly skirt and fairy wand optional* 🤭But for me, wearing a pair of the new @Reebok FloatZig 1 is a must! Perfect for anyone from struggle runners like me to seasoned athletes 🙌 This run hack always gets me to pick up the pace and is perfect for h</title>
-    <updated>2024-04-04T21:54:23+00:00</updated>
-    <content>*Pink sparkly skirt and fairy wand optional* 🤭But for me, wearing a pair of the new @Reebok FloatZig 1 is a must! Perfect for anyone from struggle runners like me to seasoned athletes 🙌 This run hack always gets me to pick up the pace and is perfect for h</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7354133554051304746"/>
-    <published>2024-04-04T21:54:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7355668052928826670</id>
     <title>It’s that time of year again. Will we find flowy shorts under $150 that don’t ride up our thighs?! Stay tuned for this year’s Shorts Gobbling Season content and let me know if you have recommendations 🙌 #shorts #tryonhaul #shortsseason #thickthighproblems</title>
@@ -91,5 +83,13 @@
     <content>I never sleep well away from home, so I felt like a magical sleep fairy getting to share the gift of good sleep aka @Sleep Number pillows with these out-of-town runners staying at hotels 🧚 Conditions on marathon day were not ideal, but I was thrilled to h</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7360681248127225130"/>
     <published>2024-04-22T13:23:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7361206960877866283</id>
+    <title>At least I’m consistent 😅 I used to get so down on myself if I “fell off the bandwagon” of whatever I tried to do. Now I just reflect on why I didn’t keep up, make some changes, and start again without any negativity 🤷‍♀️ #runner #runtok #startingover </title>
+    <updated>2024-04-23T23:22:48+00:00</updated>
+    <content>At least I’m consistent 😅 I used to get so down on myself if I “fell off the bandwagon” of whatever I tried to do. Now I just reflect on why I didn’t keep up, make some changes, and start again without any negativity 🤷‍♀️ #runner #runtok #startingover </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7361206960877866283"/>
+    <published>2024-04-23T23:22:48+00:00</published>
   </entry>
 </feed>

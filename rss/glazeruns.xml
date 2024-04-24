@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-04-22T18:31:21+00:00</updated>
+  <updated>2024-04-23T20:40:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7358460936249789739</id>
-    <title>550 miles seems far . #runtok #ultrarunner #ultramarathon </title>
-    <updated>2024-04-16T13:46:51+00:00</updated>
-    <content>550 miles seems far . #runtok #ultrarunner #ultramarathon </content>
-    <link href="https://tiktok.com/@glazeruns/video/7358460936249789739"/>
-    <published>2024-04-16T13:46:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7358827575172435242</id>
     <title>stay hard #runtok </title>
@@ -67,6 +59,14 @@
     <content>Hallucinations, Diarrhea,  extreme heat. Leona Divide was a real sufferfest. But I got it done. #runtok #ultrarunner #ultramarathon #ultrarunning </content>
     <link href="https://tiktok.com/@glazeruns/video/7360760652274879790"/>
     <published>2024-04-22T18:31:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7361165189661609259</id>
+    <title>Diarrhea, Hallucinations, Rattlesnakes,  Mountains, Heat, and through it all my feet kept me moving. #runtok #ultrarunner #ultramarathon </title>
+    <updated>2024-04-23T20:40:41+00:00</updated>
+    <content>Diarrhea, Hallucinations, Rattlesnakes,  Mountains, Heat, and through it all my feet kept me moving. #runtok #ultrarunner #ultramarathon </content>
+    <link href="https://tiktok.com/@glazeruns/video/7361165189661609259"/>
+    <published>2024-04-23T20:40:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
