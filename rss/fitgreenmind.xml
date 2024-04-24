@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-04-23T19:42:33+00:00</updated>
+  <updated>2024-04-24T19:41:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7351534190099205409</id>
-    <title>15min SUNDRIED TOMATO PASTA 🍝  Too lazy to cook? Then make this pasta! I also like serving it with veggies and tempeh to make it a complete meal.😋 RECIPE (1 serving, 15min prep time): -1 serving of pasta  Cook al dente and save some pasta water. -65g sun </title>
-    <updated>2024-03-28T21:47:24+00:00</updated>
-    <content>15min SUNDRIED TOMATO PASTA 🍝  Too lazy to cook? Then make this pasta! I also like serving it with veggies and tempeh to make it a complete meal.😋 RECIPE (1 serving, 15min prep time): -1 serving of pasta  Cook al dente and save some pasta water. -65g sun </content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7351534190099205409"/>
-    <published>2024-03-28T21:47:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7353359832008707360</id>
     <title>LAZY MUSHROOM PASTA 🍝  Inspired by @dr.vegan, super easy and super delicious! 😋  RECIPE (1 serving, 20min prep time): -150g mushrooms, sliced -1 small onion, sliced -a spring of thyme -1 Tsp paprika -salt to taste Mix with a drizzle of oil. -1 big Tbsp ve</title>
@@ -91,5 +83,13 @@
     <content>TOFISH 🐟🌱 A fun way to prepare tofu…🤭 It tastes great with a subtle fish flavor and an amazing texture! 😋 Much love Maya ✨ RECIPE (2 tofish, 50min prep time): Marinade: -1/2 Cup (125ml) water -1 sheet nori, crumbled (alternatively you can use 3 Tsp dill) </content>
     <link href="https://tiktok.com/@fitgreenmind/video/7361150239698324768"/>
     <published>2024-04-23T19:42:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7361521067686382880</id>
+    <title>SALSA ROMESCO CON BURNT LEEK😋 Romesco is a Catalan sauce and paired with sweet and soft leek it’s one of the best things I’ve ever made! 😮‍💨 RECIPE (4 servings, 60min prep time): -1 red pepper -4 tomatoes -a handful almonds or hazelnuts -3 cloves garlic A</title>
+    <updated>2024-04-24T19:41:33+00:00</updated>
+    <content>SALSA ROMESCO CON BURNT LEEK😋 Romesco is a Catalan sauce and paired with sweet and soft leek it’s one of the best things I’ve ever made! 😮‍💨 RECIPE (4 servings, 60min prep time): -1 red pepper -4 tomatoes -a handful almonds or hazelnuts -3 cloves garlic A</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7361521067686382880"/>
+    <published>2024-04-24T19:41:33+00:00</published>
   </entry>
 </feed>
