@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-04-23T23:22:48+00:00</updated>
+  <updated>2024-04-24T23:29:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7355668052928826670</id>
-    <title>It’s that time of year again. Will we find flowy shorts under $150 that don’t ride up our thighs?! Stay tuned for this year’s Shorts Gobbling Season content and let me know if you have recommendations 🙌 #shorts #tryonhaul #shortsseason #thickthighproblems</title>
-    <updated>2024-04-09T01:09:08+00:00</updated>
-    <content>It’s that time of year again. Will we find flowy shorts under $150 that don’t ride up our thighs?! Stay tuned for this year’s Shorts Gobbling Season content and let me know if you have recommendations 🙌 #shorts #tryonhaul #shortsseason #thickthighproblems</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7355668052928826670"/>
-    <published>2024-04-09T01:09:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7356393531709295918</id>
     <title>I have once again found myself in a pickle. Please advise. #fashion #clueless #confused #jeans </title>
@@ -91,5 +83,13 @@
     <content>At least I’m consistent 😅 I used to get so down on myself if I “fell off the bandwagon” of whatever I tried to do. Now I just reflect on why I didn’t keep up, make some changes, and start again without any negativity 🤷‍♀️ #runner #runtok #startingover </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7361206960877866283"/>
     <published>2024-04-23T23:22:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7361579640571333931</id>
+    <title>These are the Janji 3” Multi Shorts. Usually anything 3” is a no for me 🤣 Anyway, if you do go this route, they’re $78 and I would size up.  #shorts #tryonhaul #shortsseason #thickthighlife </title>
+    <updated>2024-04-24T23:29:13+00:00</updated>
+    <content>These are the Janji 3” Multi Shorts. Usually anything 3” is a no for me 🤣 Anyway, if you do go this route, they’re $78 and I would size up.  #shorts #tryonhaul #shortsseason #thickthighlife </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7361579640571333931"/>
+    <published>2024-04-24T23:29:13+00:00</published>
   </entry>
 </feed>
