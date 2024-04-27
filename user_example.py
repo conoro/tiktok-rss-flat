@@ -6,11 +6,12 @@ ms_token = os.environ.get(
     "ms_token", None
 )
 
+api = TikTokApi()
 
 async def user_example():
     async with TikTokApi() as api:
-        await api.create_sessions(ms_tokens=[ms_token], num_sessions=1, sleep_after=3)
-        user = api.user("therock")
+        await api.create_sessions(ms_tokens=[ms_token], num_sessions=1, sleep_after=3, headless=False)
+        user = api.user("iamtabithabrown")
         user_data = await user.info()
         print(user_data)
 
