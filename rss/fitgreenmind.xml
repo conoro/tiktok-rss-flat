@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-04-26T19:44:23+00:00</updated>
+  <updated>2024-04-28T18:56:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7354107426385169697</id>
-    <title>My favorite soy recipes 😇👇 Whipped tofu RECIPE (4 servings, 10min prep time): -250g firm tofu -2 Tsp oil -4 Tsp maple syrup  -juice and zest of 1/2 lemon -1 Tsp vanilla  -2 to 3 Tbsp water Blend until smooth. Use on toast as dip. It’ll last in the fridge </title>
-    <updated>2024-04-04T20:12:52+00:00</updated>
-    <content>My favorite soy recipes 😇👇 Whipped tofu RECIPE (4 servings, 10min prep time): -250g firm tofu -2 Tsp oil -4 Tsp maple syrup  -juice and zest of 1/2 lemon -1 Tsp vanilla  -2 to 3 Tbsp water Blend until smooth. Use on toast as dip. It’ll last in the fridge </content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7354107426385169697"/>
-    <published>2024-04-04T20:12:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7354842203216219425</id>
     <title>CRISPY RUCE SALAD inspired by Nam khao 🇱🇦  Nam khao is a popular salad from Laos, the crispy rice with the fresh herbs, the crunchy nuts and the tangy dressing tastes incredible! 😋 I slightly adjusted it to use ingredients I had at home. 😇 RECIPE (3 servi</title>
@@ -91,5 +83,13 @@
     <content>GREEN SPRING SALAD 🥗  It’s spring (well sometimes), so let’s make a real deal spring salad.😋 RECIPE (3 servings, 20min prep time): -1 small broccoli -150g sugar snap peas Cut in pieces. -180g pearl couscous  Cook on salted water for 9-10mins. Add the gree</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7362263956909542689"/>
     <published>2024-04-26T19:44:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7362993843228134689</id>
+    <title>HORCHATA 🇲🇽 Werbung/Ad It’s a Mexican agua fresca and perfect for Spring and summer summer! Honestly my favorite drink ever.😋 I got my rice in bulk from @KoRo you save there 5% with “fitgreenmind”. 👀 RECIPE (12 servings) -1 cup (200g) rice -4 cups (1L) wa</title>
+    <updated>2024-04-28T18:56:41+00:00</updated>
+    <content>HORCHATA 🇲🇽 Werbung/Ad It’s a Mexican agua fresca and perfect for Spring and summer summer! Honestly my favorite drink ever.😋 I got my rice in bulk from @KoRo you save there 5% with “fitgreenmind”. 👀 RECIPE (12 servings) -1 cup (200g) rice -4 cups (1L) wa</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7362993843228134689"/>
+    <published>2024-04-28T18:56:41+00:00</published>
   </entry>
 </feed>
