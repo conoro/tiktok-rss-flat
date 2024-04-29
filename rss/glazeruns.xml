@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-04-23T20:40:41+00:00</updated>
+  <updated>2024-04-29T19:35:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7358827575172435242</id>
-    <title>stay hard #runtok </title>
-    <updated>2024-04-17T13:30:04+00:00</updated>
-    <content>stay hard #runtok </content>
-    <link href="https://tiktok.com/@glazeruns/video/7358827575172435242"/>
-    <published>2024-04-17T13:30:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7359363462738300203</id>
     <title>My least favorite game for the next several months of trail running  #runtok </title>
@@ -67,6 +59,14 @@
     <content>Diarrhea, Hallucinations, Rattlesnakes,  Mountains, Heat, and through it all my feet kept me moving. #runtok #ultrarunner #ultramarathon </content>
     <link href="https://tiktok.com/@glazeruns/video/7361165189661609259"/>
     <published>2024-04-23T20:40:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7363374817803849002</id>
+    <title>I promise I'll be okay if you block me. I somehow will be able to go on with my life. Please let me know, though. Your feedback is important 😂 Smile, or you're doing it wrong.  #runtok </title>
+    <updated>2024-04-29T19:35:08+00:00</updated>
+    <content>I promise I'll be okay if you block me. I somehow will be able to go on with my life. Please let me know, though. Your feedback is important 😂 Smile, or you're doing it wrong.  #runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7363374817803849002"/>
+    <published>2024-04-29T19:35:08+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
