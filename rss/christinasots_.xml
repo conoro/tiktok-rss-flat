@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@christinasots_</id>
   <title>christinasots_ TikTok</title>
-  <updated>2024-04-19T14:02:03+00:00</updated>
+  <updated>2024-04-30T10:00:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from christinasots_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@christinasots_/video/7348808954295733536</id>
-    <title>The easiest, most delicious caramel you will ever try is this tahini caramel.  Drizzle this on toast, onto your oats, ice cream, dip dates or biscuits into it, cover baked bananas with it or spoon it directly into your mouth.  1 part runny tahini (my fave</title>
-    <updated>2024-03-21T13:32:44+00:00</updated>
-    <content>The easiest, most delicious caramel you will ever try is this tahini caramel.  Drizzle this on toast, onto your oats, ice cream, dip dates or biscuits into it, cover baked bananas with it or spoon it directly into your mouth.  1 part runny tahini (my fave</content>
-    <link href="https://tiktok.com/@christinasots_/video/7348808954295733536"/>
-    <published>2024-03-21T13:32:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7349626210500087072</id>
     <title>If you’ve ever found bits of mould on your favourite condiments and had a mini meltdown about thowing food away, then you need to try this essential hack.  Adding a thin layer of olive oil on top of your condiments creates a seal that prevents bacteria fr</title>
@@ -67,6 +59,14 @@
     <content>COCONUT PEANUT SAUCY AUBERGINE I tried a new way of cutting my aubergines to get extra flavour into them and I might never go back.  Full recipe is up now on the @mob site. This one is for their subscription platform which has some cool features you might</content>
     <link href="https://tiktok.com/@christinasots_/video/7359578138713623840"/>
     <published>2024-04-19T14:02:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@christinasots_/video/7363597701956652320</id>
+    <title>A simple tip I learned from one of my preivous head chefs on how to season properly as you cook!  I’m a recipe writer and restaurant trained chef and this is something I do every time I cook.  #cookingtip #cheflife #chefsoftiktok </title>
+    <updated>2024-04-30T10:00:09+00:00</updated>
+    <content>A simple tip I learned from one of my preivous head chefs on how to season properly as you cook!  I’m a recipe writer and restaurant trained chef and this is something I do every time I cook.  #cookingtip #cheflife #chefsoftiktok </content>
+    <link href="https://tiktok.com/@christinasots_/video/7363597701956652320"/>
+    <published>2024-04-30T10:00:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7198125871461403909</id>
