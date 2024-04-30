@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kimquindlen</id>
   <title>kimquindlen TikTok</title>
-  <updated>2024-04-17T15:36:13+00:00</updated>
+  <updated>2024-04-30T15:22:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kimquindlen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kimquindlen/video/7333275441811426606</id>
-    <title>buckle up </title>
-    <updated>2024-02-08T16:54:51+00:00</updated>
-    <content>buckle up </content>
-    <link href="https://tiktok.com/@kimquindlen/video/7333275441811426606"/>
-    <published>2024-02-08T16:54:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kimquindlen/video/7336244048648490286</id>
     <title>you’re an icon you’re perfect </title>
@@ -67,6 +59,14 @@
     <content>okay. SO. </content>
     <link href="https://tiktok.com/@kimquindlen/video/7358860101135895850"/>
     <published>2024-04-17T15:36:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kimquindlen/video/7363680861285322030</id>
+    <title>I thought we were best friends. But I guess I was wrong. </title>
+    <updated>2024-04-30T15:22:47+00:00</updated>
+    <content>I thought we were best friends. But I guess I was wrong. </content>
+    <link href="https://tiktok.com/@kimquindlen/video/7363680861285322030"/>
+    <published>2024-04-30T15:22:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kimquindlen/video/7052868933723950341</id>
