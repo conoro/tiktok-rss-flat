@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@deadpubs</id>
   <title>deadpubs TikTok</title>
-  <updated>2024-04-17T12:58:55+00:00</updated>
+  <updated>2024-05-01T12:59:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from deadpubs</subtitle>
-  <entry>
-    <id>https://tiktok.com/@deadpubs/video/7332488411611221280</id>
-    <title>A Swift One at… The King’s Head, W1G 8PJ. #pubreview #londondeadpubs #londonpub #london #pubs #pubtok #pubculture #deadpubs #londonpubs #marylebone </title>
-    <updated>2024-02-06T14:00:03+00:00</updated>
-    <content>A Swift One at… The King’s Head, W1G 8PJ. #pubreview #londondeadpubs #londonpub #london #pubs #pubtok #pubculture #deadpubs #londonpubs #marylebone </content>
-    <link href="https://tiktok.com/@deadpubs/video/7332488411611221280"/>
-    <published>2024-02-06T14:00:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@deadpubs/video/7338396547555675425</id>
     <title>A Swift One at… Moranos, HA8 6RW. #pubs #london #canonspark #englishpub #england #fypシ #uktiktok #londonpub #review #deadpubs #suburbia #londonlife </title>
@@ -91,5 +83,13 @@
     <content>A Swift One at… The London’s Pride, TW6 1EW. #heathrow #review #pubs #englishpub #london #londonlife #drinks #fyp #deadpubs #publichouse #airport </content>
     <link href="https://tiktok.com/@deadpubs/video/7358819699875908897"/>
     <published>2024-04-17T12:58:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7364014946755022112</id>
+    <title>A Swift One at… The Boston Arms, N19 5QQ. #deadpubs #northlondon #tufnellpark #review #londonlife #pubs #fyppppppppppppppppppppppp #london #booze </title>
+    <updated>2024-05-01T12:59:11+00:00</updated>
+    <content>A Swift One at… The Boston Arms, N19 5QQ. #deadpubs #northlondon #tufnellpark #review #londonlife #pubs #fyppppppppppppppppppppppp #london #booze </content>
+    <link href="https://tiktok.com/@deadpubs/video/7364014946755022112"/>
+    <published>2024-05-01T12:59:11+00:00</published>
   </entry>
 </feed>
