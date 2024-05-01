@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2024-03-31T00:00:19+00:00</updated>
+  <updated>2024-04-30T22:51:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7263977268052053290</id>
-    <title>H&amp;M purse pooper 👜👀 Come see me in MD, MI, &amp; Buffalo, NY! Link in bio for tickets 🎟️ #work #comedу #retail #standup </title>
-    <updated>2023-08-05T23:01:56+00:00</updated>
-    <content>H&amp;M purse pooper 👜👀 Come see me in MD, MI, &amp; Buffalo, NY! Link in bio for tickets 🎟️ #work #comedу #retail #standup </content>
-    <link href="https://tiktok.com/@scottseiss/video/7263977268052053290"/>
-    <published>2023-08-05T23:01:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7269172155357646126</id>
     <title>Come see me in MI, MD, &amp; Buffalo, NY! Link in bio for tickets #standup #comedу #work #michigan #maryland #buffalony </title>
@@ -75,6 +67,14 @@
     <content>Chicago! I’m doing 2 shows on April 13 at The Den Theatre 😁 Come on out! #Chicago #comedy #standup </content>
     <link href="https://tiktok.com/@scottseiss/video/7352310530645708074"/>
     <published>2024-03-31T00:00:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7363796375760538926</id>
+    <title>NJ &amp; CT! Come see me next week at The Stress Factory 😁 Tickets and more dates in the link in my bio! #standup #comedy #Connecticut #newjersey #newbrunswick #bridgeportct #work </title>
+    <updated>2024-04-30T22:51:02+00:00</updated>
+    <content>NJ &amp; CT! Come see me next week at The Stress Factory 😁 Tickets and more dates in the link in my bio! #standup #comedy #Connecticut #newjersey #newbrunswick #bridgeportct #work </content>
+    <link href="https://tiktok.com/@scottseiss/video/7363796375760538926"/>
+    <published>2024-04-30T22:51:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7081294899366202666</id>
