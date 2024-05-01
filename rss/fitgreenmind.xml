@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-04-29T19:20:15+00:00</updated>
+  <updated>2024-05-01T19:27:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7355958318696828193</id>
-    <title>CRISPY POTATO SALAD 🥔 Werbung/Ad I’m late to all kinds of trends but luckily I still tried this one because it’s fiiiire!😮‍💨 I got my vegan mayo from @KoRo where you can save 5% with “fitgreenmind”.🫶 RECIPE (3-4 servings, 45min prep time): -1kg potatoes B</title>
-    <updated>2024-04-09T19:55:17+00:00</updated>
-    <content>CRISPY POTATO SALAD 🥔 Werbung/Ad I’m late to all kinds of trends but luckily I still tried this one because it’s fiiiire!😮‍💨 I got my vegan mayo from @KoRo where you can save 5% with “fitgreenmind”.🫶 RECIPE (3-4 servings, 45min prep time): -1kg potatoes B</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7355958318696828193"/>
-    <published>2024-04-09T19:55:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7357438604894915873</id>
     <title>- What I eat in a day -post marathon edition 🏃‍♀️😋 Reminder: Vergleiche dich nicht mit anderen, jeder ist einzigartig und hat andere Bedürfnisse.🫶 Breakky: -120 ml Pflanzenmilch -1 Messlöffel veganes Proteinpulver -Zimt -1 EL gemahlene Leinsamen -3 Scheib</title>
@@ -91,5 +83,13 @@
     <content>SHAVED BANANA 🍌  This is a great dessert or even breakfast and yes, I just can’t get enough of the shaved fruit trend.😋 RECIPE (1 serving, 5min prep time): -2 Tbsp coconut yogurt -1 frozen banana -a handful roasted nuts -optional vegan coconut condensed m</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7363370995652070689"/>
     <published>2024-04-29T19:20:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7364115110614355232</id>
+    <title>I don’t have a Café yet but you can find all these recipe in my feed.😇🫶 We have: -Horchata -Green spring salad -Salsa Romesco and burnt leek -Tofu salmon -smashed pea toast -shaved frozen banana - Ich hab zwar noch kein Café, aber ihr könnt alles Nachkoch</title>
+    <updated>2024-05-01T19:27:47+00:00</updated>
+    <content>I don’t have a Café yet but you can find all these recipe in my feed.😇🫶 We have: -Horchata -Green spring salad -Salsa Romesco and burnt leek -Tofu salmon -smashed pea toast -shaved frozen banana - Ich hab zwar noch kein Café, aber ihr könnt alles Nachkoch</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7364115110614355232"/>
+    <published>2024-05-01T19:27:47+00:00</published>
   </entry>
 </feed>
