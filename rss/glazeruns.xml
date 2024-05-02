@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-01T01:50:02+00:00</updated>
+  <updated>2024-05-02T03:17:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7360475606137539882</id>
-    <title>Not my best race, not my worse. Got it done. Leona Divide 100 in the books. #runtok #ultrarunner </title>
-    <updated>2024-04-22T00:04:51+00:00</updated>
-    <content>Not my best race, not my worse. Got it done. Leona Divide 100 in the books. #runtok #ultrarunner </content>
-    <link href="https://tiktok.com/@glazeruns/video/7360475606137539882"/>
-    <published>2024-04-22T00:04:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7360475944261471534</id>
     <title>Another 100 mile buckle for the collection. Always earned, never given</title>
@@ -67,6 +59,14 @@
     <content>250 miles seems far #runtok #ultrarunner #ultramarathon </content>
     <link href="https://tiktok.com/@glazeruns/video/7363842514010508590"/>
     <published>2024-05-01T01:50:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7364236217283530027</id>
+    <title>How many KM is that? I bet it's a lot. smile, or you're doing it wrong  #runtok #cocodona250 #ultrarunner #ultramarathon </title>
+    <updated>2024-05-02T03:17:49+00:00</updated>
+    <content>How many KM is that? I bet it's a lot. smile, or you're doing it wrong  #runtok #cocodona250 #ultrarunner #ultramarathon </content>
+    <link href="https://tiktok.com/@glazeruns/video/7364236217283530027"/>
+    <published>2024-05-02T03:17:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
