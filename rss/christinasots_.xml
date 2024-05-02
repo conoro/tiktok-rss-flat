@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@christinasots_</id>
   <title>christinasots_ TikTok</title>
-  <updated>2024-04-30T10:00:09+00:00</updated>
+  <updated>2024-05-02T11:54:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from christinasots_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@christinasots_/video/7349626210500087072</id>
-    <title>If you’ve ever found bits of mould on your favourite condiments and had a mini meltdown about thowing food away, then you need to try this essential hack.  Adding a thin layer of olive oil on top of your condiments creates a seal that prevents bacteria fr</title>
-    <updated>2024-03-23T18:23:28+00:00</updated>
-    <content>If you’ve ever found bits of mould on your favourite condiments and had a mini meltdown about thowing food away, then you need to try this essential hack.  Adding a thin layer of olive oil on top of your condiments creates a seal that prevents bacteria fr</content>
-    <link href="https://tiktok.com/@christinasots_/video/7349626210500087072"/>
-    <published>2024-03-23T18:23:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7354718258735451425</id>
     <title>If you’ve never cooked a sweet potato in the microwave, then this might just become your new favorite 10 minute meal.  Load it up with veggies and chickpeas and my lime-soy tahini drizzle and you’ve got yourself a hearty, healthy, super satisfying meal in</title>
@@ -67,6 +59,14 @@
     <content>A simple tip I learned from one of my preivous head chefs on how to season properly as you cook!  I’m a recipe writer and restaurant trained chef and this is something I do every time I cook.  #cookingtip #cheflife #chefsoftiktok </content>
     <link href="https://tiktok.com/@christinasots_/video/7363597701956652320"/>
     <published>2024-04-30T10:00:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@christinasots_/video/7364369418018753824</id>
+    <title>How To Vegan Ep.8: All About Tempeh!  This is a perfect intro to tempeh recipe: shiitake and crumbled tempeh with saucy tahini noodles. The full recipe is on my website or search for https://www.christina-soteriou.com/recipes/shiitake-crumbled-tempeh-sauc</title>
+    <updated>2024-05-02T11:54:43+00:00</updated>
+    <content>How To Vegan Ep.8: All About Tempeh!  This is a perfect intro to tempeh recipe: shiitake and crumbled tempeh with saucy tahini noodles. The full recipe is on my website or search for https://www.christina-soteriou.com/recipes/shiitake-crumbled-tempeh-sauc</content>
+    <link href="https://tiktok.com/@christinasots_/video/7364369418018753824"/>
+    <published>2024-05-02T11:54:43+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7198125871461403909</id>
