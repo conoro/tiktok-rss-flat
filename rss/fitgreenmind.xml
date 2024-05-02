@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-01T19:27:47+00:00</updated>
+  <updated>2024-05-02T19:27:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7357438604894915873</id>
-    <title>- What I eat in a day -post marathon edition 🏃‍♀️😋 Reminder: Vergleiche dich nicht mit anderen, jeder ist einzigartig und hat andere Bedürfnisse.🫶 Breakky: -120 ml Pflanzenmilch -1 Messlöffel veganes Proteinpulver -Zimt -1 EL gemahlene Leinsamen -3 Scheib</title>
-    <updated>2024-04-13T19:39:33+00:00</updated>
-    <content>- What I eat in a day -post marathon edition 🏃‍♀️😋 Reminder: Vergleiche dich nicht mit anderen, jeder ist einzigartig und hat andere Bedürfnisse.🫶 Breakky: -120 ml Pflanzenmilch -1 Messlöffel veganes Proteinpulver -Zimt -1 EL gemahlene Leinsamen -3 Scheib</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7357438604894915873"/>
-    <published>2024-04-13T19:39:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7358181379777056032</id>
     <title>CHEUNG FUN (hack) 😋 Cheung fun in China or Bánh cuốn in Vietnam are ultra thin sheets of rice noodles that can be filled with various fillings and topped with different sauces… perfect for summer!🫶 RECIPE (6 rolls, 25min prep time): -250g of your favorite</title>
@@ -91,5 +83,13 @@
     <content>I don’t have a Café yet but you can find all these recipe in my feed.😇🫶 We have: -Horchata -Green spring salad -Salsa Romesco and burnt leek -Tofu salmon -smashed pea toast -shaved frozen banana - Ich hab zwar noch kein Café, aber ihr könnt alles Nachkoch</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7364115110614355232"/>
     <published>2024-05-01T19:27:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7364486207750835489</id>
+    <title>VERY UNAUTHENTIC BUA LOI 🍚🇹🇭  I had some leftover rice and remembered that I had a delicious “rice balls dessert” in Thailand. So here it is: unauthentic but delicious! 😋  RECIPE (2 servings, 15min prep time): -1/2 can (200ml) coconut milk -100ml water -a</title>
+    <updated>2024-05-02T19:27:50+00:00</updated>
+    <content>VERY UNAUTHENTIC BUA LOI 🍚🇹🇭  I had some leftover rice and remembered that I had a delicious “rice balls dessert” in Thailand. So here it is: unauthentic but delicious! 😋  RECIPE (2 servings, 15min prep time): -1/2 can (200ml) coconut milk -100ml water -a</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7364486207750835489"/>
+    <published>2024-05-02T19:27:50+00:00</published>
   </entry>
 </feed>
