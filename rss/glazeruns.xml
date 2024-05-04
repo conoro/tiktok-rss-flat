@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-03T03:52:40+00:00</updated>
+  <updated>2024-05-04T03:13:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7360760652274879790</id>
-    <title>Hallucinations, Diarrhea,  extreme heat. Leona Divide was a real sufferfest. But I got it done. #runtok #ultrarunner #ultramarathon #ultrarunning </title>
-    <updated>2024-04-22T18:31:21+00:00</updated>
-    <content>Hallucinations, Diarrhea,  extreme heat. Leona Divide was a real sufferfest. But I got it done. #runtok #ultrarunner #ultramarathon #ultrarunning </content>
-    <link href="https://tiktok.com/@glazeruns/video/7360760652274879790"/>
-    <published>2024-04-22T18:31:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7361165189661609259</id>
     <title>Diarrhea, Hallucinations, Rattlesnakes,  Mountains, Heat, and through it all my feet kept me moving. #runtok #ultrarunner #ultramarathon </title>
@@ -67,6 +59,14 @@
     <content>getting scared. feels good  #runtok #cocodona250 #ultrarunner #ultramarathon </content>
     <link href="https://tiktok.com/@glazeruns/video/7364616270832061742"/>
     <published>2024-05-03T03:52:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7364977358262029610</id>
+    <title>don't look at my tape #runtok #cocodona250 #ultrarunner #ultramarathon </title>
+    <updated>2024-05-04T03:13:49+00:00</updated>
+    <content>don't look at my tape #runtok #cocodona250 #ultrarunner #ultramarathon </content>
+    <link href="https://tiktok.com/@glazeruns/video/7364977358262029610"/>
+    <published>2024-05-04T03:13:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
