@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-04T03:13:49+00:00</updated>
+  <updated>2024-05-04T19:35:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7361165189661609259</id>
-    <title>Diarrhea, Hallucinations, Rattlesnakes,  Mountains, Heat, and through it all my feet kept me moving. #runtok #ultrarunner #ultramarathon </title>
-    <updated>2024-04-23T20:40:41+00:00</updated>
-    <content>Diarrhea, Hallucinations, Rattlesnakes,  Mountains, Heat, and through it all my feet kept me moving. #runtok #ultrarunner #ultramarathon </content>
-    <link href="https://tiktok.com/@glazeruns/video/7361165189661609259"/>
-    <published>2024-04-23T20:40:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7363481317515775278</id>
-    <title>Seems easy. Smile, or you're doing it wrong. . #runtok #cocodona250 </title>
-    <updated>2024-04-30T02:28:23+00:00</updated>
-    <content>Seems easy. Smile, or you're doing it wrong. . #runtok #cocodona250 </content>
-    <link href="https://tiktok.com/@glazeruns/video/7363481317515775278"/>
-    <published>2024-04-30T02:28:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7363802987040410926</id>
     <title>Follow @Max for more awesome running content. He's got a big future. #runtok #ultrarunner #ultramarathon </title>
@@ -67,6 +51,22 @@
     <content>don't look at my tape #runtok #cocodona250 #ultrarunner #ultramarathon </content>
     <link href="https://tiktok.com/@glazeruns/video/7364977358262029610"/>
     <published>2024-05-04T03:13:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7365209354842164522</id>
+    <title>Happy International Firefighter's Day  #firefighter </title>
+    <updated>2024-05-04T18:14:07+00:00</updated>
+    <content>Happy International Firefighter's Day  #firefighter </content>
+    <link href="https://tiktok.com/@glazeruns/video/7365209354842164522"/>
+    <published>2024-05-04T18:14:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7365230216085802286</id>
+    <title>Last year memories getting me ready for Monday's sufferfest  #cocodona250 ##ultramarathon #runtok </title>
+    <updated>2024-05-04T19:35:07+00:00</updated>
+    <content>Last year memories getting me ready for Monday's sufferfest  #cocodona250 ##ultramarathon #runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7365230216085802286"/>
+    <published>2024-05-04T19:35:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
