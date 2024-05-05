@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-05T04:32:05+00:00</updated>
+  <updated>2024-05-05T15:59:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7364236217283530027</id>
-    <title>How many KM is that? I bet it's a lot. smile, or you're doing it wrong  #runtok #cocodona250 #ultrarunner #ultramarathon </title>
-    <updated>2024-05-02T03:17:49+00:00</updated>
-    <content>How many KM is that? I bet it's a lot. smile, or you're doing it wrong  #runtok #cocodona250 #ultrarunner #ultramarathon </content>
-    <link href="https://tiktok.com/@glazeruns/video/7364236217283530027"/>
-    <published>2024-05-02T03:17:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7364616270832061742</id>
     <title>getting scared. feels good  #runtok #cocodona250 #ultrarunner #ultramarathon </title>
@@ -67,6 +59,14 @@
     <content>The smell was sour #runtok #ultramarathon #ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7365368599885696298"/>
     <published>2024-05-05T04:32:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7365545775041989930</id>
+    <title>Don't look at the chaos around me. 250 miles is far #runtok #ultramarathon #ultrarunner </title>
+    <updated>2024-05-05T15:59:39+00:00</updated>
+    <content>Don't look at the chaos around me. 250 miles is far #runtok #ultramarathon #ultrarunner </content>
+    <link href="https://tiktok.com/@glazeruns/video/7365545775041989930"/>
+    <published>2024-05-05T15:59:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
