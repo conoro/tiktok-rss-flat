@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-04-30T19:01:26+00:00</updated>
+  <updated>2024-05-06T02:35:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7355204262281907499</id>
-    <title>Ok family let me show yall how to find my @target food items❤️. Remember all items will not be available today, but today is the day they begin to be placed permanently in store!  So if you don’t see it today don’t worry, it’s on the way ❤️. Love and appr</title>
-    <updated>2024-04-07T19:09:26+00:00</updated>
-    <content>Ok family let me show yall how to find my @target food items❤️. Remember all items will not be available today, but today is the day they begin to be placed permanently in store!  So if you don’t see it today don’t worry, it’s on the way ❤️. Love and appr</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7355204262281907499"/>
-    <published>2024-04-07T19:09:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7356648967226051886</id>
     <title>The way my husband be trying me 😏 #tabithabrown </title>
@@ -91,5 +83,13 @@
     <content>Morning TSA:  God will continue to get all the GLORY over here!! In Jesus name… 🙏🏾Amen #tabithabrown #blessed</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7363737199013006638"/>
     <published>2024-04-30T19:01:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7365709649003154730</id>
+    <title>Have you ever had nachos made out of pecans? Well baby come on in here and get into this recipe with me❤️ #tabithabrown #nachos #recipe #plantbased #glutenfree #vegan #pecans </title>
+    <updated>2024-05-06T02:35:28+00:00</updated>
+    <content>Have you ever had nachos made out of pecans? Well baby come on in here and get into this recipe with me❤️ #tabithabrown #nachos #recipe #plantbased #glutenfree #vegan #pecans </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7365709649003154730"/>
+    <published>2024-05-06T02:35:28+00:00</published>
   </entry>
 </feed>
