@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-05T17:54:10+00:00</updated>
+  <updated>2024-05-06T19:19:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7359293602033306912</id>
-    <title>MISO EGGPLANT 🍆  This is how I come up with most of my recipes… using what I‘ve got, eye balling, just trying to make things taste good.😇 RECIPE (1 serving, 20min prep time): -1 eggplant Cut in quarters, then score diagonally. Brush with oil and add some </title>
-    <updated>2024-04-18T19:37:51+00:00</updated>
-    <content>MISO EGGPLANT 🍆  This is how I come up with most of my recipes… using what I‘ve got, eye balling, just trying to make things taste good.😇 RECIPE (1 serving, 20min prep time): -1 eggplant Cut in quarters, then score diagonally. Brush with oil and add some </content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7359293602033306912"/>
-    <published>2024-04-18T19:37:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7359671673685069089</id>
     <title>SMASHED PEA TOAST 🫛  I’m actually not a savory breakfast girlie but this made me change my mind…🤭 RECIPE (1 serving, 10min prep time): -100g frozen peas Cook 3-4mins. Then drain. -juice of 1/2 lemon -salt, pepper and garlic powder to taste Mash until it’s</title>
@@ -91,5 +83,13 @@
     <content>SUPER GREEN OIL🌿 This oil does not only look great and make you feel like a professional chef, it‘s also a true flavor bomb and can be used as topping, for dressing or all kinds of sauces!😋 RECIPE (1 jar, 15min prep time): -90g herbs/herb stems of your ch</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7365575325629041952"/>
     <published>2024-05-05T17:54:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7365968376331636000</id>
+    <title>GREEN SPRING SOUP 🍜  This recipe uses inspired by @sarahsveganrecipe, easy, delicious, can be eaten cold or warm and it’s just perfect for spring! 😋 RECIPE (1 serving, 15min prep time): Broth: -a bunch of cilantro -1 clove garlic -a thumbsize piece of gin</title>
+    <updated>2024-05-06T19:19:25+00:00</updated>
+    <content>GREEN SPRING SOUP 🍜  This recipe uses inspired by @sarahsveganrecipe, easy, delicious, can be eaten cold or warm and it’s just perfect for spring! 😋 RECIPE (1 serving, 15min prep time): Broth: -a bunch of cilantro -1 clove garlic -a thumbsize piece of gin</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7365968376331636000"/>
+    <published>2024-05-06T19:19:25+00:00</published>
   </entry>
 </feed>
