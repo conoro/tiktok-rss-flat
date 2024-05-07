@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-01T15:44:59+00:00</updated>
+  <updated>2024-05-07T00:20:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7359352039169838382</id>
-    <title>This is a public service announcement: If I’m cheering for you at a marathon (or anything really) I’m prepared for all the sweaty hugs! So many runners apologized when we hugged during the Boston Marathon. I welcome all the hugs! No need to apologize 🥹 RA</title>
-    <updated>2024-04-18T23:24:43+00:00</updated>
-    <content>This is a public service announcement: If I’m cheering for you at a marathon (or anything really) I’m prepared for all the sweaty hugs! So many runners apologized when we hugged during the Boston Marathon. I welcome all the hugs! No need to apologize 🥹 RA</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7359352039169838382"/>
-    <published>2024-04-18T23:24:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7359715428979002667</id>
     <title>Brb gotta go steam some more cauliflower because I’m in a glass case of emotion idk why but it works 🤷‍♀️ #motivationtips #workoutmotivation #helpfultips </title>
@@ -91,5 +83,13 @@
     <content>#AD What would your strategy be to make sure YOU get the last @CLIF BAR?! Dan and I love having our favorite flavors in stock to help us fuel for longer workouts especially when we’re low on time aka always! I love the flavors, plant-based protein, fat (t</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7364056423975685419"/>
     <published>2024-05-01T15:44:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7366045979956628782</id>
+    <title>Here’s your motivation to get that workout in despite the weather. I always feel way more accomplished after pushing through less than ideal conditions 💪 #running #runmotivation </title>
+    <updated>2024-05-07T00:20:33+00:00</updated>
+    <content>Here’s your motivation to get that workout in despite the weather. I always feel way more accomplished after pushing through less than ideal conditions 💪 #running #runmotivation </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7366045979956628782"/>
+    <published>2024-05-07T00:20:33+00:00</published>
   </entry>
 </feed>
