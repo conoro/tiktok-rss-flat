@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-06T19:19:25+00:00</updated>
+  <updated>2024-05-08T19:24:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7359671673685069089</id>
-    <title>SMASHED PEA TOAST 🫛  I’m actually not a savory breakfast girlie but this made me change my mind…🤭 RECIPE (1 serving, 10min prep time): -100g frozen peas Cook 3-4mins. Then drain. -juice of 1/2 lemon -salt, pepper and garlic powder to taste Mash until it’s</title>
-    <updated>2024-04-19T20:04:59+00:00</updated>
-    <content>SMASHED PEA TOAST 🫛  I’m actually not a savory breakfast girlie but this made me change my mind…🤭 RECIPE (1 serving, 10min prep time): -100g frozen peas Cook 3-4mins. Then drain. -juice of 1/2 lemon -salt, pepper and garlic powder to taste Mash until it’s</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7359671673685069089"/>
-    <published>2024-04-19T20:04:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7361150239698324768</id>
     <title>TOFISH 🐟🌱 A fun way to prepare tofu…🤭 It tastes great with a subtle fish flavor and an amazing texture! 😋 Much love Maya ✨ RECIPE (2 tofish, 50min prep time): Marinade: -1/2 Cup (125ml) water -1 sheet nori, crumbled (alternatively you can use 3 Tsp dill) </title>
@@ -91,5 +83,13 @@
     <content>GREEN SPRING SOUP 🍜  This recipe uses inspired by @sarahsveganrecipe, easy, delicious, can be eaten cold or warm and it’s just perfect for spring! 😋 RECIPE (1 serving, 15min prep time): Broth: -a bunch of cilantro -1 clove garlic -a thumbsize piece of gin</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7365968376331636000"/>
     <published>2024-05-06T19:19:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7366711903604919584</id>
+    <title>SOY MILK RICOTTA 🥛  I saw @itslizmiu making this and I‘m amazed how creamy it turned out! Yes, basically this is how you make tofu because u is basically „soy milk cheese“ but we’re not pressing it too much, so it stays creamy.😋 RECIPE (4 serving, 30min p</title>
+    <updated>2024-05-08T19:24:41+00:00</updated>
+    <content>SOY MILK RICOTTA 🥛  I saw @itslizmiu making this and I‘m amazed how creamy it turned out! Yes, basically this is how you make tofu because u is basically „soy milk cheese“ but we’re not pressing it too much, so it stays creamy.😋 RECIPE (4 serving, 30min p</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7366711903604919584"/>
+    <published>2024-05-08T19:24:41+00:00</published>
   </entry>
 </feed>
