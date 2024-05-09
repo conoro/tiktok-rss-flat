@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-08T21:48:24+00:00</updated>
+  <updated>2024-05-09T15:44:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7365230216085802286</id>
-    <title>Last year memories getting me ready for Monday's sufferfest  #cocodona250 ##ultramarathon #runtok </title>
-    <updated>2024-05-04T19:35:07+00:00</updated>
-    <content>Last year memories getting me ready for Monday's sufferfest  #cocodona250 ##ultramarathon #runtok </content>
-    <link href="https://tiktok.com/@glazeruns/video/7365230216085802286"/>
-    <published>2024-05-04T19:35:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7365308030797286699</id>
     <title>Still haven't packed, but I finished my 14 page paper. baby steps #cocodona250 #runtok #ultramarathon </title>
@@ -67,6 +59,14 @@
     <content>almost there  ##cocodona250 </content>
     <link href="https://tiktok.com/@glazeruns/video/7366748926650633518"/>
     <published>2024-05-08T21:48:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7367026180916006186</id>
+    <title>send it #cocodona250 #runtok </title>
+    <updated>2024-05-09T15:44:18+00:00</updated>
+    <content>send it #cocodona250 #runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7367026180916006186"/>
+    <published>2024-05-09T15:44:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
