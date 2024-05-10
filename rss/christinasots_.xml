@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@christinasots_</id>
   <title>christinasots_ TikTok</title>
-  <updated>2024-05-06T15:19:31+00:00</updated>
+  <updated>2024-05-10T14:50:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from christinasots_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@christinasots_/video/7355813048159882529</id>
-    <title>CRUNCHY, ZESTY SPRING GREEN SALAD 💚 The weather might not be screaming Spring but we’re manifesting it with this herby, dijon-y, crisp green salad on a yoghurt base. Add a grain like barley or quinoa to bulk it up if you like!  P.S I always keep a bag of </title>
-    <updated>2024-04-09T10:31:35+00:00</updated>
-    <content>CRUNCHY, ZESTY SPRING GREEN SALAD 💚 The weather might not be screaming Spring but we’re manifesting it with this herby, dijon-y, crisp green salad on a yoghurt base. Add a grain like barley or quinoa to bulk it up if you like!  P.S I always keep a bag of </content>
-    <link href="https://tiktok.com/@christinasots_/video/7355813048159882529"/>
-    <published>2024-04-09T10:31:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7357288240417623329</id>
     <title>I went to @mildredsrestaurants with my sister to try the new @everleafdrinks non-alcoholic Sakura cocktail and I loved it so much that I wanted to recreate it at home!  So they kindly sent me a bottle of the Mountain flavour aperitif and I just added some</title>
@@ -67,6 +59,14 @@
     <content>QUICK PICKLED RED ONIONS!  My most used condiment by far. The easiest and quickest way to add some crunch and zest to any dish.  Let me know your fave way to use it!  1 red onion 100ml apple cider vinegar  1 - 1 1/2 tsp flakey sea salt  1 tsp sugar or aga</content>
     <link href="https://tiktok.com/@christinasots_/video/7365906546007608608"/>
     <published>2024-05-06T15:19:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@christinasots_/video/7367383488762334497</id>
+    <title>Here are 4 things I eat every single day without fail:  1. Something fermented: This is my top gut health habit! It’s usually kimchi because I love it on toast with peanut butter, in salads or with noodles. Other things I’ll eat are fermented cashew chees</title>
+    <updated>2024-05-10T14:50:46+00:00</updated>
+    <content>Here are 4 things I eat every single day without fail:  1. Something fermented: This is my top gut health habit! It’s usually kimchi because I love it on toast with peanut butter, in salads or with noodles. Other things I’ll eat are fermented cashew chees</content>
+    <link href="https://tiktok.com/@christinasots_/video/7367383488762334497"/>
+    <published>2024-05-10T14:50:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7198125871461403909</id>
