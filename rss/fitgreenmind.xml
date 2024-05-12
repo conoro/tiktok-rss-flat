@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-10T21:14:07+00:00</updated>
+  <updated>2024-05-12T19:23:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7361521067686382880</id>
-    <title>SALSA ROMESCO CON BURNT LEEK😋 Romesco is a Catalan sauce and paired with sweet and soft leek it’s one of the best things I’ve ever made! 😮‍💨 RECIPE (4 servings, 60min prep time): -1 red pepper -4 tomatoes -a handful almonds or hazelnuts -3 cloves garlic A</title>
-    <updated>2024-04-24T19:41:33+00:00</updated>
-    <content>SALSA ROMESCO CON BURNT LEEK😋 Romesco is a Catalan sauce and paired with sweet and soft leek it’s one of the best things I’ve ever made! 😮‍💨 RECIPE (4 servings, 60min prep time): -1 red pepper -4 tomatoes -a handful almonds or hazelnuts -3 cloves garlic A</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7361521067686382880"/>
-    <published>2024-04-24T19:41:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7362263956909542689</id>
     <title>GREEN SPRING SALAD 🥗  It’s spring (well sometimes), so let’s make a real deal spring salad.😋 RECIPE (3 servings, 20min prep time): -1 small broccoli -150g sugar snap peas Cut in pieces. -180g pearl couscous  Cook on salted water for 9-10mins. Add the gree</title>
@@ -91,5 +83,13 @@
     <content>ORIGINAL PFANNKUCHEN 🥞  Here’s how I like my Pfannkuchen!😎 RECIPE (1 serving -&gt; 4 Pfannkuchen, 15min prep time): -70g flour -a pinch of sugar  -a pinch of salt -100ml milk -40ml sparkling water (or more milk) Whisk until it’s a smooth batter. Add a ladlef</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7367482266945211681"/>
     <published>2024-05-10T21:14:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7368195878202395936</id>
+    <title>KOHLRABI STEAKS 😋 Easy, delicious and you can also prepare them on a BBQ.😌 RECIPE (3 serve, 3in prep time): -2 kohlrabi Peel and cut in steaks and score them  -2 Tbsp olive oil -1 Tsp maple syrup  -1 Tsp soy sauce -1 Tsp paprika -salt and pepper to taste </title>
+    <updated>2024-05-12T19:23:15+00:00</updated>
+    <content>KOHLRABI STEAKS 😋 Easy, delicious and you can also prepare them on a BBQ.😌 RECIPE (3 serve, 3in prep time): -2 kohlrabi Peel and cut in steaks and score them  -2 Tbsp olive oil -1 Tsp maple syrup  -1 Tsp soy sauce -1 Tsp paprika -salt and pepper to taste </content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7368195878202395936"/>
+    <published>2024-05-12T19:23:15+00:00</published>
   </entry>
 </feed>
