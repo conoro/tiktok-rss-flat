@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-11T02:13:55+00:00</updated>
+  <updated>2024-05-11T20:42:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7366532147131370798</id>
-    <title>no sleep til flagstaff  #cocodona250 #runtok </title>
-    <updated>2024-05-08T07:48:05+00:00</updated>
-    <content>no sleep til flagstaff  #cocodona250 #runtok </content>
-    <link href="https://tiktok.com/@glazeruns/video/7366532147131370798"/>
-    <published>2024-05-08T07:48:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7366748926650633518</id>
     <title>almost there  ##cocodona250 </title>
@@ -67,6 +59,14 @@
     <content>my feet hurt so badly #runtok #ultramarathon #cocodona250 </content>
     <link href="https://tiktok.com/@glazeruns/video/7367559521960512810"/>
     <published>2024-05-11T02:13:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7367845179409091882</id>
+    <title>Cocodona 250 miler ✅️ What did I win? This fancy belt buckle. 4th year in a row with no support or crew. Just out there figuring it out by myself. #cocodona250 #runtok #ultramarathon </title>
+    <updated>2024-05-11T20:42:28+00:00</updated>
+    <content>Cocodona 250 miler ✅️ What did I win? This fancy belt buckle. 4th year in a row with no support or crew. Just out there figuring it out by myself. #cocodona250 #runtok #ultramarathon </content>
+    <link href="https://tiktok.com/@glazeruns/video/7367845179409091882"/>
+    <published>2024-05-11T20:42:28+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7068238595655732526</id>
