@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-05-08T01:28:54+00:00</updated>
+  <updated>2024-05-13T17:38:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7358829570923023659</id>
-    <title>I remember before we got married I practiced saying and writing Tabitha Brown and it would give me butterflies 🦋. I couldn’t wait to carry his name permanently ❤️. I couldn’t wait to say “My husband”🥰❤️. So Baaaabbbbbyyyy when he answered this question la</title>
-    <updated>2024-04-17T13:37:49+00:00</updated>
-    <content>I remember before we got married I practiced saying and writing Tabitha Brown and it would give me butterflies 🦋. I couldn’t wait to carry his name permanently ❤️. I couldn’t wait to say “My husband”🥰❤️. So Baaaabbbbbyyyy when he answered this question la</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7358829570923023659"/>
-    <published>2024-04-17T13:37:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7359177649119382827</id>
     <title>Greensboro NC you know I had to stop by @target to check out all things “Tab”and of course leave a little love!!! I hope yall enjoy❤️. Thank you for your support ❤️ #tabithabrown </title>
@@ -91,5 +83,13 @@
     <content>If yall need gift ideas for Mothers day I got you covered ❤️ #tabithabrown #gifts </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7366434655228185899"/>
     <published>2024-05-08T01:28:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7368539862791753006</id>
+    <title>Morning TSA:  Don’t give anyone control over your mind today ❤️. Love you!! #tabithabrown #spreadlove </title>
+    <updated>2024-05-13T17:38:15+00:00</updated>
+    <content>Morning TSA:  Don’t give anyone control over your mind today ❤️. Love you!! #tabithabrown #spreadlove </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7368539862791753006"/>
+    <published>2024-05-13T17:38:15+00:00</published>
   </entry>
 </feed>
