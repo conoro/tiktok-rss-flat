@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-07T00:20:33+00:00</updated>
+  <updated>2024-05-14T00:36:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7359715428979002667</id>
-    <title>Brb gotta go steam some more cauliflower because I’m in a glass case of emotion idk why but it works 🤷‍♀️ #motivationtips #workoutmotivation #helpfultips </title>
-    <updated>2024-04-19T22:55:08+00:00</updated>
-    <content>Brb gotta go steam some more cauliflower because I’m in a glass case of emotion idk why but it works 🤷‍♀️ #motivationtips #workoutmotivation #helpfultips </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7359715428979002667"/>
-    <published>2024-04-19T22:55:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7360491256813800746</id>
     <title>It wasn’t hard to find people who wanted @Sleep Number pillows, but it took a bit more effort to find runners who agreed for me to follow up with them during the marathon about how they slept! Better sleep helps with performance, so this was a fun/playful</title>
@@ -91,5 +83,13 @@
     <content>Here’s your motivation to get that workout in despite the weather. I always feel way more accomplished after pushing through less than ideal conditions 💪 #running #runmotivation </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7366045979956628782"/>
     <published>2024-05-07T00:20:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7368647560665369902</id>
+    <title>Does the end bother you? 😆 Would you run to an even 3 miles or stop when time is up? Month 1 of trying to run far again is underway! #running #runwithme #vlog  ⌚️ Garmin 165 Music 👟 Reebok Float Zig 1 🎵 Shokz OpenRun Pro</title>
+    <updated>2024-05-14T00:36:07+00:00</updated>
+    <content>Does the end bother you? 😆 Would you run to an even 3 miles or stop when time is up? Month 1 of trying to run far again is underway! #running #runwithme #vlog  ⌚️ Garmin 165 Music 👟 Reebok Float Zig 1 🎵 Shokz OpenRun Pro</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7368647560665369902"/>
+    <published>2024-05-14T00:36:07+00:00</published>
   </entry>
 </feed>
