@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-05-06T23:57:50+00:00</updated>
+  <updated>2024-05-14T18:28:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7345290063711980832</id>
-    <title>CUCUMBER SESAME SALAD 🥒(Sunomono-style) marinated in a deliciously sweet and tangy dressing✨  • INGREDIENTS • 4 small cucumbers, thinly sliced 1/4 tsp sea salt 3 Tbsp (45ml) rice vinegar 1 Tbsp (15ml) sesame oil 1 Tbsp (15ml) soy sauce 1 tsp maple syrup (</title>
-    <updated>2024-03-12T01:57:08+00:00</updated>
-    <content>CUCUMBER SESAME SALAD 🥒(Sunomono-style) marinated in a deliciously sweet and tangy dressing✨  • INGREDIENTS • 4 small cucumbers, thinly sliced 1/4 tsp sea salt 3 Tbsp (45ml) rice vinegar 1 Tbsp (15ml) sesame oil 1 Tbsp (15ml) soy sauce 1 tsp maple syrup (</content>
-    <link href="https://tiktok.com/@thetastyk/video/7345290063711980832"/>
-    <published>2024-03-12T01:57:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7345625027997338912</id>
     <title>BLUEBERRY OVERNIGHT OATS 🫐💜 are my favorite new breakfast obsession! Absolutely in love with the color, texture and taste of these! • INGREDIENTS • (serves 3) 1.5 cups rolled oats 3 Tbsp chia seeds 3 Tbsp hemp seeds 3 Tbsp slivered almonds 2 Tbsp raisins </title>
@@ -67,6 +59,14 @@
     <content>Here’s your monthly reminder to spend more time offline and enjoy mother nature! 🌞🌿 Earlier this year, we had the most magical weekend at this secluded yurt in the middle of nowhere, enjoying starry nights, lush greenery and breathtaking sunsets. 🛖 If cam</content>
     <link href="https://tiktok.com/@thetastyk/video/7366040091648642337"/>
     <published>2024-05-06T23:57:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7368924047591083297</id>
+    <title>HOMEMADE FERMENTED VEGGIES 🫙🥬🥕 so much cheaper than store-bought, easy to make, rich in probiotics and beneficial for your gut! ❤️ • INGREDIENTS • 1 medium head white cabbage, cut into chunks 5 medium carrots, peeled and sliced 8 celery stalks, cut into c</title>
+    <updated>2024-05-14T18:28:53+00:00</updated>
+    <content>HOMEMADE FERMENTED VEGGIES 🫙🥬🥕 so much cheaper than store-bought, easy to make, rich in probiotics and beneficial for your gut! ❤️ • INGREDIENTS • 1 medium head white cabbage, cut into chunks 5 medium carrots, peeled and sliced 8 celery stalks, cut into c</content>
+    <link href="https://tiktok.com/@thetastyk/video/7368924047591083297"/>
+    <published>2024-05-14T18:28:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>
