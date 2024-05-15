@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-14T00:36:07+00:00</updated>
+  <updated>2024-05-15T00:44:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7360491256813800746</id>
-    <title>It wasn’t hard to find people who wanted @Sleep Number pillows, but it took a bit more effort to find runners who agreed for me to follow up with them during the marathon about how they slept! Better sleep helps with performance, so this was a fun/playful</title>
-    <updated>2024-04-22T01:05:39+00:00</updated>
-    <content>It wasn’t hard to find people who wanted @Sleep Number pillows, but it took a bit more effort to find runners who agreed for me to follow up with them during the marathon about how they slept! Better sleep helps with performance, so this was a fun/playful</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7360491256813800746"/>
-    <published>2024-04-22T01:05:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7360681248127225130</id>
     <title>I never sleep well away from home, so I felt like a magical sleep fairy getting to share the gift of good sleep aka @Sleep Number pillows with these out-of-town runners staying at hotels 🧚 Conditions on marathon day were not ideal, but I was thrilled to h</title>
@@ -91,5 +83,13 @@
     <content>Does the end bother you? 😆 Would you run to an even 3 miles or stop when time is up? Month 1 of trying to run far again is underway! #running #runwithme #vlog  ⌚️ Garmin 165 Music 👟 Reebok Float Zig 1 🎵 Shokz OpenRun Pro</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7368647560665369902"/>
     <published>2024-05-14T00:36:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7369020710074846507</id>
+    <title>I run in spandex shorts, so when I’m not running I want flowy shorts! I tried these POPFLEX shorts despite the spandex layer underneath because a lot of you were curious about them. The price point is $59. Let me know what else I should try! #shorts #tryo</title>
+    <updated>2024-05-15T00:44:09+00:00</updated>
+    <content>I run in spandex shorts, so when I’m not running I want flowy shorts! I tried these POPFLEX shorts despite the spandex layer underneath because a lot of you were curious about them. The price point is $59. Let me know what else I should try! #shorts #tryo</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7369020710074846507"/>
+    <published>2024-05-15T00:44:09+00:00</published>
   </entry>
 </feed>
