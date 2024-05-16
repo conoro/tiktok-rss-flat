@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-13T19:31:17+00:00</updated>
+  <updated>2024-05-15T21:37:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7362993843228134689</id>
-    <title>HORCHATA 🇲🇽 Werbung/Ad It’s a Mexican agua fresca and perfect for Spring and summer summer! Honestly my favorite drink ever.😋 I got my rice in bulk from @KoRo you save there 5% with “fitgreenmind”. 👀 RECIPE (12 servings) -1 cup (200g) rice -4 cups (1L) wa</title>
-    <updated>2024-04-28T18:56:41+00:00</updated>
-    <content>HORCHATA 🇲🇽 Werbung/Ad It’s a Mexican agua fresca and perfect for Spring and summer summer! Honestly my favorite drink ever.😋 I got my rice in bulk from @KoRo you save there 5% with “fitgreenmind”. 👀 RECIPE (12 servings) -1 cup (200g) rice -4 cups (1L) wa</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7362993843228134689"/>
-    <published>2024-04-28T18:56:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7363370995652070689</id>
     <title>SHAVED BANANA 🍌  This is a great dessert or even breakfast and yes, I just can’t get enough of the shaved fruit trend.😋 RECIPE (1 serving, 5min prep time): -2 Tbsp coconut yogurt -1 frozen banana -a handful roasted nuts -optional vegan coconut condensed m</title>
@@ -91,5 +83,13 @@
     <content>Da kommt was auf euch zu…👀 Ich bin schon ein biiiisschen aufgeregt, wer kann erraten, was es wird?🤭👇 - Something’s coming your way and I’m a liiiittle excited… can you guess what it is?🤭👇</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7368569035438509344"/>
     <published>2024-05-13T19:31:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7369343839552687392</id>
+    <title>LET’S TALK ABOUT SAUCES! 👩‍🍳 Sauces and condiments are one of the key components for making delicious food!  So in the nexts days I’ll share with you my Top 5 sauces I like to prep and keep in the fridge to have them on hand whenever I need them.😎 - SPREC</title>
+    <updated>2024-05-15T21:37:57+00:00</updated>
+    <content>LET’S TALK ABOUT SAUCES! 👩‍🍳 Sauces and condiments are one of the key components for making delicious food!  So in the nexts days I’ll share with you my Top 5 sauces I like to prep and keep in the fridge to have them on hand whenever I need them.😎 - SPREC</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7369343839552687392"/>
+    <published>2024-05-15T21:37:57+00:00</published>
   </entry>
 </feed>
