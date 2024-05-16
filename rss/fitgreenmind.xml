@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-15T21:37:57+00:00</updated>
+  <updated>2024-05-16T19:45:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7363370995652070689</id>
-    <title>SHAVED BANANA 🍌  This is a great dessert or even breakfast and yes, I just can’t get enough of the shaved fruit trend.😋 RECIPE (1 serving, 5min prep time): -2 Tbsp coconut yogurt -1 frozen banana -a handful roasted nuts -optional vegan coconut condensed m</title>
-    <updated>2024-04-29T19:20:15+00:00</updated>
-    <content>SHAVED BANANA 🍌  This is a great dessert or even breakfast and yes, I just can’t get enough of the shaved fruit trend.😋 RECIPE (1 serving, 5min prep time): -2 Tbsp coconut yogurt -1 frozen banana -a handful roasted nuts -optional vegan coconut condensed m</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7363370995652070689"/>
-    <published>2024-04-29T19:20:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7364115110614355232</id>
     <title>I don’t have a Café yet but you can find all these recipe in my feed.😇🫶 We have: -Horchata -Green spring salad -Salsa Romesco and burnt leek -Tofu salmon -smashed pea toast -shaved frozen banana - Ich hab zwar noch kein Café, aber ihr könnt alles Nachkoch</title>
@@ -91,5 +83,13 @@
     <content>LET’S TALK ABOUT SAUCES! 👩‍🍳 Sauces and condiments are one of the key components for making delicious food!  So in the nexts days I’ll share with you my Top 5 sauces I like to prep and keep in the fridge to have them on hand whenever I need them.😎 - SPREC</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7369343839552687392"/>
     <published>2024-05-15T21:37:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7369685851703495968</id>
+    <title>MAULTASCHEN with @Max La Manna  When I was in London I had the honor to meet up with Max again and to show him how to make proper Maultaschen… Schmackofatz! 🤭 RECIPE (4 big Maultaschen, 1h prep time) -250g flour -salt -120ml water Knead and set aside whil</title>
+    <updated>2024-05-16T19:45:06+00:00</updated>
+    <content>MAULTASCHEN with @Max La Manna  When I was in London I had the honor to meet up with Max again and to show him how to make proper Maultaschen… Schmackofatz! 🤭 RECIPE (4 big Maultaschen, 1h prep time) -250g flour -salt -120ml water Knead and set aside whil</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7369685851703495968"/>
+    <published>2024-05-16T19:45:06+00:00</published>
   </entry>
 </feed>
