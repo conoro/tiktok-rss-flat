@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2024-04-30T22:51:02+00:00</updated>
+  <updated>2024-05-16T23:13:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7269172155357646126</id>
-    <title>Come see me in MI, MD, &amp; Buffalo, NY! Link in bio for tickets #standup #comedу #work #michigan #maryland #buffalony </title>
-    <updated>2023-08-19T23:00:41+00:00</updated>
-    <content>Come see me in MI, MD, &amp; Buffalo, NY! Link in bio for tickets #standup #comedу #work #michigan #maryland #buffalony </content>
-    <link href="https://tiktok.com/@scottseiss/video/7269172155357646126"/>
-    <published>2023-08-19T23:00:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7275851629080071470</id>
     <title>Philly this weekend! MD the next. Link in bio for tickets and shout out to that one Enterprise employee! #comedу #standup #philadelphia #pennsylvania #maryland #timonium #baltimore </title>
@@ -75,6 +67,14 @@
     <content>NJ &amp; CT! Come see me next week at The Stress Factory 😁 Tickets and more dates in the link in my bio! #standup #comedy #Connecticut #newjersey #newbrunswick #bridgeportct #work </content>
     <link href="https://tiktok.com/@scottseiss/video/7363796375760538926"/>
     <published>2024-04-30T22:51:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7369739661117459758</id>
+    <title>“Per my last email” Royal Oak, MI Come see me next month! Also, St. Louis, Indianapolis, Fort Worth, &amp; Austin 😁 #fyp #work #comedу </title>
+    <updated>2024-05-16T23:13:57+00:00</updated>
+    <content>“Per my last email” Royal Oak, MI Come see me next month! Also, St. Louis, Indianapolis, Fort Worth, &amp; Austin 😁 #fyp #work #comedу </content>
+    <link href="https://tiktok.com/@scottseiss/video/7369739661117459758"/>
+    <published>2024-05-16T23:13:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7081294899366202666</id>

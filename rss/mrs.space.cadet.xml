@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-15T00:44:09+00:00</updated>
+  <updated>2024-05-17T00:03:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7360681248127225130</id>
-    <title>I never sleep well away from home, so I felt like a magical sleep fairy getting to share the gift of good sleep aka @Sleep Number pillows with these out-of-town runners staying at hotels 🧚 Conditions on marathon day were not ideal, but I was thrilled to h</title>
-    <updated>2024-04-22T13:23:12+00:00</updated>
-    <content>I never sleep well away from home, so I felt like a magical sleep fairy getting to share the gift of good sleep aka @Sleep Number pillows with these out-of-town runners staying at hotels 🧚 Conditions on marathon day were not ideal, but I was thrilled to h</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7360681248127225130"/>
-    <published>2024-04-22T13:23:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7361206960877866283</id>
     <title>At least I’m consistent 😅 I used to get so down on myself if I “fell off the bandwagon” of whatever I tried to do. Now I just reflect on why I didn’t keep up, make some changes, and start again without any negativity 🤷‍♀️ #runner #runtok #startingover </title>
@@ -91,5 +83,13 @@
     <content>I run in spandex shorts, so when I’m not running I want flowy shorts! I tried these POPFLEX shorts despite the spandex layer underneath because a lot of you were curious about them. The price point is $59. Let me know what else I should try! #shorts #tryo</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7369020710074846507"/>
     <published>2024-05-15T00:44:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7369752338371759403</id>
+    <title>Do you understand sports?? Let’s learn together through some unhinged investigative journalism 🕵️ Sporty Time news desk will get us up to speed (pun intended) leading up to the Olympic and Paralympic Games this year. What are you most curious about?? #oly</title>
+    <updated>2024-05-17T00:03:08+00:00</updated>
+    <content>Do you understand sports?? Let’s learn together through some unhinged investigative journalism 🕵️ Sporty Time news desk will get us up to speed (pun intended) leading up to the Olympic and Paralympic Games this year. What are you most curious about?? #oly</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7369752338371759403"/>
+    <published>2024-05-17T00:03:08+00:00</published>
   </entry>
 </feed>
