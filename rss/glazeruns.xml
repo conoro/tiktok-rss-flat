@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-14T23:26:57+00:00</updated>
+  <updated>2024-05-17T22:25:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7367492135425166635</id>
-    <title>My feet got destroyed. Adding an after the shower video next. I finished Cocodona 250 today. It was a beast of a race.  #cocodona250 #runtok #ultramarathon </title>
-    <updated>2024-05-10T21:52:29+00:00</updated>
-    <content>My feet got destroyed. Adding an after the shower video next. I finished Cocodona 250 today. It was a beast of a race.  #cocodona250 #runtok #ultramarathon </content>
-    <link href="https://tiktok.com/@glazeruns/video/7367492135425166635"/>
-    <published>2024-05-10T21:52:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7367542639127776558</id>
     <title>That was hard. Cocodona 250 was do hard. #runtok #ultramarathon #cocodona250 </title>
@@ -67,6 +59,14 @@
     <content>280 miles = 450 km This next week is going to be hard. #runtok #runstreak#ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7369000826901220651"/>
     <published>2024-05-14T23:26:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7370098321756720430</id>
+    <title>Well at least I'm certified! I've heard that's a hard certification to obtain. Remember you'll never meet a hater doing more than you. #runtok #runstreak #ultrarunner </title>
+    <updated>2024-05-17T22:25:47+00:00</updated>
+    <content>Well at least I'm certified! I've heard that's a hard certification to obtain. Remember you'll never meet a hater doing more than you. #runtok #runstreak #ultrarunner </content>
+    <link href="https://tiktok.com/@glazeruns/video/7370098321756720430"/>
+    <published>2024-05-17T22:25:47+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>
