@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-16T19:45:06+00:00</updated>
+  <updated>2024-05-18T19:45:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7364115110614355232</id>
-    <title>I don’t have a Café yet but you can find all these recipe in my feed.😇🫶 We have: -Horchata -Green spring salad -Salsa Romesco and burnt leek -Tofu salmon -smashed pea toast -shaved frozen banana - Ich hab zwar noch kein Café, aber ihr könnt alles Nachkoch</title>
-    <updated>2024-05-01T19:27:47+00:00</updated>
-    <content>I don’t have a Café yet but you can find all these recipe in my feed.😇🫶 We have: -Horchata -Green spring salad -Salsa Romesco and burnt leek -Tofu salmon -smashed pea toast -shaved frozen banana - Ich hab zwar noch kein Café, aber ihr könnt alles Nachkoch</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7364115110614355232"/>
-    <published>2024-05-01T19:27:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7364486207750835489</id>
     <title>VERY UNAUTHENTIC BUA LOI 🍚🇹🇭  I had some leftover rice and remembered that I had a delicious “rice balls dessert” in Thailand. So here it is: unauthentic but delicious! 😋  RECIPE (2 servings, 15min prep time): -1/2 can (200ml) coconut milk -100ml water -a</title>
@@ -91,5 +83,13 @@
     <content>MAULTASCHEN with @Max La Manna  When I was in London I had the honor to meet up with Max again and to show him how to make proper Maultaschen… Schmackofatz! 🤭 RECIPE (4 big Maultaschen, 1h prep time) -250g flour -salt -120ml water Knead and set aside whil</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7369685851703495968"/>
     <published>2024-05-16T19:45:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7370428187253263648</id>
+    <title>FAVORITE SAUCE NR.1 😋 Tahini with lemon pepper cauliflower  It took me about 15 years of my life to like tahini and this is THE tahini sauce you must make!😉 SAUCE RECIPE (6-8 servings, 5min prep time): -5 big Tbsp tahini -3 Tbsp maple syrup or another swe</title>
+    <updated>2024-05-18T19:45:46+00:00</updated>
+    <content>FAVORITE SAUCE NR.1 😋 Tahini with lemon pepper cauliflower  It took me about 15 years of my life to like tahini and this is THE tahini sauce you must make!😉 SAUCE RECIPE (6-8 servings, 5min prep time): -5 big Tbsp tahini -3 Tbsp maple syrup or another swe</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7370428187253263648"/>
+    <published>2024-05-18T19:45:46+00:00</published>
   </entry>
 </feed>
