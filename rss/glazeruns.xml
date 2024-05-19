@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-18T22:36:46+00:00</updated>
+  <updated>2024-05-19T02:17:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7367845179409091882</id>
-    <title>Cocodona 250 miler ✅️ What did I win? This fancy belt buckle. 4th year in a row with no support or crew. Just out there figuring it out by myself. #cocodona250 #runtok #ultramarathon </title>
-    <updated>2024-05-11T20:42:28+00:00</updated>
-    <content>Cocodona 250 miler ✅️ What did I win? This fancy belt buckle. 4th year in a row with no support or crew. Just out there figuring it out by myself. #cocodona250 #runtok #ultramarathon </content>
-    <link href="https://tiktok.com/@glazeruns/video/7367845179409091882"/>
-    <published>2024-05-11T20:42:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7367944521461763374</id>
     <title>I think I lost 15 pounds in 4 days and took 600,000 steps. What an adventure.  #cocodona250 #runtok #ultramarathon </title>
@@ -67,6 +59,14 @@
     <content>13 pounds is heavy when running 250 miles. Luckily, during the night, I was wearing a lot of that gear on my body. But the water and the food were a constant weight.  If you have questions, let me know. Everything worked quite well, I didn't have any l ep</content>
     <link href="https://tiktok.com/@glazeruns/video/7370472244608273707"/>
     <published>2024-05-18T22:36:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7370529141776502062</id>
+    <title>I think I lost 15 pounds, hallucinated non-stop, slept in the dirt, shat in the woods, and fell a few times. Can't wait to go back for year 5! But until then, I'll relish in the Cocodona 1000 mile club. Smile, or you're doing it wrong. Cocodona 250 miler </title>
+    <updated>2024-05-19T02:17:33+00:00</updated>
+    <content>I think I lost 15 pounds, hallucinated non-stop, slept in the dirt, shat in the woods, and fell a few times. Can't wait to go back for year 5! But until then, I'll relish in the Cocodona 1000 mile club. Smile, or you're doing it wrong. Cocodona 250 miler </content>
+    <link href="https://tiktok.com/@glazeruns/video/7370529141776502062"/>
+    <published>2024-05-19T02:17:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>
