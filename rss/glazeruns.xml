@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-17T22:25:47+00:00</updated>
+  <updated>2024-05-18T22:36:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7367542639127776558</id>
-    <title>That was hard. Cocodona 250 was do hard. #runtok #ultramarathon #cocodona250 </title>
-    <updated>2024-05-11T01:08:27+00:00</updated>
-    <content>That was hard. Cocodona 250 was do hard. #runtok #ultramarathon #cocodona250 </content>
-    <link href="https://tiktok.com/@glazeruns/video/7367542639127776558"/>
-    <published>2024-05-11T01:08:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7367559521960512810</id>
-    <title>my feet hurt so badly #runtok #ultramarathon #cocodona250 </title>
-    <updated>2024-05-11T02:13:55+00:00</updated>
-    <content>my feet hurt so badly #runtok #ultramarathon #cocodona250 </content>
-    <link href="https://tiktok.com/@glazeruns/video/7367559521960512810"/>
-    <published>2024-05-11T02:13:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7367845179409091882</id>
     <title>Cocodona 250 miler ✅️ What did I win? This fancy belt buckle. 4th year in a row with no support or crew. Just out there figuring it out by myself. #cocodona250 #runtok #ultramarathon </title>
@@ -67,6 +51,22 @@
     <content>Well at least I'm certified! I've heard that's a hard certification to obtain. Remember you'll never meet a hater doing more than you. #runtok #runstreak #ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7370098321756720430"/>
     <published>2024-05-17T22:25:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7370461408867372334</id>
+    <title>10 times during the race, I cleaned my feet and put on new socks. I also re taped any toes where the tape came off. I did get more blisters than normal, but I think that due to the technicality of the trail. Same shoes all 250 miles. Not bad, eh? Smile, o</title>
+    <updated>2024-05-18T21:54:45+00:00</updated>
+    <content>10 times during the race, I cleaned my feet and put on new socks. I also re taped any toes where the tape came off. I did get more blisters than normal, but I think that due to the technicality of the trail. Same shoes all 250 miles. Not bad, eh? Smile, o</content>
+    <link href="https://tiktok.com/@glazeruns/video/7370461408867372334"/>
+    <published>2024-05-18T21:54:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7370472244608273707</id>
+    <title>13 pounds is heavy when running 250 miles. Luckily, during the night, I was wearing a lot of that gear on my body. But the water and the food were a constant weight.  If you have questions, let me know. Everything worked quite well, I didn't have any l ep</title>
+    <updated>2024-05-18T22:36:46+00:00</updated>
+    <content>13 pounds is heavy when running 250 miles. Luckily, during the night, I was wearing a lot of that gear on my body. But the water and the food were a constant weight.  If you have questions, let me know. Everything worked quite well, I didn't have any l ep</content>
+    <link href="https://tiktok.com/@glazeruns/video/7370472244608273707"/>
+    <published>2024-05-18T22:36:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>

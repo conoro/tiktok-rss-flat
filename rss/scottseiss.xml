@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2024-05-16T23:13:57+00:00</updated>
+  <updated>2024-05-18T23:59:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7275851629080071470</id>
-    <title>Philly this weekend! MD the next. Link in bio for tickets and shout out to that one Enterprise employee! #comedу #standup #philadelphia #pennsylvania #maryland #timonium #baltimore </title>
-    <updated>2023-09-06T23:00:31+00:00</updated>
-    <content>Philly this weekend! MD the next. Link in bio for tickets and shout out to that one Enterprise employee! #comedу #standup #philadelphia #pennsylvania #maryland #timonium #baltimore </content>
-    <link href="https://tiktok.com/@scottseiss/video/7275851629080071470"/>
-    <published>2023-09-06T23:00:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7328190020089629994</id>
     <title>“What are your salary expectations?” Shows in MA and Chicago, lots more coming soon! Go Ravens 😁 #work #comedу #bgcdramaeffect #fyp </title>
@@ -75,6 +67,14 @@
     <content>“Per my last email” Royal Oak, MI Come see me next month! Also, St. Louis, Indianapolis, Fort Worth, &amp; Austin 😁 #fyp #work #comedу </content>
     <link href="https://tiktok.com/@scottseiss/video/7369739661117459758"/>
     <published>2024-05-16T23:13:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7370493479882886443</id>
+    <title>I met Mona Lisa… #comdey #standup #monalisa #art </title>
+    <updated>2024-05-18T23:59:09+00:00</updated>
+    <content>I met Mona Lisa… #comdey #standup #monalisa #art </content>
+    <link href="https://tiktok.com/@scottseiss/video/7370493479882886443"/>
+    <published>2024-05-18T23:59:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7081294899366202666</id>
