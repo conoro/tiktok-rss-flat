@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-05-14T18:28:53+00:00</updated>
+  <updated>2024-05-20T01:42:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7345625027997338912</id>
-    <title>BLUEBERRY OVERNIGHT OATS 🫐💜 are my favorite new breakfast obsession! Absolutely in love with the color, texture and taste of these! • INGREDIENTS • (serves 3) 1.5 cups rolled oats 3 Tbsp chia seeds 3 Tbsp hemp seeds 3 Tbsp slivered almonds 2 Tbsp raisins </title>
-    <updated>2024-03-12T23:36:54+00:00</updated>
-    <content>BLUEBERRY OVERNIGHT OATS 🫐💜 are my favorite new breakfast obsession! Absolutely in love with the color, texture and taste of these! • INGREDIENTS • (serves 3) 1.5 cups rolled oats 3 Tbsp chia seeds 3 Tbsp hemp seeds 3 Tbsp slivered almonds 2 Tbsp raisins </content>
-    <link href="https://tiktok.com/@thetastyk/video/7345625027997338912"/>
-    <published>2024-03-12T23:36:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7346018588630830368</id>
     <title>HOMEMADE SPROUTS 🌿 so easy to make, super nutritious (to put on sandwiches or salads) &amp; for a fraction of the supermarket price! Never ever going back to store-bought! 🤩 • INGREDIENTS • Jar with mesh lid 1 Tbsp sprout seeds (I love broccoli, alfalfa, mung</title>
@@ -67,6 +59,14 @@
     <content>HOMEMADE FERMENTED VEGGIES 🫙🥬🥕 so much cheaper than store-bought, easy to make, rich in probiotics and beneficial for your gut! ❤️ • INGREDIENTS • 1 medium head white cabbage, cut into chunks 5 medium carrots, peeled and sliced 8 celery stalks, cut into c</content>
     <link href="https://tiktok.com/@thetastyk/video/7368924047591083297"/>
     <published>2024-05-14T18:28:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7370890964539411744</id>
+    <title>Here’s your weekly reminder to set time aside &amp; prep some healthy #homecooked food to keep you nourished throughout the week! ❤️🌱 BIG NEWS! 🔥📕 My new ebook MEAL PREP MADE EASY is out now! This guide will be your new bestie on your healthy eating journey —</title>
+    <updated>2024-05-20T01:42:27+00:00</updated>
+    <content>Here’s your weekly reminder to set time aside &amp; prep some healthy #homecooked food to keep you nourished throughout the week! ❤️🌱 BIG NEWS! 🔥📕 My new ebook MEAL PREP MADE EASY is out now! This guide will be your new bestie on your healthy eating journey —</content>
+    <link href="https://tiktok.com/@thetastyk/video/7370890964539411744"/>
+    <published>2024-05-20T01:42:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>
