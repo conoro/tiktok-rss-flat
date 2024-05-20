@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-05-20T02:57:28+00:00</updated>
+  <updated>2024-05-20T07:19:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7362258489747492142</id>
-    <title>We’re in the Bahamas celebrating our Anniversary and doing some NEW THINGS!!! I learned that nurse sharks are friendly towards humans❤️. So I had to go in and say hello🥰  I even touched one and they feel like leather, they were so sweet!! Now I got Chance</title>
-    <updated>2024-04-26T19:23:29+00:00</updated>
-    <content>We’re in the Bahamas celebrating our Anniversary and doing some NEW THINGS!!! I learned that nurse sharks are friendly towards humans❤️. So I had to go in and say hello🥰  I even touched one and they feel like leather, they were so sweet!! Now I got Chance</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7362258489747492142"/>
-    <published>2024-04-26T19:23:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7363737199013006638</id>
     <title>Morning TSA:  God will continue to get all the GLORY over here!! In Jesus name… 🙏🏾Amen #tabithabrown #blessed</title>
@@ -91,5 +83,13 @@
     <content>😂😂😂😂 My baby @choyce is hilarious 😂😂😂. Do yall know the video she is referencing 😂😂 I guess my popcorn has that effect on people 😂😂😂 #showittomerachel #tabithabrown #popcorn </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7370910500411968811"/>
     <published>2024-05-20T02:57:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7370977949408972074</id>
+    <title>Late night wine and dance lessons with @Nic Few  and @Hope P. Rush 😂😂 #spreadlove #tabithabrown #joy #love #dance </title>
+    <updated>2024-05-20T07:19:50+00:00</updated>
+    <content>Late night wine and dance lessons with @Nic Few  and @Hope P. Rush 😂😂 #spreadlove #tabithabrown #joy #love #dance </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7370977949408972074"/>
+    <published>2024-05-20T07:19:50+00:00</published>
   </entry>
 </feed>
