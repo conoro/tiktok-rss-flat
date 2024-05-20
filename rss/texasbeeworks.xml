@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@texasbeeworks</id>
   <title>texasbeeworks TikTok</title>
-  <updated>2024-04-22T19:12:59+00:00</updated>
+  <updated>2024-05-20T17:13:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from texasbeeworks</subtitle>
-  <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/7255300671317167406</id>
-    <title>Can you find the queen? #bees #beekeeping #queen #savingthebees </title>
-    <updated>2023-07-13T13:52:17+00:00</updated>
-    <content>Can you find the queen? #bees #beekeeping #queen #savingthebees </content>
-    <link href="https://tiktok.com/@texasbeeworks/video/7255300671317167406"/>
-    <published>2023-07-13T13:52:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@texasbeeworks/video/7276143342189137198</id>
     <title>Thank you for protecting these special bees and for inviting me to France to meet them, @Guerlain!</title>
@@ -75,6 +67,14 @@
     <content>Happy Earth Day from me and the bees! </content>
     <link href="https://tiktok.com/@texasbeeworks/video/7360771424442764590"/>
     <published>2024-04-22T19:12:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/7371131071838080298</id>
+    <title>Happy World Bee Day from me, the bees, and @Pela Case!  Learn how you can support bees and Pollinator Partnership by visiting https://pelacase.ca/pages/bee-day</title>
+    <updated>2024-05-20T17:13:26+00:00</updated>
+    <content>Happy World Bee Day from me, the bees, and @Pela Case!  Learn how you can support bees and Pollinator Partnership by visiting https://pelacase.ca/pages/bee-day</content>
+    <link href="https://tiktok.com/@texasbeeworks/video/7371131071838080298"/>
+    <published>2024-05-20T17:13:26+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@texasbeeworks/video/6938831081684651269</id>
