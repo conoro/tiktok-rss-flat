@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@christinasots_</id>
   <title>christinasots_ TikTok</title>
-  <updated>2024-05-10T14:50:46+00:00</updated>
+  <updated>2024-05-21T14:36:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from christinasots_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@christinasots_/video/7357288240417623329</id>
-    <title>I went to @mildredsrestaurants with my sister to try the new @everleafdrinks non-alcoholic Sakura cocktail and I loved it so much that I wanted to recreate it at home!  So they kindly sent me a bottle of the Mountain flavour aperitif and I just added some</title>
-    <updated>2024-04-13T09:56:05+00:00</updated>
-    <content>I went to @mildredsrestaurants with my sister to try the new @everleafdrinks non-alcoholic Sakura cocktail and I loved it so much that I wanted to recreate it at home!  So they kindly sent me a bottle of the Mountain flavour aperitif and I just added some</content>
-    <link href="https://tiktok.com/@christinasots_/video/7357288240417623329"/>
-    <published>2024-04-13T09:56:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7358494902247836960</id>
     <title>GARLIC MUSHROOMS ON CREAMY TAHINI BEANS I eat a variation of this dish every week, usually as a fridge raid and with whatever veggies I have that need using up. A creamy beany base is perfect for mushrooms, broccoli, courgette or even just a load of sauté</title>
@@ -67,6 +59,14 @@
     <content>Here are 4 things I eat every single day without fail:  1. Something fermented: This is my top gut health habit! It’s usually kimchi because I love it on toast with peanut butter, in salads or with noodles. Other things I’ll eat are fermented cashew chees</content>
     <link href="https://tiktok.com/@christinasots_/video/7367383488762334497"/>
     <published>2024-05-10T14:50:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@christinasots_/video/7371461632117050656</id>
+    <title>But why is olive oil daylight robbery right now?</title>
+    <updated>2024-05-21T14:36:05+00:00</updated>
+    <content>But why is olive oil daylight robbery right now?</content>
+    <link href="https://tiktok.com/@christinasots_/video/7371461632117050656"/>
+    <published>2024-05-21T14:36:05+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7198125871461403909</id>

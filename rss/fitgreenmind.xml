@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-20T19:46:26+00:00</updated>
+  <updated>2024-05-21T13:51:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7365968376331636000</id>
-    <title>GREEN SPRING SOUP 🍜  This recipe uses inspired by @sarahsveganrecipe, easy, delicious, can be eaten cold or warm and it’s just perfect for spring! 😋 RECIPE (1 serving, 15min prep time): Broth: -a bunch of cilantro -1 clove garlic -a thumbsize piece of gin</title>
-    <updated>2024-05-06T19:19:25+00:00</updated>
-    <content>GREEN SPRING SOUP 🍜  This recipe uses inspired by @sarahsveganrecipe, easy, delicious, can be eaten cold or warm and it’s just perfect for spring! 😋 RECIPE (1 serving, 15min prep time): Broth: -a bunch of cilantro -1 clove garlic -a thumbsize piece of gin</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7365968376331636000"/>
-    <published>2024-05-06T19:19:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7366711903604919584</id>
     <title>SOY MILK RICOTTA 🥛  I saw @itslizmiu making this and I‘m amazed how creamy it turned out! Yes, basically this is how you make tofu because u is basically „soy milk cheese“ but we’re not pressing it too much, so it stays creamy.😋 RECIPE (4 serving, 30min p</title>
@@ -91,5 +83,13 @@
     <content>FAVORITE SAUCE NR. 3 😋 Indonesian inspired Sambal 🇮🇩 There are lots of different types of Sambal in Indonesia. And this is my favorite NOT AUTHENTIC but for me it has the perfect balance of sweet, spicy and tangy flavors.😇 You can use it as dip or flavori</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7371170533590699297"/>
     <published>2024-05-20T19:46:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7371450252051664161</id>
+    <title>GREEN POWER 💚💪 Werbung/Ad Manche von euch haben es schon erraten, aber es ist endlich soweit… mein eigenes Online Programm mit @Gymondo „Green Power“ ist jetzt da!🥳 Was erwartet euch? 💚 4 funktionelle Workouts für jedes Fitnesslevel (also auch Einsteiger </title>
+    <updated>2024-05-21T13:51:56+00:00</updated>
+    <content>GREEN POWER 💚💪 Werbung/Ad Manche von euch haben es schon erraten, aber es ist endlich soweit… mein eigenes Online Programm mit @Gymondo „Green Power“ ist jetzt da!🥳 Was erwartet euch? 💚 4 funktionelle Workouts für jedes Fitnesslevel (also auch Einsteiger </content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7371450252051664161"/>
+    <published>2024-05-21T13:51:56+00:00</published>
   </entry>
 </feed>
