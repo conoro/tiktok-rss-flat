@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-17T00:03:08+00:00</updated>
+  <updated>2024-05-20T23:22:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7361206960877866283</id>
-    <title>At least I’m consistent 😅 I used to get so down on myself if I “fell off the bandwagon” of whatever I tried to do. Now I just reflect on why I didn’t keep up, make some changes, and start again without any negativity 🤷‍♀️ #runner #runtok #startingover </title>
-    <updated>2024-04-23T23:22:48+00:00</updated>
-    <content>At least I’m consistent 😅 I used to get so down on myself if I “fell off the bandwagon” of whatever I tried to do. Now I just reflect on why I didn’t keep up, make some changes, and start again without any negativity 🤷‍♀️ #runner #runtok #startingover </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7361206960877866283"/>
-    <published>2024-04-23T23:22:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7361579640571333931</id>
     <title>These are the Janji 3” Multi Shorts. Usually anything 3” is a no for me 🤣 Anyway, if you do go this route, they’re $78 and I would size up.  #shorts #tryonhaul #shortsseason #thickthighlife </title>
@@ -91,5 +83,13 @@
     <content>Do you understand sports?? Let’s learn together through some unhinged investigative journalism 🕵️ Sporty Time news desk will get us up to speed (pun intended) leading up to the Olympic and Paralympic Games this year. What are you most curious about?? #oly</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7369752338371759403"/>
     <published>2024-05-17T00:03:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7371226155355098411</id>
+    <title>I love runs like this where I surprise myself with a little…what’s the word? Progress?! 😮 Not skipping strength work this time around has made a huge difference so far and I can’t wait to see where this takes me! Something I focused on this month was sche</title>
+    <updated>2024-05-20T23:22:22+00:00</updated>
+    <content>I love runs like this where I surprise myself with a little…what’s the word? Progress?! 😮 Not skipping strength work this time around has made a huge difference so far and I can’t wait to see where this takes me! Something I focused on this month was sche</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7371226155355098411"/>
+    <published>2024-05-20T23:22:22+00:00</published>
   </entry>
 </feed>
