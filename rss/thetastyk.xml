@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-05-20T01:42:27+00:00</updated>
+  <updated>2024-05-22T00:54:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7346018588630830368</id>
-    <title>HOMEMADE SPROUTS 🌿 so easy to make, super nutritious (to put on sandwiches or salads) &amp; for a fraction of the supermarket price! Never ever going back to store-bought! 🤩 • INGREDIENTS • Jar with mesh lid 1 Tbsp sprout seeds (I love broccoli, alfalfa, mung</title>
-    <updated>2024-03-14T01:04:41+00:00</updated>
-    <content>HOMEMADE SPROUTS 🌿 so easy to make, super nutritious (to put on sandwiches or salads) &amp; for a fraction of the supermarket price! Never ever going back to store-bought! 🤩 • INGREDIENTS • Jar with mesh lid 1 Tbsp sprout seeds (I love broccoli, alfalfa, mung</content>
-    <link href="https://tiktok.com/@thetastyk/video/7346018588630830368"/>
-    <published>2024-03-14T01:04:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7348871606783003937</id>
     <title>HERBY BEETROOT SALAD 🩷🌿 this must be one of my favorite ways to eat beets! Pickled beetroot used to be a staple while growing up and this refreshing salad combines all the best of flavors + nutrition 😍 • INGREDIENTS • 6 medium cooked beets 1 medium red on</title>
@@ -67,6 +59,14 @@
     <content>Here’s your weekly reminder to set time aside &amp; prep some healthy #homecooked food to keep you nourished throughout the week! ❤️🌱 BIG NEWS! 🔥📕 My new ebook MEAL PREP MADE EASY is out now! This guide will be your new bestie on your healthy eating journey —</content>
     <link href="https://tiktok.com/@thetastyk/video/7370890964539411744"/>
     <published>2024-05-20T01:42:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7371621083339836705</id>
+    <title>SPINACH ARTICHOKE DIP 🌿💛 the ultimate creamy &amp; cheezy addition to your sandwich or snacking night! 😮‍💨 • INGREDIENTS • 1/2 cup cashews 1/2 cup soy milk 1/4 cup nutritional yeast 1/2 tsp salt &amp; pepper, to taste 1 Tbsp olive oil 1 white onion 3-4 garlic clo</title>
+    <updated>2024-05-22T00:54:55+00:00</updated>
+    <content>SPINACH ARTICHOKE DIP 🌿💛 the ultimate creamy &amp; cheezy addition to your sandwich or snacking night! 😮‍💨 • INGREDIENTS • 1/2 cup cashews 1/2 cup soy milk 1/4 cup nutritional yeast 1/2 tsp salt &amp; pepper, to taste 1 Tbsp olive oil 1 white onion 3-4 garlic clo</content>
+    <link href="https://tiktok.com/@thetastyk/video/7371621083339836705"/>
+    <published>2024-05-22T00:54:55+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>
