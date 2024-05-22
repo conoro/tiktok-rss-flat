@@ -13,14 +13,6 @@
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from texasbeeworks</subtitle>
   <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/7276143342189137198</id>
-    <title>Thank you for protecting these special bees and for inviting me to France to meet them, @Guerlain!</title>
-    <updated>2023-09-07T17:52:36+00:00</updated>
-    <content>Thank you for protecting these special bees and for inviting me to France to meet them, @Guerlain!</content>
-    <link href="https://tiktok.com/@texasbeeworks/video/7276143342189137198"/>
-    <published>2023-09-07T17:52:36+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@texasbeeworks/video/7284289008572583210</id>
     <title>Bee battle!</title>
     <updated>2023-09-29T16:42:01+00:00</updated>
@@ -91,5 +83,13 @@
     <content>Bees swarming in the morning! #bees #truck #tiktok #animals #foryou #texas</content>
     <link href="https://tiktok.com/@texasbeeworks/video/6962225231582842118"/>
     <published>2021-05-14T19:09:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/6968527379262147846</id>
+    <title>#bees #nature #summer #tiktok #fyp</title>
+    <updated>2021-05-31T18:45:18+00:00</updated>
+    <content>#bees #nature #summer #tiktok #fyp</content>
+    <link href="https://tiktok.com/@texasbeeworks/video/6968527379262147846"/>
+    <published>2021-05-31T18:45:18+00:00</published>
   </entry>
 </feed>
