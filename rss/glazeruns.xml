@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-22T23:11:00+00:00</updated>
+  <updated>2024-05-23T12:55:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7368595439693729066</id>
-    <title>These were brand new before the race. Only wore this one pair for the entire 250 miles. Although i did change my socks 10 times. Cocodona 250 is a very rocky technical course, and despite that, they held up well. I lost a little rubber on the back right o</title>
-    <updated>2024-05-13T21:13:53+00:00</updated>
-    <content>These were brand new before the race. Only wore this one pair for the entire 250 miles. Although i did change my socks 10 times. Cocodona 250 is a very rocky technical course, and despite that, they held up well. I lost a little rubber on the back right o</content>
-    <link href="https://tiktok.com/@glazeruns/video/7368595439693729066"/>
-    <published>2024-05-13T21:13:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7369000826901220651</id>
     <title>280 miles = 450 km This next week is going to be hard. #runtok #runstreak#ultrarunner </title>
@@ -67,6 +59,14 @@
     <content>Hardwork, the power of positivity, and never give up. Three things my Dad instilled in me at a young age. When people wonder why I am the way I am and who inspires me? I always point to him. I can't believe it's been two years. Seems like yesterday I was </content>
     <link href="https://tiktok.com/@glazeruns/video/7371965424763751722"/>
     <published>2024-05-22T23:11:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7372178013787573546</id>
+    <title>Before 250 miles and After 250 miles Never lost the smile. But what I gained is priceless.  Cocodona 250 will teach you things about yourself that are hard to put into words. The lessons gained out in the mountains will help you later in life. LFG Smile, </title>
+    <updated>2024-05-23T12:55:59+00:00</updated>
+    <content>Before 250 miles and After 250 miles Never lost the smile. But what I gained is priceless.  Cocodona 250 will teach you things about yourself that are hard to put into words. The lessons gained out in the mountains will help you later in life. LFG Smile, </content>
+    <link href="https://tiktok.com/@glazeruns/video/7372178013787573546"/>
+    <published>2024-05-23T12:55:59+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>
