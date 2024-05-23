@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-20T23:22:22+00:00</updated>
+  <updated>2024-05-22T23:38:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7361579640571333931</id>
-    <title>These are the Janji 3” Multi Shorts. Usually anything 3” is a no for me 🤣 Anyway, if you do go this route, they’re $78 and I would size up.  #shorts #tryonhaul #shortsseason #thickthighlife </title>
-    <updated>2024-04-24T23:29:13+00:00</updated>
-    <content>These are the Janji 3” Multi Shorts. Usually anything 3” is a no for me 🤣 Anyway, if you do go this route, they’re $78 and I would size up.  #shorts #tryonhaul #shortsseason #thickthighlife </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7361579640571333931"/>
-    <published>2024-04-24T23:29:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7361951913249836334</id>
     <title>#onthisday i love seeing these old videos come up. Funny to think i’m currently working up to 6 miles 😆 #startingover #running </title>
@@ -91,5 +83,13 @@
     <content>I love runs like this where I surprise myself with a little…what’s the word? Progress?! 😮 Not skipping strength work this time around has made a huge difference so far and I can’t wait to see where this takes me! Something I focused on this month was sche</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7371226155355098411"/>
     <published>2024-05-20T23:22:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7371972634248269102</id>
+    <title>Sometimes I know what I’m doing and sometimes I have to text @kellykkroberts mid workout because I forgot what she said on our call 🤣 I’m starting to get the hang of speed work I think? I definitely skipped this and strength work in my previous training a</title>
+    <updated>2024-05-22T23:38:59+00:00</updated>
+    <content>Sometimes I know what I’m doing and sometimes I have to text @kellykkroberts mid workout because I forgot what she said on our call 🤣 I’m starting to get the hang of speed work I think? I definitely skipped this and strength work in my previous training a</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7371972634248269102"/>
+    <published>2024-05-22T23:38:59+00:00</published>
   </entry>
 </feed>
