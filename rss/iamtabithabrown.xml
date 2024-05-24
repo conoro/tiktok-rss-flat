@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-05-20T19:08:04+00:00</updated>
+  <updated>2024-05-24T03:09:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7363737199013006638</id>
-    <title>Morning TSA:  God will continue to get all the GLORY over here!! In Jesus name… 🙏🏾Amen #tabithabrown #blessed</title>
-    <updated>2024-04-30T19:01:26+00:00</updated>
-    <content>Morning TSA:  God will continue to get all the GLORY over here!! In Jesus name… 🙏🏾Amen #tabithabrown #blessed</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7363737199013006638"/>
-    <published>2024-04-30T19:01:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7365709649003154730</id>
     <title>Have you ever had nachos made out of pecans? Well baby come on in here and get into this recipe with me❤️ #tabithabrown #nachos #recipe #plantbased #glutenfree #vegan #pecans </title>
@@ -91,5 +83,13 @@
     <content>Family look at what the Lord has done 🙌🏾🙌🏾🙌🏾 Welcome to Very Good Mondays, where I help my friend Garfield kick those Monday blues! Let’s help him start his week off better by seeing his newest film @Garfield Movie exclusively in movie theaters this Memor</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7371160604117208366"/>
     <published>2024-05-20T19:08:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7372398074481610026</id>
+    <title>Throwback Thursday to when I use to be cutting up😂😂😂😂. I just came across this video today from Halloween like 7 years ago and Ive been laughing all day😂. #actress #tabithabrown </title>
+    <updated>2024-05-24T03:09:53+00:00</updated>
+    <content>Throwback Thursday to when I use to be cutting up😂😂😂😂. I just came across this video today from Halloween like 7 years ago and Ive been laughing all day😂. #actress #tabithabrown </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7372398074481610026"/>
+    <published>2024-05-24T03:09:53+00:00</published>
   </entry>
 </feed>
