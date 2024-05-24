@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-22T23:38:59+00:00</updated>
+  <updated>2024-05-23T23:11:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7361951913249836334</id>
-    <title>#onthisday i love seeing these old videos come up. Funny to think i’m currently working up to 6 miles 😆 #startingover #running </title>
-    <updated>2024-04-25T23:33:42+00:00</updated>
-    <content>#onthisday i love seeing these old videos come up. Funny to think i’m currently working up to 6 miles 😆 #startingover #running </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7361951913249836334"/>
-    <published>2024-04-25T23:33:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7363461601460112683</id>
     <title>Wear your sunscreen lol I felt so prepared for this run and I forgot one of the most important things. At least my headphones were charged! Is it hot where you are? What do you consider hot for running?? #running #runwithme </title>
@@ -91,5 +83,13 @@
     <content>Sometimes I know what I’m doing and sometimes I have to text @kellykkroberts mid workout because I forgot what she said on our call 🤣 I’m starting to get the hang of speed work I think? I definitely skipped this and strength work in my previous training a</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7371972634248269102"/>
     <published>2024-05-22T23:38:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7372336624262270254</id>
+    <title>It should be an interesting press conference before the Prefontaine Classic this weekend. Who will do the most trash talking? 🤔  My favorite videos from @Team USA lately are the ones featuring all the athletes qualifying for Paris! I’m getting so emotiona</title>
+    <updated>2024-05-23T23:11:27+00:00</updated>
+    <content>It should be an interesting press conference before the Prefontaine Classic this weekend. Who will do the most trash talking? 🤔  My favorite videos from @Team USA lately are the ones featuring all the athletes qualifying for Paris! I’m getting so emotiona</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7372336624262270254"/>
+    <published>2024-05-23T23:11:27+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2024-05-18T23:59:09+00:00</updated>
+  <updated>2024-05-23T23:01:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7328190020089629994</id>
-    <title>“What are your salary expectations?” Shows in MA and Chicago, lots more coming soon! Go Ravens 😁 #work #comedу #bgcdramaeffect #fyp </title>
-    <updated>2024-01-26T00:00:12+00:00</updated>
-    <content>“What are your salary expectations?” Shows in MA and Chicago, lots more coming soon! Go Ravens 😁 #work #comedу #bgcdramaeffect #fyp </content>
-    <link href="https://tiktok.com/@scottseiss/video/7328190020089629994"/>
-    <published>2024-01-26T00:00:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7332968489742978350</id>
     <title>#EpicPartner #Ad I did stand up in Fortnite! This is not a bit. Short, family friendly sets at JokeNite produced by Trevor Noah. Check it out ising the island code: 6296-7829-6524 #fortnite #comedy </title>
@@ -75,6 +67,14 @@
     <content>I met Mona Lisa… #comdey #standup #monalisa #art </content>
     <link href="https://tiktok.com/@scottseiss/video/7370493479882886443"/>
     <published>2024-05-18T23:59:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7372333936602582314</id>
+    <title>“Why aren’t people having kids anymore?” #comdey #work #money </title>
+    <updated>2024-05-23T23:01:01+00:00</updated>
+    <content>“Why aren’t people having kids anymore?” #comdey #work #money </content>
+    <link href="https://tiktok.com/@scottseiss/video/7372333936602582314"/>
+    <published>2024-05-23T23:01:01+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7081294899366202666</id>
