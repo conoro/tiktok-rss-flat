@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-22T19:25:39+00:00</updated>
+  <updated>2024-05-24T15:49:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7367482266945211681</id>
-    <title>ORIGINAL PFANNKUCHEN 🥞  Here’s how I like my Pfannkuchen!😎 RECIPE (1 serving -&gt; 4 Pfannkuchen, 15min prep time): -70g flour -a pinch of sugar  -a pinch of salt -100ml milk -40ml sparkling water (or more milk) Whisk until it’s a smooth batter. Add a ladlef</title>
-    <updated>2024-05-10T21:14:07+00:00</updated>
-    <content>ORIGINAL PFANNKUCHEN 🥞  Here’s how I like my Pfannkuchen!😎 RECIPE (1 serving -&gt; 4 Pfannkuchen, 15min prep time): -70g flour -a pinch of sugar  -a pinch of salt -100ml milk -40ml sparkling water (or more milk) Whisk until it’s a smooth batter. Add a ladlef</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7367482266945211681"/>
-    <published>2024-05-10T21:14:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7368195878202395936</id>
     <title>KOHLRABI STEAKS 😋 Easy, delicious and you can also prepare them on a BBQ.😌 RECIPE (3 serve, 3in prep time): -2 kohlrabi Peel and cut in steaks and score them  -2 Tbsp olive oil -1 Tsp maple syrup  -1 Tsp soy sauce -1 Tsp paprika -salt and pepper to taste </title>
@@ -91,5 +83,13 @@
     <content>FAVORITE SAUCES NR. 3😋 MOJO ROJO This is a roasted red pepper dip from the Canary Islands where it‘s usually served with potatoes but tbh it tastes great with everything!😇 RECIPE (4 servings, 35min prep time): -1 red pepper, cut in halt and deseed -2 clov</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7371907335419219233"/>
     <published>2024-05-22T19:25:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7372593934712818977</id>
+    <title>Just some thoughts and a recipe for single serve Bolognese…🍝  Please don’t comment on other people without knowing the full picture. Words can be powerful and words can hurt. 🫶 RECIPE (1 serving, 25min prep time): -1 big carrot, shredded -1 small onion -1</title>
+    <updated>2024-05-24T15:49:59+00:00</updated>
+    <content>Just some thoughts and a recipe for single serve Bolognese…🍝  Please don’t comment on other people without knowing the full picture. Words can be powerful and words can hurt. 🫶 RECIPE (1 serving, 25min prep time): -1 big carrot, shredded -1 small onion -1</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7372593934712818977"/>
+    <published>2024-05-24T15:49:59+00:00</published>
   </entry>
 </feed>
