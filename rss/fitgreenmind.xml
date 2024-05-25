@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-24T15:49:59+00:00</updated>
+  <updated>2024-05-25T19:53:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7368195878202395936</id>
-    <title>KOHLRABI STEAKS 😋 Easy, delicious and you can also prepare them on a BBQ.😌 RECIPE (3 serve, 3in prep time): -2 kohlrabi Peel and cut in steaks and score them  -2 Tbsp olive oil -1 Tsp maple syrup  -1 Tsp soy sauce -1 Tsp paprika -salt and pepper to taste </title>
-    <updated>2024-05-12T19:23:15+00:00</updated>
-    <content>KOHLRABI STEAKS 😋 Easy, delicious and you can also prepare them on a BBQ.😌 RECIPE (3 serve, 3in prep time): -2 kohlrabi Peel and cut in steaks and score them  -2 Tbsp olive oil -1 Tsp maple syrup  -1 Tsp soy sauce -1 Tsp paprika -salt and pepper to taste </content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7368195878202395936"/>
-    <published>2024-05-12T19:23:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7368569035438509344</id>
     <title>Da kommt was auf euch zu…👀 Ich bin schon ein biiiisschen aufgeregt, wer kann erraten, was es wird?🤭👇 - Something’s coming your way and I’m a liiiittle excited… can you guess what it is?🤭👇</title>
@@ -91,5 +83,13 @@
     <content>Just some thoughts and a recipe for single serve Bolognese…🍝  Please don’t comment on other people without knowing the full picture. Words can be powerful and words can hurt. 🫶 RECIPE (1 serving, 25min prep time): -1 big carrot, shredded -1 small onion -1</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7372593934712818977"/>
     <published>2024-05-24T15:49:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7373027783175343392</id>
+    <title>FAVORITE SAUCE NR. 5 😋 Amba 🥭  Amba means mango in Marathi, the language spoken in Maharashtra. It’s a sweet, spicy and sour condiment originating from India which is now popular in the Middle East and for me it’s ketchup on steroids!🤪 RECIPE (10-12 servi</title>
+    <updated>2024-05-25T19:53:32+00:00</updated>
+    <content>FAVORITE SAUCE NR. 5 😋 Amba 🥭  Amba means mango in Marathi, the language spoken in Maharashtra. It’s a sweet, spicy and sour condiment originating from India which is now popular in the Middle East and for me it’s ketchup on steroids!🤪 RECIPE (10-12 servi</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7373027783175343392"/>
+    <published>2024-05-25T19:53:32+00:00</published>
   </entry>
 </feed>
