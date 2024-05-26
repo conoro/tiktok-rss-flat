@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-23T23:11:27+00:00</updated>
+  <updated>2024-05-26T19:04:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7363461601460112683</id>
-    <title>Wear your sunscreen lol I felt so prepared for this run and I forgot one of the most important things. At least my headphones were charged! Is it hot where you are? What do you consider hot for running?? #running #runwithme </title>
-    <updated>2024-04-30T01:11:56+00:00</updated>
-    <content>Wear your sunscreen lol I felt so prepared for this run and I forgot one of the most important things. At least my headphones were charged! Is it hot where you are? What do you consider hot for running?? #running #runwithme </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7363461601460112683"/>
-    <published>2024-04-30T01:11:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7363826311288147243</id>
     <title>Things I deal with because I don’t want to live anywhere else 😅 I drive to a nearby town to use the internet at a coworking space. This has been an ongoing (kinda humorous at this point) saga for years. Going to give starlink a try 🤷‍♀️ #rurallife #intern</title>
@@ -91,5 +83,13 @@
     <content>It should be an interesting press conference before the Prefontaine Classic this weekend. Who will do the most trash talking? 🤔  My favorite videos from @Team USA lately are the ones featuring all the athletes qualifying for Paris! I’m getting so emotiona</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7372336624262270254"/>
     <published>2024-05-23T23:11:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7373386230358084910</id>
+    <title>Whenever I show my watch in a video, a lot of you ask which one YOU should get. It made me question why I even had the model I had. So I’m here to give the Garmin Forerunner 165 a whirl and see if it’s sufficient for us casual runners. I’m starting to thi</title>
+    <updated>2024-05-26T19:04:26+00:00</updated>
+    <content>Whenever I show my watch in a video, a lot of you ask which one YOU should get. It made me question why I even had the model I had. So I’m here to give the Garmin Forerunner 165 a whirl and see if it’s sufficient for us casual runners. I’m starting to thi</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7373386230358084910"/>
+    <published>2024-05-26T19:04:26+00:00</published>
   </entry>
 </feed>
