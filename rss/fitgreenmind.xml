@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-25T19:53:32+00:00</updated>
+  <updated>2024-05-27T19:47:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7368569035438509344</id>
-    <title>Da kommt was auf euch zu…👀 Ich bin schon ein biiiisschen aufgeregt, wer kann erraten, was es wird?🤭👇 - Something’s coming your way and I’m a liiiittle excited… can you guess what it is?🤭👇</title>
-    <updated>2024-05-13T19:31:17+00:00</updated>
-    <content>Da kommt was auf euch zu…👀 Ich bin schon ein biiiisschen aufgeregt, wer kann erraten, was es wird?🤭👇 - Something’s coming your way and I’m a liiiittle excited… can you guess what it is?🤭👇</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7368569035438509344"/>
-    <published>2024-05-13T19:31:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7369343839552687392</id>
     <title>LET’S TALK ABOUT SAUCES! 👩‍🍳 Sauces and condiments are one of the key components for making delicious food!  So in the nexts days I’ll share with you my Top 5 sauces I like to prep and keep in the fridge to have them on hand whenever I need them.😎 - SPREC</title>
@@ -91,5 +83,13 @@
     <content>FAVORITE SAUCE NR. 5 😋 Amba 🥭  Amba means mango in Marathi, the language spoken in Maharashtra. It’s a sweet, spicy and sour condiment originating from India which is now popular in the Middle East and for me it’s ketchup on steroids!🤪 RECIPE (10-12 servi</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7373027783175343392"/>
     <published>2024-05-25T19:53:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7373768434753998113</id>
+    <title>HOMEMADE PISTACHIO ICE CREAM 🍦  This recipe is inspired by @itsallgoodvegan and I’m gonna be making it allll summer long!🤭 RECIPE (6-8 servings, 15min prep time): -1 can (400ml) full fat coconut milk -1/4 cup pitted dates or maple syrup -3/4 cup (75g) pis</title>
+    <updated>2024-05-27T19:47:37+00:00</updated>
+    <content>HOMEMADE PISTACHIO ICE CREAM 🍦  This recipe is inspired by @itsallgoodvegan and I’m gonna be making it allll summer long!🤭 RECIPE (6-8 servings, 15min prep time): -1 can (400ml) full fat coconut milk -1/4 cup pitted dates or maple syrup -3/4 cup (75g) pis</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7373768434753998113"/>
+    <published>2024-05-27T19:47:37+00:00</published>
   </entry>
 </feed>
