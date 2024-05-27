@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@deadpubs</id>
   <title>deadpubs TikTok</title>
-  <updated>2024-05-10T13:04:42+00:00</updated>
+  <updated>2024-05-27T12:04:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from deadpubs</subtitle>
-  <entry>
-    <id>https://tiktok.com/@deadpubs/video/7340653114908888352</id>
-    <title>A Swift One at… The Crosse Keys, EC3V 0DR. #londonlife #london #thecity #pubreview #review #fyp #centrallondon #ukpub #uklife #deadpubs #england #beer </title>
-    <updated>2024-02-28T14:03:19+00:00</updated>
-    <content>A Swift One at… The Crosse Keys, EC3V 0DR. #londonlife #london #thecity #pubreview #review #fyp #centrallondon #ukpub #uklife #deadpubs #england #beer </content>
-    <link href="https://tiktok.com/@deadpubs/video/7340653114908888352"/>
-    <published>2024-02-28T14:03:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@deadpubs/video/7343249621851983137</id>
     <title>A Swift One at… Quinn’s, NW1 8NY. #camden #deadpubs #londonpub #pubs #fypシ #ukpubs #londonlife #review #beertok #londondeadpubs #camdentown </title>
@@ -91,5 +83,13 @@
     <content>A Swift One at… London’s Hottest Pub. #londonhiddengems #london #review #thedevonshire #londonpub #londonlife #fypage </content>
     <link href="https://tiktok.com/@deadpubs/video/7367356163467300128"/>
     <published>2024-05-10T13:04:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7373649136156937505</id>
+    <title>Jimmy Mac on… Hangovers. #hangover #cure #drinking #alcohol #deadpubs #uk #fyp </title>
+    <updated>2024-05-27T12:04:44+00:00</updated>
+    <content>Jimmy Mac on… Hangovers. #hangover #cure #drinking #alcohol #deadpubs #uk #fyp </content>
+    <link href="https://tiktok.com/@deadpubs/video/7373649136156937505"/>
+    <published>2024-05-27T12:04:44+00:00</published>
   </entry>
 </feed>

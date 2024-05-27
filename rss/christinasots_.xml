@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@christinasots_</id>
   <title>christinasots_ TikTok</title>
-  <updated>2024-05-21T14:36:05+00:00</updated>
+  <updated>2024-05-27T08:32:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from christinasots_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@christinasots_/video/7358494902247836960</id>
-    <title>GARLIC MUSHROOMS ON CREAMY TAHINI BEANS I eat a variation of this dish every week, usually as a fridge raid and with whatever veggies I have that need using up. A creamy beany base is perfect for mushrooms, broccoli, courgette or even just a load of sauté</title>
-    <updated>2024-04-16T15:58:31+00:00</updated>
-    <content>GARLIC MUSHROOMS ON CREAMY TAHINI BEANS I eat a variation of this dish every week, usually as a fridge raid and with whatever veggies I have that need using up. A creamy beany base is perfect for mushrooms, broccoli, courgette or even just a load of sauté</content>
-    <link href="https://tiktok.com/@christinasots_/video/7358494902247836960"/>
-    <published>2024-04-16T15:58:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7359578138713623840</id>
     <title>COCONUT PEANUT SAUCY AUBERGINE I tried a new way of cutting my aubergines to get extra flavour into them and I might never go back.  Full recipe is up now on the @mob site. This one is for their subscription platform which has some cool features you might</title>
@@ -67,6 +59,14 @@
     <content>But why is olive oil daylight robbery right now?</content>
     <link href="https://tiktok.com/@christinasots_/video/7371461632117050656"/>
     <published>2024-05-21T14:36:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@christinasots_/video/7373594394160581920</id>
+    <title>Smacked cucumber but make it beany!! Hannah from @Bold Bean Co came over to make some beany recipes with me and the second one we made was this DELICIOUS tenderstem brocolli, smacked cucumber and black bean salad with a satay-ish sauce and a load of fresh</title>
+    <updated>2024-05-27T08:32:22+00:00</updated>
+    <content>Smacked cucumber but make it beany!! Hannah from @Bold Bean Co came over to make some beany recipes with me and the second one we made was this DELICIOUS tenderstem brocolli, smacked cucumber and black bean salad with a satay-ish sauce and a load of fresh</content>
+    <link href="https://tiktok.com/@christinasots_/video/7373594394160581920"/>
+    <published>2024-05-27T08:32:22+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7198125871461403909</id>
