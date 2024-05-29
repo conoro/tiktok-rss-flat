@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-29T03:58:56+00:00</updated>
+  <updated>2024-05-29T19:23:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7369685851703495968</id>
-    <title>MAULTASCHEN with @Max La Manna  When I was in London I had the honor to meet up with Max again and to show him how to make proper Maultaschen… Schmackofatz! 🤭 RECIPE (4 big Maultaschen, 1h prep time) -250g flour -salt -120ml water Knead and set aside whil</title>
-    <updated>2024-05-16T19:45:06+00:00</updated>
-    <content>MAULTASCHEN with @Max La Manna  When I was in London I had the honor to meet up with Max again and to show him how to make proper Maultaschen… Schmackofatz! 🤭 RECIPE (4 big Maultaschen, 1h prep time) -250g flour -salt -120ml water Knead and set aside whil</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7369685851703495968"/>
-    <published>2024-05-16T19:45:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7370428187253263648</id>
     <title>FAVORITE SAUCE NR.1 😋 Tahini with lemon pepper cauliflower  It took me about 15 years of my life to like tahini and this is THE tahini sauce you must make!😉 SAUCE RECIPE (6-8 servings, 5min prep time): -5 big Tbsp tahini -3 Tbsp maple syrup or another swe</title>
@@ -91,5 +83,13 @@
     <content>Werbung/Ad | I’ve got something exciting for you guys…🥳 Thanks @microsoftcopilot ! With Talk To Text in Windows 11, interacting with my device has never been easier.🤓 I can’t wait to show you how I made this delicious dish! @windows #WindowsPartner #CoreC</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7374266011115097376"/>
     <published>2024-05-29T03:58:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7374504508342275361</id>
+    <title>KOHLRABI SKEWERS 🔥  A veggie BBQ doesn’t have to be boring, here’s how you can turn Kohlrabi into a highlight…😮‍💨 RECIPE (6 skewers, 30min prep time): -2 kohlrabi (celeriac works as well) Peel and shred. Marinade: -3 Tbsp tomato paste -1 Tbsp miso paste -</title>
+    <updated>2024-05-29T19:23:57+00:00</updated>
+    <content>KOHLRABI SKEWERS 🔥  A veggie BBQ doesn’t have to be boring, here’s how you can turn Kohlrabi into a highlight…😮‍💨 RECIPE (6 skewers, 30min prep time): -2 kohlrabi (celeriac works as well) Peel and shred. Marinade: -3 Tbsp tomato paste -1 Tbsp miso paste -</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7374504508342275361"/>
+    <published>2024-05-29T19:23:57+00:00</published>
   </entry>
 </feed>
