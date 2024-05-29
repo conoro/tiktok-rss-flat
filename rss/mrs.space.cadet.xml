@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-26T19:04:26+00:00</updated>
+  <updated>2024-05-28T22:43:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7363826311288147243</id>
-    <title>Things I deal with because I don’t want to live anywhere else 😅 I drive to a nearby town to use the internet at a coworking space. This has been an ongoing (kinda humorous at this point) saga for years. Going to give starlink a try 🤷‍♀️ #rurallife #intern</title>
-    <updated>2024-05-01T00:47:11+00:00</updated>
-    <content>Things I deal with because I don’t want to live anywhere else 😅 I drive to a nearby town to use the internet at a coworking space. This has been an ongoing (kinda humorous at this point) saga for years. Going to give starlink a try 🤷‍♀️ #rurallife #intern</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7363826311288147243"/>
-    <published>2024-05-01T00:47:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7364056423975685419</id>
     <title>#AD What would your strategy be to make sure YOU get the last @CLIF BAR?! Dan and I love having our favorite flavors in stock to help us fuel for longer workouts especially when we’re low on time aka always! I love the flavors, plant-based protein, fat (t</title>
@@ -91,5 +83,13 @@
     <content>Whenever I show my watch in a video, a lot of you ask which one YOU should get. It made me question why I even had the model I had. So I’m here to give the Garmin Forerunner 165 a whirl and see if it’s sufficient for us casual runners. I’m starting to thi</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7373386230358084910"/>
     <published>2024-05-26T19:04:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7374184900368354602</id>
+    <title>Finding fun ways to fuel my training has made this whole process of trying to run far again WAY more doable. I usually have to avoid ice cream because too much sugar hurts my stomach, but @Halo Top Creamery has been my solution to that nonsense! I feel go</title>
+    <updated>2024-05-28T22:43:41+00:00</updated>
+    <content>Finding fun ways to fuel my training has made this whole process of trying to run far again WAY more doable. I usually have to avoid ice cream because too much sugar hurts my stomach, but @Halo Top Creamery has been my solution to that nonsense! I feel go</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7374184900368354602"/>
+    <published>2024-05-28T22:43:41+00:00</published>
   </entry>
 </feed>
