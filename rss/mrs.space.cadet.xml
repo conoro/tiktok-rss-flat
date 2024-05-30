@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-28T22:43:41+00:00</updated>
+  <updated>2024-05-30T00:01:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7364056423975685419</id>
-    <title>#AD What would your strategy be to make sure YOU get the last @CLIF BAR?! Dan and I love having our favorite flavors in stock to help us fuel for longer workouts especially when we’re low on time aka always! I love the flavors, plant-based protein, fat (t</title>
-    <updated>2024-05-01T15:44:59+00:00</updated>
-    <content>#AD What would your strategy be to make sure YOU get the last @CLIF BAR?! Dan and I love having our favorite flavors in stock to help us fuel for longer workouts especially when we’re low on time aka always! I love the flavors, plant-based protein, fat (t</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7364056423975685419"/>
-    <published>2024-05-01T15:44:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7366045979956628782</id>
     <title>Here’s your motivation to get that workout in despite the weather. I always feel way more accomplished after pushing through less than ideal conditions 💪 #running #runmotivation </title>
@@ -91,5 +83,13 @@
     <content>Finding fun ways to fuel my training has made this whole process of trying to run far again WAY more doable. I usually have to avoid ice cream because too much sugar hurts my stomach, but @Halo Top Creamery has been my solution to that nonsense! I feel go</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7374184900368354602"/>
     <published>2024-05-28T22:43:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7374576143346732330</id>
+    <title>The slug saga…finding new friends everywhere I run 😅 Do you run with people or do you make up your own friends like me? #running #runfriends #runwithme </title>
+    <updated>2024-05-30T00:01:54+00:00</updated>
+    <content>The slug saga…finding new friends everywhere I run 😅 Do you run with people or do you make up your own friends like me? #running #runfriends #runwithme </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7374576143346732330"/>
+    <published>2024-05-30T00:01:54+00:00</published>
   </entry>
 </feed>
