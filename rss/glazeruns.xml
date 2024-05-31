@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-23T12:55:59+00:00</updated>
+  <updated>2024-05-30T22:34:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7369000826901220651</id>
-    <title>280 miles = 450 km This next week is going to be hard. #runtok #runstreak#ultrarunner </title>
-    <updated>2024-05-14T23:26:57+00:00</updated>
-    <content>280 miles = 450 km This next week is going to be hard. #runtok #runstreak#ultrarunner </content>
-    <link href="https://tiktok.com/@glazeruns/video/7369000826901220651"/>
-    <published>2024-05-14T23:26:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7370098321756720430</id>
     <title>Well at least I'm certified! I've heard that's a hard certification to obtain. Remember you'll never meet a hater doing more than you. #runtok #runstreak #ultrarunner </title>
@@ -67,6 +59,14 @@
     <content>Before 250 miles and After 250 miles Never lost the smile. But what I gained is priceless.  Cocodona 250 will teach you things about yourself that are hard to put into words. The lessons gained out in the mountains will help you later in life. LFG Smile, </content>
     <link href="https://tiktok.com/@glazeruns/video/7372178013787573546"/>
     <published>2024-05-23T12:55:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7374924814085016875</id>
+    <title>The amount of times I've shit while running is way too high. Almost didn't make it.  Smile, or you're doing it wrong. #ultramarathon #ultrarunning #ultrarunner </title>
+    <updated>2024-05-30T22:34:54+00:00</updated>
+    <content>The amount of times I've shit while running is way too high. Almost didn't make it.  Smile, or you're doing it wrong. #ultramarathon #ultrarunning #ultrarunner </content>
+    <link href="https://tiktok.com/@glazeruns/video/7374924814085016875"/>
+    <published>2024-05-30T22:34:54+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>
