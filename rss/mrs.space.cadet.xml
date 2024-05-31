@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-30T00:01:54+00:00</updated>
+  <updated>2024-05-31T00:32:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7366045979956628782</id>
-    <title>Here’s your motivation to get that workout in despite the weather. I always feel way more accomplished after pushing through less than ideal conditions 💪 #running #runmotivation </title>
-    <updated>2024-05-07T00:20:33+00:00</updated>
-    <content>Here’s your motivation to get that workout in despite the weather. I always feel way more accomplished after pushing through less than ideal conditions 💪 #running #runmotivation </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7366045979956628782"/>
-    <published>2024-05-07T00:20:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7368647560665369902</id>
     <title>Does the end bother you? 😆 Would you run to an even 3 miles or stop when time is up? Month 1 of trying to run far again is underway! #running #runwithme #vlog  ⌚️ Garmin 165 Music 👟 Reebok Float Zig 1 🎵 Shokz OpenRun Pro</title>
@@ -91,5 +83,13 @@
     <content>The slug saga…finding new friends everywhere I run 😅 Do you run with people or do you make up your own friends like me? #running #runfriends #runwithme </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7374576143346732330"/>
     <published>2024-05-30T00:01:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7374955039707745579</id>
+    <title>Who wants to start a Bill May Fan Club?! 🙋‍♀️ Also, after filming this, Jakob literally dove over a finish line at the Diamond League in Oslo. Never a dull moment in SPORTS! Stay tuned for some Olympic and Paralympic facts to start getting us up to speed </title>
+    <updated>2024-05-31T00:32:12+00:00</updated>
+    <content>Who wants to start a Bill May Fan Club?! 🙋‍♀️ Also, after filming this, Jakob literally dove over a finish line at the Diamond League in Oslo. Never a dull moment in SPORTS! Stay tuned for some Olympic and Paralympic facts to start getting us up to speed </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7374955039707745579"/>
+    <published>2024-05-31T00:32:12+00:00</published>
   </entry>
 </feed>
