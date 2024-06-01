@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-31T22:18:51+00:00</updated>
+  <updated>2024-06-01T00:43:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7370461408867372334</id>
-    <title>10 times during the race, I cleaned my feet and put on new socks. I also re taped any toes where the tape came off. I did get more blisters than normal, but I think that due to the technicality of the trail. Same shoes all 250 miles. Not bad, eh? Smile, o</title>
-    <updated>2024-05-18T21:54:45+00:00</updated>
-    <content>10 times during the race, I cleaned my feet and put on new socks. I also re taped any toes where the tape came off. I did get more blisters than normal, but I think that due to the technicality of the trail. Same shoes all 250 miles. Not bad, eh? Smile, o</content>
-    <link href="https://tiktok.com/@glazeruns/video/7370461408867372334"/>
-    <published>2024-05-18T21:54:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7370472244608273707</id>
     <title>13 pounds is heavy when running 250 miles. Luckily, during the night, I was wearing a lot of that gear on my body. But the water and the food were a constant weight.  If you have questions, let me know. Everything worked quite well, I didn't have any l ep</title>
@@ -67,6 +59,14 @@
     <content>I am humbled and excited to share that I have been offered the position of Battalion Chief, starting at the end of June. This role was something my Dad and I often discussed before he passed, and it feels deeply meaningful to reach this milestone. Two yea</content>
     <link href="https://tiktok.com/@glazeruns/video/7375291750853659947"/>
     <published>2024-05-31T22:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7375328934222728494</id>
+    <title>Two 100 milers in a week. what could go wrong #ultrarunner #runtok #bighorn100 #sandiego100 </title>
+    <updated>2024-06-01T00:43:07+00:00</updated>
+    <content>Two 100 milers in a week. what could go wrong #ultrarunner #runtok #bighorn100 #sandiego100 </content>
+    <link href="https://tiktok.com/@glazeruns/video/7375328934222728494"/>
+    <published>2024-06-01T00:43:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>
