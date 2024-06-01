@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-05-31T00:32:12+00:00</updated>
+  <updated>2024-06-01T00:27:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7368647560665369902</id>
-    <title>Does the end bother you? 😆 Would you run to an even 3 miles or stop when time is up? Month 1 of trying to run far again is underway! #running #runwithme #vlog  ⌚️ Garmin 165 Music 👟 Reebok Float Zig 1 🎵 Shokz OpenRun Pro</title>
-    <updated>2024-05-14T00:36:07+00:00</updated>
-    <content>Does the end bother you? 😆 Would you run to an even 3 miles or stop when time is up? Month 1 of trying to run far again is underway! #running #runwithme #vlog  ⌚️ Garmin 165 Music 👟 Reebok Float Zig 1 🎵 Shokz OpenRun Pro</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7368647560665369902"/>
-    <published>2024-05-14T00:36:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7369020710074846507</id>
     <title>I run in spandex shorts, so when I’m not running I want flowy shorts! I tried these POPFLEX shorts despite the spandex layer underneath because a lot of you were curious about them. The price point is $59. Let me know what else I should try! #shorts #tryo</title>
@@ -91,5 +83,13 @@
     <content>Who wants to start a Bill May Fan Club?! 🙋‍♀️ Also, after filming this, Jakob literally dove over a finish line at the Diamond League in Oslo. Never a dull moment in SPORTS! Stay tuned for some Olympic and Paralympic facts to start getting us up to speed </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7374955039707745579"/>
     <published>2024-05-31T00:32:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7375324792733355307</id>
+    <title>#ad Do I dream of sleep during the day? Absolutely! On these crazy busy days, falling into my @Sleep Number bed is the best part 🤣 Do you daydream of bedtime??   #SmarterSleep #SleepTips #momlife </title>
+    <updated>2024-06-01T00:27:03+00:00</updated>
+    <content>#ad Do I dream of sleep during the day? Absolutely! On these crazy busy days, falling into my @Sleep Number bed is the best part 🤣 Do you daydream of bedtime??   #SmarterSleep #SleepTips #momlife </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7375324792733355307"/>
+    <published>2024-06-01T00:27:03+00:00</published>
   </entry>
 </feed>

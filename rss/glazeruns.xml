@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-05-30T22:34:54+00:00</updated>
+  <updated>2024-05-31T22:18:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7370098321756720430</id>
-    <title>Well at least I'm certified! I've heard that's a hard certification to obtain. Remember you'll never meet a hater doing more than you. #runtok #runstreak #ultrarunner </title>
-    <updated>2024-05-17T22:25:47+00:00</updated>
-    <content>Well at least I'm certified! I've heard that's a hard certification to obtain. Remember you'll never meet a hater doing more than you. #runtok #runstreak #ultrarunner </content>
-    <link href="https://tiktok.com/@glazeruns/video/7370098321756720430"/>
-    <published>2024-05-17T22:25:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7370461408867372334</id>
     <title>10 times during the race, I cleaned my feet and put on new socks. I also re taped any toes where the tape came off. I did get more blisters than normal, but I think that due to the technicality of the trail. Same shoes all 250 miles. Not bad, eh? Smile, o</title>
@@ -67,6 +59,14 @@
     <content>The amount of times I've shit while running is way too high. Almost didn't make it.  Smile, or you're doing it wrong. #ultramarathon #ultrarunning #ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7374924814085016875"/>
     <published>2024-05-30T22:34:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7375291750853659947</id>
+    <title>I am humbled and excited to share that I have been offered the position of Battalion Chief, starting at the end of June. This role was something my Dad and I often discussed before he passed, and it feels deeply meaningful to reach this milestone. Two yea</title>
+    <updated>2024-05-31T22:18:51+00:00</updated>
+    <content>I am humbled and excited to share that I have been offered the position of Battalion Chief, starting at the end of June. This role was something my Dad and I often discussed before he passed, and it feels deeply meaningful to reach this milestone. Two yea</content>
+    <link href="https://tiktok.com/@glazeruns/video/7375291750853659947"/>
+    <published>2024-05-31T22:18:51+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>
