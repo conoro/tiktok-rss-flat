@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-05-30T17:08:54+00:00</updated>
+  <updated>2024-06-02T19:12:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7370810071984459041</id>
-    <title>FAVORITE SAUCES NR. 2 😋 Greens pesto  I love using leftover greens for pesto before they go bad and you can use all kinds: spinach, rocket or any herbs! I like to pair it with my orzo salad but you can use it just like pesto. 🤌 RECIPE (2-3 servings, 10min</title>
-    <updated>2024-05-19T20:27:41+00:00</updated>
-    <content>FAVORITE SAUCES NR. 2 😋 Greens pesto  I love using leftover greens for pesto before they go bad and you can use all kinds: spinach, rocket or any herbs! I like to pair it with my orzo salad but you can use it just like pesto. 🤌 RECIPE (2-3 servings, 10min</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7370810071984459041"/>
-    <published>2024-05-19T20:27:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7371170533590699297</id>
     <title>FAVORITE SAUCE NR. 3 😋 Indonesian inspired Sambal 🇮🇩 There are lots of different types of Sambal in Indonesia. And this is my favorite NOT AUTHENTIC but for me it has the perfect balance of sweet, spicy and tangy flavors.😇 You can use it as dip or flavori</title>
@@ -91,5 +83,13 @@
     <content>GREEN POWER 💚💪 Werbung/Ad Some of you have already waited for it, now it's finally here... my own online program with @gymondo "Green Power" is now also available in English!   What can you expect?  💚 4 functional workouts for every fitness level (includi</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7374840797402844448"/>
     <published>2024-05-30T17:08:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7375985976620977441</id>
+    <title>VEGAN BIFTEKIA 🇬🇷 These tofu balls are inspired by Greek biftekia and perfect with some vegan tzatziki and lemon potatoes.😮‍💨 🥶The meat(less)balls can be stored after frying in the freezer up to 3 months. RECIPE (3 servings, 25min prep time): -1 block (20</title>
+    <updated>2024-06-02T19:12:50+00:00</updated>
+    <content>VEGAN BIFTEKIA 🇬🇷 These tofu balls are inspired by Greek biftekia and perfect with some vegan tzatziki and lemon potatoes.😮‍💨 🥶The meat(less)balls can be stored after frying in the freezer up to 3 months. RECIPE (3 servings, 25min prep time): -1 block (20</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7375985976620977441"/>
+    <published>2024-06-02T19:12:50+00:00</published>
   </entry>
 </feed>
