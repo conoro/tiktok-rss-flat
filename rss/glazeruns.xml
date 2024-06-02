@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-06-01T00:43:07+00:00</updated>
+  <updated>2024-06-02T02:59:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7370472244608273707</id>
-    <title>13 pounds is heavy when running 250 miles. Luckily, during the night, I was wearing a lot of that gear on my body. But the water and the food were a constant weight.  If you have questions, let me know. Everything worked quite well, I didn't have any l ep</title>
-    <updated>2024-05-18T22:36:46+00:00</updated>
-    <content>13 pounds is heavy when running 250 miles. Luckily, during the night, I was wearing a lot of that gear on my body. But the water and the food were a constant weight.  If you have questions, let me know. Everything worked quite well, I didn't have any l ep</content>
-    <link href="https://tiktok.com/@glazeruns/video/7370472244608273707"/>
-    <published>2024-05-18T22:36:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7370529141776502062</id>
-    <title>I think I lost 15 pounds, hallucinated non-stop, slept in the dirt, shat in the woods, and fell a few times. Can't wait to go back for year 5! But until then, I'll relish in the Cocodona 1000 mile club. Smile, or you're doing it wrong. Cocodona 250 miler </title>
-    <updated>2024-05-19T02:17:33+00:00</updated>
-    <content>I think I lost 15 pounds, hallucinated non-stop, slept in the dirt, shat in the woods, and fell a few times. Can't wait to go back for year 5! But until then, I'll relish in the Cocodona 1000 mile club. Smile, or you're doing it wrong. Cocodona 250 miler </content>
-    <link href="https://tiktok.com/@glazeruns/video/7370529141776502062"/>
-    <published>2024-05-19T02:17:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7371965424763751722</id>
     <title>Hardwork, the power of positivity, and never give up. Three things my Dad instilled in me at a young age. When people wonder why I am the way I am and who inspires me? I always point to him. I can't believe it's been two years. Seems like yesterday I was </title>
@@ -67,6 +51,22 @@
     <content>Two 100 milers in a week. what could go wrong #ultrarunner #runtok #bighorn100 #sandiego100 </content>
     <link href="https://tiktok.com/@glazeruns/video/7375328934222728494"/>
     <published>2024-06-01T00:43:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7375727815204883754</id>
+    <title>The knees are strong. Smile, or you're doing it wrong. #runtok #ultrarunner #firefighter </title>
+    <updated>2024-06-02T02:30:59+00:00</updated>
+    <content>The knees are strong. Smile, or you're doing it wrong. #runtok #ultrarunner #firefighter </content>
+    <link href="https://tiktok.com/@glazeruns/video/7375727815204883754"/>
+    <published>2024-06-02T02:30:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7375735073653411114</id>
+    <title>Sounds like a fun week #runtok #firefighter #ultrarunner </title>
+    <updated>2024-06-02T02:59:09+00:00</updated>
+    <content>Sounds like a fun week #runtok #firefighter #ultrarunner </content>
+    <link href="https://tiktok.com/@glazeruns/video/7375735073653411114"/>
+    <published>2024-06-02T02:59:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>
