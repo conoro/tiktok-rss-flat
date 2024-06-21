@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@texasbeeworks</id>
   <title>texasbeeworks TikTok</title>
-  <updated>2024-05-20T17:13:26+00:00</updated>
+  <updated>2024-06-21T16:45:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from texasbeeworks</subtitle>
-  <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/7284289008572583210</id>
-    <title>Bee battle!</title>
-    <updated>2023-09-29T16:42:01+00:00</updated>
-    <content>Bee battle!</content>
-    <link href="https://tiktok.com/@texasbeeworks/video/7284289008572583210"/>
-    <published>2023-09-29T16:42:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@texasbeeworks/video/7298750561971604778</id>
     <title>It’s that time of year again… when the male bees get kicked out of the hive. </title>
@@ -67,6 +59,14 @@
     <content>Happy World Bee Day from me, the bees, and @Pela Case!  Learn how you can support bees and Pollinator Partnership by visiting https://pelacase.ca/pages/bee-day</content>
     <link href="https://tiktok.com/@texasbeeworks/video/7371131071838080298"/>
     <published>2024-05-20T17:13:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/7382998515183635754</id>
+    <title>Another great day of saving the bees! </title>
+    <updated>2024-06-21T16:45:03+00:00</updated>
+    <content>Another great day of saving the bees! </content>
+    <link href="https://tiktok.com/@texasbeeworks/video/7382998515183635754"/>
+    <published>2024-06-21T16:45:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@texasbeeworks/video/6938831081684651269</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-06-18T19:18:35+00:00</updated>
+  <updated>2024-06-21T19:44:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7376367612525071648</id>
-    <title>SMASH FALAFEL WRAP 🧆  I’ve seen @raniaobeidallah making a smashed falafel wrap and it looked so good that I had to give it my own twist.😋 RECIPE (2 servings, 15min prep time): -1 can chickpeas -a bunch fresh parsley -a bunch of fresh cilantro -1 clove gar</title>
-    <updated>2024-06-03T19:53:46+00:00</updated>
-    <content>SMASH FALAFEL WRAP 🧆  I’ve seen @raniaobeidallah making a smashed falafel wrap and it looked so good that I had to give it my own twist.😋 RECIPE (2 servings, 15min prep time): -1 can chickpeas -a bunch fresh parsley -a bunch of fresh cilantro -1 clove gar</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7376367612525071648"/>
-    <published>2024-06-03T19:53:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7377100549780540704</id>
     <title>LIMONADA DE COCO 🇨🇴  This is a refreshing drink from Colombia and sooo easy to make yourself! 😋 (FYI I got metal straws now 😉). RECIPE (4-5 servings, 10min prep time): -Juice of 4 limes -zest of 2 (organic and washed) limes -4 Tbsp sugar (or more to taste</title>
@@ -91,5 +83,13 @@
     <content>LESS IS MORE ZUCCHINI👩‍🍳 You can pan fry it OR grill it on a barbecue (which adds a lovely smokiness). Definitely give this a shot!🫶 RECIPE (1 servings, 15min prep time): -1 zucchini (or what‘s left from it) Cut into big chunks. Pan fry covered in oil on </content>
     <link href="https://tiktok.com/@fitgreenmind/video/7381924831706500385"/>
     <published>2024-06-18T19:18:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7383044853522861344</id>
+    <title>SEXY CABBAGE 🔥 🥬  Let me tell you, this is some REALLY sexy cabbage!😼 RECIPE (5 skewers, 30min prep time): -1 small cabbage (pointed, Napa or savoy) Cut in chunks. Marinade: -3 Tbsp tomato paste -2 Tsp soy sauce -1 Tbsp vinegar or lemon juice -1 Tbsp mapl</title>
+    <updated>2024-06-21T19:44:51+00:00</updated>
+    <content>SEXY CABBAGE 🔥 🥬  Let me tell you, this is some REALLY sexy cabbage!😼 RECIPE (5 skewers, 30min prep time): -1 small cabbage (pointed, Napa or savoy) Cut in chunks. Marinade: -3 Tbsp tomato paste -2 Tsp soy sauce -1 Tbsp vinegar or lemon juice -1 Tbsp mapl</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7383044853522861344"/>
+    <published>2024-06-21T19:44:51+00:00</published>
   </entry>
 </feed>
