@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kimquindlen</id>
   <title>kimquindlen TikTok</title>
-  <updated>2024-04-30T15:22:47+00:00</updated>
+  <updated>2024-06-18T14:59:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kimquindlen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kimquindlen/video/7336244048648490286</id>
-    <title>you’re an icon you’re perfect </title>
-    <updated>2024-02-16T16:54:31+00:00</updated>
-    <content>you’re an icon you’re perfect </content>
-    <link href="https://tiktok.com/@kimquindlen/video/7336244048648490286"/>
-    <published>2024-02-16T16:54:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kimquindlen/video/7337711185531292971</id>
-    <title>Slay mama @parkthelark </title>
-    <updated>2024-02-20T15:47:11+00:00</updated>
-    <content>Slay mama @parkthelark </content>
-    <link href="https://tiktok.com/@kimquindlen/video/7337711185531292971"/>
-    <published>2024-02-20T15:47:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kimquindlen/video/7340311480153165099</id>
     <title>ready to find MyPerson</title>
@@ -67,6 +51,22 @@
     <content>I thought we were best friends. But I guess I was wrong. </content>
     <link href="https://tiktok.com/@kimquindlen/video/7363680861285322030"/>
     <published>2024-04-30T15:22:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kimquindlen/video/7380026141022702891</id>
+    <title>itwasssssooogreat to meet you! &lt;3</title>
+    <updated>2024-06-13T16:30:41+00:00</updated>
+    <content>itwasssssooogreat to meet you! &lt;3</content>
+    <link href="https://tiktok.com/@kimquindlen/video/7380026141022702891"/>
+    <published>2024-06-13T16:30:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kimquindlen/video/7381857986907540778</id>
+    <title>maybe you’re scared of what we have. but me? I’m not </title>
+    <updated>2024-06-18T14:59:14+00:00</updated>
+    <content>maybe you’re scared of what we have. but me? I’m not </content>
+    <link href="https://tiktok.com/@kimquindlen/video/7381857986907540778"/>
+    <published>2024-06-18T14:59:14+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kimquindlen/video/7052868933723950341</id>

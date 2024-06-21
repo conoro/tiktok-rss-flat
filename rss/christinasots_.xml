@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@christinasots_</id>
   <title>christinasots_ TikTok</title>
-  <updated>2024-06-02T10:21:27+00:00</updated>
+  <updated>2024-05-27T08:32:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from christinasots_</subtitle>
+  <entry>
+    <id>https://tiktok.com/@christinasots_/video/7359578138713623840</id>
+    <title>COCONUT PEANUT SAUCY AUBERGINE I tried a new way of cutting my aubergines to get extra flavour into them and I might never go back.  Full recipe is up now on the @mob site. This one is for their subscription platform which has some cool features you might</title>
+    <updated>2024-04-19T14:02:03+00:00</updated>
+    <content>COCONUT PEANUT SAUCY AUBERGINE I tried a new way of cutting my aubergines to get extra flavour into them and I might never go back.  Full recipe is up now on the @mob site. This one is for their subscription platform which has some cool features you might</content>
+    <link href="https://tiktok.com/@christinasots_/video/7359578138713623840"/>
+    <published>2024-04-19T14:02:03+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7363597701956652320</id>
     <title>A simple tip I learned from one of my preivous head chefs on how to season properly as you cook!  I’m a recipe writer and restaurant trained chef and this is something I do every time I cook.  #cookingtip #cheflife #chefsoftiktok </title>
@@ -59,14 +67,6 @@
     <content>Smacked cucumber but make it beany!! Hannah from @Bold Bean Co came over to make some beany recipes with me and the second one we made was this DELICIOUS tenderstem brocolli, smacked cucumber and black bean salad with a satay-ish sauce and a load of fresh</content>
     <link href="https://tiktok.com/@christinasots_/video/7373594394160581920"/>
     <published>2024-05-27T08:32:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@christinasots_/video/7375849048600890657</id>
-    <title>Pasta soup or extra saucy spaghetti?  Full recipe is up on my site now via the link in my bio! x</title>
-    <updated>2024-06-02T10:21:27+00:00</updated>
-    <content>Pasta soup or extra saucy spaghetti?  Full recipe is up on my site now via the link in my bio! x</content>
-    <link href="https://tiktok.com/@christinasots_/video/7375849048600890657"/>
-    <published>2024-06-02T10:21:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7198125871461403909</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@deadpubs</id>
   <title>deadpubs TikTok</title>
-  <updated>2024-05-27T12:04:44+00:00</updated>
+  <updated>2024-06-19T12:32:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,30 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from deadpubs</subtitle>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7332488411611221280</id>
+    <title>A Swift One at… The King’s Head, W1G 8PJ. #pubreview #londondeadpubs #londonpub #london #pubs #pubtok #pubculture #deadpubs #londonpubs #marylebone </title>
+    <updated>2024-02-06T14:00:03+00:00</updated>
+    <content>A Swift One at… The King’s Head, W1G 8PJ. #pubreview #londondeadpubs #londonpub #london #pubs #pubtok #pubculture #deadpubs #londonpubs #marylebone </content>
+    <link href="https://tiktok.com/@deadpubs/video/7332488411611221280"/>
+    <published>2024-02-06T14:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7338396547555675425</id>
+    <title>A Swift One at… Moranos, HA8 6RW. #pubs #london #canonspark #englishpub #england #fypシ #uktiktok #londonpub #review #deadpubs #suburbia #londonlife </title>
+    <updated>2024-02-22T12:06:38+00:00</updated>
+    <content>A Swift One at… Moranos, HA8 6RW. #pubs #london #canonspark #englishpub #england #fypシ #uktiktok #londonpub #review #deadpubs #suburbia #londonlife </content>
+    <link href="https://tiktok.com/@deadpubs/video/7338396547555675425"/>
+    <published>2024-02-22T12:06:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7340653114908888352</id>
+    <title>A Swift One at… The Crosse Keys, EC3V 0DR. #londonlife #london #thecity #pubreview #review #fyp #centrallondon #ukpub #uklife #deadpubs #england #beer </title>
+    <updated>2024-02-28T14:03:19+00:00</updated>
+    <content>A Swift One at… The Crosse Keys, EC3V 0DR. #londonlife #london #thecity #pubreview #review #fyp #centrallondon #ukpub #uklife #deadpubs #england #beer </content>
+    <link href="https://tiktok.com/@deadpubs/video/7340653114908888352"/>
+    <published>2024-02-28T14:03:19+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@deadpubs/video/7343249621851983137</id>
     <title>A Swift One at… Quinn’s, NW1 8NY. #camden #deadpubs #londonpub #pubs #fypシ #ukpubs #londonlife #review #beertok #londondeadpubs #camdentown </title>
@@ -91,5 +115,37 @@
     <content>Jimmy Mac on… Hangovers. #hangover #cure #drinking #alcohol #deadpubs #uk #fyp </content>
     <link href="https://tiktok.com/@deadpubs/video/7373649136156937505"/>
     <published>2024-05-27T12:04:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7377002954311748896</id>
+    <title>A Swift One at… the King &amp; Queen, Brighton. #brighton #sussex #england #review #deadpubs #pubtok #fypp #uk #drink </title>
+    <updated>2024-06-05T12:59:13+00:00</updated>
+    <content>A Swift One at… the King &amp; Queen, Brighton. #brighton #sussex #england #review #deadpubs #pubtok #fypp #uk #drink </content>
+    <link href="https://tiktok.com/@deadpubs/video/7377002954311748896"/>
+    <published>2024-06-05T12:59:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7379598890632351008</id>
+    <title>Top Five Euros Pubs. #football #euro2024 #london #pubs #deadpubs #england #londonlife #review #top5 </title>
+    <updated>2024-06-12T12:52:50+00:00</updated>
+    <content>Top Five Euros Pubs. #football #euro2024 #london #pubs #deadpubs #england #londonlife #review #top5 </content>
+    <link href="https://tiktok.com/@deadpubs/video/7379598890632351008"/>
+    <published>2024-06-12T12:52:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7381835787681140001</id>
+    <title>A look at the lost pubs of London. #london #deadpubs #londonpub #closed #fyp #pubs #publichouse </title>
+    <updated>2024-06-18T13:33:05+00:00</updated>
+    <content>A look at the lost pubs of London. #london #deadpubs #londonpub #closed #fyp #pubs #publichouse </content>
+    <link href="https://tiktok.com/@deadpubs/video/7381835787681140001"/>
+    <published>2024-06-18T13:33:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7382191194274532640</id>
+    <title>A Swift One at… King William IV, NG2 4RG. #review #pubs #nottingham #robinhood #midlands #beer #england #englishpub #fypツ #pubreview </title>
+    <updated>2024-06-19T12:32:19+00:00</updated>
+    <content>A Swift One at… King William IV, NG2 4RG. #review #pubs #nottingham #robinhood #midlands #beer #england #englishpub #fypツ #pubreview </content>
+    <link href="https://tiktok.com/@deadpubs/video/7382191194274532640"/>
+    <published>2024-06-19T12:32:19+00:00</published>
   </entry>
 </feed>

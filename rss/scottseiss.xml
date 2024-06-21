@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2024-05-23T23:01:01+00:00</updated>
+  <updated>2024-06-14T19:00:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7332968489742978350</id>
-    <title>#EpicPartner #Ad I did stand up in Fortnite! This is not a bit. Short, family friendly sets at JokeNite produced by Trevor Noah. Check it out ising the island code: 6296-7829-6524 #fortnite #comedy </title>
-    <updated>2024-02-07T21:03:28+00:00</updated>
-    <content>#EpicPartner #Ad I did stand up in Fortnite! This is not a bit. Short, family friendly sets at JokeNite produced by Trevor Noah. Check it out ising the island code: 6296-7829-6524 #fortnite #comedy </content>
-    <link href="https://tiktok.com/@scottseiss/video/7332968489742978350"/>
-    <published>2024-02-07T21:03:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7333694598507793710</id>
-    <title>Beverly, MA! Feb 16 &amp; 17 😁🥶 Ticket link in my bio #standup #massachusetts #comedy #standupcomedy #boston #beverlyma </title>
-    <updated>2024-02-09T20:01:14+00:00</updated>
-    <content>Beverly, MA! Feb 16 &amp; 17 😁🥶 Ticket link in my bio #standup #massachusetts #comedy #standupcomedy #boston #beverlyma </content>
-    <link href="https://tiktok.com/@scottseiss/video/7333694598507793710"/>
-    <published>2024-02-09T20:01:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7338472212275432750</id>
     <title>I wrote a book! 😁 Preorder the physical copy or audiobook (read by me) now #comedy #book #work #books #booktok #fyp </title>
@@ -75,6 +59,22 @@
     <content>“Why aren’t people having kids anymore?” #comdey #work #money </content>
     <link href="https://tiktok.com/@scottseiss/video/7372333936602582314"/>
     <published>2024-05-23T23:01:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7376786795868015915</id>
+    <title>Come see me in MI &amp; TX! 😁 Tickets in bio 🎟️ #comdey #work #standup #michigan #Texas #Michigan #royaloak #fortworth #dallas #austin </title>
+    <updated>2024-06-04T23:00:22+00:00</updated>
+    <content>Come see me in MI &amp; TX! 😁 Tickets in bio 🎟️ #comdey #work #standup #michigan #Texas #Michigan #royaloak #fortworth #dallas #austin </content>
+    <link href="https://tiktok.com/@scottseiss/video/7376786795868015915"/>
+    <published>2024-06-04T23:00:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7380435902461480238</id>
+    <title>Preorder my audiobook The Customer Is Always Wrong! Wherever audiobooks are sold (including Audible’s sitewide sale until 6/16) 😁 #comdey #work #booktok </title>
+    <updated>2024-06-14T19:00:49+00:00</updated>
+    <content>Preorder my audiobook The Customer Is Always Wrong! Wherever audiobooks are sold (including Audible’s sitewide sale until 6/16) 😁 #comdey #work #booktok </content>
+    <link href="https://tiktok.com/@scottseiss/video/7380435902461480238"/>
+    <published>2024-06-14T19:00:49+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7081294899366202666</id>

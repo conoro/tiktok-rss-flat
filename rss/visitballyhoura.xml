@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@visitballyhoura</id>
   <title>visitballyhoura TikTok</title>
-  <updated>2024-04-03T18:58:33+00:00</updated>
+  <updated>2024-06-06T19:11:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from visitballyhoura</subtitle>
-  <entry>
-    <id>https://tiktok.com/@visitballyhoura/video/7297348831023287585</id>
-    <title>Leah Maunsell takes on Toto, one of the new black trails in the Ballyhouras. Leah is the 9 x women's Elite Irish Enduro National Champion 🇮🇪 and the Ballyhouras are her local. Have you tried the new trails yet? Let us know what you think below ⬇️  @Leah @</title>
-    <updated>2023-11-03T21:20:31+00:00</updated>
-    <content>Leah Maunsell takes on Toto, one of the new black trails in the Ballyhouras. Leah is the 9 x women's Elite Irish Enduro National Champion 🇮🇪 and the Ballyhouras are her local. Have you tried the new trails yet? Let us know what you think below ⬇️  @Leah @</content>
-    <link href="https://tiktok.com/@visitballyhoura/video/7297348831023287585"/>
-    <published>2023-11-03T21:20:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7306245633201949985</id>
     <title>Perfect weather for discovering something a little different...🚵🏽‍♀️ The Lough Gur Cycling Loop, also called the Kilmallock Route 3, is a 62 km (~4 hours) leisurely spin from Kilmallock Library. Download the free Ballyhoura Trails app for directions or he</title>
@@ -83,6 +75,14 @@
     <content>Spring adventures are calling😎🪻! With longer days and warmer weather here, it's the perfect time explore the beautiful cycling routes in the Ballyhoura region. One of our favourites is the Lough Gur Cycling Loop, also called Kilmallock Route 3, a 62 km (~</content>
     <link href="https://tiktok.com/@visitballyhoura/video/7353717094644485408"/>
     <published>2024-04-03T18:58:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7377469773623381280</id>
+    <title>Don't miss these unique experiences at the footsteps of the Galtee Mountains ⬇️ ➡️ Bryce Odgers' 4-hour E-Bike + Hike Tour, bookable via Airbnb. Zip around the Galtee Castle Woods on an e-bike, then head up into the Galtee Mountains on foot. Bryce shares </title>
+    <updated>2024-06-06T19:11:07+00:00</updated>
+    <content>Don't miss these unique experiences at the footsteps of the Galtee Mountains ⬇️ ➡️ Bryce Odgers' 4-hour E-Bike + Hike Tour, bookable via Airbnb. Zip around the Galtee Castle Woods on an e-bike, then head up into the Galtee Mountains on foot. Bryce shares </content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7377469773623381280"/>
+    <published>2024-06-06T19:11:07+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7172848461744803078</id>
