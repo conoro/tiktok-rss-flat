@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-06-20T08:23:40+00:00</updated>
+  <updated>2024-06-22T14:14:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7372398074481610026</id>
-    <title>Throwback Thursday to when I use to be cutting up😂😂😂😂. I just came across this video today from Halloween like 7 years ago and Ive been laughing all day😂. #actress #tabithabrown </title>
-    <updated>2024-05-24T03:09:53+00:00</updated>
-    <content>Throwback Thursday to when I use to be cutting up😂😂😂😂. I just came across this video today from Halloween like 7 years ago and Ive been laughing all day😂. #actress #tabithabrown </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7372398074481610026"/>
-    <published>2024-05-24T03:09:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7372608747979459883</id>
-    <title>Ok family summer is upon us so that means it’s time to get into my @McCormick Spices burger business recipes! So let’s get into the Chickpea smash burger!! It’s super easy and full of delicious flavor! You can add extra veggies if that’s your business, bu</title>
-    <updated>2024-05-24T16:47:28+00:00</updated>
-    <content>Ok family summer is upon us so that means it’s time to get into my @McCormick Spices burger business recipes! So let’s get into the Chickpea smash burger!! It’s super easy and full of delicious flavor! You can add extra veggies if that’s your business, bu</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7372608747979459883"/>
-    <published>2024-05-24T16:47:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7373524893054438702</id>
     <title>Stopped by @target in San Diego on Mira Mesa blvd and found a few goodies in stock ❤️. #tabithabrown #targettabcollab #vegan #snacks #food #sandiego</title>
@@ -91,5 +75,21 @@
     <content>So one thing I’ve learned since being in Cannes is that I gotta get to London!  I can’t tell you how many people I’ve met in the last 3 days from London who all asked when I’m coming 🤯. Like they know me over there yall!!!!! Look at God enlarging my terri</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7382497926762794271"/>
     <published>2024-06-20T08:23:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7383329850163088671</id>
+    <title>My look for my last day in Cannes ❤️. This is one of my new favorite dresses!! The length, the fabric, the colors , just everything!!! ❤️ Dress @anntaylor  Shoes @versacejeanscouture  Earrings @soullondon_tagore  Hair @Donna’s Recipe  #tabithabrown #canne</title>
+    <updated>2024-06-22T14:11:36+00:00</updated>
+    <content>My look for my last day in Cannes ❤️. This is one of my new favorite dresses!! The length, the fabric, the colors , just everything!!! ❤️ Dress @anntaylor  Shoes @versacejeanscouture  Earrings @soullondon_tagore  Hair @Donna’s Recipe  #tabithabrown #canne</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7383329850163088671"/>
+    <published>2024-06-22T14:11:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7383330701510216990</id>
+    <title>Morning TSA:  May we all strive to not be too hard that we don’t serve others well, but not too soft to be ruined🥑❤️. #avocado #lifelessons #tabithabrown #spreadlove</title>
+    <updated>2024-06-22T14:14:42+00:00</updated>
+    <content>Morning TSA:  May we all strive to not be too hard that we don’t serve others well, but not too soft to be ruined🥑❤️. #avocado #lifelessons #tabithabrown #spreadlove</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7383330701510216990"/>
+    <published>2024-06-22T14:14:42+00:00</published>
   </entry>
 </feed>
