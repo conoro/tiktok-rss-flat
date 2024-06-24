@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-06-21T00:48:55+00:00</updated>
+  <updated>2024-06-24T17:06:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7371932577311067424</id>
-    <title>Let me clean that for you real quick 👅🥜 #vizsla #vizslasoftiktok </title>
-    <updated>2024-05-22T21:03:35+00:00</updated>
-    <content>Let me clean that for you real quick 👅🥜 #vizsla #vizslasoftiktok </content>
-    <link href="https://tiktok.com/@thetastyk/video/7371932577311067424"/>
-    <published>2024-05-22T21:03:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7376828378881592609</id>
     <title>Favorite new summer drink incoming: STRAWBERRY MATCHA LATTE 🍓🍵 — the perfect combination between tangy and sweet! ☁️ • INGREDIENTS • 3/4 cup strawberries (fresh or defrosted from frozen) 1 Tbsp maple syrup handful of ice 3/4-1 cup plant-based milk of choi</title>
@@ -67,6 +59,14 @@
     <content>HERBY WHIPPED GARLIC TOFU 🌿🧄 the ultimate #highprotein fluffy dip to mix up your dipping game! This one packs 13g of protein per 1/2 cup serving and is full of flavor! 🔥 • INGREDIENTS • 12oz (340g) silken firm tofu 2-3 Tbsp lemon juice 1 tsp lemon zest 2 </content>
     <link href="https://tiktok.com/@thetastyk/video/7382752085227392289"/>
     <published>2024-06-21T00:48:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7384117317472357665</id>
+    <title>Starting the new week with a stocked fridge full of delicious &amp; nutritious #plantbased meals! 🌱😍 There’s just no better feeling than dedicating some time on the weekends to prep healthy food to set yourself up for a successful week 🫶🏼 I’m really enjoying </title>
+    <updated>2024-06-24T17:06:35+00:00</updated>
+    <content>Starting the new week with a stocked fridge full of delicious &amp; nutritious #plantbased meals! 🌱😍 There’s just no better feeling than dedicating some time on the weekends to prep healthy food to set yourself up for a successful week 🫶🏼 I’m really enjoying </content>
+    <link href="https://tiktok.com/@thetastyk/video/7384117317472357665"/>
+    <published>2024-06-24T17:06:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>
