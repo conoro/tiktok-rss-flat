@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-06-22T14:14:42+00:00</updated>
+  <updated>2024-06-25T14:12:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7373524893054438702</id>
-    <title>Stopped by @target in San Diego on Mira Mesa blvd and found a few goodies in stock ❤️. #tabithabrown #targettabcollab #vegan #snacks #food #sandiego</title>
-    <updated>2024-05-27T04:02:32+00:00</updated>
-    <content>Stopped by @target in San Diego on Mira Mesa blvd and found a few goodies in stock ❤️. #tabithabrown #targettabcollab #vegan #snacks #food #sandiego</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7373524893054438702"/>
-    <published>2024-05-27T04:02:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7376749239654714667</id>
     <title>Morning TSA:  You’re not happy ❤️ #tabithabrown  #spreadlove </title>
@@ -91,5 +83,13 @@
     <content>Morning TSA:  May we all strive to not be too hard that we don’t serve others well, but not too soft to be ruined🥑❤️. #avocado #lifelessons #tabithabrown #spreadlove</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7383330701510216990"/>
     <published>2024-06-22T14:14:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7384443382778596638</id>
+    <title>Ok family, I got new things coming to @target all summer long but for now set your calendar for June 30th and get ready to have so me fun with me! #targettabcollab #GodisAmazing #tabithabrown</title>
+    <updated>2024-06-25T14:12:29+00:00</updated>
+    <content>Ok family, I got new things coming to @target all summer long but for now set your calendar for June 30th and get ready to have so me fun with me! #targettabcollab #GodisAmazing #tabithabrown</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7384443382778596638"/>
+    <published>2024-06-25T14:12:29+00:00</published>
   </entry>
 </feed>
