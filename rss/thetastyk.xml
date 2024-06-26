@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-06-24T17:06:35+00:00</updated>
+  <updated>2024-06-26T00:13:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7376828378881592609</id>
-    <title>Favorite new summer drink incoming: STRAWBERRY MATCHA LATTE 🍓🍵 — the perfect combination between tangy and sweet! ☁️ • INGREDIENTS • 3/4 cup strawberries (fresh or defrosted from frozen) 1 Tbsp maple syrup handful of ice 3/4-1 cup plant-based milk of choi</title>
-    <updated>2024-06-05T01:41:56+00:00</updated>
-    <content>Favorite new summer drink incoming: STRAWBERRY MATCHA LATTE 🍓🍵 — the perfect combination between tangy and sweet! ☁️ • INGREDIENTS • 3/4 cup strawberries (fresh or defrosted from frozen) 1 Tbsp maple syrup handful of ice 3/4-1 cup plant-based milk of choi</content>
-    <link href="https://tiktok.com/@thetastyk/video/7376828378881592609"/>
-    <published>2024-06-05T01:41:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7377507444458671393</id>
     <title>Like a kid in a candy store 🛒🥭 #losangeles #groceryhaul </title>
@@ -67,6 +59,14 @@
     <content>Starting the new week with a stocked fridge full of delicious &amp; nutritious #plantbased meals! 🌱😍 There’s just no better feeling than dedicating some time on the weekends to prep healthy food to set yourself up for a successful week 🫶🏼 I’m really enjoying </content>
     <link href="https://tiktok.com/@thetastyk/video/7384117317472357665"/>
     <published>2024-06-24T17:06:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7384598512794717472</id>
+    <title>HOMEMADE HEMP MILK 🥛🤍 just 3 ingredients, super easy to make and no unnecessary additives you can’t pronounce 🚫 — one of my favorite milks to use for matcha making! 💚 • INGREDIENTS • 1/2 cup hemps seeds 1 tsp maple syrup (or 1 pitted date) 3.5 cups water </title>
+    <updated>2024-06-26T00:13:58+00:00</updated>
+    <content>HOMEMADE HEMP MILK 🥛🤍 just 3 ingredients, super easy to make and no unnecessary additives you can’t pronounce 🚫 — one of my favorite milks to use for matcha making! 💚 • INGREDIENTS • 1/2 cup hemps seeds 1 tsp maple syrup (or 1 pitted date) 3.5 cups water </content>
+    <link href="https://tiktok.com/@thetastyk/video/7384598512794717472"/>
+    <published>2024-06-26T00:13:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>

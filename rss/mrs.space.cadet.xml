@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-06-25T01:38:16+00:00</updated>
+  <updated>2024-06-25T23:25:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7377912859017088298</id>
-    <title>There are so many things I need to hear around me when I run so I’m thankful @Shokz headphones allow me to hear my music AND my surroundings. What types of things do you need to hear where YOU run? I’ve been loving these OpenFit Air headphones lately and </title>
-    <updated>2024-06-07T23:50:04+00:00</updated>
-    <content>There are so many things I need to hear around me when I run so I’m thankful @Shokz headphones allow me to hear my music AND my surroundings. What types of things do you need to hear where YOU run? I’ve been loving these OpenFit Air headphones lately and </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7377912859017088298"/>
-    <published>2024-06-07T23:50:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7379043495635356970</id>
     <title>A slog is better than no slog at all. How are you handling running in the heat? I’m not handling it well but also not making it easy by waiting until the afternoon to run lol #mistakesweremade #runlife #runwithme </title>
@@ -91,5 +83,13 @@
     <content>I wanted to know what the Pickleball hype was about and @Hurricane tyra black did just that! How did I do?! 🤣 You too can play like a pro in @Reebok’s new Nano Court Shoes. The ultimate performance court shoe for sports like Pickleball, Padel and Tennis w</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7384249170972069166"/>
     <published>2024-06-25T01:38:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7384586039974808875</id>
+    <title>Vuori Villa Shorts - I might excuse how they look because of how comfortable they are, but the ending shows why they’re just not it when it comes to gobble prevention. On to the next! #shorts #tryon #summerclothing </title>
+    <updated>2024-06-25T23:25:27+00:00</updated>
+    <content>Vuori Villa Shorts - I might excuse how they look because of how comfortable they are, but the ending shows why they’re just not it when it comes to gobble prevention. On to the next! #shorts #tryon #summerclothing </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7384586039974808875"/>
+    <published>2024-06-25T23:25:27+00:00</published>
   </entry>
 </feed>
