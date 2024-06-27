@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-06-25T23:25:27+00:00</updated>
+  <updated>2024-06-26T23:59:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7379043495635356970</id>
-    <title>A slog is better than no slog at all. How are you handling running in the heat? I’m not handling it well but also not making it easy by waiting until the afternoon to run lol #mistakesweremade #runlife #runwithme </title>
-    <updated>2024-06-11T00:57:31+00:00</updated>
-    <content>A slog is better than no slog at all. How are you handling running in the heat? I’m not handling it well but also not making it easy by waiting until the afternoon to run lol #mistakesweremade #runlife #runwithme </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7379043495635356970"/>
-    <published>2024-06-11T00:57:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7379387136073665834</id>
     <title>I think this means I got the job? But that’s not the job I flew to California to fill. More on that in a few weeks 🤫 @brycewettstein is a gem and I can’t wait to share our shenanigans! She will be competing in a final Olympic qualifying event June 23rd in</title>
@@ -91,5 +83,13 @@
     <content>Vuori Villa Shorts - I might excuse how they look because of how comfortable they are, but the ending shows why they’re just not it when it comes to gobble prevention. On to the next! #shorts #tryon #summerclothing </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7384586039974808875"/>
     <published>2024-06-25T23:25:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7384965896835517738</id>
+    <title>Being a water girl for Paralympic wheelchair rugby athlete, @Chuck Aoki wasn’t my only job of the day. How do you think I did changing the wheel?! 🤣 It was so cool to see how someone trains for an aggressive team sport like this, and I was there for it al</title>
+    <updated>2024-06-26T23:59:30+00:00</updated>
+    <content>Being a water girl for Paralympic wheelchair rugby athlete, @Chuck Aoki wasn’t my only job of the day. How do you think I did changing the wheel?! 🤣 It was so cool to see how someone trains for an aggressive team sport like this, and I was there for it al</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7384965896835517738"/>
+    <published>2024-06-26T23:59:30+00:00</published>
   </entry>
 </feed>
