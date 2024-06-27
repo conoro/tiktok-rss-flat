@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-06-25T19:59:46+00:00</updated>
+  <updated>2024-06-27T19:59:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7378211557857152288</id>
-    <title>ROASTED KOHLRABI 😋 This recipe is inspired by @adip_food. 🫶 There’s almost nothing better to do with a homegrown kohlrabi than this…😉 RECIPE (2 servings, 45min prep time): -2 kohlrabi Peel, cut in half and cook in salted water 7-10mins. Sear in a pan with</title>
-    <updated>2024-06-08T19:09:15+00:00</updated>
-    <content>ROASTED KOHLRABI 😋 This recipe is inspired by @adip_food. 🫶 There’s almost nothing better to do with a homegrown kohlrabi than this…😉 RECIPE (2 servings, 45min prep time): -2 kohlrabi Peel, cut in half and cook in salted water 7-10mins. Sear in a pan with</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7378211557857152288"/>
-    <published>2024-06-08T19:09:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7378517472980372768</id>
     <title>GREEK FRAPPÉ 🇬🇷😮‍💨 I cannot stop making this and I bet you’ll love it too! 🫶 RECIPE (1 serving, 5min prep time): -2 Tsp instant coffee -2 Tsp sugar -2 to 3 Tbsp water -4 ice cubes Add everything to a shaker bottle or a jar with a lid. Shake really well fo</title>
@@ -91,5 +83,13 @@
     <content>CRISPY GNOCCHI auf die 1! 🏆 What‘s your favorite kind of potato? 🥔  RECIPE (3-4 servings, 20min prep time): -400g gnocchi -1 Tbsp oil -salt to taste  -1/2 tsp garlic powder -1 Tsp dried Italian herbs Mix and air fry at 200C for 15mins or bake at 200C for </content>
     <link href="https://tiktok.com/@fitgreenmind/video/7384533029466721569"/>
     <published>2024-06-25T19:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7385275168966315296</id>
+    <title>MANGO STICKY RICE FOR ONE🥭  This was delicious! 😋  (Credits: @narasmith ) RECIPE (1 serving, 5h prep time): -1 espresso cup homegrown sticky rice Wash 6 times and cover with water and soak for 4h. Heat up water in a pot, place on top of it a sieve and a t</title>
+    <updated>2024-06-27T19:59:40+00:00</updated>
+    <content>MANGO STICKY RICE FOR ONE🥭  This was delicious! 😋  (Credits: @narasmith ) RECIPE (1 serving, 5h prep time): -1 espresso cup homegrown sticky rice Wash 6 times and cover with water and soak for 4h. Heat up water in a pot, place on top of it a sieve and a t</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7385275168966315296"/>
+    <published>2024-06-27T19:59:40+00:00</published>
   </entry>
 </feed>
