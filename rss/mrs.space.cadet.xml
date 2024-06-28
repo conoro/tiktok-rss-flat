@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-06-26T23:59:30+00:00</updated>
+  <updated>2024-06-27T23:42:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7379387136073665834</id>
-    <title>I think this means I got the job? But that’s not the job I flew to California to fill. More on that in a few weeks 🤫 @brycewettstein is a gem and I can’t wait to share our shenanigans! She will be competing in a final Olympic qualifying event June 23rd in</title>
-    <updated>2024-06-11T23:11:03+00:00</updated>
-    <content>I think this means I got the job? But that’s not the job I flew to California to fill. More on that in a few weeks 🤫 @brycewettstein is a gem and I can’t wait to share our shenanigans! She will be competing in a final Olympic qualifying event June 23rd in</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7379387136073665834"/>
-    <published>2024-06-11T23:11:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7379759290480971050</id>
     <title>I have a lot to learn in this water girl profession and today I learned that catching up to runners with their hydration is near impossible for a struggle runner like me! Vanessa Fraser was fast, but I was SMART using my @Water.io bottle to track her hydr</title>
@@ -91,5 +83,13 @@
     <content>Being a water girl for Paralympic wheelchair rugby athlete, @Chuck Aoki wasn’t my only job of the day. How do you think I did changing the wheel?! 🤣 It was so cool to see how someone trains for an aggressive team sport like this, and I was there for it al</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7384965896835517738"/>
     <published>2024-06-26T23:59:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7385332645300833582</id>
+    <title>I’m in a glass case of emotion!!! There have been so many ups and downs already this week during the Olympic track and field trials and they’re not over yet! By the time you’re seeing this, I’ll be there in person 🤯 So stay tuned for some in depth investi</title>
+    <updated>2024-06-27T23:42:40+00:00</updated>
+    <content>I’m in a glass case of emotion!!! There have been so many ups and downs already this week during the Olympic track and field trials and they’re not over yet! By the time you’re seeing this, I’ll be there in person 🤯 So stay tuned for some in depth investi</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7385332645300833582"/>
+    <published>2024-06-27T23:42:40+00:00</published>
   </entry>
 </feed>

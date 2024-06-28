@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-06-22T23:03:43+00:00</updated>
+  <updated>2024-06-27T22:58:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7380338733054381358</id>
-    <title>LFG #runtok #bighorn100 #ultrarunner </title>
-    <updated>2024-06-14T12:43:47+00:00</updated>
-    <content>LFG #runtok #bighorn100 #ultrarunner </content>
-    <link href="https://tiktok.com/@glazeruns/video/7380338733054381358"/>
-    <published>2024-06-14T12:43:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7380338789593468202</id>
     <title>link in b io #runtok #bighorn100 </title>
@@ -91,6 +83,22 @@
     <content>I'll be going back for the fifth time this year. A couple of big races beforehand, but this is always my favorite. It takes a little while to qualify and get into it, but I assure you, it is worth it, and the experience is unmatched.  Smile, or you're doi</content>
     <link href="https://tiktok.com/@glazeruns/video/7383467179133455658"/>
     <published>2024-06-22T23:03:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7385320584336395566</id>
+    <title>Feeling incredibly grateful and excited today as I begin a new chapter as a Battalion Chief. My badge was pinned on me by Fire Chief Nigg this morning. I’ve always believed that the grass is greener where you water it, and it's been my privilege to serve </title>
+    <updated>2024-06-27T22:55:53+00:00</updated>
+    <content>Feeling incredibly grateful and excited today as I begin a new chapter as a Battalion Chief. My badge was pinned on me by Fire Chief Nigg this morning. I’ve always believed that the grass is greener where you water it, and it's been my privilege to serve </content>
+    <link href="https://tiktok.com/@glazeruns/video/7385320584336395566"/>
+    <published>2024-06-27T22:55:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7385321306327223594</id>
+    <title>Feeling incredibly grateful and excited today as I begin a new chapter as a Battalion Chief. My badge was pinned on me by Fire Chief Nigg this morning. I’ve always believed that the grass is greener where you water it, and it's been my privilege to serve </title>
+    <updated>2024-06-27T22:58:40+00:00</updated>
+    <content>Feeling incredibly grateful and excited today as I begin a new chapter as a Battalion Chief. My badge was pinned on me by Fire Chief Nigg this morning. I’ve always believed that the grass is greener where you water it, and it's been my privilege to serve </content>
+    <link href="https://tiktok.com/@glazeruns/video/7385321306327223594"/>
+    <published>2024-06-27T22:58:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>
