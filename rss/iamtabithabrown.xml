@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-06-25T14:12:29+00:00</updated>
+  <updated>2024-06-28T20:46:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7376749239654714667</id>
-    <title>Morning TSA:  You’re not happy ❤️ #tabithabrown  #spreadlove </title>
-    <updated>2024-06-04T20:34:39+00:00</updated>
-    <content>Morning TSA:  You’re not happy ❤️ #tabithabrown  #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7376749239654714667"/>
-    <published>2024-06-04T20:34:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7377756581062102302</id>
     <title>Be still and Let God do his work ❤️ #tabithabrown #spreadlove #inspire </title>
@@ -91,5 +83,13 @@
     <content>Ok family, I got new things coming to @target all summer long but for now set your calendar for June 30th and get ready to have so me fun with me! #targettabcollab #GodisAmazing #tabithabrown</content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7384443382778596638"/>
     <published>2024-06-25T14:12:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7385658314685730079</id>
+    <title>Mood❤️. #26years #tabandchance </title>
+    <updated>2024-06-28T20:46:28+00:00</updated>
+    <content>Mood❤️. #26years #tabandchance </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7385658314685730079"/>
+    <published>2024-06-28T20:46:28+00:00</published>
   </entry>
 </feed>
