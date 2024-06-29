@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-06-27T23:42:40+00:00</updated>
+  <updated>2024-06-29T17:55:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7379759290480971050</id>
-    <title>I have a lot to learn in this water girl profession and today I learned that catching up to runners with their hydration is near impossible for a struggle runner like me! Vanessa Fraser was fast, but I was SMART using my @Water.io bottle to track her hydr</title>
-    <updated>2024-06-12T23:15:12+00:00</updated>
-    <content>I have a lot to learn in this water girl profession and today I learned that catching up to runners with their hydration is near impossible for a struggle runner like me! Vanessa Fraser was fast, but I was SMART using my @Water.io bottle to track her hydr</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7379759290480971050"/>
-    <published>2024-06-12T23:15:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7380131641110334763</id>
     <title>Today’s lesson is we should add the word “ULTIMATE” to more things! What’s something you would add it to? Also, we should all be more like Kara Winger and believe in ourselves enough to take chances 👏👏👏  #sportsnews #tryingnewthings #learnwithme </title>
@@ -91,5 +83,13 @@
     <content>I’m in a glass case of emotion!!! There have been so many ups and downs already this week during the Olympic track and field trials and they’re not over yet! By the time you’re seeing this, I’ll be there in person 🤯 So stay tuned for some in depth investi</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7385332645300833582"/>
     <published>2024-06-27T23:42:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7385985421475466538</id>
+    <title>I ran on the Friends of Pre trail and pretty sure I broke a record 🤣 it was beautiful and everyone was so nice 🥹 #running #makingfriends #breakingrecords  🎥 @Venture Travelist </title>
+    <updated>2024-06-29T17:55:49+00:00</updated>
+    <content>I ran on the Friends of Pre trail and pretty sure I broke a record 🤣 it was beautiful and everyone was so nice 🥹 #running #makingfriends #breakingrecords  🎥 @Venture Travelist </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7385985421475466538"/>
+    <published>2024-06-29T17:55:49+00:00</published>
   </entry>
 </feed>
