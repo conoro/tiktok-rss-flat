@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-06-29T17:55:49+00:00</updated>
+  <updated>2024-06-30T19:50:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7380131641110334763</id>
-    <title>Today’s lesson is we should add the word “ULTIMATE” to more things! What’s something you would add it to? Also, we should all be more like Kara Winger and believe in ourselves enough to take chances 👏👏👏  #sportsnews #tryingnewthings #learnwithme </title>
-    <updated>2024-06-13T23:20:06+00:00</updated>
-    <content>Today’s lesson is we should add the word “ULTIMATE” to more things! What’s something you would add it to? Also, we should all be more like Kara Winger and believe in ourselves enough to take chances 👏👏👏  #sportsnews #tryingnewthings #learnwithme </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7380131641110334763"/>
-    <published>2024-06-13T23:20:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7381627702811528494</id>
     <title>I forgot about these kind of important details after not running longer than 30 minutes the last year or so! I definitely notice the effects of the heat and humidity a lot more if I don’t have my fuel and hydration dialed in. What are you all using?! What</title>
@@ -91,5 +83,13 @@
     <content>I ran on the Friends of Pre trail and pretty sure I broke a record 🤣 it was beautiful and everyone was so nice 🥹 #running #makingfriends #breakingrecords  🎥 @Venture Travelist </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7385985421475466538"/>
     <published>2024-06-29T17:55:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7386385993160510763</id>
+    <title>Which event do you think is the hardest? Friendly banter welcome in the comments! Tune in to NBC and Peacock today to see all three @adidas athletes in the Finals.  Hobbs Kessler &amp; @Bryce Hoppel running the 800m at 7:51pm EST/4:51pm PST Shamier Little run</title>
+    <updated>2024-06-30T19:50:11+00:00</updated>
+    <content>Which event do you think is the hardest? Friendly banter welcome in the comments! Tune in to NBC and Peacock today to see all three @adidas athletes in the Finals.  Hobbs Kessler &amp; @Bryce Hoppel running the 800m at 7:51pm EST/4:51pm PST Shamier Little run</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7386385993160510763"/>
+    <published>2024-06-30T19:50:11+00:00</published>
   </entry>
 </feed>

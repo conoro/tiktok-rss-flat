@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-06-30T00:21:21+00:00</updated>
+  <updated>2024-06-30T17:19:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7377848950860156191</id>
-    <title>The emotional journey of failed IVF🥹  So many people know this pain but it isnt talked about enough❤️ so proud of my brother and sister for sharing their journey! #tabithabrown #chancebrown #fridayswithtabandchance #infertility #ivf #failedivf </title>
-    <updated>2024-06-07T19:42:59+00:00</updated>
-    <content>The emotional journey of failed IVF🥹  So many people know this pain but it isnt talked about enough❤️ so proud of my brother and sister for sharing their journey! #tabithabrown #chancebrown #fridayswithtabandchance #infertility #ivf #failedivf </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7377848950860156191"/>
-    <published>2024-06-07T19:42:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7378315265236290847</id>
     <title>Meatless bbq meatballs that might just make you dance! #plantbased #vegan #foodie #tabithabrown </title>
@@ -91,5 +83,13 @@
     <content>For years I was so insecure about my stretch marks, mainly because of people with this mindset. I used to always wear a one piece in summer to hide them. But then the pandemic hit and another shift of freedom came over me!! I began to embrace my tummy! I </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7386084721672981791"/>
     <published>2024-06-30T00:21:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7386346983826476318</id>
+    <title>I love popping into @Ulta Beauty and surprising people with @Donna’s Recipe shopping spree!! This makes my heart so happy!!! #tabithabrown #spreadlove #donnasrecipe </title>
+    <updated>2024-06-30T17:19:09+00:00</updated>
+    <content>I love popping into @Ulta Beauty and surprising people with @Donna’s Recipe shopping spree!! This makes my heart so happy!!! #tabithabrown #spreadlove #donnasrecipe </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7386346983826476318"/>
+    <published>2024-06-30T17:19:09+00:00</published>
   </entry>
 </feed>

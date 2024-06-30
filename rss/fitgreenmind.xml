@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-06-29T20:22:29+00:00</updated>
+  <updated>2024-06-30T19:55:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7379326504548846880</id>
-    <title>BANG BANG TAHINI SALAD 💥 If you don’t like salads, try this one, it’ll change your mind! 😙 RECIPE (4 servings, 15min prep time): -1/2 cabbage (Napa, pointed or savoy) -1 cucumber -2 medium carrots -a bunch of cilantro  -1/2 bunch mint FINELY chop everythi</title>
-    <updated>2024-06-11T19:15:47+00:00</updated>
-    <content>BANG BANG TAHINI SALAD 💥 If you don’t like salads, try this one, it’ll change your mind! 😙 RECIPE (4 servings, 15min prep time): -1/2 cabbage (Napa, pointed or savoy) -1 cucumber -2 medium carrots -a bunch of cilantro  -1/2 bunch mint FINELY chop everythi</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7379326504548846880"/>
-    <published>2024-06-11T19:15:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7379701052402126113</id>
     <title>KARTOFFELPUFFER 🇩🇪  I asked AI (aka Copilot in Windows 11) "what is the ultimate potato dish?" Kartoffelpuffer for the win! Here is how I recreate one of my childhood faves🥔✨ Recipe (3 KARTOFFELPUFFER, 20mins prep time): -3 medium potatoes, peeled  -1 sma</title>
@@ -91,5 +83,13 @@
     <content>RICE FLOUR TORTILLAS 🫓  Now I know how to use up my rice flour! 😋 RECIPE (10 small tortillas, 30min prep time): -1 cup rice flour -2 cups boiling water -a pinch of salt  Mix and let it feast for 10mins. Divide in 10 pieces and roll them into balls. Flatte</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7386023230139600161"/>
     <published>2024-06-29T20:22:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7386387371723427105</id>
+    <title>Is it worth it to freeze your tofu? 🌱 Here‘s what I think about it and how I prepared it.😇 RECIPE (3-4 servings, 15min prep time) -400g silken tofu Freeze accidentally overnight.  Thaw by putting it in the air fryer for 15mins. Drain and press with someth</title>
+    <updated>2024-06-30T19:55:33+00:00</updated>
+    <content>Is it worth it to freeze your tofu? 🌱 Here‘s what I think about it and how I prepared it.😇 RECIPE (3-4 servings, 15min prep time) -400g silken tofu Freeze accidentally overnight.  Thaw by putting it in the air fryer for 15mins. Drain and press with someth</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7386387371723427105"/>
+    <published>2024-06-30T19:55:33+00:00</published>
   </entry>
 </feed>
