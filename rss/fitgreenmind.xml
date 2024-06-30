@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-06-27T19:59:40+00:00</updated>
+  <updated>2024-06-29T20:22:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7378517472980372768</id>
-    <title>GREEK FRAPPÉ 🇬🇷😮‍💨 I cannot stop making this and I bet you’ll love it too! 🫶 RECIPE (1 serving, 5min prep time): -2 Tsp instant coffee -2 Tsp sugar -2 to 3 Tbsp water -4 ice cubes Add everything to a shaker bottle or a jar with a lid. Shake really well fo</title>
-    <updated>2024-06-09T14:56:22+00:00</updated>
-    <content>GREEK FRAPPÉ 🇬🇷😮‍💨 I cannot stop making this and I bet you’ll love it too! 🫶 RECIPE (1 serving, 5min prep time): -2 Tsp instant coffee -2 Tsp sugar -2 to 3 Tbsp water -4 ice cubes Add everything to a shaker bottle or a jar with a lid. Shake really well fo</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7378517472980372768"/>
-    <published>2024-06-09T14:56:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7379326504548846880</id>
     <title>BANG BANG TAHINI SALAD 💥 If you don’t like salads, try this one, it’ll change your mind! 😙 RECIPE (4 servings, 15min prep time): -1/2 cabbage (Napa, pointed or savoy) -1 cucumber -2 medium carrots -a bunch of cilantro  -1/2 bunch mint FINELY chop everythi</title>
@@ -91,5 +83,13 @@
     <content>MANGO STICKY RICE FOR ONE🥭  This was delicious! 😋  (Credits: @narasmith ) RECIPE (1 serving, 5h prep time): -1 espresso cup homegrown sticky rice Wash 6 times and cover with water and soak for 4h. Heat up water in a pot, place on top of it a sieve and a t</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7385275168966315296"/>
     <published>2024-06-27T19:59:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7386023230139600161</id>
+    <title>RICE FLOUR TORTILLAS 🫓  Now I know how to use up my rice flour! 😋 RECIPE (10 small tortillas, 30min prep time): -1 cup rice flour -2 cups boiling water -a pinch of salt  Mix and let it feast for 10mins. Divide in 10 pieces and roll them into balls. Flatte</title>
+    <updated>2024-06-29T20:22:29+00:00</updated>
+    <content>RICE FLOUR TORTILLAS 🫓  Now I know how to use up my rice flour! 😋 RECIPE (10 small tortillas, 30min prep time): -1 cup rice flour -2 cups boiling water -a pinch of salt  Mix and let it feast for 10mins. Divide in 10 pieces and roll them into balls. Flatte</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7386023230139600161"/>
+    <published>2024-06-29T20:22:29+00:00</published>
   </entry>
 </feed>
