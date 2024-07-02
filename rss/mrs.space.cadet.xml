@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-07-01T01:23:01+00:00</updated>
+  <updated>2024-07-02T03:56:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7382009612456709418</id>
-    <title>What would you write home about?! 😅   #running #runlife #runcommunity </title>
-    <updated>2024-06-19T00:47:32+00:00</updated>
-    <content>What would you write home about?! 😅   #running #runlife #runcommunity </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7382009612456709418"/>
-    <published>2024-06-19T00:47:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7382363374404816170</id>
     <title>Fun fact about me is I could never keep up with @speedgolfher enough to be her water girl during a speed golf competition! This was my first experience with the sport and I know “speed” is in the name but I was SHOCKED that they sprint 18 holes CARRYING G</title>
@@ -91,5 +83,13 @@
     <content>I took Sporty Time on the road to Eugene, OR for the Track and Field Olympic Trials and woooooowwww my mind is blown! Can’t wait to fill you in on all the action. For now, enjoy this stadium tour of Hayward Field 🫡 #trackandfield #stadiumtour #imnewhere </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7386471764387204395"/>
     <published>2024-07-01T01:23:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7386882450317708587</id>
+    <title>Peak investigative journalism at @adidas during Track and Field Trials! I asked the hard hitting questions and got some answers to things and other stuff. #trackandfield #running #adidasrunning </title>
+    <updated>2024-07-02T03:56:41+00:00</updated>
+    <content>Peak investigative journalism at @adidas during Track and Field Trials! I asked the hard hitting questions and got some answers to things and other stuff. #trackandfield #running #adidasrunning </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7386882450317708587"/>
+    <published>2024-07-02T03:56:41+00:00</published>
   </entry>
 </feed>
