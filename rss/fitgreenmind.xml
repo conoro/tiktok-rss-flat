@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-07-01T20:10:05+00:00</updated>
+  <updated>2024-07-02T20:00:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7380433479508495649</id>
-    <title>Day as a private chef in the Momtons 👩‍🍳  Being a private chef is fun but very exhausting….😴 I can ply share my Pfannkuchen recipe with you as the other things I cooked are in my „top Siegrid project“ 🤫😌. RECIPE (1 serving -&gt; 4 Pfannkuchen, 15min prep tim</title>
-    <updated>2024-06-14T18:51:23+00:00</updated>
-    <content>Day as a private chef in the Momtons 👩‍🍳  Being a private chef is fun but very exhausting….😴 I can ply share my Pfannkuchen recipe with you as the other things I cooked are in my „top Siegrid project“ 🤫😌. RECIPE (1 serving -&gt; 4 Pfannkuchen, 15min prep tim</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7380433479508495649"/>
-    <published>2024-06-14T18:51:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7381187500569562401</id>
     <title>The world‘s smallest strawberry cake 🍰  Just look at how CUTE it is!🥹🥹 RECIPE (1 serving, 45min prep time): -35g flour  -15g sugar  —1/4 Tsp baking powder -a pinch of salt -1 Tbsp oil  -4 Tbsp (sparkling) water Bake at 180C/360F for 25-30mins (air fryer: </title>
@@ -91,5 +83,13 @@
     <content>ICED COFFEE 🥤 Iced latte, frappé, iced dalgona coffee, iced I’m-too-late-to-the-trend… whatever it is, I just can’t get enough of it haha!🤪 RECIPE (1 serving, 5min prep time): -2 Tsp instant coffee  -3 Tsp hazelnut syrup -30ml water  Froth it up or shake </content>
     <link href="https://tiktok.com/@fitgreenmind/video/7386762200087547169"/>
     <published>2024-07-01T20:10:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7387130851533933857</id>
+    <title>CHEAT’S PAD THAI 🍜  This is not the traditional way to make pad Thai, but a quick fix for those cravings!😉 RECIPE (1 serving, 15min prep time): -70g rice noodles Soak in hot water according to package instructions. Drain and rinse. -1 red pepper -1 cloves</title>
+    <updated>2024-07-02T20:00:40+00:00</updated>
+    <content>CHEAT’S PAD THAI 🍜  This is not the traditional way to make pad Thai, but a quick fix for those cravings!😉 RECIPE (1 serving, 15min prep time): -70g rice noodles Soak in hot water according to package instructions. Drain and rinse. -1 red pepper -1 cloves</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7387130851533933857"/>
+    <published>2024-07-02T20:00:40+00:00</published>
   </entry>
 </feed>
