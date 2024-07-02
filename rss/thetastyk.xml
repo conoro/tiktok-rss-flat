@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-06-26T15:15:48+00:00</updated>
+  <updated>2024-07-02T14:47:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7378689614015515936</id>
-    <title>My current salad obsession: Israeli Couscous Salad 😍 — less of a couscous and more of a pasta salad, this one combines all the delicious flavors into one spectacular dish! 🫒🍋 • INGREDIENTS • 8oz (226g) dry pearl couscous 3 stalks green onion, sliced 1 sma</title>
-    <updated>2024-06-10T02:05:51+00:00</updated>
-    <content>My current salad obsession: Israeli Couscous Salad 😍 — less of a couscous and more of a pasta salad, this one combines all the delicious flavors into one spectacular dish! 🫒🍋 • INGREDIENTS • 8oz (226g) dry pearl couscous 3 stalks green onion, sliced 1 sma</content>
-    <link href="https://tiktok.com/@thetastyk/video/7378689614015515936"/>
-    <published>2024-06-10T02:05:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7379068716677385504</id>
     <title>Starting this week with a Mediterranean inspired #mealprep episode that will leave you drooling for days! 🌯 Filled with delicious &amp; nutritious plant-based goodies to nurture your body and taste buds 🌱😍 This one took me about 1 hour active prep work (not i</title>
@@ -67,6 +59,14 @@
     <content>Whole foods &gt; processed is the one thing almost all of us can probably agree on! 🌱 It’s no secret that our busy lives take a conscious effort to invest time into our health and prepare healthy home-cooked meals, but I promise it is so rewarding and worth </content>
     <link href="https://tiktok.com/@thetastyk/video/7384830939039288608"/>
     <published>2024-06-26T15:15:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7387050026704456993</id>
+    <title>Let’s talk about — my failures on a plant-based diet 🌿: 1. During the first few years I was trying so many different fad diets within the vegan movement that were becoming increasingly popular and heavily pushed by social media personalities, promising we</title>
+    <updated>2024-07-02T14:47:02+00:00</updated>
+    <content>Let’s talk about — my failures on a plant-based diet 🌿: 1. During the first few years I was trying so many different fad diets within the vegan movement that were becoming increasingly popular and heavily pushed by social media personalities, promising we</content>
+    <link href="https://tiktok.com/@thetastyk/video/7387050026704456993"/>
+    <published>2024-07-02T14:47:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>
