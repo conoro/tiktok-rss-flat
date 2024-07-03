@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@visitballyhoura</id>
   <title>visitballyhoura TikTok</title>
-  <updated>2024-06-06T19:11:07+00:00</updated>
+  <updated>2024-07-02T20:22:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from visitballyhoura</subtitle>
-  <entry>
-    <id>https://tiktok.com/@visitballyhoura/video/7306245633201949985</id>
-    <title>Perfect weather for discovering something a little different...🚵🏽‍♀️ The Lough Gur Cycling Loop, also called the Kilmallock Route 3, is a 62 km (~4 hours) leisurely spin from Kilmallock Library. Download the free Ballyhoura Trails app for directions or he</title>
-    <updated>2023-11-27T20:44:40+00:00</updated>
-    <content>Perfect weather for discovering something a little different...🚵🏽‍♀️ The Lough Gur Cycling Loop, also called the Kilmallock Route 3, is a 62 km (~4 hours) leisurely spin from Kilmallock Library. Download the free Ballyhoura Trails app for directions or he</content>
-    <link href="https://tiktok.com/@visitballyhoura/video/7306245633201949985"/>
-    <published>2023-11-27T20:44:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7310322361797004576</id>
     <title>A wholesome day out at Slí Eile Christmas market this past weekend 🤗  We loved discovering unique hand-made goods from a diverse range of stall-holders, shopping for seasonal organic produce from the Slí Eile farm shop, enjoying the live music and trad se</title>
@@ -83,6 +75,14 @@
     <content>Don't miss these unique experiences at the footsteps of the Galtee Mountains ⬇️ ➡️ Bryce Odgers' 4-hour E-Bike + Hike Tour, bookable via Airbnb. Zip around the Galtee Castle Woods on an e-bike, then head up into the Galtee Mountains on foot. Bryce shares </content>
     <link href="https://tiktok.com/@visitballyhoura/video/7377469773623381280"/>
     <published>2024-06-06T19:11:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@visitballyhoura/video/7387136299553082657</id>
+    <title>Discover Tory Hill Farm 📍located just outside of Croom in Co. Limerick, in the Ballyhoura region.  Tory Hill Farm is a small family-run farm—run by three generations of women—with a huge passion for what they do 😍🐮🌳🧑🏽‍🌾 1️⃣ They are one of only sixty dair</title>
+    <updated>2024-07-02T20:22:40+00:00</updated>
+    <content>Discover Tory Hill Farm 📍located just outside of Croom in Co. Limerick, in the Ballyhoura region.  Tory Hill Farm is a small family-run farm—run by three generations of women—with a huge passion for what they do 😍🐮🌳🧑🏽‍🌾 1️⃣ They are one of only sixty dair</content>
+    <link href="https://tiktok.com/@visitballyhoura/video/7387136299553082657"/>
+    <published>2024-07-02T20:22:40+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7172848461744803078</id>
