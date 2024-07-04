@@ -27,7 +27,7 @@ jobs:
           echo "VIRTUAL ENV:" $VIRTUAL_ENV
           pip install -r requirements.txt
           python -m playwright install
-          # patch venv/lib/python3.9/site-packages/TikTokApi/tiktok.py -i tiktok.py.patch
+          playwright install-deps
           python postprocessing.py
           git config user.name github-actions
           git config user.email github-actions@github.com
