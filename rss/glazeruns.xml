@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-07-03T00:00:43+00:00</updated>
+  <updated>2024-07-05T23:21:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7381554358456012074</id>
-    <title>I was awake for 38 hours and my body still wouldn't let me sleep. Between having to go to the bathroom, eating, leg cramps, and just overall soreness it takes awhile to get back to normal. Even last night I tried to sleep in and my body woke me up because</title>
-    <updated>2024-06-17T19:21:01+00:00</updated>
-    <content>I was awake for 38 hours and my body still wouldn't let me sleep. Between having to go to the bathroom, eating, leg cramps, and just overall soreness it takes awhile to get back to normal. Even last night I tried to sleep in and my body woke me up because</content>
-    <link href="https://tiktok.com/@glazeruns/video/7381554358456012074"/>
-    <published>2024-06-17T19:21:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7382688482952482090</id>
     <title>Pay the Strava tax #runtok #ultramarathon #ultrarunner </title>
@@ -67,6 +59,14 @@
     <content>thanks for the feedback trolls #firefighter #runtok #ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7387192721737338154"/>
     <published>2024-07-03T00:00:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7388295956518800683</id>
+    <title>Badwater 135 taught me a lot about failure. I was in the best shape of my life, but my electrolyte plan didn't work, and I found out very quickly what happens when my body shuts down. Uncontrolled whole-body cramps for 2 hours were one of the most painful</title>
+    <updated>2024-07-05T23:21:53+00:00</updated>
+    <content>Badwater 135 taught me a lot about failure. I was in the best shape of my life, but my electrolyte plan didn't work, and I found out very quickly what happens when my body shuts down. Uncontrolled whole-body cramps for 2 hours were one of the most painful</content>
+    <link href="https://tiktok.com/@glazeruns/video/7388295956518800683"/>
+    <published>2024-07-05T23:21:53+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>

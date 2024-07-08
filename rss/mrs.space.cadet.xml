@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-07-02T03:56:41+00:00</updated>
+  <updated>2024-07-05T00:29:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7382363374404816170</id>
-    <title>Fun fact about me is I could never keep up with @speedgolfher enough to be her water girl during a speed golf competition! This was my first experience with the sport and I know “speed” is in the name but I was SHOCKED that they sprint 18 holes CARRYING G</title>
-    <updated>2024-06-19T23:40:23+00:00</updated>
-    <content>Fun fact about me is I could never keep up with @speedgolfher enough to be her water girl during a speed golf competition! This was my first experience with the sport and I know “speed” is in the name but I was SHOCKED that they sprint 18 holes CARRYING G</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7382363374404816170"/>
-    <published>2024-06-19T23:40:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7382757115586465070</id>
     <title>Not gonna lie I’m still confused. I have a lot to learn about swimming before the Olympics! Who’s your favorite swimmer to make the team?? #swimming #sportsnews #tryingnewthings #learnwithme </title>
@@ -91,5 +83,13 @@
     <content>Peak investigative journalism at @adidas during Track and Field Trials! I asked the hard hitting questions and got some answers to things and other stuff. #trackandfield #running #adidasrunning </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7386882450317708587"/>
     <published>2024-07-02T03:56:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7387942381133532462</id>
+    <title>BRB gotta go practice my sports reporting skills because I spent a lot of time being confused 😆 SO much happened at track and field Olympic trials and I would need a ten minute video to cover it all! Congratulations to everyone heading to Paris and to tho</title>
+    <updated>2024-07-05T00:29:47+00:00</updated>
+    <content>BRB gotta go practice my sports reporting skills because I spent a lot of time being confused 😆 SO much happened at track and field Olympic trials and I would need a ten minute video to cover it all! Congratulations to everyone heading to Paris and to tho</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7387942381133532462"/>
+    <published>2024-07-05T00:29:47+00:00</published>
   </entry>
 </feed>

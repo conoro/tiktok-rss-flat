@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@deadpubs</id>
   <title>deadpubs TikTok</title>
-  <updated>2024-06-28T11:14:05+00:00</updated>
+  <updated>2024-07-05T13:32:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -147,5 +147,13 @@
     <content>Replying to @pma2109 </content>
     <link href="https://tiktok.com/@deadpubs/video/7385510808224156960"/>
     <published>2024-06-28T11:14:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7388143955671534880</id>
+    <title>A Swift One at… The Stewart Arms, W11 4TR. #pubs #review #london #shepherdsbush #westlondon #deadpubs #fyp #beer </title>
+    <updated>2024-07-05T13:32:00+00:00</updated>
+    <content>A Swift One at… The Stewart Arms, W11 4TR. #pubs #review #london #shepherdsbush #westlondon #deadpubs #fyp #beer </content>
+    <link href="https://tiktok.com/@deadpubs/video/7388143955671534880"/>
+    <published>2024-07-05T13:32:00+00:00</published>
   </entry>
 </feed>
