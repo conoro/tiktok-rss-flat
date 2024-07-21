@@ -25,6 +25,7 @@ jobs:
           python3.12 -m venv venv
           source venv/bin/activate
           echo "VIRTUAL ENV:" $VIRTUAL_ENV
+          pip install playwright==1.37.0
           pip install -r requirements.txt
           python -m playwright install
           # playwright install-deps
