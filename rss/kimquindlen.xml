@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kimquindlen</id>
   <title>kimquindlen TikTok</title>
-  <updated>2024-06-18T14:59:14+00:00</updated>
+  <updated>2024-07-17T15:21:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kimquindlen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kimquindlen/video/7340311480153165099</id>
-    <title>ready to find MyPerson</title>
-    <updated>2024-02-27T15:57:39+00:00</updated>
-    <content>ready to find MyPerson</content>
-    <link href="https://tiktok.com/@kimquindlen/video/7340311480153165099"/>
-    <published>2024-02-27T15:57:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kimquindlen/video/7343281102993247530</id>
-    <title>I am once again askinf for MyPerson</title>
-    <updated>2024-03-06T16:01:16+00:00</updated>
-    <content>I am once again askinf for MyPerson</content>
-    <link href="https://tiktok.com/@kimquindlen/video/7343281102993247530"/>
-    <published>2024-03-06T16:01:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kimquindlen/video/7355896873330216235</id>
     <title>It’s not the heat that gets you it’s the humidity!!!!!!</title>
@@ -67,6 +51,22 @@
     <content>maybe you’re scared of what we have. but me? I’m not </content>
     <link href="https://tiktok.com/@kimquindlen/video/7381857986907540778"/>
     <published>2024-06-18T14:59:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kimquindlen/video/7390403323817381166</id>
+    <title>The situation is dire </title>
+    <updated>2024-07-11T15:39:30+00:00</updated>
+    <content>The situation is dire </content>
+    <link href="https://tiktok.com/@kimquindlen/video/7390403323817381166"/>
+    <published>2024-07-11T15:39:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kimquindlen/video/7392625315866037546</id>
+    <title>Thrilled to celebrate Laylynn and John Michael</title>
+    <updated>2024-07-17T15:21:58+00:00</updated>
+    <content>Thrilled to celebrate Laylynn and John Michael</content>
+    <link href="https://tiktok.com/@kimquindlen/video/7392625315866037546"/>
+    <published>2024-07-17T15:21:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kimquindlen/video/7052868933723950341</id>

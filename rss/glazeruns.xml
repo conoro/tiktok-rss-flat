@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-07-05T23:21:53+00:00</updated>
+  <updated>2024-07-19T04:13:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7382688482952482090</id>
-    <title>Pay the Strava tax #runtok #ultramarathon #ultrarunner </title>
-    <updated>2024-06-20T20:41:57+00:00</updated>
-    <content>Pay the Strava tax #runtok #ultramarathon #ultrarunner </content>
-    <link href="https://tiktok.com/@glazeruns/video/7382688482952482090"/>
-    <published>2024-06-20T20:41:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7383465901011504427</id>
-    <title>I use Socal Ice Bandanas which is a local small business on Esty. not sponsored. Just remember to reapply lube as sometimes melted ice will wash your lube away. It looks like it's going to be a hot summer, stay cool out there. Smile, or you're doing it wr</title>
-    <updated>2024-06-22T22:58:44+00:00</updated>
-    <content>I use Socal Ice Bandanas which is a local small business on Esty. not sponsored. Just remember to reapply lube as sometimes melted ice will wash your lube away. It looks like it's going to be a hot summer, stay cool out there. Smile, or you're doing it wr</content>
-    <link href="https://tiktok.com/@glazeruns/video/7383465901011504427"/>
-    <published>2024-06-22T22:58:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7383467179133455658</id>
-    <title>I'll be going back for the fifth time this year. A couple of big races beforehand, but this is always my favorite. It takes a little while to qualify and get into it, but I assure you, it is worth it, and the experience is unmatched.  Smile, or you're doi</title>
-    <updated>2024-06-22T23:03:43+00:00</updated>
-    <content>I'll be going back for the fifth time this year. A couple of big races beforehand, but this is always my favorite. It takes a little while to qualify and get into it, but I assure you, it is worth it, and the experience is unmatched.  Smile, or you're doi</content>
-    <link href="https://tiktok.com/@glazeruns/video/7383467179133455658"/>
-    <published>2024-06-22T23:03:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7385320584336395566</id>
     <title>Feeling incredibly grateful and excited today as I begin a new chapter as a Battalion Chief. My badge was pinned on me by Fire Chief Nigg this morning. I’ve always believed that the grass is greener where you water it, and it's been my privilege to serve </title>
@@ -67,6 +43,30 @@
     <content>Badwater 135 taught me a lot about failure. I was in the best shape of my life, but my electrolyte plan didn't work, and I found out very quickly what happens when my body shuts down. Uncontrolled whole-body cramps for 2 hours were one of the most painful</content>
     <link href="https://tiktok.com/@glazeruns/video/7388295956518800683"/>
     <published>2024-07-05T23:21:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7391687182622297390</id>
+    <title>Team Jorts #runtok </title>
+    <updated>2024-07-15T02:41:34+00:00</updated>
+    <content>Team Jorts #runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7391687182622297390"/>
+    <published>2024-07-15T02:41:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7392033192359906602</id>
+    <title>Is this a write off? still not sponsored  #runtok #ultrarunner </title>
+    <updated>2024-07-16T01:04:12+00:00</updated>
+    <content>Is this a write off? still not sponsored  #runtok #ultrarunner </content>
+    <link href="https://tiktok.com/@glazeruns/video/7392033192359906602"/>
+    <published>2024-07-16T01:04:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7393195257313119530</id>
+    <title>Best feeling in the world #runtok #ultrarunner </title>
+    <updated>2024-07-19T04:13:35+00:00</updated>
+    <content>Best feeling in the world #runtok #ultrarunner </content>
+    <link href="https://tiktok.com/@glazeruns/video/7393195257313119530"/>
+    <published>2024-07-19T04:13:35+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>

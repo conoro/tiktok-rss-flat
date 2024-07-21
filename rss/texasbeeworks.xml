@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@texasbeeworks</id>
   <title>texasbeeworks TikTok</title>
-  <updated>2024-06-21T16:45:03+00:00</updated>
+  <updated>2024-07-18T13:28:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from texasbeeworks</subtitle>
-  <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/7255300671317167406</id>
-    <title>Can you find the queen? #bees #beekeeping #queen #savingthebees </title>
-    <updated>2023-07-13T13:52:17+00:00</updated>
-    <content>Can you find the queen? #bees #beekeeping #queen #savingthebees </content>
-    <link href="https://tiktok.com/@texasbeeworks/video/7255300671317167406"/>
-    <published>2023-07-13T13:52:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/7276143342189137198</id>
-    <title>Thank you for protecting these special bees and for inviting me to France to meet them, @Guerlain!</title>
-    <updated>2023-09-07T17:52:36+00:00</updated>
-    <content>Thank you for protecting these special bees and for inviting me to France to meet them, @Guerlain!</content>
-    <link href="https://tiktok.com/@texasbeeworks/video/7276143342189137198"/>
-    <published>2023-09-07T17:52:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/7284289008572583210</id>
-    <title>Bee battle!</title>
-    <updated>2023-09-29T16:42:01+00:00</updated>
-    <content>Bee battle!</content>
-    <link href="https://tiktok.com/@texasbeeworks/video/7284289008572583210"/>
-    <published>2023-09-29T16:42:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@texasbeeworks/video/7298750561971604778</id>
     <title>It’s that time of year again… when the male bees get kicked out of the hive. </title>
@@ -91,5 +67,29 @@
     <content>Another great day of saving the bees! </content>
     <link href="https://tiktok.com/@texasbeeworks/video/7382998515183635754"/>
     <published>2024-06-21T16:45:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/7392967226367790367</id>
+    <title>What to do if you get stung by a bee</title>
+    <updated>2024-07-18T13:28:51+00:00</updated>
+    <content>What to do if you get stung by a bee</content>
+    <link href="https://tiktok.com/@texasbeeworks/video/7392967226367790367"/>
+    <published>2024-07-18T13:28:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/6938831081684651269</id>
+    <title>Save the bees! #bees #tiktok #foryou #fyp #nature #love #animals #amazing</title>
+    <updated>2021-03-12T18:08:30+00:00</updated>
+    <content>Save the bees! #bees #tiktok #foryou #fyp #nature #love #animals #amazing</content>
+    <link href="https://tiktok.com/@texasbeeworks/video/6938831081684651269"/>
+    <published>2021-03-12T18:08:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/6962225231582842118</id>
+    <title>Bees swarming in the morning! #bees #truck #tiktok #animals #foryou #texas</title>
+    <updated>2021-05-14T19:09:45+00:00</updated>
+    <content>Bees swarming in the morning! #bees #truck #tiktok #animals #foryou #texas</content>
+    <link href="https://tiktok.com/@texasbeeworks/video/6962225231582842118"/>
+    <published>2021-05-14T19:09:45+00:00</published>
   </entry>
 </feed>

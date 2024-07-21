@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2024-06-14T19:00:49+00:00</updated>
+  <updated>2024-07-08T23:07:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7338472212275432750</id>
-    <title>I wrote a book! 😁 Preorder the physical copy or audiobook (read by me) now #comedy #book #work #books #booktok #fyp </title>
-    <updated>2024-02-22T17:00:20+00:00</updated>
-    <content>I wrote a book! 😁 Preorder the physical copy or audiobook (read by me) now #comedy #book #work #books #booktok #fyp </content>
-    <link href="https://tiktok.com/@scottseiss/video/7338472212275432750"/>
-    <published>2024-02-22T17:00:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7352310530645708074</id>
     <title>Chicago! I’m doing 2 shows on April 13 at The Den Theatre 😁 Come on out! #Chicago #comedy #standup </title>
@@ -75,6 +67,14 @@
     <content>Preorder my audiobook The Customer Is Always Wrong! Wherever audiobooks are sold (including Audible’s sitewide sale until 6/16) 😁 #comdey #work #booktok </content>
     <link href="https://tiktok.com/@scottseiss/video/7380435902461480238"/>
     <published>2024-06-14T19:00:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7389405370730548510</id>
+    <title>I’m coming to Texas! Mainly to use the Buc-ee’s bathroom, but also to do stand up! #comdey #austintx #fortworth #texas #work #retail #standup </title>
+    <updated>2024-07-08T23:07:12+00:00</updated>
+    <content>I’m coming to Texas! Mainly to use the Buc-ee’s bathroom, but also to do stand up! #comdey #austintx #fortworth #texas #work #retail #standup </content>
+    <link href="https://tiktok.com/@scottseiss/video/7389405370730548510"/>
+    <published>2024-07-08T23:07:12+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7081294899366202666</id>

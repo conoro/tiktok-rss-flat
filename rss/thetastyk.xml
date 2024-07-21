@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-07-07T02:26:15+00:00</updated>
+  <updated>2024-07-10T22:57:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7382752085227392289</id>
-    <title>HERBY WHIPPED GARLIC TOFU 🌿🧄 the ultimate #highprotein fluffy dip to mix up your dipping game! This one packs 13g of protein per 1/2 cup serving and is full of flavor! 🔥 • INGREDIENTS • 12oz (340g) silken firm tofu 2-3 Tbsp lemon juice 1 tsp lemon zest 2 </title>
-    <updated>2024-06-21T00:48:55+00:00</updated>
-    <content>HERBY WHIPPED GARLIC TOFU 🌿🧄 the ultimate #highprotein fluffy dip to mix up your dipping game! This one packs 13g of protein per 1/2 cup serving and is full of flavor! 🔥 • INGREDIENTS • 12oz (340g) silken firm tofu 2-3 Tbsp lemon juice 1 tsp lemon zest 2 </content>
-    <link href="https://tiktok.com/@thetastyk/video/7382752085227392289"/>
-    <published>2024-06-21T00:48:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7384117317472357665</id>
     <title>Starting the new week with a stocked fridge full of delicious &amp; nutritious #plantbased meals! 🌱😍 There’s just no better feeling than dedicating some time on the weekends to prep healthy food to set yourself up for a successful week 🫶🏼 I’m really enjoying </title>
@@ -67,6 +59,14 @@
     <content>CHOCOLATE HEMP PUDDING (serves 4) We’ve all seen the chia/tofu pudding recipes by now but this one combines the nutritional benefits of both (rich in omega 3 + protein) into one delicious treat. • INGREDIENTS • 1/2 cup (80g) hemp seeds (hulled) 3/4 cup (1</content>
     <link href="https://tiktok.com/@thetastyk/video/7388714267941358880"/>
     <published>2024-07-07T02:26:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7390145159737937184</id>
+    <title>EP2: Let’s talk about my successes on a #plantbased diet! 🌿 After years of struggling with binge-eating and restrictive dieting culture a focus on whole plant foods finally allowed me to overcome my unhealthy eating habits. I learned so much about nutriti</title>
+    <updated>2024-07-10T22:57:46+00:00</updated>
+    <content>EP2: Let’s talk about my successes on a #plantbased diet! 🌿 After years of struggling with binge-eating and restrictive dieting culture a focus on whole plant foods finally allowed me to overcome my unhealthy eating habits. I learned so much about nutriti</content>
+    <link href="https://tiktok.com/@thetastyk/video/7390145159737937184"/>
+    <published>2024-07-10T22:57:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>

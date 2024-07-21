@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@deadpubs</id>
   <title>deadpubs TikTok</title>
-  <updated>2024-07-05T13:32:00+00:00</updated>
+  <updated>2024-07-18T13:30:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from deadpubs</subtitle>
-  <entry>
-    <id>https://tiktok.com/@deadpubs/video/7338396547555675425</id>
-    <title>A Swift One at… Moranos, HA8 6RW. #pubs #london #canonspark #englishpub #england #fypシ #uktiktok #londonpub #review #deadpubs #suburbia #londonlife </title>
-    <updated>2024-02-22T12:06:38+00:00</updated>
-    <content>A Swift One at… Moranos, HA8 6RW. #pubs #london #canonspark #englishpub #england #fypシ #uktiktok #londonpub #review #deadpubs #suburbia #londonlife </content>
-    <link href="https://tiktok.com/@deadpubs/video/7338396547555675425"/>
-    <published>2024-02-22T12:06:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@deadpubs/video/7340653114908888352</id>
-    <title>A Swift One at… The Crosse Keys, EC3V 0DR. #londonlife #london #thecity #pubreview #review #fyp #centrallondon #ukpub #uklife #deadpubs #england #beer </title>
-    <updated>2024-02-28T14:03:19+00:00</updated>
-    <content>A Swift One at… The Crosse Keys, EC3V 0DR. #londonlife #london #thecity #pubreview #review #fyp #centrallondon #ukpub #uklife #deadpubs #england #beer </content>
-    <link href="https://tiktok.com/@deadpubs/video/7340653114908888352"/>
-    <published>2024-02-28T14:03:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@deadpubs/video/7343249621851983137</id>
     <title>A Swift One at… Quinn’s, NW1 8NY. #camden #deadpubs #londonpub #pubs #fypシ #ukpubs #londonlife #review #beertok #londondeadpubs #camdentown </title>
@@ -155,5 +139,21 @@
     <content>A Swift One at… The Stewart Arms, W11 4TR. #pubs #review #london #shepherdsbush #westlondon #deadpubs #fyp #beer </content>
     <link href="https://tiktok.com/@deadpubs/video/7388143955671534880"/>
     <published>2024-07-05T13:32:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7390348326073421089</id>
+    <title>A Swift One at… London Tourist Pubs.  #london #tourists #pubs #review #fypp #deadpubs #londonlife #tourism </title>
+    <updated>2024-07-11T12:06:10+00:00</updated>
+    <content>A Swift One at… London Tourist Pubs.  #london #tourists #pubs #review #fypp #deadpubs #londonlife #tourism </content>
+    <link href="https://tiktok.com/@deadpubs/video/7390348326073421089"/>
+    <published>2024-07-11T12:06:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7392967637870873888</id>
+    <title>Yet another look at the lost pubs of London. #fyp #london #londonhistory #history #pubs #deadpubs #abandoned #gentrification </title>
+    <updated>2024-07-18T13:30:18+00:00</updated>
+    <content>Yet another look at the lost pubs of London. #fyp #london #londonhistory #history #pubs #deadpubs #abandoned #gentrification </content>
+    <link href="https://tiktok.com/@deadpubs/video/7392967637870873888"/>
+    <published>2024-07-18T13:30:18+00:00</published>
   </entry>
 </feed>
