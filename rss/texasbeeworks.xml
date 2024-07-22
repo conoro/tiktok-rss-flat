@@ -13,6 +13,14 @@
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from texasbeeworks</subtitle>
   <entry>
+    <id>https://tiktok.com/@texasbeeworks/video/7284289008572583210</id>
+    <title>Bee battle!</title>
+    <updated>2023-09-29T16:42:01+00:00</updated>
+    <content>Bee battle!</content>
+    <link href="https://tiktok.com/@texasbeeworks/video/7284289008572583210"/>
+    <published>2023-09-29T16:42:01+00:00</published>
+  </entry>
+  <entry>
     <id>https://tiktok.com/@texasbeeworks/video/7298750561971604778</id>
     <title>It’s that time of year again… when the male bees get kicked out of the hive. </title>
     <updated>2023-11-07T16:00:01+00:00</updated>
@@ -83,13 +91,5 @@
     <content>Save the bees! #bees #tiktok #foryou #fyp #nature #love #animals #amazing</content>
     <link href="https://tiktok.com/@texasbeeworks/video/6938831081684651269"/>
     <published>2021-03-12T18:08:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@texasbeeworks/video/6962225231582842118</id>
-    <title>Bees swarming in the morning! #bees #truck #tiktok #animals #foryou #texas</title>
-    <updated>2021-05-14T19:09:45+00:00</updated>
-    <content>Bees swarming in the morning! #bees #truck #tiktok #animals #foryou #texas</content>
-    <link href="https://tiktok.com/@texasbeeworks/video/6962225231582842118"/>
-    <published>2021-05-14T19:09:45+00:00</published>
   </entry>
 </feed>
