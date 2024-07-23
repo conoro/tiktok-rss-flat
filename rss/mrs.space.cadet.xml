@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-07-19T23:11:37+00:00</updated>
+  <updated>2024-07-23T01:44:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7389408566353906986</id>
-    <title>Running a half marathon without fuel/hydration? No thank you for me personally 😬 #running #runlife #runwithme </title>
-    <updated>2024-07-08T23:19:18+00:00</updated>
-    <content>Running a half marathon without fuel/hydration? No thank you for me personally 😬 #running #runlife #runwithme </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7389408566353906986"/>
-    <published>2024-07-08T23:19:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7389807344042921259</id>
     <title>Interviewing the interviewer 🤓 Here’s a lesson from the man himself, Lewis Johnson on how he stays fresh interviewing the top athletes heading into his 14th Olympics!! 🤯 #sportsnews #interviewtips #olympics </title>
@@ -91,5 +83,13 @@
     <content>Running during the summer months makes me find all different ways to cool down after a run! My favorite discovery is @Halo Top Creamery light ice cream, specifically the peanut butter cup flavor 😋 It takes me forever to cool down post-workout, but this he</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7393488515268496686"/>
     <published>2024-07-19T23:11:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7394641073437691182</id>
+    <title>A run is a run 🤷‍♀️ thanks, @Radar 😅</title>
+    <updated>2024-07-23T01:44:07+00:00</updated>
+    <content>A run is a run 🤷‍♀️ thanks, @Radar 😅</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7394641073437691182"/>
+    <published>2024-07-23T01:44:07+00:00</published>
   </entry>
 </feed>
