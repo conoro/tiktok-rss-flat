@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-07-19T22:18:24+00:00</updated>
+  <updated>2024-07-23T04:56:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7386084721672981791</id>
-    <title>For years I was so insecure about my stretch marks, mainly because of people with this mindset. I used to always wear a one piece in summer to hide them. But then the pandemic hit and another shift of freedom came over me!! I began to embrace my tummy! I </title>
-    <updated>2024-06-30T00:21:21+00:00</updated>
-    <content>For years I was so insecure about my stretch marks, mainly because of people with this mindset. I used to always wear a one piece in summer to hide them. But then the pandemic hit and another shift of freedom came over me!! I began to embrace my tummy! I </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7386084721672981791"/>
-    <published>2024-06-30T00:21:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7386346983826476318</id>
     <title>I love popping into @Ulta Beauty and surprising people with @Donna’s Recipe shopping spree!! This makes my heart so happy!!! #tabithabrown #spreadlove #donnasrecipe </title>
@@ -91,5 +83,13 @@
     <content>Family look at what the Lord has done🙌🏾🙌🏾🙌🏾 My new collection begins to rolling out this Sunday @target ❤️. See yall there!!! #tabithabrown #targettabcollab  #newcollection </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7393474765081660703"/>
     <published>2024-07-19T22:18:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7394690646038154527</id>
+    <title>This is why im such a daddys girl!!! Im so blessed!!!! We hust sitting here in Vegas talking about how good God has been❤️🙌🏾.  I love you Daddy!!! #tabithabrown #daddysgirl </title>
+    <updated>2024-07-23T04:56:41+00:00</updated>
+    <content>This is why im such a daddys girl!!! Im so blessed!!!! We hust sitting here in Vegas talking about how good God has been❤️🙌🏾.  I love you Daddy!!! #tabithabrown #daddysgirl </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7394690646038154527"/>
+    <published>2024-07-23T04:56:41+00:00</published>
   </entry>
 </feed>
