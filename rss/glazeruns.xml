@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-07-19T04:13:35+00:00</updated>
+  <updated>2024-07-23T13:00:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -67,6 +67,14 @@
     <content>Best feeling in the world #runtok #ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7393195257313119530"/>
     <published>2024-07-19T04:13:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7394815426376600878</id>
+    <title>What are my odds? #runtok #ultrarunner </title>
+    <updated>2024-07-23T13:00:46+00:00</updated>
+    <content>What are my odds? #runtok #ultrarunner </content>
+    <link href="https://tiktok.com/@glazeruns/video/7394815426376600878"/>
+    <published>2024-07-23T13:00:46+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>

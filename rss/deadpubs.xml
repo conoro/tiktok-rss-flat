@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@deadpubs</id>
   <title>deadpubs TikTok</title>
-  <updated>2024-07-18T13:30:18+00:00</updated>
+  <updated>2024-07-23T13:02:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from deadpubs</subtitle>
-  <entry>
-    <id>https://tiktok.com/@deadpubs/video/7343249621851983137</id>
-    <title>A Swift One at… Quinn’s, NW1 8NY. #camden #deadpubs #londonpub #pubs #fypシ #ukpubs #londonlife #review #beertok #londondeadpubs #camdentown </title>
-    <updated>2024-03-06T13:59:02+00:00</updated>
-    <content>A Swift One at… Quinn’s, NW1 8NY. #camden #deadpubs #londonpub #pubs #fypシ #ukpubs #londonlife #review #beertok #londondeadpubs #camdentown </content>
-    <link href="https://tiktok.com/@deadpubs/video/7343249621851983137"/>
-    <published>2024-03-06T13:59:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@deadpubs/video/7346204170971663649</id>
     <title>A Swift One at… The Heart of Hackney, E8 3NS. #hackney #london #deadpubs #londonpub #pubculture #fypシ゚viral #eastlondon </title>
@@ -155,5 +147,13 @@
     <content>Yet another look at the lost pubs of London. #fyp #london #londonhistory #history #pubs #deadpubs #abandoned #gentrification </content>
     <link href="https://tiktok.com/@deadpubs/video/7392967637870873888"/>
     <published>2024-07-18T13:30:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@deadpubs/video/7394815876584754464</id>
+    <title>A Swift One at… The Carpenters Arms, E1 5RN. #fyp #review #beertok #london #eastlondon #deadpubs #pubs </title>
+    <updated>2024-07-23T13:02:28+00:00</updated>
+    <content>A Swift One at… The Carpenters Arms, E1 5RN. #fyp #review #beertok #london #eastlondon #deadpubs #pubs </content>
+    <link href="https://tiktok.com/@deadpubs/video/7394815876584754464"/>
+    <published>2024-07-23T13:02:28+00:00</published>
   </entry>
 </feed>
