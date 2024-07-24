@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-07-23T13:00:46+00:00</updated>
+  <updated>2024-07-24T15:43:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7385320584336395566</id>
-    <title>Feeling incredibly grateful and excited today as I begin a new chapter as a Battalion Chief. My badge was pinned on me by Fire Chief Nigg this morning. I’ve always believed that the grass is greener where you water it, and it's been my privilege to serve </title>
-    <updated>2024-06-27T22:55:53+00:00</updated>
-    <content>Feeling incredibly grateful and excited today as I begin a new chapter as a Battalion Chief. My badge was pinned on me by Fire Chief Nigg this morning. I’ve always believed that the grass is greener where you water it, and it's been my privilege to serve </content>
-    <link href="https://tiktok.com/@glazeruns/video/7385320584336395566"/>
-    <published>2024-06-27T22:55:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7385321306327223594</id>
-    <title>Feeling incredibly grateful and excited today as I begin a new chapter as a Battalion Chief. My badge was pinned on me by Fire Chief Nigg this morning. I’ve always believed that the grass is greener where you water it, and it's been my privilege to serve </title>
-    <updated>2024-06-27T22:58:40+00:00</updated>
-    <content>Feeling incredibly grateful and excited today as I begin a new chapter as a Battalion Chief. My badge was pinned on me by Fire Chief Nigg this morning. I’ve always believed that the grass is greener where you water it, and it's been my privilege to serve </content>
-    <link href="https://tiktok.com/@glazeruns/video/7385321306327223594"/>
-    <published>2024-06-27T22:58:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7387192721737338154</id>
     <title>thanks for the feedback trolls #firefighter #runtok #ultrarunner </title>
@@ -75,6 +59,14 @@
     <content>What are my odds? #runtok #ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7394815426376600878"/>
     <published>2024-07-23T13:00:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7395228511050468650</id>
+    <title>Lions and Tigers and Bears, oh no. I'm off to see the wizard. Still haven't decided on bear spray, but I did buy a small air horn. Everyone keeps saying no brown bears in the Crazy Mountains. Only black bears. But mountain lions scare me. My wife is going</title>
+    <updated>2024-07-24T15:43:41+00:00</updated>
+    <content>Lions and Tigers and Bears, oh no. I'm off to see the wizard. Still haven't decided on bear spray, but I did buy a small air horn. Everyone keeps saying no brown bears in the Crazy Mountains. Only black bears. But mountain lions scare me. My wife is going</content>
+    <link href="https://tiktok.com/@glazeruns/video/7395228511050468650"/>
+    <published>2024-07-24T15:43:41+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>
