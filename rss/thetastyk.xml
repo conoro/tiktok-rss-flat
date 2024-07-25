@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-07-10T22:57:46+00:00</updated>
+  <updated>2024-07-25T15:15:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7384117317472357665</id>
-    <title>Starting the new week with a stocked fridge full of delicious &amp; nutritious #plantbased meals! 🌱😍 There’s just no better feeling than dedicating some time on the weekends to prep healthy food to set yourself up for a successful week 🫶🏼 I’m really enjoying </title>
-    <updated>2024-06-24T17:06:35+00:00</updated>
-    <content>Starting the new week with a stocked fridge full of delicious &amp; nutritious #plantbased meals! 🌱😍 There’s just no better feeling than dedicating some time on the weekends to prep healthy food to set yourself up for a successful week 🫶🏼 I’m really enjoying </content>
-    <link href="https://tiktok.com/@thetastyk/video/7384117317472357665"/>
-    <published>2024-06-24T17:06:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7384598512794717472</id>
     <title>HOMEMADE HEMP MILK 🥛🤍 just 3 ingredients, super easy to make and no unnecessary additives you can’t pronounce 🚫 — one of my favorite milks to use for matcha making! 💚 • INGREDIENTS • 1/2 cup hemps seeds 1 tsp maple syrup (or 1 pitted date) 3.5 cups water </title>
@@ -67,6 +59,14 @@
     <content>EP2: Let’s talk about my successes on a #plantbased diet! 🌿 After years of struggling with binge-eating and restrictive dieting culture a focus on whole plant foods finally allowed me to overcome my unhealthy eating habits. I learned so much about nutriti</content>
     <link href="https://tiktok.com/@thetastyk/video/7390145159737937184"/>
     <published>2024-07-10T22:57:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7395592329572207904</id>
+    <title>A weekend filled with simple pleasures: sleeping in, moon-gazing, homemade + locally-sourced food, peaceful moments in nature, books, games &amp; music 🌝🍷🌲 — sometimes that’s all you really need!  We stayed at this gorgeous cabin by @Salt and Sky Lodging Co o</title>
+    <updated>2024-07-25T15:15:27+00:00</updated>
+    <content>A weekend filled with simple pleasures: sleeping in, moon-gazing, homemade + locally-sourced food, peaceful moments in nature, books, games &amp; music 🌝🍷🌲 — sometimes that’s all you really need!  We stayed at this gorgeous cabin by @Salt and Sky Lodging Co o</content>
+    <link href="https://tiktok.com/@thetastyk/video/7395592329572207904"/>
+    <published>2024-07-25T15:15:27+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>
