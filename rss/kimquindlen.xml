@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kimquindlen</id>
   <title>kimquindlen TikTok</title>
-  <updated>2024-07-17T15:21:58+00:00</updated>
+  <updated>2024-07-26T00:50:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kimquindlen</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kimquindlen/video/7355896873330216235</id>
-    <title>It’s not the heat that gets you it’s the humidity!!!!!!</title>
-    <updated>2024-04-09T15:56:57+00:00</updated>
-    <content>It’s not the heat that gets you it’s the humidity!!!!!!</content>
-    <link href="https://tiktok.com/@kimquindlen/video/7355896873330216235"/>
-    <published>2024-04-09T15:56:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kimquindlen/video/7358860101135895850</id>
     <title>okay. SO. </title>
@@ -67,6 +59,14 @@
     <content>Thrilled to celebrate Laylynn and John Michael</content>
     <link href="https://tiktok.com/@kimquindlen/video/7392625315866037546"/>
     <published>2024-07-17T15:21:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kimquindlen/video/7395740394455190827</id>
+    <title>I am once again talking to my husband</title>
+    <updated>2024-07-26T00:50:03+00:00</updated>
+    <content>I am once again talking to my husband</content>
+    <link href="https://tiktok.com/@kimquindlen/video/7395740394455190827"/>
+    <published>2024-07-26T00:50:03+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@kimquindlen/video/7052868933723950341</id>
