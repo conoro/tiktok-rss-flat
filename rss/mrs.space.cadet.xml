@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-07-25T00:17:50+00:00</updated>
+  <updated>2024-07-25T23:53:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7390173643956899114</id>
-    <title>After being @brycewettstein’s water girl, she qualified for the Paris games! Did my exceptional water girl skills play a part in that?! 😆 If you need a water bottle that trains you to drink more water and also adjusts your needs based on your tracked acti</title>
-    <updated>2024-07-11T00:48:14+00:00</updated>
-    <content>After being @brycewettstein’s water girl, she qualified for the Paris games! Did my exceptional water girl skills play a part in that?! 😆 If you need a water bottle that trains you to drink more water and also adjusts your needs based on your tracked acti</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7390173643956899114"/>
-    <published>2024-07-11T00:48:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7390556179329453354</id>
     <title>We’re getting so close to the Olympic and Paralympic Games!!! What sport are you most excited for and what’s a sport you know nothing about? #sportsnews #learnwithme </title>
@@ -91,5 +83,13 @@
     <content>My podcast @Nonmembers Only is full of whatever this is lol Ep 144 has some deep thoughts and behind the scenes chaos to enjoy 🙌  #podcaster #friends #deepthoughts </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7395361011592711466"/>
     <published>2024-07-25T00:17:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7395725720170859819</id>
+    <title>Do you even sports if you’re not planning to watch the Paralympics?! They take place in Paris from August 30th to September 8th and I can’t wait to keep up with all the action! #sportsnews #learnwithme #paralympics </title>
+    <updated>2024-07-25T23:53:06+00:00</updated>
+    <content>Do you even sports if you’re not planning to watch the Paralympics?! They take place in Paris from August 30th to September 8th and I can’t wait to keep up with all the action! #sportsnews #learnwithme #paralympics </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7395725720170859819"/>
+    <published>2024-07-25T23:53:06+00:00</published>
   </entry>
 </feed>
