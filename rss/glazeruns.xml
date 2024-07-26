@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-07-25T12:01:02+00:00</updated>
+  <updated>2024-07-26T10:12:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7388295956518800683</id>
-    <title>Badwater 135 taught me a lot about failure. I was in the best shape of my life, but my electrolyte plan didn't work, and I found out very quickly what happens when my body shuts down. Uncontrolled whole-body cramps for 2 hours were one of the most painful</title>
-    <updated>2024-07-05T23:21:53+00:00</updated>
-    <content>Badwater 135 taught me a lot about failure. I was in the best shape of my life, but my electrolyte plan didn't work, and I found out very quickly what happens when my body shuts down. Uncontrolled whole-body cramps for 2 hours were one of the most painful</content>
-    <link href="https://tiktok.com/@glazeruns/video/7388295956518800683"/>
-    <published>2024-07-05T23:21:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7391687182622297390</id>
     <title>Team Jorts #runtok </title>
@@ -67,6 +59,14 @@
     <content>As a firefighter, I face intense situations that can take a toll on mental health, leading to PTSD. It's crucial to break the stigma around this issue by openly discussing our experiences and seeking help. Movement is medicine; regular exercise can signif</content>
     <link href="https://tiktok.com/@glazeruns/video/7395542209350651179"/>
     <published>2024-07-25T12:01:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7395885313035455787</id>
+    <title>Crazy Mountain 100 LFG #crazymountain100 #ultrarunner #runtok </title>
+    <updated>2024-07-26T10:12:39+00:00</updated>
+    <content>Crazy Mountain 100 LFG #crazymountain100 #ultrarunner #runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7395885313035455787"/>
+    <published>2024-07-26T10:12:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>
