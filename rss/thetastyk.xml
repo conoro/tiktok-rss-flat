@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-07-25T15:15:27+00:00</updated>
+  <updated>2024-07-26T21:48:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7384598512794717472</id>
-    <title>HOMEMADE HEMP MILK 🥛🤍 just 3 ingredients, super easy to make and no unnecessary additives you can’t pronounce 🚫 — one of my favorite milks to use for matcha making! 💚 • INGREDIENTS • 1/2 cup hemps seeds 1 tsp maple syrup (or 1 pitted date) 3.5 cups water </title>
-    <updated>2024-06-26T00:13:58+00:00</updated>
-    <content>HOMEMADE HEMP MILK 🥛🤍 just 3 ingredients, super easy to make and no unnecessary additives you can’t pronounce 🚫 — one of my favorite milks to use for matcha making! 💚 • INGREDIENTS • 1/2 cup hemps seeds 1 tsp maple syrup (or 1 pitted date) 3.5 cups water </content>
-    <link href="https://tiktok.com/@thetastyk/video/7384598512794717472"/>
-    <published>2024-06-26T00:13:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7384830939039288608</id>
     <title>Whole foods &gt; processed is the one thing almost all of us can probably agree on! 🌱 It’s no secret that our busy lives take a conscious effort to invest time into our health and prepare healthy home-cooked meals, but I promise it is so rewarding and worth </title>
@@ -67,6 +59,14 @@
     <content>A weekend filled with simple pleasures: sleeping in, moon-gazing, homemade + locally-sourced food, peaceful moments in nature, books, games &amp; music 🌝🍷🌲 — sometimes that’s all you really need!  We stayed at this gorgeous cabin by @Salt and Sky Lodging Co o</content>
     <link href="https://tiktok.com/@thetastyk/video/7395592329572207904"/>
     <published>2024-07-25T15:15:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7396064587575053600</id>
+    <title>20 min mid-week dinner 😍 sometimes I surprise myself how little active prep time it takes to whip up something delicious &amp; nutritious! On today’s menu: 🫑 ROASTED RED PEPPER HUMMUS 🍠 JUICY BAKED SWEET POTATO 💜 ZA’ATAR ROASTED CAULIFLOWER 🍋 MARINATED HERBY </title>
+    <updated>2024-07-26T21:48:09+00:00</updated>
+    <content>20 min mid-week dinner 😍 sometimes I surprise myself how little active prep time it takes to whip up something delicious &amp; nutritious! On today’s menu: 🫑 ROASTED RED PEPPER HUMMUS 🍠 JUICY BAKED SWEET POTATO 💜 ZA’ATAR ROASTED CAULIFLOWER 🍋 MARINATED HERBY </content>
+    <link href="https://tiktok.com/@thetastyk/video/7396064587575053600"/>
+    <published>2024-07-26T21:48:09+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>
