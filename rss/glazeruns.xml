@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-07-26T10:12:39+00:00</updated>
+  <updated>2024-07-27T23:22:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7391687182622297390</id>
-    <title>Team Jorts #runtok </title>
-    <updated>2024-07-15T02:41:34+00:00</updated>
-    <content>Team Jorts #runtok </content>
-    <link href="https://tiktok.com/@glazeruns/video/7391687182622297390"/>
-    <published>2024-07-15T02:41:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7392033192359906602</id>
-    <title>Is this a write off? still not sponsored  #runtok #ultrarunner </title>
-    <updated>2024-07-16T01:04:12+00:00</updated>
-    <content>Is this a write off? still not sponsored  #runtok #ultrarunner </content>
-    <link href="https://tiktok.com/@glazeruns/video/7392033192359906602"/>
-    <published>2024-07-16T01:04:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7393195257313119530</id>
     <title>Best feeling in the world #runtok #ultrarunner </title>
@@ -67,6 +51,22 @@
     <content>Crazy Mountain 100 LFG #crazymountain100 #ultrarunner #runtok </content>
     <link href="https://tiktok.com/@glazeruns/video/7395885313035455787"/>
     <published>2024-07-26T10:12:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7396459383678438699</id>
+    <title>They look great!#runtok </title>
+    <updated>2024-07-27T23:20:08+00:00</updated>
+    <content>They look great!#runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7396459383678438699"/>
+    <published>2024-07-27T23:20:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7396459956284771630</id>
+    <title>Finished Crazy Mountain 100 haven't slept in 38 hours more later #crazymountain100 #ultrarunner #runtok </title>
+    <updated>2024-07-27T23:22:18+00:00</updated>
+    <content>Finished Crazy Mountain 100 haven't slept in 38 hours more later #crazymountain100 #ultrarunner #runtok </content>
+    <link href="https://tiktok.com/@glazeruns/video/7396459956284771630"/>
+    <published>2024-07-27T23:22:18+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>
