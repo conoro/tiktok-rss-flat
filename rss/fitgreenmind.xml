@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-07-26T21:00:40+00:00</updated>
+  <updated>2024-07-28T13:29:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7385275168966315296</id>
-    <title>MANGO STICKY RICE FOR ONE🥭  This was delicious! 😋  (Credits: @narasmith ) RECIPE (1 serving, 5h prep time): -1 espresso cup homegrown sticky rice Wash 6 times and cover with water and soak for 4h. Heat up water in a pot, place on top of it a sieve and a t</title>
-    <updated>2024-06-27T19:59:40+00:00</updated>
-    <content>MANGO STICKY RICE FOR ONE🥭  This was delicious! 😋  (Credits: @narasmith ) RECIPE (1 serving, 5h prep time): -1 espresso cup homegrown sticky rice Wash 6 times and cover with water and soak for 4h. Heat up water in a pot, place on top of it a sieve and a t</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7385275168966315296"/>
-    <published>2024-06-27T19:59:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7386023230139600161</id>
     <title>RICE FLOUR TORTILLAS 🫓  Now I know how to use up my rice flour! 😋 RECIPE (10 small tortillas, 30min prep time): -1 cup rice flour -2 cups boiling water -a pinch of salt  Mix and let it feast for 10mins. Divide in 10 pieces and roll them into balls. Flatte</title>
@@ -91,5 +83,13 @@
     <content>SHREDDED PEACH 🍑  I’ve seen @carolinagelen making such a dessert and I had to try it… after shock-freezing my hand in the first 2mins it was super easy to make and makes the perfect snack, breakfast or dessert! 😋🫶 Much love  Maya ✨ RECIPE (1 serving, 5min</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7396052367063436576"/>
     <published>2024-07-26T21:00:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7396678221950946593</id>
+    <title>It‘s an oracle… every sees something else 👀 #latteart #coffee #cappuccino #lattearttutorial </title>
+    <updated>2024-07-28T13:29:19+00:00</updated>
+    <content>It‘s an oracle… every sees something else 👀 #latteart #coffee #cappuccino #lattearttutorial </content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7396678221950946593"/>
+    <published>2024-07-28T13:29:19+00:00</published>
   </entry>
 </feed>
