@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@christinasots_</id>
   <title>christinasots_ TikTok</title>
-  <updated>2024-07-16T12:14:22+00:00</updated>
+  <updated>2024-07-29T08:50:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from christinasots_</subtitle>
-  <entry>
-    <id>https://tiktok.com/@christinasots_/video/7365906546007608608</id>
-    <title>QUICK PICKLED RED ONIONS!  My most used condiment by far. The easiest and quickest way to add some crunch and zest to any dish.  Let me know your fave way to use it!  1 red onion 100ml apple cider vinegar  1 - 1 1/2 tsp flakey sea salt  1 tsp sugar or aga</title>
-    <updated>2024-05-06T15:19:31+00:00</updated>
-    <content>QUICK PICKLED RED ONIONS!  My most used condiment by far. The easiest and quickest way to add some crunch and zest to any dish.  Let me know your fave way to use it!  1 red onion 100ml apple cider vinegar  1 - 1 1/2 tsp flakey sea salt  1 tsp sugar or aga</content>
-    <link href="https://tiktok.com/@christinasots_/video/7365906546007608608"/>
-    <published>2024-05-06T15:19:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7367383488762334497</id>
     <title>Here are 4 things I eat every single day without fail:  1. Something fermented: This is my top gut health habit! It’s usually kimchi because I love it on toast with peanut butter, in salads or with noodles. Other things I’ll eat are fermented cashew chees</title>
@@ -67,6 +59,14 @@
     <content>I WROTE A COOKBOOK! I couldn’t be more excited to share this news :) My first cookbook, Big Veg Energy is available to preorder now from a selection of retailers and you can find the link in my bio. Preorders mean the absolute world to first time authors </content>
     <link href="https://tiktok.com/@christinasots_/video/7392205872375598368"/>
     <published>2024-07-16T12:14:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@christinasots_/video/7396977554999086368</id>
+    <title>I found the perfect vegan brownie recipe on the @GuardianFeast app! There are so many vegan recipes on there!  There are also loads of great features like the search bar which lets you search by your favourite chefs, dietaries, ingredients and meal type. </title>
+    <updated>2024-07-29T08:50:58+00:00</updated>
+    <content>I found the perfect vegan brownie recipe on the @GuardianFeast app! There are so many vegan recipes on there!  There are also loads of great features like the search bar which lets you search by your favourite chefs, dietaries, ingredients and meal type. </content>
+    <link href="https://tiktok.com/@christinasots_/video/7396977554999086368"/>
+    <published>2024-07-29T08:50:58+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@christinasots_/video/7198125871461403909</id>
