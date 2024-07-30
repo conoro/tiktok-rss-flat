@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-07-29T19:49:19+00:00</updated>
+  <updated>2024-07-30T19:52:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7370810071984459041</id>
-    <title>FAVORITE SAUCES NR. 2 😋 Greens pesto  I love using leftover greens for pesto before they go bad and you can use all kinds: spinach, rocket or any herbs! I like to pair it with my orzo salad but you can use it just like pesto. 🤌 RECIPE (2-3 servings, 10min</title>
-    <updated>2024-05-19T20:27:41+00:00</updated>
-    <content>FAVORITE SAUCES NR. 2 😋 Greens pesto  I love using leftover greens for pesto before they go bad and you can use all kinds: spinach, rocket or any herbs! I like to pair it with my orzo salad but you can use it just like pesto. 🤌 RECIPE (2-3 servings, 10min</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7370810071984459041"/>
-    <published>2024-05-19T20:27:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7371170533590699297</id>
     <title>FAVORITE SAUCE NR. 3 😋 Indonesian inspired Sambal 🇮🇩 There are lots of different types of Sambal in Indonesia. And this is my favorite NOT AUTHENTIC but for me it has the perfect balance of sweet, spicy and tangy flavors.😇 You can use it as dip or flavori</title>
@@ -291,5 +283,13 @@
     <content>Dumpling salad 🥟 Forget about pasta salad! I saw this at @sebscrispyclub and it’s a BANGER! 💥  Recipe (2 servings, 15min prep time): -1 bag (300g) dumplings Prepare according to the packet instructions  -2 Tbsp soy sauce -2 Tbsp white wine vinegar -1 Tbsp</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7397147238553636129"/>
     <published>2024-07-29T19:49:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7397519200354340128</id>
+    <title>WATERMELON “TUNA” 🍣  Yes, it’s not tuna. Yes, it doesn’t taste like tuna. But it’s a very delicious way to prepare watermelon which you can use for sushi, poke bowls, salads and much more!🤗 RECIPE (4 servings, 2h prep time): -1 baby watermelon Peel and cu</title>
+    <updated>2024-07-30T19:52:44+00:00</updated>
+    <content>WATERMELON “TUNA” 🍣  Yes, it’s not tuna. Yes, it doesn’t taste like tuna. But it’s a very delicious way to prepare watermelon which you can use for sushi, poke bowls, salads and much more!🤗 RECIPE (4 servings, 2h prep time): -1 baby watermelon Peel and cu</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7397519200354340128"/>
+    <published>2024-07-30T19:52:44+00:00</published>
   </entry>
 </feed>
