@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@glazeruns</id>
   <title>glazeruns TikTok</title>
-  <updated>2024-07-28T04:15:05+00:00</updated>
+  <updated>2024-07-30T00:18:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from glazeruns</subtitle>
-  <entry>
-    <id>https://tiktok.com/@glazeruns/video/7393195257313119530</id>
-    <title>Best feeling in the world #runtok #ultrarunner </title>
-    <updated>2024-07-19T04:13:35+00:00</updated>
-    <content>Best feeling in the world #runtok #ultrarunner </content>
-    <link href="https://tiktok.com/@glazeruns/video/7393195257313119530"/>
-    <published>2024-07-19T04:13:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7394815426376600878</id>
     <title>What are my odds? #runtok #ultrarunner </title>
@@ -75,6 +67,14 @@
     <content>That was hard #crazymountain100 #runtok #ultrarunner </content>
     <link href="https://tiktok.com/@glazeruns/video/7396535400333839659"/>
     <published>2024-07-28T04:15:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@glazeruns/video/7397216604884405547</id>
+    <title>Happy Medal Monday what do you get for running 100 hard mountain miles in Montana? you get this amazing belt buckle and a lifetime of memories  #crazymountain100 #runtok #ultrarunner </title>
+    <updated>2024-07-30T00:18:29+00:00</updated>
+    <content>Happy Medal Monday what do you get for running 100 hard mountain miles in Montana? you get this amazing belt buckle and a lifetime of memories  #crazymountain100 #runtok #ultrarunner </content>
+    <link href="https://tiktok.com/@glazeruns/video/7397216604884405547"/>
+    <published>2024-07-30T00:18:29+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@glazeruns/video/7222812809199947054</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-07-25T23:53:06+00:00</updated>
+  <updated>2024-07-29T23:44:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7376431282139630894</id>
-    <title>Was that a horse or a donkey?! 🤣 We’ve reached the one hour run mark and it feels good 🙌 Did you catch the tree tunnel vibes?? #runwithme #runvlog #runmotivation #runlife </title>
-    <updated>2024-06-04T00:00:47+00:00</updated>
-    <content>Was that a horse or a donkey?! 🤣 We’ve reached the one hour run mark and it feels good 🙌 Did you catch the tree tunnel vibes?? #runwithme #runvlog #runmotivation #runlife </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7376431282139630894"/>
-    <published>2024-06-04T00:00:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7376810848406424878</id>
     <title>By popular request here are non-athletic shorts that don’t ride up my thighs *as much*. These came to me in a Stitch Fix order and I was pleasantly surprised 🙌 Shorts Gobbling Season is no joke. Good luck out there! #shorts #tryon #womensshorts #shortsgob</title>
@@ -291,5 +283,13 @@
     <content>Do you even sports if you’re not planning to watch the Paralympics?! They take place in Paris from August 30th to September 8th and I can’t wait to keep up with all the action! #sportsnews #learnwithme #paralympics </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7395725720170859819"/>
     <published>2024-07-25T23:53:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7397207931260849451</id>
+    <title>What moment of the opening ceremony describes how you currently feel?? This week I’ve learned what a stiff arm is, who LeBron James is, and the water polo pools are around 7ft deep. #sportsnews #learnwithme #olympics </title>
+    <updated>2024-07-29T23:44:49+00:00</updated>
+    <content>What moment of the opening ceremony describes how you currently feel?? This week I’ve learned what a stiff arm is, who LeBron James is, and the water polo pools are around 7ft deep. #sportsnews #learnwithme #olympics </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7397207931260849451"/>
+    <published>2024-07-29T23:44:49+00:00</published>
   </entry>
 </feed>
