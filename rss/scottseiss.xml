@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@scottseiss</id>
   <title>scottseiss TikTok</title>
-  <updated>2024-07-08T23:07:12+00:00</updated>
+  <updated>2024-07-30T22:56:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7164541660062403883</id>
-    <title>#fyp #bgcdramaeffect #home #rent </title>
-    <updated>2022-11-11T00:00:53+00:00</updated>
-    <content>#fyp #bgcdramaeffect #home #rent </content>
-    <link href="https://tiktok.com/@scottseiss/video/7164541660062403883"/>
-    <published>2022-11-11T00:00:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7165299130686852398</id>
     <title>Tour schedule and tickets for NYC, NJ, and MA in my bio! #fyp #work #boss #ceo </title>
@@ -267,6 +259,14 @@
     <content>I’m coming to Texas! Mainly to use the Buc-ee’s bathroom, but also to do stand up! #comdey #austintx #fortworth #texas #work #retail #standup </content>
     <link href="https://tiktok.com/@scottseiss/video/7389405370730548510"/>
     <published>2024-07-08T23:07:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@scottseiss/video/7397566400455298334</id>
+    <title>Oregon! Come see me do stand up this weekend 😁 #oregon #eugeneoregon #standup #show </title>
+    <updated>2024-07-30T22:56:02+00:00</updated>
+    <content>Oregon! Come see me do stand up this weekend 😁 #oregon #eugeneoregon #standup #show </content>
+    <link href="https://tiktok.com/@scottseiss/video/7397566400455298334"/>
+    <published>2024-07-30T22:56:02+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@scottseiss/video/7081294899366202666</id>

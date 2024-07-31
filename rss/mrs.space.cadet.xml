@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-07-29T23:44:49+00:00</updated>
+  <updated>2024-07-30T23:37:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7376810848406424878</id>
-    <title>By popular request here are non-athletic shorts that don’t ride up my thighs *as much*. These came to me in a Stitch Fix order and I was pleasantly surprised 🙌 Shorts Gobbling Season is no joke. Good luck out there! #shorts #tryon #womensshorts #shortsgob</title>
-    <updated>2024-06-05T00:33:43+00:00</updated>
-    <content>By popular request here are non-athletic shorts that don’t ride up my thighs *as much*. These came to me in a Stitch Fix order and I was pleasantly surprised 🙌 Shorts Gobbling Season is no joke. Good luck out there! #shorts #tryon #womensshorts #shortsgob</content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7376810848406424878"/>
-    <published>2024-06-05T00:33:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7377167234235452715</id>
     <title>If you know me, you know I don’t like thinking if I don’t have to 😅 That’s why I’m relying on the @Water.io smart water bottle to keep @Kasey Perry Glass hydrated during her dressage practice. It takes the guesswork out of the equation by calculating how </title>
@@ -291,5 +283,13 @@
     <content>What moment of the opening ceremony describes how you currently feel?? This week I’ve learned what a stiff arm is, who LeBron James is, and the water polo pools are around 7ft deep. #sportsnews #learnwithme #olympics </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7397207931260849451"/>
     <published>2024-07-29T23:44:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7397577131934403883</id>
+    <title>I’m unwell and it’s my own doing lol let’s get back on track 🏃‍♀️ 💧 🧘‍♀️ #runwithme #unwell #backontrack </title>
+    <updated>2024-07-30T23:37:32+00:00</updated>
+    <content>I’m unwell and it’s my own doing lol let’s get back on track 🏃‍♀️ 💧 🧘‍♀️ #runwithme #unwell #backontrack </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7397577131934403883"/>
+    <published>2024-07-30T23:37:32+00:00</published>
   </entry>
 </feed>
