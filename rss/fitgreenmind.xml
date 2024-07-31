@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-07-30T19:52:44+00:00</updated>
+  <updated>2024-07-31T19:25:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7371170533590699297</id>
-    <title>FAVORITE SAUCE NR. 3 😋 Indonesian inspired Sambal 🇮🇩 There are lots of different types of Sambal in Indonesia. And this is my favorite NOT AUTHENTIC but for me it has the perfect balance of sweet, spicy and tangy flavors.😇 You can use it as dip or flavori</title>
-    <updated>2024-05-20T19:46:26+00:00</updated>
-    <content>FAVORITE SAUCE NR. 3 😋 Indonesian inspired Sambal 🇮🇩 There are lots of different types of Sambal in Indonesia. And this is my favorite NOT AUTHENTIC but for me it has the perfect balance of sweet, spicy and tangy flavors.😇 You can use it as dip or flavori</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7371170533590699297"/>
-    <published>2024-05-20T19:46:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7371450252051664161</id>
     <title>GREEN POWER 💚💪 Werbung/Ad Manche von euch haben es schon erraten, aber es ist endlich soweit… mein eigenes Online Programm mit @Gymondo „Green Power“ ist jetzt da!🥳 Was erwartet euch? 💚 4 funktionelle Workouts für jedes Fitnesslevel (also auch Einsteiger </title>
@@ -291,5 +283,13 @@
     <content>WATERMELON “TUNA” 🍣  Yes, it’s not tuna. Yes, it doesn’t taste like tuna. But it’s a very delicious way to prepare watermelon which you can use for sushi, poke bowls, salads and much more!🤗 RECIPE (4 servings, 2h prep time): -1 baby watermelon Peel and cu</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7397519200354340128"/>
     <published>2024-07-30T19:52:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7397883281208790305</id>
+    <title>TOFU KATSU CURRY 🍛 Werbung/Ad Eins meiner Lieblingsgerichte… egal ob Sommer oder Winter!😌 Für das Tofu Katsu hab ich den Kichererbsen-Tofu von @omami | Tasty Tofu verwendet: 🌱 er wird wie Tofu hergestellt, aber aus ganzen Kichererbsen und auch die Naturve</title>
+    <updated>2024-07-31T19:25:31+00:00</updated>
+    <content>TOFU KATSU CURRY 🍛 Werbung/Ad Eins meiner Lieblingsgerichte… egal ob Sommer oder Winter!😌 Für das Tofu Katsu hab ich den Kichererbsen-Tofu von @omami | Tasty Tofu verwendet: 🌱 er wird wie Tofu hergestellt, aber aus ganzen Kichererbsen und auch die Naturve</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7397883281208790305"/>
+    <published>2024-07-31T19:25:31+00:00</published>
   </entry>
 </feed>
