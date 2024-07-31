@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-07-23T04:56:41+00:00</updated>
+  <updated>2024-07-31T15:24:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7366434655228185899</id>
-    <title>If yall need gift ideas for Mothers day I got you covered ❤️ #tabithabrown #gifts </title>
-    <updated>2024-05-08T01:28:54+00:00</updated>
-    <content>If yall need gift ideas for Mothers day I got you covered ❤️ #tabithabrown #gifts </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7366434655228185899"/>
-    <published>2024-05-08T01:28:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7368539862791753006</id>
     <title>Morning TSA:  Don’t give anyone control over your mind today ❤️. Love you!! #tabithabrown #spreadlove </title>
@@ -267,5 +259,13 @@
     <content>This is why im such a daddys girl!!! Im so blessed!!!! We hust sitting here in Vegas talking about how good God has been❤️🙌🏾.  I love you Daddy!!! #tabithabrown #daddysgirl </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7394690646038154527"/>
     <published>2024-07-23T04:56:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7397821120621071647</id>
+    <title>When that @Donna’s Recipe got you right for vacation !!!  i couldn’t resist 😂 Let your soul GLO bae!! #vacation #tabithabrown #chancebrown </title>
+    <updated>2024-07-31T15:24:22+00:00</updated>
+    <content>When that @Donna’s Recipe got you right for vacation !!!  i couldn’t resist 😂 Let your soul GLO bae!! #vacation #tabithabrown #chancebrown </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7397821120621071647"/>
+    <published>2024-07-31T15:24:22+00:00</published>
   </entry>
 </feed>
