@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-07-30T23:37:32+00:00</updated>
+  <updated>2024-07-31T23:48:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7377167234235452715</id>
-    <title>If you know me, you know I don’t like thinking if I don’t have to 😅 That’s why I’m relying on the @Water.io smart water bottle to keep @Kasey Perry Glass hydrated during her dressage practice. It takes the guesswork out of the equation by calculating how </title>
-    <updated>2024-06-05T23:36:40+00:00</updated>
-    <content>If you know me, you know I don’t like thinking if I don’t have to 😅 That’s why I’m relying on the @Water.io smart water bottle to keep @Kasey Perry Glass hydrated during her dressage practice. It takes the guesswork out of the equation by calculating how </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7377167234235452715"/>
-    <published>2024-06-05T23:36:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7377544507421723946</id>
     <title>Will Flavor Flav join Sporty Time as a water polo correspondent? Only time will tell. Get it? Because he wears the clocks? Ok. In the meantime, Olympic trials are still happening for some sports and I’ll be covering them all. Maybe I’ll show up at one? 👀 </title>
@@ -291,5 +283,13 @@
     <content>I’m unwell and it’s my own doing lol let’s get back on track 🏃‍♀️ 💧 🧘‍♀️ #runwithme #unwell #backontrack </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7397577131934403883"/>
     <published>2024-07-30T23:37:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7397950934204140842</id>
+    <title>My thighs would be on the podium in the shorts gobbling Olympics for sure. So many of you have commented wanting to know if the Halara shorts are gobble-proof. Spoiler: they aren’t. Do you like shorts with the shorts underneath? In my quest to find flowy </title>
+    <updated>2024-07-31T23:48:05+00:00</updated>
+    <content>My thighs would be on the podium in the shorts gobbling Olympics for sure. So many of you have commented wanting to know if the Halara shorts are gobble-proof. Spoiler: they aren’t. Do you like shorts with the shorts underneath? In my quest to find flowy </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7397950934204140842"/>
+    <published>2024-07-31T23:48:05+00:00</published>
   </entry>
 </feed>
