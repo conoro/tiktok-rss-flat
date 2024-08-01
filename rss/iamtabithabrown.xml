@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-07-31T15:24:22+00:00</updated>
+  <updated>2024-08-01T18:00:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7368539862791753006</id>
-    <title>Morning TSA:  Don’t give anyone control over your mind today ❤️. Love you!! #tabithabrown #spreadlove </title>
-    <updated>2024-05-13T17:38:15+00:00</updated>
-    <content>Morning TSA:  Don’t give anyone control over your mind today ❤️. Love you!! #tabithabrown #spreadlove </content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7368539862791753006"/>
-    <published>2024-05-13T17:38:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7369474225121398058</id>
     <title>Late night TSA:  Let them be mad baby…. That aint even your business ❤️. Love you ❤️ #tabithabrown #spreadlove </title>
@@ -267,5 +259,13 @@
     <content>When that @Donna’s Recipe got you right for vacation !!!  i couldn’t resist 😂 Let your soul GLO bae!! #vacation #tabithabrown #chancebrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7397821120621071647"/>
     <published>2024-07-31T15:24:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7398232532338232607</id>
+    <title>Morning TSA from Katherine:  We still love to “shop”, but we can’t go to a bunch of new stores for hours!! I mean there are times that i be feeling like “Shopping” til I drop, but the way Katherine is set up these days, we gonna need my husband to just ru</title>
+    <updated>2024-08-01T18:00:54+00:00</updated>
+    <content>Morning TSA from Katherine:  We still love to “shop”, but we can’t go to a bunch of new stores for hours!! I mean there are times that i be feeling like “Shopping” til I drop, but the way Katherine is set up these days, we gonna need my husband to just ru</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7398232532338232607"/>
+    <published>2024-08-01T18:00:54+00:00</published>
   </entry>
 </feed>
