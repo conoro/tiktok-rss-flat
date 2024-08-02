@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-07-31T23:48:05+00:00</updated>
+  <updated>2024-08-01T23:11:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7377544507421723946</id>
-    <title>Will Flavor Flav join Sporty Time as a water polo correspondent? Only time will tell. Get it? Because he wears the clocks? Ok. In the meantime, Olympic trials are still happening for some sports and I’ll be covering them all. Maybe I’ll show up at one? 👀 </title>
-    <updated>2024-06-07T00:00:41+00:00</updated>
-    <content>Will Flavor Flav join Sporty Time as a water polo correspondent? Only time will tell. Get it? Because he wears the clocks? Ok. In the meantime, Olympic trials are still happening for some sports and I’ll be covering them all. Maybe I’ll show up at one? 👀 </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7377544507421723946"/>
-    <published>2024-06-07T00:00:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7377912859017088298</id>
     <title>There are so many things I need to hear around me when I run so I’m thankful @Shokz headphones allow me to hear my music AND my surroundings. What types of things do you need to hear where YOU run? I’ve been loving these OpenFit Air headphones lately and </title>
@@ -291,5 +283,13 @@
     <content>My thighs would be on the podium in the shorts gobbling Olympics for sure. So many of you have commented wanting to know if the Halara shorts are gobble-proof. Spoiler: they aren’t. Do you like shorts with the shorts underneath? In my quest to find flowy </content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7397950934204140842"/>
     <published>2024-07-31T23:48:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7398312700595490094</id>
+    <title>It’s called MANIFESTATION. Ever heard of it?! 😌 I might not be in Paris, but I’m absolutely at the Olympics in spirit! Raise your hand 🙋 if you’re excited for track and field starting! #sportsnews #learnwithme #olympics </title>
+    <updated>2024-08-01T23:11:53+00:00</updated>
+    <content>It’s called MANIFESTATION. Ever heard of it?! 😌 I might not be in Paris, but I’m absolutely at the Olympics in spirit! Raise your hand 🙋 if you’re excited for track and field starting! #sportsnews #learnwithme #olympics </content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7398312700595490094"/>
+    <published>2024-08-01T23:11:53+00:00</published>
   </entry>
 </feed>
