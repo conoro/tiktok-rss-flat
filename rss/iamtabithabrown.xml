@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-08-03T02:21:33+00:00</updated>
+  <updated>2024-08-03T17:08:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7371160604117208366</id>
-    <title>Family look at what the Lord has done 🙌🏾🙌🏾🙌🏾 Welcome to Very Good Mondays, where I help my friend Garfield kick those Monday blues! Let’s help him start his week off better by seeing his newest film @Garfield Movie exclusively in movie theaters this Memor</title>
-    <updated>2024-05-20T19:08:04+00:00</updated>
-    <content>Family look at what the Lord has done 🙌🏾🙌🏾🙌🏾 Welcome to Very Good Mondays, where I help my friend Garfield kick those Monday blues! Let’s help him start his week off better by seeing his newest film @Garfield Movie exclusively in movie theaters this Memor</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7371160604117208366"/>
-    <published>2024-05-20T19:08:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7372398074481610026</id>
     <title>Throwback Thursday to when I use to be cutting up😂😂😂😂. I just came across this video today from Halloween like 7 years ago and Ive been laughing all day😂. #actress #tabithabrown </title>
@@ -243,5 +235,13 @@
     <content>Baaabbbbyyy this quick curry chickpea and kale recipe will bless you real good!! Grabbed some tomatoes out my garden and it elevated the flavor!! Let’s get into it ❤️ #vegan #recipes #plantbased #tabithabrown Earrings by @ibdesigns </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7398732611641822495"/>
     <published>2024-08-03T02:21:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7398961247548443935</id>
+    <title>Family here are the details on my recipe book @target ❤️. I hope yall live it❤️. Thank you so much for your support!! #tabithabrown #targettabcollab </title>
+    <updated>2024-08-03T17:08:49+00:00</updated>
+    <content>Family here are the details on my recipe book @target ❤️. I hope yall live it❤️. Thank you so much for your support!! #tabithabrown #targettabcollab </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7398961247548443935"/>
+    <published>2024-08-03T17:08:49+00:00</published>
   </entry>
 </feed>

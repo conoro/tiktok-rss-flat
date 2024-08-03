@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-08-02T21:04:41+00:00</updated>
+  <updated>2024-08-03T19:37:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7371907335419219233</id>
-    <title>FAVORITE SAUCES NR. 3😋 MOJO ROJO This is a roasted red pepper dip from the Canary Islands where it‘s usually served with potatoes but tbh it tastes great with everything!😇 RECIPE (4 servings, 35min prep time): -1 red pepper, cut in halt and deseed -2 clov</title>
-    <updated>2024-05-22T19:25:39+00:00</updated>
-    <content>FAVORITE SAUCES NR. 3😋 MOJO ROJO This is a roasted red pepper dip from the Canary Islands where it‘s usually served with potatoes but tbh it tastes great with everything!😇 RECIPE (4 servings, 35min prep time): -1 red pepper, cut in halt and deseed -2 clov</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7371907335419219233"/>
-    <published>2024-05-22T19:25:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7372593934712818977</id>
     <title>Just some thoughts and a recipe for single serve Bolognese…🍝  Please don’t comment on other people without knowing the full picture. Words can be powerful and words can hurt. 🫶 RECIPE (1 serving, 25min prep time): -1 big carrot, shredded -1 small onion -1</title>
@@ -291,5 +283,13 @@
     <content>TOFU FRIES 😍 I love tofu… baked, fried, grilled and you can never go wrong with a delicious garlicky glaze!😋 I’ve seen another creator making such “tofu fries”, unfortunately I can’t remember the tag anymore… maybe you can help?🫶 RECIPE (2 servings, 10min</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7398650999847521568"/>
     <published>2024-08-02T21:04:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7398999569134046496</id>
+    <title>VEGAN KHAO SOI 🍜 🇹🇭  To me this is not only a soup, it’s a piece of my Thailand trip. 😊 RECIPE (4-5 servings, 30min prep time): -300g mushrooms Clean and cut in stripes. Broth: -1 can (400ml) full fat coconut milk Heat up a few Tbsp  -3 Tbsp red curry pas</title>
+    <updated>2024-08-03T19:37:20+00:00</updated>
+    <content>VEGAN KHAO SOI 🍜 🇹🇭  To me this is not only a soup, it’s a piece of my Thailand trip. 😊 RECIPE (4-5 servings, 30min prep time): -300g mushrooms Clean and cut in stripes. Broth: -1 can (400ml) full fat coconut milk Heat up a few Tbsp  -3 Tbsp red curry pas</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7398999569134046496"/>
+    <published>2024-08-03T19:37:20+00:00</published>
   </entry>
 </feed>
