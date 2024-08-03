@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-07-26T21:48:09+00:00</updated>
+  <updated>2024-08-02T21:24:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7335690341925899553</id>
-    <title>EP1 of easy cooking hacks: Yemeni S’hug (Zhug) 💚🌶️🌿 as someone who can’t eat crazy levels of spiciness (yet), this flavorful hot sauce is perfection! It adds so much yum and garlicky-herby goodness I smoother it on everything! 🧄 • INGREDIENTS •  5 serrano</title>
-    <updated>2024-02-15T05:05:57+00:00</updated>
-    <content>EP1 of easy cooking hacks: Yemeni S’hug (Zhug) 💚🌶️🌿 as someone who can’t eat crazy levels of spiciness (yet), this flavorful hot sauce is perfection! It adds so much yum and garlicky-herby goodness I smoother it on everything! 🧄 • INGREDIENTS •  5 serrano</content>
-    <link href="https://tiktok.com/@thetastyk/video/7335690341925899553"/>
-    <published>2024-02-15T05:05:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7336001759543840032</id>
     <title>CREAMY CHOCOLATE PUDDING 🍫that’s #dairyfree with a whooping 12g of protein per serving! It’s so rich and scrumptious — you wouldn’t believe it is made with 4 ingredients only!  INGREDIENTS (serves 3) 1 block silken tofu (12.3oz/350g), room temperature 1-2</title>
@@ -267,6 +259,14 @@
     <content>20 min mid-week dinner 😍 sometimes I surprise myself how little active prep time it takes to whip up something delicious &amp; nutritious! On today’s menu: 🫑 ROASTED RED PEPPER HUMMUS 🍠 JUICY BAKED SWEET POTATO 💜 ZA’ATAR ROASTED CAULIFLOWER 🍋 MARINATED HERBY </content>
     <link href="https://tiktok.com/@thetastyk/video/7396064587575053600"/>
     <published>2024-07-26T21:48:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7398656134170594592</id>
+    <title>MATCHA PROTEIN CHIA PUDDING 🍵💚 turns out the secret to the creamiest chia pudding is… tofu?  If you’re looking for a high-protein breakfast option but don’t like to mess with protein powders, this is an amazing way to get in all the nutrients while basica</title>
+    <updated>2024-08-02T21:24:39+00:00</updated>
+    <content>MATCHA PROTEIN CHIA PUDDING 🍵💚 turns out the secret to the creamiest chia pudding is… tofu?  If you’re looking for a high-protein breakfast option but don’t like to mess with protein powders, this is an amazing way to get in all the nutrients while basica</content>
+    <link href="https://tiktok.com/@thetastyk/video/7398656134170594592"/>
+    <published>2024-08-02T21:24:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>

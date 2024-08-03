@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-07-31T19:25:31+00:00</updated>
+  <updated>2024-08-02T21:04:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7371450252051664161</id>
-    <title>GREEN POWER 💚💪 Werbung/Ad Manche von euch haben es schon erraten, aber es ist endlich soweit… mein eigenes Online Programm mit @Gymondo „Green Power“ ist jetzt da!🥳 Was erwartet euch? 💚 4 funktionelle Workouts für jedes Fitnesslevel (also auch Einsteiger </title>
-    <updated>2024-05-21T13:51:56+00:00</updated>
-    <content>GREEN POWER 💚💪 Werbung/Ad Manche von euch haben es schon erraten, aber es ist endlich soweit… mein eigenes Online Programm mit @Gymondo „Green Power“ ist jetzt da!🥳 Was erwartet euch? 💚 4 funktionelle Workouts für jedes Fitnesslevel (also auch Einsteiger </content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7371450252051664161"/>
-    <published>2024-05-21T13:51:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7371907335419219233</id>
     <title>FAVORITE SAUCES NR. 3😋 MOJO ROJO This is a roasted red pepper dip from the Canary Islands where it‘s usually served with potatoes but tbh it tastes great with everything!😇 RECIPE (4 servings, 35min prep time): -1 red pepper, cut in halt and deseed -2 clov</title>
@@ -291,5 +283,13 @@
     <content>TOFU KATSU CURRY 🍛 Werbung/Ad Eins meiner Lieblingsgerichte… egal ob Sommer oder Winter!😌 Für das Tofu Katsu hab ich den Kichererbsen-Tofu von @omami | Tasty Tofu verwendet: 🌱 er wird wie Tofu hergestellt, aber aus ganzen Kichererbsen und auch die Naturve</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7397883281208790305"/>
     <published>2024-07-31T19:25:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7398650999847521568</id>
+    <title>TOFU FRIES 😍 I love tofu… baked, fried, grilled and you can never go wrong with a delicious garlicky glaze!😋 I’ve seen another creator making such “tofu fries”, unfortunately I can’t remember the tag anymore… maybe you can help?🫶 RECIPE (2 servings, 10min</title>
+    <updated>2024-08-02T21:04:41+00:00</updated>
+    <content>TOFU FRIES 😍 I love tofu… baked, fried, grilled and you can never go wrong with a delicious garlicky glaze!😋 I’ve seen another creator making such “tofu fries”, unfortunately I can’t remember the tag anymore… maybe you can help?🫶 RECIPE (2 servings, 10min</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7398650999847521568"/>
+    <published>2024-08-02T21:04:41+00:00</published>
   </entry>
 </feed>
