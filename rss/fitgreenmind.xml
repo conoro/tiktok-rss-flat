@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-08-03T19:37:20+00:00</updated>
+  <updated>2024-08-04T20:13:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7372593934712818977</id>
-    <title>Just some thoughts and a recipe for single serve Bolognese…🍝  Please don’t comment on other people without knowing the full picture. Words can be powerful and words can hurt. 🫶 RECIPE (1 serving, 25min prep time): -1 big carrot, shredded -1 small onion -1</title>
-    <updated>2024-05-24T15:49:59+00:00</updated>
-    <content>Just some thoughts and a recipe for single serve Bolognese…🍝  Please don’t comment on other people without knowing the full picture. Words can be powerful and words can hurt. 🫶 RECIPE (1 serving, 25min prep time): -1 big carrot, shredded -1 small onion -1</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7372593934712818977"/>
-    <published>2024-05-24T15:49:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7373027783175343392</id>
     <title>FAVORITE SAUCE NR. 5 😋 Amba 🥭  Amba means mango in Marathi, the language spoken in Maharashtra. It’s a sweet, spicy and sour condiment originating from India which is now popular in the Middle East and for me it’s ketchup on steroids!🤪 RECIPE (10-12 servi</title>
@@ -291,5 +283,13 @@
     <content>VEGAN KHAO SOI 🍜 🇹🇭  To me this is not only a soup, it’s a piece of my Thailand trip. 😊 RECIPE (4-5 servings, 30min prep time): -300g mushrooms Clean and cut in stripes. Broth: -1 can (400ml) full fat coconut milk Heat up a few Tbsp  -3 Tbsp red curry pas</content>
     <link href="https://tiktok.com/@fitgreenmind/video/7398999569134046496"/>
     <published>2024-08-03T19:37:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7399380062027386145</id>
+    <title>CHEAT’S BANANA ROTI 🍌 This little treat is inspired by a popular Thai street snack and I can’t get enough of it!🤭 This is not the traditional way of making it but an easy hack to make something which is quite similar in taste.😋 RECIPE (1 serving, 5min pre</title>
+    <updated>2024-08-04T20:13:48+00:00</updated>
+    <content>CHEAT’S BANANA ROTI 🍌 This little treat is inspired by a popular Thai street snack and I can’t get enough of it!🤭 This is not the traditional way of making it but an easy hack to make something which is quite similar in taste.😋 RECIPE (1 serving, 5min pre</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7399380062027386145"/>
+    <published>2024-08-04T20:13:48+00:00</published>
   </entry>
 </feed>
