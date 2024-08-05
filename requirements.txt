@@ -1,3 +1,4 @@
+playwright == 1.40.0
 asyncio
 feedgen
 TikTokApi
