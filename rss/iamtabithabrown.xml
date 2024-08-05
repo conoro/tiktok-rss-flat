@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-08-03T22:21:33+00:00</updated>
+  <updated>2024-08-04T22:08:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7372608747979459883</id>
-    <title>Ok family summer is upon us so that means it’s time to get into my @McCormick Spices burger business recipes! So let’s get into the Chickpea smash burger!! It’s super easy and full of delicious flavor! You can add extra veggies if that’s your business, bu</title>
-    <updated>2024-05-24T16:47:28+00:00</updated>
-    <content>Ok family summer is upon us so that means it’s time to get into my @McCormick Spices burger business recipes! So let’s get into the Chickpea smash burger!! It’s super easy and full of delicious flavor! You can add extra veggies if that’s your business, bu</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7372608747979459883"/>
-    <published>2024-05-24T16:47:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7373524893054438702</id>
     <title>Stopped by @target in San Diego on Mira Mesa blvd and found a few goodies in stock ❤️. #tabithabrown #targettabcollab #vegan #snacks #food #sandiego</title>
@@ -243,5 +235,13 @@
     <content>Kale salad with oyster mushroom bacon for the win!!! #vegan #plantbased #recipe #tabithabrown </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7399041845226982686"/>
     <published>2024-08-03T22:21:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7399409687227157790</id>
+    <title>BBQ jackfruit in the air fryer for the Sunday dinner win!! #vegan #plantbased #tabithabrown #cook #recipes </title>
+    <updated>2024-08-04T22:08:58+00:00</updated>
+    <content>BBQ jackfruit in the air fryer for the Sunday dinner win!! #vegan #plantbased #tabithabrown #cook #recipes </content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7399409687227157790"/>
+    <published>2024-08-04T22:08:58+00:00</published>
   </entry>
 </feed>
