@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@iamtabithabrown</id>
   <title>iamtabithabrown TikTok</title>
-  <updated>2024-08-04T22:08:58+00:00</updated>
+  <updated>2024-08-05T02:22:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from iamtabithabrown</subtitle>
-  <entry>
-    <id>https://tiktok.com/@iamtabithabrown/video/7373524893054438702</id>
-    <title>Stopped by @target in San Diego on Mira Mesa blvd and found a few goodies in stock ❤️. #tabithabrown #targettabcollab #vegan #snacks #food #sandiego</title>
-    <updated>2024-05-27T04:02:32+00:00</updated>
-    <content>Stopped by @target in San Diego on Mira Mesa blvd and found a few goodies in stock ❤️. #tabithabrown #targettabcollab #vegan #snacks #food #sandiego</content>
-    <link href="https://tiktok.com/@iamtabithabrown/video/7373524893054438702"/>
-    <published>2024-05-27T04:02:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@iamtabithabrown/video/7376749239654714667</id>
     <title>Morning TSA:  You’re not happy ❤️ #tabithabrown  #spreadlove </title>
@@ -243,5 +235,13 @@
     <content>BBQ jackfruit in the air fryer for the Sunday dinner win!! #vegan #plantbased #tabithabrown #cook #recipes </content>
     <link href="https://tiktok.com/@iamtabithabrown/video/7399409687227157790"/>
     <published>2024-08-04T22:08:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@iamtabithabrown/video/7399474955118759199</id>
+    <title>🙌🏾OOOHHH GOD I THANK YOU🙌🏾 Stopped by @target at 20801 Ventura Blvd, Woodland Hills and baby they got fresh stock of my new collections❤️. I’m just so grateful to God to be on this journey!!! Thank yall so much for showing up and showing out for me!!! #ta</title>
+    <updated>2024-08-05T02:22:09+00:00</updated>
+    <content>🙌🏾OOOHHH GOD I THANK YOU🙌🏾 Stopped by @target at 20801 Ventura Blvd, Woodland Hills and baby they got fresh stock of my new collections❤️. I’m just so grateful to God to be on this journey!!! Thank yall so much for showing up and showing out for me!!! #ta</content>
+    <link href="https://tiktok.com/@iamtabithabrown/video/7399474955118759199"/>
+    <published>2024-08-05T02:22:09+00:00</published>
   </entry>
 </feed>
