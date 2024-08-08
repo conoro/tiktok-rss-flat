@@ -85,13 +85,13 @@ async def user_videos():
                             path_segments = parsed_url.path.split('/')
                             last_segment = [seg for seg in path_segments if seg][-1]
 
-                            screenshotsubpath = "/thumbnails/" + user + "/screenshot_" + last_segment + ".jpg"
-                            screenshotpath = os.path.dirname(os.path.realpath(__file__))+screenshotsubpath
+                            screenshotsubpath = "thumbnails/" + user + "/screenshot_" + last_segment + ".jpg"
+                            screenshotpath = os.path.dirname(os.path.realpath(__file__)) + "/" + screenshotsubpath
                             if not os.path.isfile(screenshotpath):
                                 async with async_playwright() as playwright:
                                     await runscreenshot(playwright, videourl, screenshotpath)
                                 # RAW URL of that is something like: https://conoro.github.io/tiktok-rss-flat/thumbnails/iamtabithabrown/screenshot_786542134.jpg
-                            screenshoturl =  "https://conoro.github.io/tiktok-rss-flat" + screenshotsubpath
+                            screenshoturl =  ghPagesURL + screenshotsubpath
                             description = '<img src="' + screenshoturl + '" / >' + description    
                         fe.description(description)
                     fg.updated(updated)
