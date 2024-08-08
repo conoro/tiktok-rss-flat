@@ -8,9 +8,9 @@
     <email>conor@conoroneill.com</email>
   </author>
   <link href="http://tiktok.com" rel="alternate"/>
-  <link href="https://tiktokrss.conoroneill.com/rss/visitballyhoura.xml" rel="self"/>
+  <link href="https://conoro.github.io/tiktok-rss-flat/rss/visitballyhoura.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
+  <logo>https://conoro.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from visitballyhoura</subtitle>
   <entry>
     <id>https://tiktok.com/@visitballyhoura/video/7145102792057752838</id>
