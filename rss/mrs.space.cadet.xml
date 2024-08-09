@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-08-07T00:56:27+00:00</updated>
+  <updated>2024-08-07T23:59:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
   <link href="http://tiktok.com" rel="alternate"/>
-  <link href="https://tiktokrss.conoroneill.com/rss/mrs.space.cadet.xml" rel="self"/>
+  <link href="https://conoro.github.io/tiktok-rss-flat/rss/mrs.space.cadet.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
+  <logo>https://conoro.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7380131641110334763</id>
@@ -283,5 +283,13 @@
     <content>&lt;img src="https://conoro.github.io/tiktok-rss-flat/thumbnails/mrs.space.cadet/screenshot_3bd9d46a75c24cf9a9c463aae9c01bbb_1722992188.jpg" / &gt;What’s the most exciting thing you’ve seen so far in this Olympics?? And what are you most excited for?! There’s so much happening especially now that track and field has begun. I want to cancel everything and stay glued to the TV 😅 #sportsnews #learnwith</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7400195064179281195"/>
     <published>2024-08-07T00:56:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7400551598780468522</id>
+    <title>#ad If there’s an adventure to win, I’m entering the sweepstakes! Especially this one from @CLIF BAR where all I have to do is buy Clif Bar multipacks, something I ALREADY DO! Here’s how to enter: * Go to clifbar.com or to your local store and buy your fa</title>
+    <updated>2024-08-07T23:59:59+00:00</updated>
+    <content>&lt;img src="https://conoro.github.io/tiktok-rss-flat/thumbnails/mrs.space.cadet/screenshot_8d14a88b100a48e49c4c3bc533ef3360_1723075201.jpg" / &gt;#ad If there’s an adventure to win, I’m entering the sweepstakes! Especially this one from @CLIF BAR where all I have to do is buy Clif Bar multipacks, something I ALREADY DO! Here’s how to enter: * Go to clifbar.com or to your local store and buy your fa</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7400551598780468522"/>
+    <published>2024-08-07T23:59:59+00:00</published>
   </entry>
 </feed>
