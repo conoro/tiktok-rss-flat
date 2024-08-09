@@ -73,9 +73,9 @@ async def user_videos():
                             fe.title("No Title")
                         fe.link(href=link)
                         if video.as_dict['desc']:
-                            description = video.as_dict['desc'][0:255]
+                            content = video.as_dict['desc'][0:255]
                         else:
-                            description="No Description"
+                            content = "No Description"
                         if video.as_dict['video']['cover']:
                             videourl = video.as_dict['video']['cover']
                             parsed_url = urlparse(videourl)
@@ -88,10 +88,12 @@ async def user_videos():
                                 async with async_playwright() as playwright:
                                     await runscreenshot(playwright, videourl, screenshotpath)
                             screenshoturl =  ghRawURL + screenshotsubpath
-                            #description = '<img src="' + screenshoturl + '" / >' + description    
-                            #description = screenshoturl + ' ' + description    
-                            description = '<media:content url="' + screenshoturl + '" type="image/jpeg" medium="image"> ' + description 
-                        fe.description(description)
+                            #content = '<img src="' + screenshoturl + '" / >' + content    
+                            #content = screenshoturl + ' ' + content    
+                            #content = '<media:content url="' + screenshoturl + '" type="image/jpeg" medium="image"> ' + content 
+                            content = '<![CDATA[<img src="' + screenshoturl + '" />]]> ' + content
+
+                        fe.content(content)
                     fg.updated(updated)
                     fg.atom_file('rss/' + user + '.xml', pretty=True) # Write the RSS feed to a file
                         #print(video)
