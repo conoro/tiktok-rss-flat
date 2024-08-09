@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@fitgreenmind</id>
   <title>fitgreenmind TikTok</title>
-  <updated>2024-08-07T19:46:14+00:00</updated>
+  <updated>2024-08-09T18:57:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from fitgreenmind</subtitle>
-  <entry>
-    <id>https://tiktok.com/@fitgreenmind/video/7374504508342275361</id>
-    <title>KOHLRABI SKEWERS 🔥  A veggie BBQ doesn’t have to be boring, here’s how you can turn Kohlrabi into a highlight…😮‍💨 RECIPE (6 skewers, 30min prep time): -2 kohlrabi (celeriac works as well) Peel and shred. Marinade: -3 Tbsp tomato paste -1 Tbsp miso paste -</title>
-    <updated>2024-05-29T19:23:57+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/fitgreenmind/screenshot_381b26eff4ae439381d0ac61cb86faae_1717010640.jpg" /&gt;]]&gt; KOHLRABI SKEWERS 🔥  A veggie BBQ doesn’t have to be boring, here’s how you can turn Kohlrabi into a highlight…😮‍💨 RECIPE (6 skewers, 30min prep time): -2 kohlrabi (celeriac works as well) Peel and shred. Marinade: -3 Tbsp tomato paste -1 Tbsp miso paste -</content>
-    <link href="https://tiktok.com/@fitgreenmind/video/7374504508342275361"/>
-    <published>2024-05-29T19:23:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@fitgreenmind/video/7374840797402844448</id>
     <title>GREEN POWER 💚💪 Werbung/Ad Some of you have already waited for it, now it's finally here... my own online program with @gymondo "Green Power" is now also available in English!   What can you expect?  💚 4 functional workouts for every fitness level (includi</title>
@@ -291,5 +283,13 @@
     <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/fitgreenmind/screenshot_f2de2f7a61824505a57185041281d2d9_1723059980.jpg" /&gt;]]&gt; FROZEN WHIPPED COFFEE ☕️  I‘ve seen @coffeebro0 freezing his whipped coffee and honestly: it’s a game changer!😮‍💨 RECIPE (5-6 servings, 10min prep time): -4 Tbsp instant coffee -4 Tbsp hot water -4 Tbsp sugar or maple syrup Whip until stiff peaks. Freeze </content>
     <link href="https://tiktok.com/@fitgreenmind/video/7400486208888900897"/>
     <published>2024-08-07T19:46:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@fitgreenmind/video/7401215735126674720</id>
+    <title>Maybe I’ll make it to the Olympics next year…🤠 RECIPE (8 muffins, 35min prep time): -100g flour -100g sugar -40g cocoa powder -pinch of salt -2 Tsp corn starch -1 Tsp baking powder Mix. -95g (coconut) yogurt -100ml plant milk -60g oil -chocolate chips aka</title>
+    <updated>2024-08-09T18:57:11+00:00</updated>
+    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/fitgreenmind/screenshot_296def7ea3ae4a4caf67721c933efec0_1723229835.jpg" /&gt;]]&gt; Maybe I’ll make it to the Olympics next year…🤠 RECIPE (8 muffins, 35min prep time): -100g flour -100g sugar -40g cocoa powder -pinch of salt -2 Tsp corn starch -1 Tsp baking powder Mix. -95g (coconut) yogurt -100ml plant milk -60g oil -chocolate chips aka</content>
+    <link href="https://tiktok.com/@fitgreenmind/video/7401215735126674720"/>
+    <published>2024-08-09T18:57:11+00:00</published>
   </entry>
 </feed>
