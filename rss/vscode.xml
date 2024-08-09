@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@vscode</id>
+  <title>vscode TikTok</title>
+  <updated>2024-08-08T22:34:28+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/vscode.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <logo>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from vscode</subtitle>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7374471884483693854</id>
+    <title>self hosted vs code? #vscode</title>
+    <updated>2024-05-29T17:20:44+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oIE9Am2C13PECcFViHQANhAVlxAfgojuACVIeD.jpg" / &gt;self hosted vs code? #vscode</content>
+    <link href="https://tiktok.com/@vscode/video/7374471884483693854"/>
+    <published>2024-05-29T17:20:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7374793076046531886</id>
+    <title>#githubcopilot #techtok #ohsnap #ai </title>
+    <updated>2024-05-30T14:03:45+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oAR0fADsUDCHnFjQMORf5AkIAIjxE3eQAA5QEB.image.jpg" / &gt;#githubcopilot #techtok #ohsnap #ai </content>
+    <link href="https://tiktok.com/@vscode/video/7374793076046531886"/>
+    <published>2024-05-30T14:03:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7376849321871920427</id>
+    <title>Why am I just now learning about this?!? #vscode #techtok #codetok </title>
+    <updated>2024-06-05T03:03:00+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oMCVISEDAQfD9nIA1m9fEtmQWAFtiRAXniCJbg.image.jpg" / &gt;Why am I just now learning about this?!? #vscode #techtok #codetok </content>
+    <link href="https://tiktok.com/@vscode/video/7376849321871920427"/>
+    <published>2024-06-05T03:03:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7377015988857900319</id>
+    <title>VS Code terminal organization tips. #terminal #vscode</title>
+    <updated>2024-06-05T13:52:26+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oYmYD0i2QAGuCasCIUAAJEAIAVFynVfEfAlD2E.jpg" / &gt;VS Code terminal organization tips. #terminal #vscode</content>
+    <link href="https://tiktok.com/@vscode/video/7377015988857900319"/>
+    <published>2024-06-05T13:52:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7377453624038903082</id>
+    <title>Using logpoints in #vscode #techtok #coding </title>
+    <updated>2024-06-06T18:08:03+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oUDcDwfsAQgfMFAINKoEACkgEwQHeIiAjyDAJB.image.jpg" / &gt;Using logpoints in #vscode #techtok #coding </content>
+    <link href="https://tiktok.com/@vscode/video/7377453624038903082"/>
+    <published>2024-06-06T18:08:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7379416600711236910</id>
+    <title>Terminal Text Effects #techtok #programming #learnontiktok #codetok </title>
+    <updated>2024-06-12T01:05:22+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_f009e2df5fc34a4a9d0a7cd9e6a4ca65_1718154323.jpg" / &gt;Terminal Text Effects #techtok #programming #learnontiktok #codetok </content>
+    <link href="https://tiktok.com/@vscode/video/7379416600711236910"/>
+    <published>2024-06-12T01:05:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7379599157637434654</id>
+    <title>Some more #vscode shortcuts.</title>
+    <updated>2024-06-12T12:58:23+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oApFkA5BKIuA2Kuf9BEAzIBzAv1iii1MBA12mN.jpg" / &gt;Some more #vscode shortcuts.</content>
+    <link href="https://tiktok.com/@vscode/video/7379599157637434654"/>
+    <published>2024-06-12T12:58:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7380048984959749422</id>
+    <title>VS Code release highlights #techtok #coding #releasenotes </title>
+    <updated>2024-06-13T17:59:21+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_o8ggbPM4ApNEzeSmRq4CDYX83EInEAFrABAafD.image.jpg" / &gt;VS Code release highlights #techtok #coding #releasenotes </content>
+    <link href="https://tiktok.com/@vscode/video/7380048984959749422"/>
+    <published>2024-06-13T17:59:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7381636243634916650</id>
+    <title>I am obsessed… #programming #terminal #obsessed #techtok #codetok </title>
+    <updated>2024-06-18T00:38:46+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oQDhcmCcEmfNAFAD0ASIAgDriUAcCUD1EQifRE.image.jpg" / &gt;I am obsessed… #programming #terminal #obsessed #techtok #codetok </content>
+    <link href="https://tiktok.com/@vscode/video/7381636243634916650"/>
+    <published>2024-06-18T00:38:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7382668665755340075</id>
+    <title>A must-have extension for regular expressions #programming #codetok #techtok #learnwithtiktok</title>
+    <updated>2024-06-20T19:25:05+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_7dd73d9829f54772b7419c5183843963_1718911507.jpg" / &gt;A must-have extension for regular expressions #programming #codetok #techtok #learnwithtiktok</content>
+    <link href="https://tiktok.com/@vscode/video/7382668665755340075"/>
+    <published>2024-06-20T19:25:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7383100909926190382</id>
+    <title>Share and ask your fellow devs if they knew... #productivity #thingsyoudidntknow  #vscode</title>
+    <updated>2024-06-21T23:22:25+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oALR5dEBkAWsA2SzEtswCBgEDfAUFDAegCAmgI.image.jpg" / &gt;Share and ask your fellow devs if they knew... #productivity #thingsyoudidntknow  #vscode</content>
+    <link href="https://tiktok.com/@vscode/video/7383100909926190382"/>
+    <published>2024-06-21T23:22:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7384120534755216682</id>
+    <title>Why doesn't this SQL statement work??? #sql #programming #techtok #codetok</title>
+    <updated>2024-06-24T17:19:05+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_ogAAaIAH52MAn8cqxvEZEFeIjHoDJAqkNEfBfZ.image.jpg" / &gt;Why doesn't this SQL statement work??? #sql #programming #techtok #codetok</content>
+    <link href="https://tiktok.com/@vscode/video/7384120534755216682"/>
+    <published>2024-06-24T17:19:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7385189903358922030</id>
+    <title>Can you answer the interview questions mentioned? #javascript #githubcopilot </title>
+    <updated>2024-06-27T14:28:50+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oYhXkpAemEAK9AvMAUANQ7I6fcIDXEHkGDnjfF.image.jpg" / &gt;Can you answer the interview questions mentioned? #javascript #githubcopilot </content>
+    <link href="https://tiktok.com/@vscode/video/7385189903358922030"/>
+    <published>2024-06-27T14:28:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7387238513034399007</id>
+    <title>Paste as HTML #programming #codetok #techtok #learnontiktok </title>
+    <updated>2024-07-03T02:58:27+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_o4EAEzkCXBlA7AIM62IACiii8vByCQAFwfuolK.image.jpg" / &gt;Paste as HTML #programming #codetok #techtok #learnontiktok </content>
+    <link href="https://tiktok.com/@vscode/video/7387238513034399007"/>
+    <published>2024-07-03T02:58:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7387893613188893995</id>
+    <title>#alwaysbelearning #githubcopilot </title>
+    <updated>2024-07-04T21:20:32+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_o44AqnJfA4QIizkNjvKEHibNDEQeIAFOAEADfD.image.jpg" / &gt;#alwaysbelearning #githubcopilot </content>
+    <link href="https://tiktok.com/@vscode/video/7387893613188893995"/>
+    <published>2024-07-04T21:20:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7389811786045771038</id>
+    <title>If each decade had a theme… #programming #codetok #techtok #vscode #softwareengineer </title>
+    <updated>2024-07-10T01:24:11+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oIfN6pj6IYDGjN9Eq4FK2EvrIpVeIACmeuBqDA.jpg" / &gt;If each decade had a theme… #programming #codetok #techtok #vscode #softwareengineer </content>
+    <link href="https://tiktok.com/@vscode/video/7389811786045771038"/>
+    <published>2024-07-10T01:24:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7390536282876775723</id>
+    <title>#coding #programming  #techtok #vscode #vscodetips </title>
+    <updated>2024-07-12T00:15:25+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_ogEEQFm9HCABDpDtIf89ASAgERdfQkgbnCWARZ.image.jpg" / &gt;#coding #programming  #techtok #vscode #vscodetips </content>
+    <link href="https://tiktok.com/@vscode/video/7390536282876775723"/>
+    <published>2024-07-12T00:15:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7390751913811266858</id>
+    <title>View git graphs directly in VS Code! #vscode #programming #git #codetok </title>
+    <updated>2024-07-12T14:12:15+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_o8ERIAHAjOHIA7DNZFCXfpnPeN9IeEAAkDnbEG.image.jpg" / &gt;View git graphs directly in VS Code! #vscode #programming #git #codetok </content>
+    <link href="https://tiktok.com/@vscode/video/7390751913811266858"/>
+    <published>2024-07-12T14:12:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7392000731345161503</id>
+    <title>How to be a professional wrapper #programming #vscode #professional #techtok #codetok </title>
+    <updated>2024-07-15T22:58:29+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_owEAIVXfaZxEC0ERUqlmfAFmcA5DQCAEAksRVC.image.jpg" / &gt;How to be a professional wrapper #programming #vscode #professional #techtok #codetok </content>
+    <link href="https://tiktok.com/@vscode/video/7392000731345161503"/>
+    <published>2024-07-15T22:58:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7393044276168461598</id>
+    <title>This IS the VS Code feature you’re looking for #programming #techtok #vscode #codetok #learnwithtiktok </title>
+    <updated>2024-07-18T18:27:46+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_okEE6UDMFAdhmvyOARmQAC6EMqVIQVAfAmVHfE.image.jpg" / &gt;This IS the VS Code feature you’re looking for #programming #techtok #vscode #codetok #learnwithtiktok </content>
+    <link href="https://tiktok.com/@vscode/video/7393044276168461598"/>
+    <published>2024-07-18T18:27:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7393350316936138030</id>
+    <title>Okay but why does this c# code look like javascript?? #vscode #programming</title>
+    <updated>2024-07-19T14:15:25+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oIADSTmeAdRvE8FEFnACREIDagYSmAJCozfHPx.image.jpg" / &gt;Okay but why does this c# code look like javascript?? #vscode #programming</content>
+    <link href="https://tiktok.com/@vscode/video/7393350316936138030"/>
+    <published>2024-07-19T14:15:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7394579156861717790</id>
+    <title>How to be a professional (un)wrapper #programming #techtok #vscode #codetok #learnwithtiktok </title>
+    <updated>2024-07-22T21:43:58+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oYG8AIMAUQ0P7LmIfq2eEmap8DA0EjAYeNIaAI.image.jpg" / &gt;How to be a professional (un)wrapper #programming #techtok #vscode #codetok #learnwithtiktok </content>
+    <link href="https://tiktok.com/@vscode/video/7394579156861717790"/>
+    <published>2024-07-22T21:43:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7395035694592167199</id>
+    <title>4 AI prompts every developer should know #programming #ai #prompts #techtok #codetok </title>
+    <updated>2024-07-24T03:15:31+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_o00vlCNdpBTqgCxkiIAAh3ZcBEEAOR8JIiAAB.image.jpg" / &gt;4 AI prompts every developer should know #programming #ai #prompts #techtok #codetok </content>
+    <link href="https://tiktok.com/@vscode/video/7395035694592167199"/>
+    <published>2024-07-24T03:15:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7395308844869553439</id>
+    <title>It tracks the changes</title>
+    <updated>2024-07-24T21:12:52+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_owMNEdwzvAVqArIiAEF1QbqDffHejitEIECGhI.jpg" / &gt;It tracks the changes</content>
+    <link href="https://tiktok.com/@vscode/video/7395308844869553439"/>
+    <published>2024-07-24T21:12:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7395591977204452650</id>
+    <title>Function impossible: mission debuggable #missionimpossible #codetok </title>
+    <updated>2024-07-25T15:14:06+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_o0eOEt7AHAEIAfAAyLG2kNQ3RIAdN1jfNLoIFo.image.jpg" / &gt;Function impossible: mission debuggable #missionimpossible #codetok </content>
+    <link href="https://tiktok.com/@vscode/video/7395591977204452650"/>
+    <published>2024-07-25T15:14:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7395952846430162219</id>
+    <title>How angry did this make you #vscode #programming </title>
+    <updated>2024-07-26T14:34:35+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oUFOGsEpaQIARAOnzJjLeKfIgSGAxQA71AeufX.image.jpg" / &gt;How angry did this make you #vscode #programming </content>
+    <link href="https://tiktok.com/@vscode/video/7395952846430162219"/>
+    <published>2024-07-26T14:34:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7397254904714169630</id>
+    <title>The one VS Code tip I ALWAYS forget about #programming #techtok #codetok #vscode</title>
+    <updated>2024-07-30T02:47:13+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oEZpBFBgVoAmRH52WIvBDt8SyqRVEACiEiZhi.jpg" / &gt;The one VS Code tip I ALWAYS forget about #programming #techtok #codetok #vscode</content>
+    <link href="https://tiktok.com/@vscode/video/7397254904714169630"/>
+    <published>2024-07-30T02:47:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7398277426167500078</id>
+    <title>#typescript #codetok #challenge </title>
+    <updated>2024-08-01T20:55:00+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oYILiRJ9EjGICxAHYeeerIesaiA9IGOGrAIAAO.image.jpg" / &gt;#typescript #codetok #challenge </content>
+    <link href="https://tiktok.com/@vscode/video/7398277426167500078"/>
+    <published>2024-08-01T20:55:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7398536670540270890</id>
+    <title>The easiest way to switch up your VS Code setup #vscode #programming </title>
+    <updated>2024-08-02T13:41:07+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_oARF2DyLAsAQxAfm4OSFEHvrIC5fWAKZkgDwEk.image.jpg" / &gt;The easiest way to switch up your VS Code setup #vscode #programming </content>
+    <link href="https://tiktok.com/@vscode/video/7398536670540270890"/>
+    <published>2024-08-02T13:41:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7399842967382396191</id>
+    <title>Use this prompt to learn anything with AI #prompts #ai #learnwithtiktok #learn </title>
+    <updated>2024-08-06T02:10:13+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_owehIUCNIAfQQSjWwIsgeAMAxRyGYL6pwquh1I.jpg" / &gt;Use this prompt to learn anything with AI #prompts #ai #learnwithtiktok #learn </content>
+    <link href="https://tiktok.com/@vscode/video/7399842967382396191"/>
+    <published>2024-08-06T02:10:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7400456158240197919</id>
+    <title>You gotta CSV this to believe it</title>
+    <updated>2024-08-07T17:58:05+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_ooVBsjeAi7QDZDmaBoOVYAfWCKEFztEmAEiIRy.jpg" / &gt;You gotta CSV this to believe it</content>
+    <link href="https://tiktok.com/@vscode/video/7400456158240197919"/>
+    <published>2024-08-07T17:58:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7400900653498797355</id>
+    <title>#vscode #musthaves #techtok </title>
+    <updated>2024-08-08T22:34:28+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_ocgGfIaARfJecnQVMOQwP1WLrAAJUA8lQHRADe.image.jpg" / &gt;#vscode #musthaves #techtok </content>
+    <link href="https://tiktok.com/@vscode/video/7400900653498797355"/>
+    <published>2024-08-08T22:34:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/6995256325295082757</id>
+    <title>Have you tried github.dev yet? #programming #codetok #learnontiktok #github #developer</title>
+    <updated>2021-08-11T19:27:14+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_6d8802dbfc7443c6b469040c6f789780.image.jpg" / &gt;Have you tried github.dev yet? #programming #codetok #learnontiktok #github #developer</content>
+    <link href="https://tiktok.com/@vscode/video/6995256325295082757"/>
+    <published>2021-08-11T19:27:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7021712937312095493</id>
+    <title>The point of this video… #programming #vscode #techtok #learnontiktok #future</title>
+    <updated>2021-10-22T02:32:24+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_9e367e75a822480b9bd2249fffe2c5dd.image.jpg" / &gt;The point of this video… #programming #vscode #techtok #learnontiktok #future</content>
+    <link href="https://tiktok.com/@vscode/video/7021712937312095493"/>
+    <published>2021-10-22T02:32:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@vscode/video/7039861668880452911</id>
+    <title>Programming HORROR 💀 #programming #edutok #techtok #vscode #horror</title>
+    <updated>2021-12-10T00:18:45+00:00</updated>
+    <content>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/vscode/screenshot_d0f92f2bb84c455b92765df3fc9a2bfd.image.jpg" / &gt;Programming HORROR 💀 #programming #edutok #techtok #vscode #horror</content>
+    <link href="https://tiktok.com/@vscode/video/7039861668880452911"/>
+    <published>2021-12-10T00:18:45+00:00</published>
+  </entry>
+</feed>
