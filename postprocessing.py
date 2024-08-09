@@ -12,11 +12,8 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 
-# Normal GitHub Pages URL
-# ghPagesURL = "https://conoro.github.io/tiktok-rss-flat/"
-
-# Custom Domain
-ghPagesURL = config.ghPagesURL
+# Edit config.py to change your URLs
+ghRawURL = config.ghRawURL
 
 api = TikTokApi()
 
@@ -47,9 +44,9 @@ async def user_videos():
             fg.title(user + ' TikTok')
             fg.author( {'name':'Conor ONeill','email':'conor@conoroneill.com'} )
             fg.link( href='http://tiktok.com', rel='alternate' )
-            fg.logo(ghPagesURL + 'tiktok-rss.png')
+            fg.logo(ghRawURL + 'tiktok-rss.png')
             fg.subtitle('OK Boomer, all the latest TikToks from ' + user)
-            fg.link( href=ghPagesURL + 'rss/' + user + '.xml', rel='self' )
+            fg.link( href=ghRawURL + 'rss/' + user + '.xml', rel='self' )
             fg.language('en')
 
             # Set the last modification time for the feed to be the most recent post, else now.
@@ -90,8 +87,7 @@ async def user_videos():
                             if not os.path.isfile(screenshotpath):
                                 async with async_playwright() as playwright:
                                     await runscreenshot(playwright, videourl, screenshotpath)
-                                # RAW URL of that is something like: https://conoro.github.io/tiktok-rss-flat/thumbnails/iamtabithabrown/screenshot_786542134.jpg
-                            screenshoturl =  ghPagesURL + screenshotsubpath
+                            screenshoturl =  ghRawURL + screenshotsubpath
                             description = '<img src="' + screenshoturl + '" / >' + description    
                         fe.description(description)
                     fg.updated(updated)
