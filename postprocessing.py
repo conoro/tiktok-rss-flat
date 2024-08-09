@@ -88,7 +88,8 @@ async def user_videos():
                                 async with async_playwright() as playwright:
                                     await runscreenshot(playwright, videourl, screenshotpath)
                             screenshoturl =  ghRawURL + screenshotsubpath
-                            description = '<img src="' + screenshoturl + '" / >' + description    
+                            #description = '<img src="' + screenshoturl + '" / >' + description    
+                            description = screenshoturl + ' ' + description    
                         fe.description(description)
                     fg.updated(updated)
                     fg.atom_file('rss/' + user + '.xml', pretty=True) # Write the RSS feed to a file
