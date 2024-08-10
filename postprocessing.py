@@ -88,14 +88,14 @@ async def user_videos():
                                 async with async_playwright() as playwright:
                                     await runscreenshot(playwright, videourl, screenshotpath)
                             screenshoturl =  ghRawURL + screenshotsubpath
-                            #content = '<img src="' + screenshoturl + '" / >' + content    
+                            content = '<img src="' + screenshoturl + '" / > ' + content    
                             #content = screenshoturl + ' ' + content    
                             #content = '<media:content url="' + screenshoturl + '" type="image/jpeg" medium="image"> ' + content 
-                            content = '<![CDATA[<img src="' + screenshoturl + '" />]]> ' + content
+                            #content = '<![CDATA[<img src="' + screenshoturl + '" />]]> ' + content
 
                         fe.content(content)
                     fg.updated(updated)
-                    fg.atom_file('rss/' + user + '.xml', pretty=True) # Write the RSS feed to a file
+                    fg.rss_file('rss/' + user + '.xml', pretty=True) # Write the RSS feed to a file
                         #print(video)
                         #print(video.as_dict)
                 except Exception as e:
