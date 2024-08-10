@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thetastyk</id>
   <title>thetastyk TikTok</title>
-  <updated>2024-08-05T16:10:53+00:00</updated>
+  <updated>2024-08-10T01:48:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thetastyk</subtitle>
-  <entry>
-    <id>https://tiktok.com/@thetastyk/video/7340841095732956449</id>
-    <title>Starting my days with a #plantbased breaky 🌱 that’s both high in protein AND fiber has been a game-changer in terms of overall energy, reduced cravings throughout the day and healthy digestion! 🙌🏼 I usually go through phases of alternating between sweet &amp;</title>
-    <updated>2024-02-29T02:13:34+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/thetastyk/screenshot_osIt1jILzvf6hFQW0IGDEgAIeXGfANmAMQAEEe.image.jpg" /&gt;]]&gt; Starting my days with a #plantbased breaky 🌱 that’s both high in protein AND fiber has been a game-changer in terms of overall energy, reduced cravings throughout the day and healthy digestion! 🙌🏼 I usually go through phases of alternating between sweet &amp;</content>
-    <link href="https://tiktok.com/@thetastyk/video/7340841095732956449"/>
-    <published>2024-02-29T02:13:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7341070283425484065</id>
     <title>Restaurant-style salad at home? No problem! #ad 😍 This @California Pizza Kitchen Copycat Thai Crunch Salad is a keeper — it’s perfectly crunchy, full of protein &amp; takes only 20 mins to make! @The Feedfeed  • INGREDIENTS • (serves: 2-3) Marinated tempeh (o</title>
@@ -267,6 +259,14 @@
     <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/thetastyk/screenshot_17bbb42917d5476198ed34c4a5c1e0da_1722874257.jpg" /&gt;]]&gt; 1 hour weekly #plantbased meal prep inspo by yours truly! On this week’s menu: 🍵 MATCHA PROTEIN CHIA PUDDING 🍁 ALMOND MAPLE GRANOLA 🧅 PICKLED RED ONIONS 💪🏼 MARINATED TEMPEH ❤️ BALSAMIC ROASTED BEETROOT 🍠 ROASTED SWEET POTATOES 🌿 QUINOA  I get a lot of que</content>
     <link href="https://tiktok.com/@thetastyk/video/7399688530244422944"/>
     <published>2024-08-05T16:10:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@thetastyk/video/7401321732449013025</id>
+    <title>No Title</title>
+    <updated>2024-08-10T01:48:57+00:00</updated>
+    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/thetastyk/screenshot_oAxPeL4IIICEgobfY2e4BARAjAShNGexGAhwIo.image.jpg" /&gt;]]&gt; No Description</content>
+    <link href="https://tiktok.com/@thetastyk/video/7401321732449013025"/>
+    <published>2024-08-10T01:48:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@thetastyk/video/7109852542753983746</id>

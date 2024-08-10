@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mrs.space.cadet</id>
   <title>mrs.space.cadet TikTok</title>
-  <updated>2024-08-07T23:59:59+00:00</updated>
+  <updated>2024-08-10T01:52:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from mrs.space.cadet</subtitle>
-  <entry>
-    <id>https://tiktok.com/@mrs.space.cadet/video/7380131641110334763</id>
-    <title>Today’s lesson is we should add the word “ULTIMATE” to more things! What’s something you would add it to? Also, we should all be more like Kara Winger and believe in ourselves enough to take chances 👏👏👏  #sportsnews #tryingnewthings #learnwithme </title>
-    <updated>2024-06-13T23:20:06+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/mrs.space.cadet/screenshot_49eb3659845047329ae003539564fb6d_1718320827.jpg" /&gt;]]&gt; Today’s lesson is we should add the word “ULTIMATE” to more things! What’s something you would add it to? Also, we should all be more like Kara Winger and believe in ourselves enough to take chances 👏👏👏  #sportsnews #tryingnewthings #learnwithme </content>
-    <link href="https://tiktok.com/@mrs.space.cadet/video/7380131641110334763"/>
-    <published>2024-06-13T23:20:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@mrs.space.cadet/video/7381627702811528494</id>
     <title>I forgot about these kind of important details after not running longer than 30 minutes the last year or so! I definitely notice the effects of the heat and humidity a lot more if I don’t have my fuel and hydration dialed in. What are you all using?! What</title>
@@ -291,5 +283,13 @@
     <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/mrs.space.cadet/screenshot_8d14a88b100a48e49c4c3bc533ef3360_1723075201.jpg" /&gt;]]&gt; #ad If there’s an adventure to win, I’m entering the sweepstakes! Especially this one from @CLIF BAR where all I have to do is buy Clif Bar multipacks, something I ALREADY DO! Here’s how to enter: * Go to clifbar.com or to your local store and buy your fa</content>
     <link href="https://tiktok.com/@mrs.space.cadet/video/7400551598780468522"/>
     <published>2024-08-07T23:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@mrs.space.cadet/video/7401322728088669483</id>
+    <title>Things are heating up in Paris in more ways than one! Thanks to Grace Payne for making us feel like we’re there for all the excitement! The Olympics is also a time when athletes are not having the day they wanted, so make sure to drop some hearts in their</title>
+    <updated>2024-08-10T01:52:21+00:00</updated>
+    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/mrs.space.cadet/screenshot_f22745b6017e4204b0d1ecbe87a46fd0_1723254742.jpg" /&gt;]]&gt; Things are heating up in Paris in more ways than one! Thanks to Grace Payne for making us feel like we’re there for all the excitement! The Olympics is also a time when athletes are not having the day they wanted, so make sure to drop some hearts in their</content>
+    <link href="https://tiktok.com/@mrs.space.cadet/video/7401322728088669483"/>
+    <published>2024-08-10T01:52:21+00:00</published>
   </entry>
 </feed>
