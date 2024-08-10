@@ -1,287 +1,256 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://www.tiktok.com/@scottseiss</id>
-  <title>scottseiss TikTok</title>
-  <updated>2024-07-30T22:56:02+00:00</updated>
-  <author>
-    <name>Conor ONeill</name>
-    <email>conor@conoroneill.com</email>
-  </author>
-  <link href="http://tiktok.com" rel="alternate"/>
-  <link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/scottseiss.xml" rel="self"/>
-  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <logo>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from scottseiss</subtitle>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7165299130686852398</id>
-    <title>Tour schedule and tickets for NYC, NJ, and MA in my bio! #fyp #work #boss #ceo </title>
-    <updated>2022-11-13T01:00:16+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_9027361403304c1b9318335eecdde838.image.jpg" /&gt;]]&gt; Tour schedule and tickets for NYC, NJ, and MA in my bio! #fyp #work #boss #ceo </content>
-    <link href="https://tiktok.com/@scottseiss/video/7165299130686852398"/>
-    <published>2022-11-13T01:00:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7167139211882089774</id>
-    <title>Tickets available for shows in NYC, NJ &amp; MA in my bio #fyp #bgcdramaeffect #retail #work </title>
-    <updated>2022-11-18T00:00:45+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_4fced8d1b7a1416da258df0bb9582370.image.jpg" /&gt;]]&gt; Tickets available for shows in NYC, NJ &amp; MA in my bio #fyp #bgcdramaeffect #retail #work </content>
-    <link href="https://tiktok.com/@scottseiss/video/7167139211882089774"/>
-    <published>2022-11-18T00:00:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7169628855727164714</id>
-    <title>Resposted with sound! 2023 tour dates announced in IL, MI, OH, IN, WI and MO 😁 Link in bio for dates #bgcdramaeffect #fyp #work #retail #blackfriday #thanksgiving </title>
-    <updated>2022-11-24T17:01:55+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_f4adc0f422ca4850a850bf6c97e1e31e.image.jpg" /&gt;]]&gt; Resposted with sound! 2023 tour dates announced in IL, MI, OH, IN, WI and MO 😁 Link in bio for dates #bgcdramaeffect #fyp #work #retail #blackfriday #thanksgiving </content>
-    <link href="https://tiktok.com/@scottseiss/video/7169628855727164714"/>
-    <published>2022-11-24T17:01:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7174932142320028974</id>
-    <title>December shows in NJ &amp; MA! Plus more for 2023 in my bio 😁 #retail #bgcdramaeffect #NJ #MA </title>
-    <updated>2022-12-09T00:01:19+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_ae8ed66ee71d4fae8b1439612ad1dc3c.image.jpg" /&gt;]]&gt; December shows in NJ &amp; MA! Plus more for 2023 in my bio 😁 #retail #bgcdramaeffect #NJ #MA </content>
-    <link href="https://tiktok.com/@scottseiss/video/7174932142320028974"/>
-    <published>2022-12-09T00:01:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7187920048529460523</id>
-    <title>Going to the Midwest and MA for the first batch of 2023 shows 😁 Link in bio for 🎟 #midwest #massachusetts #work #retail #comedy </title>
-    <updated>2023-01-13T00:01:00+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_8870e28d5e1b45a7884cb0c412f23568.image.jpg" /&gt;]]&gt; Going to the Midwest and MA for the first batch of 2023 shows 😁 Link in bio for 🎟 #midwest #massachusetts #work #retail #comedy </content>
-    <link href="https://tiktok.com/@scottseiss/video/7187920048529460523"/>
-    <published>2023-01-13T00:01:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7188680501165641003</id>
-    <title>#fyp #bgcdramaeffect #work #rageapply #quietquitting </title>
-    <updated>2023-01-15T01:11:58+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_81eecb8ddffa4ab995a00b0f52627d8a.image.jpg" /&gt;]]&gt; #fyp #bgcdramaeffect #work #rageapply #quietquitting </content>
-    <link href="https://tiktok.com/@scottseiss/video/7188680501165641003"/>
-    <published>2023-01-15T01:11:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7193872751134870827</id>
-    <title>Chicago late show added! Link in bio for 🎟 #work  #comedу #chicago #illinois  </title>
-    <updated>2023-01-29T01:00:33+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_6a8bccdf9c834cb3b2974ee0d4fbb692.image.jpg" /&gt;]]&gt; Chicago late show added! Link in bio for 🎟 #work  #comedу #chicago #illinois  </content>
-    <link href="https://tiktok.com/@scottseiss/video/7193872751134870827"/>
-    <published>2023-01-29T01:00:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7201665623133261099</id>
-    <title>We had the best drool technicians in the biz #movie #behindthescenes #comedу #cocainebear </title>
-    <updated>2023-02-19T01:00:51+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_6c11ad4cee4c4f0da8541a4ff4fe8db0.image.jpg" /&gt;]]&gt; We had the best drool technicians in the biz #movie #behindthescenes #comedу #cocainebear </content>
-    <link href="https://tiktok.com/@scottseiss/video/7201665623133261099"/>
-    <published>2023-02-19T01:00:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7202432596876315950</id>
-    <title>Patiently awaiting the Cocaine Bear/Fast and Furious crossover #movie #behindthescenes #comedу #cocainebear #makingof </title>
-    <updated>2023-02-21T02:37:08+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_2f56c515992044efba49c887d2358d3b.image.jpg" /&gt;]]&gt; Patiently awaiting the Cocaine Bear/Fast and Furious crossover #movie #behindthescenes #comedу #cocainebear #makingof </content>
-    <link href="https://tiktok.com/@scottseiss/video/7202432596876315950"/>
-    <published>2023-02-21T02:37:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7203504823625420078</id>
-    <title>#movie #comedу #bgcdramaeffect #cocainebear #fyp </title>
-    <updated>2023-02-23T23:57:51+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_abeed611790946c39f974b623572a25e.jpg" /&gt;]]&gt; #movie #comedу #bgcdramaeffect #cocainebear #fyp </content>
-    <link href="https://tiktok.com/@scottseiss/video/7203504823625420078"/>
-    <published>2023-02-23T23:57:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7204263120179727662</id>
-    <title>In theatres now! #movie  #comedу #cocainebear  #fyp </title>
-    <updated>2023-02-26T01:00:32+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_037f4fb0bd9f48bdbd24045bc854ec8f.image.jpg" /&gt;]]&gt; In theatres now! #movie  #comedу #cocainebear  #fyp </content>
-    <link href="https://tiktok.com/@scottseiss/video/7204263120179727662"/>
-    <published>2023-02-26T01:00:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7212040519864552747</id>
-    <title>“You should tip your landlord” New tour dates in TX, CA, NC, MO, MA, NY &amp; more! Link in bio for full schedule #rent #landlord  #comedу #fyp #bgcdramaeffect </title>
-    <updated>2023-03-19T00:00:47+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_c40d8d62094b4813b8630839ef8dc5be.image.jpg" /&gt;]]&gt; “You should tip your landlord” New tour dates in TX, CA, NC, MO, MA, NY &amp; more! Link in bio for full schedule #rent #landlord  #comedу #fyp #bgcdramaeffect </content>
-    <link href="https://tiktok.com/@scottseiss/video/7212040519864552747"/>
-    <published>2023-03-19T00:00:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7214638168333618475</id>
-    <title>Texas! California! Added late shows for MO! And more! Link in bio for full schedule  and tickets #fyp #comedу #work #standup #tour </title>
-    <updated>2023-03-26T00:00:59+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_044f77f0fbfc4343976a3a48cdaa0348.image.jpg" /&gt;]]&gt; Texas! California! Added late shows for MO! And more! Link in bio for full schedule  and tickets #fyp #comedу #work #standup #tour </content>
-    <link href="https://tiktok.com/@scottseiss/video/7214638168333618475"/>
-    <published>2023-03-26T00:00:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7235418925230476590</id>
-    <title>“You’re taking time off? What’s the reason?” Come see me in NC, TX, NY, CA &amp; MI! Link in bio for tickets 😁 #fyp #comedу #work #retail #bgcdramaeffect </title>
-    <updated>2023-05-21T00:00:54+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_6f736be4b24449c2bee3ceab2f13df12.image.jpg" /&gt;]]&gt; “You’re taking time off? What’s the reason?” Come see me in NC, TX, NY, CA &amp; MI! Link in bio for tickets 😁 #fyp #comedу #work #retail #bgcdramaeffect </content>
-    <link href="https://tiktok.com/@scottseiss/video/7235418925230476590"/>
-    <published>2023-05-21T00:00:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7238016401326296363</id>
-    <title>I’m in North Carolina next week! Just added shows in Timonium, MD and Royal Oak, MI too 😁 Link in my bio for tickets! #comedу #northcarolina #standup #tour #texas #california #rochesterny </title>
-    <updated>2023-05-28T00:00:30+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_b003c8ae9ca743b48063713849b8b1d0.image.jpg" /&gt;]]&gt; I’m in North Carolina next week! Just added shows in Timonium, MD and Royal Oak, MI too 😁 Link in my bio for tickets! #comedу #northcarolina #standup #tour #texas #california #rochesterny </content>
-    <link href="https://tiktok.com/@scottseiss/video/7238016401326296363"/>
-    <published>2023-05-28T00:00:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7260637123064237355</id>
-    <title>“Let’s replace all of our employees with A.I.” #bgcdramaeffect  #fyp #work #AI </title>
-    <updated>2023-07-27T23:00:27+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_15b071ee71ea4fcca5571e192379ad86.image.jpg" /&gt;]]&gt; “Let’s replace all of our employees with A.I.” #bgcdramaeffect  #fyp #work #AI </content>
-    <link href="https://tiktok.com/@scottseiss/video/7260637123064237355"/>
-    <published>2023-07-27T23:00:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7263977268052053290</id>
-    <title>H&amp;M purse pooper 👜👀 Come see me in MD, MI, &amp; Buffalo, NY! Link in bio for tickets 🎟️ #work #comedу #retail #standup </title>
-    <updated>2023-08-05T23:01:56+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_5d7207572eed4eecbe77e97348cdc7f7.image.jpg" /&gt;]]&gt; H&amp;M purse pooper 👜👀 Come see me in MD, MI, &amp; Buffalo, NY! Link in bio for tickets 🎟️ #work #comedу #retail #standup </content>
-    <link href="https://tiktok.com/@scottseiss/video/7263977268052053290"/>
-    <published>2023-08-05T23:01:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7269172155357646126</id>
-    <title>Come see me in MI, MD, &amp; Buffalo, NY! Link in bio for tickets #standup #comedу #work #michigan #maryland #buffalony </title>
-    <updated>2023-08-19T23:00:41+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_o4TczNGMChOJIZSlSAywfBChEWIKAASuDBiAFg.image.jpg" /&gt;]]&gt; Come see me in MI, MD, &amp; Buffalo, NY! Link in bio for tickets #standup #comedу #work #michigan #maryland #buffalony </content>
-    <link href="https://tiktok.com/@scottseiss/video/7269172155357646126"/>
-    <published>2023-08-19T23:00:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7275851629080071470</id>
-    <title>Philly this weekend! MD the next. Link in bio for tickets and shout out to that one Enterprise employee! #comedу #standup #philadelphia #pennsylvania #maryland #timonium #baltimore </title>
-    <updated>2023-09-06T23:00:31+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oINkaJRDECzfi51h6BfJHEAIDMArIgCJIGAS6A.image.jpg" /&gt;]]&gt; Philly this weekend! MD the next. Link in bio for tickets and shout out to that one Enterprise employee! #comedу #standup #philadelphia #pennsylvania #maryland #timonium #baltimore </content>
-    <link href="https://tiktok.com/@scottseiss/video/7275851629080071470"/>
-    <published>2023-09-06T23:00:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7328190020089629994</id>
-    <title>“What are your salary expectations?” Shows in MA and Chicago, lots more coming soon! Go Ravens 😁 #work #comedу #bgcdramaeffect #fyp </title>
-    <updated>2024-01-26T00:00:12+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_o4BPb8OZA2A9DRZ0BwEbAggC6ItkipVA4yELi.image.jpg" /&gt;]]&gt; “What are your salary expectations?” Shows in MA and Chicago, lots more coming soon! Go Ravens 😁 #work #comedу #bgcdramaeffect #fyp </content>
-    <link href="https://tiktok.com/@scottseiss/video/7328190020089629994"/>
-    <published>2024-01-26T00:00:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7332968489742978350</id>
-    <title>#EpicPartner #Ad I did stand up in Fortnite! This is not a bit. Short, family friendly sets at JokeNite produced by Trevor Noah. Check it out ising the island code: 6296-7829-6524 #fortnite #comedy </title>
-    <updated>2024-02-07T21:03:28+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_16d7bbae6f2843a298c9cb0405ffc6a0_1707339811.jpg" /&gt;]]&gt; #EpicPartner #Ad I did stand up in Fortnite! This is not a bit. Short, family friendly sets at JokeNite produced by Trevor Noah. Check it out ising the island code: 6296-7829-6524 #fortnite #comedy </content>
-    <link href="https://tiktok.com/@scottseiss/video/7332968489742978350"/>
-    <published>2024-02-07T21:03:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7333694598507793710</id>
-    <title>Beverly, MA! Feb 16 &amp; 17 😁🥶 Ticket link in my bio #standup #massachusetts #comedy #standupcomedy #boston #beverlyma </title>
-    <updated>2024-02-09T20:01:14+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_owDiIhHIENyCJ34BBGnBfBnIJEAiAA0wAhMyIM.image.jpg" /&gt;]]&gt; Beverly, MA! Feb 16 &amp; 17 😁🥶 Ticket link in my bio #standup #massachusetts #comedy #standupcomedy #boston #beverlyma </content>
-    <link href="https://tiktok.com/@scottseiss/video/7333694598507793710"/>
-    <published>2024-02-09T20:01:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7338472212275432750</id>
-    <title>I wrote a book! 😁 Preorder the physical copy or audiobook (read by me) now #comedy #book #work #books #booktok #fyp </title>
-    <updated>2024-02-22T17:00:20+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_o43ET1AGGFTcACSAnlwjRcgA2EI8fDqDQufaMl.image.jpg" /&gt;]]&gt; I wrote a book! 😁 Preorder the physical copy or audiobook (read by me) now #comedy #book #work #books #booktok #fyp </content>
-    <link href="https://tiktok.com/@scottseiss/video/7338472212275432750"/>
-    <published>2024-02-22T17:00:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7352310530645708074</id>
-    <title>Chicago! I’m doing 2 shows on April 13 at The Den Theatre 😁 Come on out! #Chicago #comedy #standup </title>
-    <updated>2024-03-31T00:00:19+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_owDeAE9AeIpESFcIukIfAP25R5AlEjACIMEUAH.image.jpg" /&gt;]]&gt; Chicago! I’m doing 2 shows on April 13 at The Den Theatre 😁 Come on out! #Chicago #comedy #standup </content>
-    <link href="https://tiktok.com/@scottseiss/video/7352310530645708074"/>
-    <published>2024-03-31T00:00:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7363796375760538926</id>
-    <title>NJ &amp; CT! Come see me next week at The Stress Factory 😁 Tickets and more dates in the link in my bio! #standup #comedy #Connecticut #newjersey #newbrunswick #bridgeportct #work </title>
-    <updated>2024-04-30T22:51:02+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_o0DpAEhAXIdMVFTEYSWfAoRd3lAeCRgbxmEXAD.image.jpg" /&gt;]]&gt; NJ &amp; CT! Come see me next week at The Stress Factory 😁 Tickets and more dates in the link in my bio! #standup #comedy #Connecticut #newjersey #newbrunswick #bridgeportct #work </content>
-    <link href="https://tiktok.com/@scottseiss/video/7363796375760538926"/>
-    <published>2024-04-30T22:51:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7369739661117459758</id>
-    <title>“Per my last email” Royal Oak, MI Come see me next month! Also, St. Louis, Indianapolis, Fort Worth, &amp; Austin 😁 #fyp #work #comedу </title>
-    <updated>2024-05-16T23:13:57+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oIcNE5SB4PAG6ikgAIkBaB6AZAEU3zTRDikRE.image.jpg" /&gt;]]&gt; “Per my last email” Royal Oak, MI Come see me next month! Also, St. Louis, Indianapolis, Fort Worth, &amp; Austin 😁 #fyp #work #comedу </content>
-    <link href="https://tiktok.com/@scottseiss/video/7369739661117459758"/>
-    <published>2024-05-16T23:13:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7370493479882886443</id>
-    <title>I met Mona Lisa… #comdey #standup #monalisa #art </title>
-    <updated>2024-05-18T23:59:09+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oEezJzZAHAEIAfA2WQGLkMIMkEAGHQjOoLmIBf.image.jpg" /&gt;]]&gt; I met Mona Lisa… #comdey #standup #monalisa #art </content>
-    <link href="https://tiktok.com/@scottseiss/video/7370493479882886443"/>
-    <published>2024-05-18T23:59:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7372333936602582314</id>
-    <title>“Why aren’t people having kids anymore?” #comdey #work #money </title>
-    <updated>2024-05-23T23:01:01+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_osBVhkoIXMAqKOAfA5WsHjMAJI9AHEenAv8mfQ.image.jpg" /&gt;]]&gt; “Why aren’t people having kids anymore?” #comdey #work #money </content>
-    <link href="https://tiktok.com/@scottseiss/video/7372333936602582314"/>
-    <published>2024-05-23T23:01:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7376786795868015915</id>
-    <title>Come see me in MI &amp; TX! 😁 Tickets in bio 🎟️ #comdey #work #standup #michigan #Texas #Michigan #royaloak #fortworth #dallas #austin </title>
-    <updated>2024-06-04T23:00:22+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oEAkfAkGMEOCWxzLIAAzdAQ0IHAfevrAPjgQFL.image.jpg" /&gt;]]&gt; Come see me in MI &amp; TX! 😁 Tickets in bio 🎟️ #comdey #work #standup #michigan #Texas #Michigan #royaloak #fortworth #dallas #austin </content>
-    <link href="https://tiktok.com/@scottseiss/video/7376786795868015915"/>
-    <published>2024-06-04T23:00:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7380435902461480238</id>
-    <title>Preorder my audiobook The Customer Is Always Wrong! Wherever audiobooks are sold (including Audible’s sitewide sale until 6/16) 😁 #comdey #work #booktok </title>
-    <updated>2024-06-14T19:00:49+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oYBRDEg9EQmAkIE2ICsASSFAibfckDfJnnABNg.image.jpg" /&gt;]]&gt; Preorder my audiobook The Customer Is Always Wrong! Wherever audiobooks are sold (including Audible’s sitewide sale until 6/16) 😁 #comdey #work #booktok </content>
-    <link href="https://tiktok.com/@scottseiss/video/7380435902461480238"/>
-    <published>2024-06-14T19:00:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7389405370730548510</id>
-    <title>I’m coming to Texas! Mainly to use the Buc-ee’s bathroom, but also to do stand up! #comdey #austintx #fortworth #texas #work #retail #standup </title>
-    <updated>2024-07-08T23:07:12+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oAuIAINIMCADrEWcAeqROfEYFIAjCAGx4ae7AE.image.jpg" /&gt;]]&gt; I’m coming to Texas! Mainly to use the Buc-ee’s bathroom, but also to do stand up! #comdey #austintx #fortworth #texas #work #retail #standup </content>
-    <link href="https://tiktok.com/@scottseiss/video/7389405370730548510"/>
-    <published>2024-07-08T23:07:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7397566400455298334</id>
-    <title>Oregon! Come see me do stand up this weekend 😁 #oregon #eugeneoregon #standup #show </title>
-    <updated>2024-07-30T22:56:02+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oMceIqi7BDAw3qAKAtF5IjNAFIKAJEfUQaf0SE.image.jpg" /&gt;]]&gt; Oregon! Come see me do stand up this weekend 😁 #oregon #eugeneoregon #standup #show </content>
-    <link href="https://tiktok.com/@scottseiss/video/7397566400455298334"/>
-    <published>2024-07-30T22:56:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7081294899366202666</id>
-    <title>I got fired from my old background #retail #fyp #work #bgcdramaeffect</title>
-    <updated>2022-03-31T16:00:51+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_c50b579340a84a1eb9278d0b1b9c0678.image.jpg" /&gt;]]&gt; I got fired from my old background #retail #fyp #work #bgcdramaeffect</content>
-    <link href="https://tiktok.com/@scottseiss/video/7081294899366202666"/>
-    <published>2022-03-31T16:00:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@scottseiss/video/7082160955270073646</id>
-    <title>Thank you for 1 MILLION followers 🔥 Reuploading some of the muted vids! #retail #work #fyp #bgcdramaeffect</title>
-    <updated>2022-04-03T00:01:34+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_242129b3157447feb04202133d56d500.image.jpg" /&gt;]]&gt; Thank you for 1 MILLION followers 🔥 Reuploading some of the muted vids! #retail #work #fyp #bgcdramaeffect</content>
-    <link href="https://tiktok.com/@scottseiss/video/7082160955270073646"/>
-    <published>2022-04-03T00:01:34+00:00</published>
-  </entry>
-</feed>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>scottseiss TikTok</title>
+    <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/scottseiss.xml</link>
+    <description>OK Boomer, all the latest TikToks from scottseiss</description>
+    <atom:link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/scottseiss.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>scottseiss TikTok</title>
+      <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/scottseiss.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Jul 2024 22:56:02 +0000</lastBuildDate>
+    <item>
+      <title>Tour schedule and tickets for NYC, NJ, and MA in my bio! #fyp #work #boss #ceo </title>
+      <link>https://tiktok.com/@scottseiss/video/7165299130686852398</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_9027361403304c1b9318335eecdde838.image.jpg" / &gt; Tour schedule and tickets for NYC, NJ, and MA in my bio! #fyp #work #boss #ceo </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7165299130686852398</guid>
+      <pubDate>Sun, 13 Nov 2022 01:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tickets available for shows in NYC, NJ &amp; MA in my bio #fyp #bgcdramaeffect #retail #work </title>
+      <link>https://tiktok.com/@scottseiss/video/7167139211882089774</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_4fced8d1b7a1416da258df0bb9582370.image.jpg" / &gt; Tickets available for shows in NYC, NJ &amp; MA in my bio #fyp #bgcdramaeffect #retail #work </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7167139211882089774</guid>
+      <pubDate>Fri, 18 Nov 2022 00:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Resposted with sound! 2023 tour dates announced in IL, MI, OH, IN, WI and MO 😁 Link in bio for dates #bgcdramaeffect #fyp #work #retail #blackfriday #thanksgiving </title>
+      <link>https://tiktok.com/@scottseiss/video/7169628855727164714</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_f4adc0f422ca4850a850bf6c97e1e31e.image.jpg" / &gt; Resposted with sound! 2023 tour dates announced in IL, MI, OH, IN, WI and MO 😁 Link in bio for dates #bgcdramaeffect #fyp #work #retail #blackfriday #thanksgiving </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7169628855727164714</guid>
+      <pubDate>Thu, 24 Nov 2022 17:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>December shows in NJ &amp; MA! Plus more for 2023 in my bio 😁 #retail #bgcdramaeffect #NJ #MA </title>
+      <link>https://tiktok.com/@scottseiss/video/7174932142320028974</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_ae8ed66ee71d4fae8b1439612ad1dc3c.image.jpg" / &gt; December shows in NJ &amp; MA! Plus more for 2023 in my bio 😁 #retail #bgcdramaeffect #NJ #MA </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7174932142320028974</guid>
+      <pubDate>Fri, 09 Dec 2022 00:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Going to the Midwest and MA for the first batch of 2023 shows 😁 Link in bio for 🎟 #midwest #massachusetts #work #retail #comedy </title>
+      <link>https://tiktok.com/@scottseiss/video/7187920048529460523</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_8870e28d5e1b45a7884cb0c412f23568.image.jpg" / &gt; Going to the Midwest and MA for the first batch of 2023 shows 😁 Link in bio for 🎟 #midwest #massachusetts #work #retail #comedy </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7187920048529460523</guid>
+      <pubDate>Fri, 13 Jan 2023 00:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#fyp #bgcdramaeffect #work #rageapply #quietquitting </title>
+      <link>https://tiktok.com/@scottseiss/video/7188680501165641003</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_81eecb8ddffa4ab995a00b0f52627d8a.image.jpg" / &gt; #fyp #bgcdramaeffect #work #rageapply #quietquitting </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7188680501165641003</guid>
+      <pubDate>Sun, 15 Jan 2023 01:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chicago late show added! Link in bio for 🎟 #work  #comedу #chicago #illinois  </title>
+      <link>https://tiktok.com/@scottseiss/video/7193872751134870827</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_6a8bccdf9c834cb3b2974ee0d4fbb692.image.jpg" / &gt; Chicago late show added! Link in bio for 🎟 #work  #comedу #chicago #illinois  </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7193872751134870827</guid>
+      <pubDate>Sun, 29 Jan 2023 01:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>We had the best drool technicians in the biz #movie #behindthescenes #comedу #cocainebear </title>
+      <link>https://tiktok.com/@scottseiss/video/7201665623133261099</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_6c11ad4cee4c4f0da8541a4ff4fe8db0.image.jpg" / &gt; We had the best drool technicians in the biz #movie #behindthescenes #comedу #cocainebear </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7201665623133261099</guid>
+      <pubDate>Sun, 19 Feb 2023 01:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patiently awaiting the Cocaine Bear/Fast and Furious crossover #movie #behindthescenes #comedу #cocainebear #makingof </title>
+      <link>https://tiktok.com/@scottseiss/video/7202432596876315950</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_2f56c515992044efba49c887d2358d3b.image.jpg" / &gt; Patiently awaiting the Cocaine Bear/Fast and Furious crossover #movie #behindthescenes #comedу #cocainebear #makingof </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7202432596876315950</guid>
+      <pubDate>Tue, 21 Feb 2023 02:37:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>#movie #comedу #bgcdramaeffect #cocainebear #fyp </title>
+      <link>https://tiktok.com/@scottseiss/video/7203504823625420078</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_abeed611790946c39f974b623572a25e.jpg" / &gt; #movie #comedу #bgcdramaeffect #cocainebear #fyp </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7203504823625420078</guid>
+      <pubDate>Thu, 23 Feb 2023 23:57:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>In theatres now! #movie  #comedу #cocainebear  #fyp </title>
+      <link>https://tiktok.com/@scottseiss/video/7204263120179727662</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_037f4fb0bd9f48bdbd24045bc854ec8f.image.jpg" / &gt; In theatres now! #movie  #comedу #cocainebear  #fyp </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7204263120179727662</guid>
+      <pubDate>Sun, 26 Feb 2023 01:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>“You should tip your landlord” New tour dates in TX, CA, NC, MO, MA, NY &amp; more! Link in bio for full schedule #rent #landlord  #comedу #fyp #bgcdramaeffect </title>
+      <link>https://tiktok.com/@scottseiss/video/7212040519864552747</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_c40d8d62094b4813b8630839ef8dc5be.image.jpg" / &gt; “You should tip your landlord” New tour dates in TX, CA, NC, MO, MA, NY &amp; more! Link in bio for full schedule #rent #landlord  #comedу #fyp #bgcdramaeffect </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7212040519864552747</guid>
+      <pubDate>Sun, 19 Mar 2023 00:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Texas! California! Added late shows for MO! And more! Link in bio for full schedule  and tickets #fyp #comedу #work #standup #tour </title>
+      <link>https://tiktok.com/@scottseiss/video/7214638168333618475</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_044f77f0fbfc4343976a3a48cdaa0348.image.jpg" / &gt; Texas! California! Added late shows for MO! And more! Link in bio for full schedule  and tickets #fyp #comedу #work #standup #tour </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7214638168333618475</guid>
+      <pubDate>Sun, 26 Mar 2023 00:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>“You’re taking time off? What’s the reason?” Come see me in NC, TX, NY, CA &amp; MI! Link in bio for tickets 😁 #fyp #comedу #work #retail #bgcdramaeffect </title>
+      <link>https://tiktok.com/@scottseiss/video/7235418925230476590</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_6f736be4b24449c2bee3ceab2f13df12.image.jpg" / &gt; “You’re taking time off? What’s the reason?” Come see me in NC, TX, NY, CA &amp; MI! Link in bio for tickets 😁 #fyp #comedу #work #retail #bgcdramaeffect </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7235418925230476590</guid>
+      <pubDate>Sun, 21 May 2023 00:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>I’m in North Carolina next week! Just added shows in Timonium, MD and Royal Oak, MI too 😁 Link in my bio for tickets! #comedу #northcarolina #standup #tour #texas #california #rochesterny </title>
+      <link>https://tiktok.com/@scottseiss/video/7238016401326296363</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_b003c8ae9ca743b48063713849b8b1d0.image.jpg" / &gt; I’m in North Carolina next week! Just added shows in Timonium, MD and Royal Oak, MI too 😁 Link in my bio for tickets! #comedу #northcarolina #standup #tour #texas #california #rochesterny </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7238016401326296363</guid>
+      <pubDate>Sun, 28 May 2023 00:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Let’s replace all of our employees with A.I.” #bgcdramaeffect  #fyp #work #AI </title>
+      <link>https://tiktok.com/@scottseiss/video/7260637123064237355</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_15b071ee71ea4fcca5571e192379ad86.image.jpg" / &gt; “Let’s replace all of our employees with A.I.” #bgcdramaeffect  #fyp #work #AI </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7260637123064237355</guid>
+      <pubDate>Thu, 27 Jul 2023 23:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>H&amp;M purse pooper 👜👀 Come see me in MD, MI, &amp; Buffalo, NY! Link in bio for tickets 🎟️ #work #comedу #retail #standup </title>
+      <link>https://tiktok.com/@scottseiss/video/7263977268052053290</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_5d7207572eed4eecbe77e97348cdc7f7.image.jpg" / &gt; H&amp;M purse pooper 👜👀 Come see me in MD, MI, &amp; Buffalo, NY! Link in bio for tickets 🎟️ #work #comedу #retail #standup </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7263977268052053290</guid>
+      <pubDate>Sat, 05 Aug 2023 23:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Come see me in MI, MD, &amp; Buffalo, NY! Link in bio for tickets #standup #comedу #work #michigan #maryland #buffalony </title>
+      <link>https://tiktok.com/@scottseiss/video/7269172155357646126</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_o4TczNGMChOJIZSlSAywfBChEWIKAASuDBiAFg.image.jpg" / &gt; Come see me in MI, MD, &amp; Buffalo, NY! Link in bio for tickets #standup #comedу #work #michigan #maryland #buffalony </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7269172155357646126</guid>
+      <pubDate>Sat, 19 Aug 2023 23:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Philly this weekend! MD the next. Link in bio for tickets and shout out to that one Enterprise employee! #comedу #standup #philadelphia #pennsylvania #maryland #timonium #baltimore </title>
+      <link>https://tiktok.com/@scottseiss/video/7275851629080071470</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oINkaJRDECzfi51h6BfJHEAIDMArIgCJIGAS6A.image.jpg" / &gt; Philly this weekend! MD the next. Link in bio for tickets and shout out to that one Enterprise employee! #comedу #standup #philadelphia #pennsylvania #maryland #timonium #baltimore </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7275851629080071470</guid>
+      <pubDate>Wed, 06 Sep 2023 23:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>“What are your salary expectations?” Shows in MA and Chicago, lots more coming soon! Go Ravens 😁 #work #comedу #bgcdramaeffect #fyp </title>
+      <link>https://tiktok.com/@scottseiss/video/7328190020089629994</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_o4BPb8OZA2A9DRZ0BwEbAggC6ItkipVA4yELi.image.jpg" / &gt; “What are your salary expectations?” Shows in MA and Chicago, lots more coming soon! Go Ravens 😁 #work #comedу #bgcdramaeffect #fyp </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7328190020089629994</guid>
+      <pubDate>Fri, 26 Jan 2024 00:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>#EpicPartner #Ad I did stand up in Fortnite! This is not a bit. Short, family friendly sets at JokeNite produced by Trevor Noah. Check it out ising the island code: 6296-7829-6524 #fortnite #comedy </title>
+      <link>https://tiktok.com/@scottseiss/video/7332968489742978350</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_16d7bbae6f2843a298c9cb0405ffc6a0_1707339811.jpg" / &gt; #EpicPartner #Ad I did stand up in Fortnite! This is not a bit. Short, family friendly sets at JokeNite produced by Trevor Noah. Check it out ising the island code: 6296-7829-6524 #fortnite #comedy </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7332968489742978350</guid>
+      <pubDate>Wed, 07 Feb 2024 21:03:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beverly, MA! Feb 16 &amp; 17 😁🥶 Ticket link in my bio #standup #massachusetts #comedy #standupcomedy #boston #beverlyma </title>
+      <link>https://tiktok.com/@scottseiss/video/7333694598507793710</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_owDiIhHIENyCJ34BBGnBfBnIJEAiAA0wAhMyIM.image.jpg" / &gt; Beverly, MA! Feb 16 &amp; 17 😁🥶 Ticket link in my bio #standup #massachusetts #comedy #standupcomedy #boston #beverlyma </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7333694598507793710</guid>
+      <pubDate>Fri, 09 Feb 2024 20:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>I wrote a book! 😁 Preorder the physical copy or audiobook (read by me) now #comedy #book #work #books #booktok #fyp </title>
+      <link>https://tiktok.com/@scottseiss/video/7338472212275432750</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_o43ET1AGGFTcACSAnlwjRcgA2EI8fDqDQufaMl.image.jpg" / &gt; I wrote a book! 😁 Preorder the physical copy or audiobook (read by me) now #comedy #book #work #books #booktok #fyp </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7338472212275432750</guid>
+      <pubDate>Thu, 22 Feb 2024 17:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chicago! I’m doing 2 shows on April 13 at The Den Theatre 😁 Come on out! #Chicago #comedy #standup </title>
+      <link>https://tiktok.com/@scottseiss/video/7352310530645708074</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_owDeAE9AeIpESFcIukIfAP25R5AlEjACIMEUAH.image.jpg" / &gt; Chicago! I’m doing 2 shows on April 13 at The Den Theatre 😁 Come on out! #Chicago #comedy #standup </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7352310530645708074</guid>
+      <pubDate>Sun, 31 Mar 2024 00:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>NJ &amp; CT! Come see me next week at The Stress Factory 😁 Tickets and more dates in the link in my bio! #standup #comedy #Connecticut #newjersey #newbrunswick #bridgeportct #work </title>
+      <link>https://tiktok.com/@scottseiss/video/7363796375760538926</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_o0DpAEhAXIdMVFTEYSWfAoRd3lAeCRgbxmEXAD.image.jpg" / &gt; NJ &amp; CT! Come see me next week at The Stress Factory 😁 Tickets and more dates in the link in my bio! #standup #comedy #Connecticut #newjersey #newbrunswick #bridgeportct #work </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7363796375760538926</guid>
+      <pubDate>Tue, 30 Apr 2024 22:51:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Per my last email” Royal Oak, MI Come see me next month! Also, St. Louis, Indianapolis, Fort Worth, &amp; Austin 😁 #fyp #work #comedу </title>
+      <link>https://tiktok.com/@scottseiss/video/7369739661117459758</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oIcNE5SB4PAG6ikgAIkBaB6AZAEU3zTRDikRE.image.jpg" / &gt; “Per my last email” Royal Oak, MI Come see me next month! Also, St. Louis, Indianapolis, Fort Worth, &amp; Austin 😁 #fyp #work #comedу </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7369739661117459758</guid>
+      <pubDate>Thu, 16 May 2024 23:13:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>I met Mona Lisa… #comdey #standup #monalisa #art </title>
+      <link>https://tiktok.com/@scottseiss/video/7370493479882886443</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oEezJzZAHAEIAfA2WQGLkMIMkEAGHQjOoLmIBf.image.jpg" / &gt; I met Mona Lisa… #comdey #standup #monalisa #art </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7370493479882886443</guid>
+      <pubDate>Sat, 18 May 2024 23:59:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Why aren’t people having kids anymore?” #comdey #work #money </title>
+      <link>https://tiktok.com/@scottseiss/video/7372333936602582314</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_osBVhkoIXMAqKOAfA5WsHjMAJI9AHEenAv8mfQ.image.jpg" / &gt; “Why aren’t people having kids anymore?” #comdey #work #money </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7372333936602582314</guid>
+      <pubDate>Thu, 23 May 2024 23:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Come see me in MI &amp; TX! 😁 Tickets in bio 🎟️ #comdey #work #standup #michigan #Texas #Michigan #royaloak #fortworth #dallas #austin </title>
+      <link>https://tiktok.com/@scottseiss/video/7376786795868015915</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oEAkfAkGMEOCWxzLIAAzdAQ0IHAfevrAPjgQFL.image.jpg" / &gt; Come see me in MI &amp; TX! 😁 Tickets in bio 🎟️ #comdey #work #standup #michigan #Texas #Michigan #royaloak #fortworth #dallas #austin </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7376786795868015915</guid>
+      <pubDate>Tue, 04 Jun 2024 23:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preorder my audiobook The Customer Is Always Wrong! Wherever audiobooks are sold (including Audible’s sitewide sale until 6/16) 😁 #comdey #work #booktok </title>
+      <link>https://tiktok.com/@scottseiss/video/7380435902461480238</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oYBRDEg9EQmAkIE2ICsASSFAibfckDfJnnABNg.image.jpg" / &gt; Preorder my audiobook The Customer Is Always Wrong! Wherever audiobooks are sold (including Audible’s sitewide sale until 6/16) 😁 #comdey #work #booktok </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7380435902461480238</guid>
+      <pubDate>Fri, 14 Jun 2024 19:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>I’m coming to Texas! Mainly to use the Buc-ee’s bathroom, but also to do stand up! #comdey #austintx #fortworth #texas #work #retail #standup </title>
+      <link>https://tiktok.com/@scottseiss/video/7389405370730548510</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oAuIAINIMCADrEWcAeqROfEYFIAjCAGx4ae7AE.image.jpg" / &gt; I’m coming to Texas! Mainly to use the Buc-ee’s bathroom, but also to do stand up! #comdey #austintx #fortworth #texas #work #retail #standup </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7389405370730548510</guid>
+      <pubDate>Mon, 08 Jul 2024 23:07:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oregon! Come see me do stand up this weekend 😁 #oregon #eugeneoregon #standup #show </title>
+      <link>https://tiktok.com/@scottseiss/video/7397566400455298334</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_oMceIqi7BDAw3qAKAtF5IjNAFIKAJEfUQaf0SE.image.jpg" / &gt; Oregon! Come see me do stand up this weekend 😁 #oregon #eugeneoregon #standup #show </description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7397566400455298334</guid>
+      <pubDate>Tue, 30 Jul 2024 22:56:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>I got fired from my old background #retail #fyp #work #bgcdramaeffect</title>
+      <link>https://tiktok.com/@scottseiss/video/7081294899366202666</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_c50b579340a84a1eb9278d0b1b9c0678.image.jpg" / &gt; I got fired from my old background #retail #fyp #work #bgcdramaeffect</description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7081294899366202666</guid>
+      <pubDate>Thu, 31 Mar 2022 16:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thank you for 1 MILLION followers 🔥 Reuploading some of the muted vids! #retail #work #fyp #bgcdramaeffect</title>
+      <link>https://tiktok.com/@scottseiss/video/7082160955270073646</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/scottseiss/screenshot_242129b3157447feb04202133d56d500.image.jpg" / &gt; Thank you for 1 MILLION followers 🔥 Reuploading some of the muted vids! #retail #work #fyp #bgcdramaeffect</description>
+      <guid isPermaLink="false">https://tiktok.com/@scottseiss/video/7082160955270073646</guid>
+      <pubDate>Sun, 03 Apr 2022 00:01:34 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

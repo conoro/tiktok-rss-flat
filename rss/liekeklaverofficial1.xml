@@ -1,47 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://www.tiktok.com/@liekeklaverofficial1</id>
-  <title>liekeklaverofficial1 TikTok</title>
-  <updated>2024-07-02T14:27:11+00:00</updated>
-  <author>
-    <name>Conor ONeill</name>
-    <email>conor@conoroneill.com</email>
-  </author>
-  <link href="http://tiktok.com" rel="alternate"/>
-  <link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/liekeklaverofficial1.xml" rel="self"/>
-  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <logo>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from liekeklaverofficial1</subtitle>
-  <entry>
-    <id>https://tiktok.com/@liekeklaverofficial1/video/7387044271804714245</id>
-    <title>No Title</title>
-    <updated>2024-07-02T14:24:36+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/liekeklaverofficial1/screenshot_oE8aEAw3AJAJdEImuhFfBBQLwDkT22EyRcDfEg.jpg" /&gt;]]&gt; No Description</content>
-    <link href="https://tiktok.com/@liekeklaverofficial1/video/7387044271804714245"/>
-    <published>2024-07-02T14:24:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liekeklaverofficial1/video/7387044562738367749</id>
-    <title>off day 🌹 🌹</title>
-    <updated>2024-07-02T14:25:43+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/liekeklaverofficial1/screenshot_ociAeAQ7FE6bN4hmA4AqQGIIf3EsDBBJmDnRhF.jpg" /&gt;]]&gt; off day 🌹 🌹</content>
-    <link href="https://tiktok.com/@liekeklaverofficial1/video/7387044562738367749"/>
-    <published>2024-07-02T14:25:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liekeklaverofficial1/video/7387044714853190917</id>
-    <title>No Title</title>
-    <updated>2024-07-02T14:26:18+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/liekeklaverofficial1/screenshot_osMAjgficoQgzCikuIAcIRAEcmEmiQCJB26gDE.jpg" /&gt;]]&gt; No Description</content>
-    <link href="https://tiktok.com/@liekeklaverofficial1/video/7387044714853190917"/>
-    <published>2024-07-02T14:26:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@liekeklaverofficial1/video/7387044943417576710</id>
-    <title>my only official account beware 🌹</title>
-    <updated>2024-07-02T14:27:11+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/liekeklaverofficial1/screenshot_oozSksELdAHEgAiI0gaIPj2AbQCkogf24cDBiO.jpg" /&gt;]]&gt; my only official account beware 🌹</content>
-    <link href="https://tiktok.com/@liekeklaverofficial1/video/7387044943417576710"/>
-    <published>2024-07-02T14:27:11+00:00</published>
-  </entry>
-</feed>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>liekeklaverofficial1 TikTok</title>
+    <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/liekeklaverofficial1.xml</link>
+    <description>OK Boomer, all the latest TikToks from liekeklaverofficial1</description>
+    <atom:link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/liekeklaverofficial1.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>liekeklaverofficial1 TikTok</title>
+      <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/liekeklaverofficial1.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jul 2024 14:27:11 +0000</lastBuildDate>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@liekeklaverofficial1/video/7387044271804714245</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/liekeklaverofficial1/screenshot_oE8aEAw3AJAJdEImuhFfBBQLwDkT22EyRcDfEg.jpg" / &gt; No Description</description>
+      <guid isPermaLink="false">https://tiktok.com/@liekeklaverofficial1/video/7387044271804714245</guid>
+      <pubDate>Tue, 02 Jul 2024 14:24:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>off day 🌹 🌹</title>
+      <link>https://tiktok.com/@liekeklaverofficial1/video/7387044562738367749</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/liekeklaverofficial1/screenshot_ociAeAQ7FE6bN4hmA4AqQGIIf3EsDBBJmDnRhF.jpg" / &gt; off day 🌹 🌹</description>
+      <guid isPermaLink="false">https://tiktok.com/@liekeklaverofficial1/video/7387044562738367749</guid>
+      <pubDate>Tue, 02 Jul 2024 14:25:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@liekeklaverofficial1/video/7387044714853190917</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/liekeklaverofficial1/screenshot_osMAjgficoQgzCikuIAcIRAEcmEmiQCJB26gDE.jpg" / &gt; No Description</description>
+      <guid isPermaLink="false">https://tiktok.com/@liekeklaverofficial1/video/7387044714853190917</guid>
+      <pubDate>Tue, 02 Jul 2024 14:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>my only official account beware 🌹</title>
+      <link>https://tiktok.com/@liekeklaverofficial1/video/7387044943417576710</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/liekeklaverofficial1/screenshot_oozSksELdAHEgAiI0gaIPj2AbQCkogf24cDBiO.jpg" / &gt; my only official account beware 🌹</description>
+      <guid isPermaLink="false">https://tiktok.com/@liekeklaverofficial1/video/7387044943417576710</guid>
+      <pubDate>Tue, 02 Jul 2024 14:27:11 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

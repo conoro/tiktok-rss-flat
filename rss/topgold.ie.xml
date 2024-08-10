@@ -1,31 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://www.tiktok.com/@topgold.ie</id>
-  <title>topgold.ie TikTok</title>
-  <updated>2024-01-04T11:59:51+00:00</updated>
-  <author>
-    <name>Conor ONeill</name>
-    <email>conor@conoroneill.com</email>
-  </author>
-  <link href="http://tiktok.com" rel="alternate"/>
-  <link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/topgold.ie.xml" rel="self"/>
-  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <logo>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from topgold.ie</subtitle>
-  <entry>
-    <id>https://tiktok.com/@topgold.ie/video/7320189245384166688</id>
-    <title>TikTok is probably the best use for Meta Ray-Bans. AND this can be done with a 5yo much-abused phone. #metaview </title>
-    <updated>2024-01-04T10:33:11+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/topgold.ie/screenshot_o4JWtyglfAEaAgOoCDRlFWBfiEEXFEg9uoDIb4.jpg" /&gt;]]&gt; TikTok is probably the best use for Meta Ray-Bans. AND this can be done with a 5yo much-abused phone. #metaview </content>
-    <link href="https://tiktok.com/@topgold.ie/video/7320189245384166688"/>
-    <published>2024-01-04T10:33:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@topgold.ie/video/7320211583907499296</id>
-    <title>Planning an emergency wash with Speed Queen</title>
-    <updated>2024-01-04T11:59:51+00:00</updated>
-    <content>&lt;![CDATA[&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/topgold.ie/screenshot_o88iM6yIWqsBbAUnQ9rb0fi8iCAIyCyzbQhKNE.jpg" /&gt;]]&gt; Planning an emergency wash with Speed Queen</content>
-    <link href="https://tiktok.com/@topgold.ie/video/7320211583907499296"/>
-    <published>2024-01-04T11:59:51+00:00</published>
-  </entry>
-</feed>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>topgold.ie TikTok</title>
+    <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/topgold.ie.xml</link>
+    <description>OK Boomer, all the latest TikToks from topgold.ie</description>
+    <atom:link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/topgold.ie.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>topgold.ie TikTok</title>
+      <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/topgold.ie.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Jan 2024 11:59:51 +0000</lastBuildDate>
+    <item>
+      <title>TikTok is probably the best use for Meta Ray-Bans. AND this can be done with a 5yo much-abused phone. #metaview </title>
+      <link>https://tiktok.com/@topgold.ie/video/7320189245384166688</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/topgold.ie/screenshot_o4JWtyglfAEaAgOoCDRlFWBfiEEXFEg9uoDIb4.jpg" / &gt; TikTok is probably the best use for Meta Ray-Bans. AND this can be done with a 5yo much-abused phone. #metaview </description>
+      <guid isPermaLink="false">https://tiktok.com/@topgold.ie/video/7320189245384166688</guid>
+      <pubDate>Thu, 04 Jan 2024 10:33:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Planning an emergency wash with Speed Queen</title>
+      <link>https://tiktok.com/@topgold.ie/video/7320211583907499296</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/topgold.ie/screenshot_o88iM6yIWqsBbAUnQ9rb0fi8iCAIyCyzbQhKNE.jpg" / &gt; Planning an emergency wash with Speed Queen</description>
+      <guid isPermaLink="false">https://tiktok.com/@topgold.ie/video/7320211583907499296</guid>
+      <pubDate>Thu, 04 Jan 2024 11:59:51 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
