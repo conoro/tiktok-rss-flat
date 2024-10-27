@@ -59,7 +59,7 @@ async def user_videos():
                         updated = max(ts, updated) if updated else ts
 
                         # Add author information
-                        fe.author({'name': user, 'email': 'author@example.com'})  # 根据需要修改邮箱
+                        fe.author({'name': user, 'email': ''})  # 根据需要修改邮箱
 
                         if video.as_dict['desc']:
                             fe.title(video.as_dict['desc'][0:255])
